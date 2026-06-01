@@ -15,6 +15,7 @@ def test_scaffold_modules_import() -> None:
     module_names = [
         "mci.config",
         "mci.data_collection",
+        "mci.gdelt",
         "mci.text_processing",
         "mci.market_data",
         "mci.index",
@@ -24,4 +25,3 @@ def test_scaffold_modules_import() -> None:
 
     for module_name in module_names:
         assert importlib.import_module(module_name)
-

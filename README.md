@@ -2,7 +2,7 @@
 
 This repository will implement a reproducible research pipeline for studying whether criticism narratives about the US equity market are related to later market returns, volatility, drawdowns, or reversals.
 
-The current state is an MVP scaffold only. It defines package boundaries, intended workflow, and placeholder tests. It does not yet collect data or run the empirical pipeline.
+The current state includes the MVP scaffold and an initial GDELT data collection layer. It does not yet implement text deduplication, index construction, market-data merging, or empirical modelling.
 
 ## 🧭 Research Boundary
 
@@ -46,13 +46,17 @@ market-criticism-index/
 │       ├── __init__.py
 │       ├── config.py
 │       ├── data_collection.py
+│       ├── gdelt.py
 │       ├── index.py
 │       ├── market_data.py
 │       ├── modelling.py
 │       ├── plotting.py
 │       └── text_processing.py
+├── scripts/
+│   └── collect_gdelt.py
 └── tests/
     ├── test_config.py
+    ├── test_gdelt.py
     └── test_imports.py
 ```
 
@@ -80,4 +84,10 @@ Run tests:
 
 ```bash
 pytest
+```
+
+Collect one month of all US-market-related GDELT headlines:
+
+```bash
+python scripts/collect_gdelt.py --query-type all_us_market --start-date 2022-01-01 --end-date 2022-01-31
 ```
