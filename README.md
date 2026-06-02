@@ -2,7 +2,7 @@
 
 This repository will implement a reproducible research pipeline for studying whether criticism narratives about the US equity market are related to later market returns, volatility, drawdowns, or reversals.
 
-The current state includes the MVP scaffold, an initial GDELT data collection layer, and headline cleaning/deduplication utilities. It does not yet implement annotation sample export, index construction, market-data merging, or empirical modelling.
+The current state includes the MVP scaffold, an initial GDELT data collection layer, headline cleaning/deduplication utilities, and the K annotation sample/validation workflow. It does not yet implement index construction, market-data merging, or empirical modelling.
 
 ## 🧭 Research Boundary
 
@@ -38,12 +38,15 @@ market-criticism-index/
 │   │   └── market/
 │   ├── interim/
 │   └── processed/
+├── docs/
+│   └── k_annotation_workflow.md
 ├── outputs/
 │   ├── figures/
 │   └── tables/
 ├── src/
 │   └── mci/
 │       ├── __init__.py
+│       ├── annotations.py
 │       ├── config.py
 │       ├── data_collection.py
 │       ├── gdelt.py
@@ -53,8 +56,11 @@ market-criticism-index/
 │       ├── plotting.py
 │       └── text_processing.py
 ├── scripts/
-│   └── collect_gdelt.py
+│   ├── build_annotation_sample.py
+│   ├── collect_gdelt.py
+│   └── validate_annotations.py
 └── tests/
+    ├── test_annotations.py
     ├── test_config.py
     ├── test_gdelt.py
     ├── test_imports.py
@@ -75,6 +81,22 @@ Headline titles are normalised for matching by lowercasing, replacing separator 
 GDELT-style naive `seendate` timestamps with full time components are treated as UTC and converted to `America/New_York`. Date-only values are left unaligned because they are insufficient for the 16:00 New York close rule. Items seen after 16:00 New York time are assigned to the next trading day.
 
 Generated cleaning and alignment outputs are rejected if they point under `data/raw/`. Alignment outputs default to `data/interim/`. When an explicit market calendar is supplied, alignment validates calendar coverage before writing; otherwise it falls back to weekdays only.
+
+## 📝 K Annotation Workflow
+
+Use the [K annotation workflow guide](docs/k_annotation_workflow.md) for sample locations, editable columns, accepted label values, and validation steps.
+
+Build a sample from cleaned candidate and all-market headline CSVs:
+
+```bash
+python scripts/build_annotation_sample.py --candidate-csv data/interim/gdelt_candidate_criticism_20220101_20260531.csv --all-market-csv data/interim/gdelt_all_us_market_20220101_20260531.csv --seed 1
+```
+
+Validate completed labels after K saves CSVs under `data/processed/annotations/labelled/`:
+
+```bash
+python scripts/validate_annotations.py
+```
 
 ## 🛠️ Development
 

@@ -13,6 +13,7 @@ def test_package_imports() -> None:
 
 def test_scaffold_modules_import() -> None:
     module_names = [
+        "mci.annotations",
         "mci.config",
         "mci.data_collection",
         "mci.gdelt",
