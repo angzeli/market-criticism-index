@@ -2,7 +2,7 @@
 
 This repository will implement a reproducible research pipeline for studying whether criticism narratives about the US equity market are related to later market returns, volatility, drawdowns, or reversals.
 
-The current state includes the MVP scaffold, an initial GDELT data collection layer, headline cleaning/deduplication utilities, the K annotation sample/validation workflow, and daily Market Criticism Index construction. It does not yet implement market-data merging or empirical modelling.
+The current state includes the MVP scaffold, an initial GDELT data collection layer, headline cleaning/deduplication utilities, the K annotation sample/validation workflow, daily Market Criticism Index construction, and market-data panel merging. Empirical modelling remains future work.
 
 ## 🧭 Research Boundary
 
@@ -58,6 +58,7 @@ market-criticism-index/
 ├── scripts/
 │   ├── build_annotation_sample.py
 │   ├── build_mci_daily.py
+│   ├── build_panel_daily.py
 │   ├── collect_gdelt.py
 │   └── validate_annotations.py
 └── tests/
@@ -67,6 +68,7 @@ market-criticism-index/
     ├── test_index.py
     ├── test_imports.py
     ├── test_market_data.py
+    ├── test_market_panel.py
     └── test_text_processing.py
 ```
 
@@ -128,6 +130,41 @@ Build the daily MCI CSV:
 
 ```bash
 python scripts/build_mci_daily.py --market-csv data/interim/gdelt_all_us_market_20220101_20260531.csv --criticism-csv data/interim/gdelt_candidate_criticism_20220101_20260531.csv --labels data/processed/annotations/labelled/ --overwrite
+```
+
+## 📈 Market Data And Panel Merge
+
+Daily panel construction expects `data/processed/mci_daily.csv` and a normalized long market-price CSV with required columns `date`, `symbol`, and `close`. The optional `adj_close` column is used for `SPY`, `QQQ`, and `RSP` when available; VIX features use `close`. Input symbols `VIX` and `^VIX` both map to the `vix` output prefix.
+
+Default symbols are `SPY`, `QQQ`, `RSP`, and `^VIX`. Default horizons are `1`, `5`, and `21` observed trading rows. The default realised-volatility window is `21` rows.
+
+ETF forward and lagged returns use log returns:
+
+```text
+fwd_log_return_h = log(price[t+h] / price[t])
+lag_log_return_h = log(price[t] / price[t-h])
+```
+
+Realised volatility is the trailing standard deviation of 1-day log returns, annualized by `sqrt(252)`, and is blank until the full window is available. Lagged realised volatility is the prior-day realised-volatility value.
+
+Forward max drawdown uses the full forward horizon:
+
+```text
+fwd_max_drawdown_h = min(0, min(price[t+1:t+h] / price[t] - 1))
+```
+
+VIX forward changes are level changes:
+
+```text
+vix_fwd_change_h = VIX[t+h] - VIX[t]
+```
+
+The panel keeps all MCI rows and merges market features by `date`. It fails if an MCI date lacks current-day market prices, while trailing forward-looking features may be blank near the end of the market sample. The default output is `data/processed/panel_daily.csv`.
+
+Build the daily panel:
+
+```bash
+python scripts/build_panel_daily.py --prices-csv data/raw/market/market_prices_spy_qqq_rsp_vix_20220101_20260531.csv --overwrite
 ```
 
 ## 🛠️ Development
