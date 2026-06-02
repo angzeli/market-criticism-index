@@ -2,7 +2,7 @@
 
 This repository will implement a reproducible research pipeline for studying whether criticism narratives about the US equity market are related to later market returns, volatility, drawdowns, or reversals.
 
-The current state includes the MVP scaffold and an initial GDELT data collection layer. It does not yet implement text deduplication, index construction, market-data merging, or empirical modelling.
+The current state includes the MVP scaffold, an initial GDELT data collection layer, and headline cleaning/deduplication utilities. It does not yet implement annotation sample export, index construction, market-data merging, or empirical modelling.
 
 ## 🧭 Research Boundary
 
@@ -57,7 +57,9 @@ market-criticism-index/
 └── tests/
     ├── test_config.py
     ├── test_gdelt.py
-    └── test_imports.py
+    ├── test_imports.py
+    ├── test_market_data.py
+    └── test_text_processing.py
 ```
 
 ## 🗂️ Data And Output Conventions
@@ -65,6 +67,14 @@ market-criticism-index/
 Raw data should never be overwritten. Generated headline, annotation, and modelling datasets should be written to `data/interim/` or `data/processed/`. Figures belong in `outputs/figures/`; regression tables belong in `outputs/tables/`.
 
 The scaffold exposes these paths in `mci.config` so future implementation can keep outputs deterministic.
+
+## 🧹 Cleaning And Alignment Assumptions
+
+Headline titles are normalised for matching by lowercasing, replacing separator punctuation with spaces, removing other punctuation, and collapsing whitespace. Raw title text is preserved on cleaned record copies.
+
+GDELT-style naive `seendate` timestamps with full time components are treated as UTC and converted to `America/New_York`. Date-only values are left unaligned because they are insufficient for the 16:00 New York close rule. Items seen after 16:00 New York time are assigned to the next trading day.
+
+Generated cleaning and alignment outputs are rejected if they point under `data/raw/`. Alignment outputs default to `data/interim/`. When an explicit market calendar is supplied, alignment validates calendar coverage before writing; otherwise it falls back to weekdays only.
 
 ## 🛠️ Development
 
