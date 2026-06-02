@@ -196,3 +196,4 @@ python scripts/collect_gdelt.py --query-type all_us_market --start-date 2022-01-
 ## 👥 Authors
 
 - Angze Li
+- Shengkai Zhang
