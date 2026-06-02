@@ -2,7 +2,7 @@
 
 This repository will implement a reproducible research pipeline for studying whether criticism narratives about the US equity market are related to later market returns, volatility, drawdowns, or reversals.
 
-The current state includes the MVP scaffold, an initial GDELT data collection layer, headline cleaning/deduplication utilities, and the K annotation sample/validation workflow. It does not yet implement index construction, market-data merging, or empirical modelling.
+The current state includes the MVP scaffold, an initial GDELT data collection layer, headline cleaning/deduplication utilities, the K annotation sample/validation workflow, and daily Market Criticism Index construction. It does not yet implement market-data merging or empirical modelling.
 
 ## 🧭 Research Boundary
 
@@ -57,12 +57,14 @@ market-criticism-index/
 │       └── text_processing.py
 ├── scripts/
 │   ├── build_annotation_sample.py
+│   ├── build_mci_daily.py
 │   ├── collect_gdelt.py
 │   └── validate_annotations.py
 └── tests/
     ├── test_annotations.py
     ├── test_config.py
     ├── test_gdelt.py
+    ├── test_index.py
     ├── test_imports.py
     ├── test_market_data.py
     └── test_text_processing.py
@@ -96,6 +98,34 @@ Validate completed labels after K saves CSVs under `data/processed/annotations/l
 
 ```bash
 python scripts/validate_annotations.py
+```
+
+## 📊 MCI Calculation
+
+Daily MCI construction expects cleaned, date-aligned all-market and candidate-criticism headline CSVs. Date resolution uses `trading_day`, then `date`, then `published_date_ny`.
+
+The daily index is:
+
+```text
+MCI = raw_criticism_count / total_market_article_count
+```
+
+The output has one row per observed all-market headline date, sorted ascending. If `total_market_article_count` is zero, `MCI` is left blank.
+
+The rolling z-score column is current-inclusive:
+
+```text
+mci_rolling_60d_zscore = (MCI - rolling_mean_60d) / rolling_std_60d
+```
+
+The rolling z-score uses a strict valid-observation window. It is blank until the full window is available, and it remains blank when the rolling standard deviation is zero.
+
+When completed labels are supplied, matched `criticism_label = 0` candidates are excluded and matched `criticism_label = 1` candidates are counted. Unmatched candidate rows still count as automated candidates. Category-specific columns are added only from matched positive labels with configured category labels, so they reflect labelled category coverage rather than automated category classification.
+
+Build the daily MCI CSV:
+
+```bash
+python scripts/build_mci_daily.py --market-csv data/interim/gdelt_all_us_market_20220101_20260531.csv --criticism-csv data/interim/gdelt_candidate_criticism_20220101_20260531.csv --labels data/processed/annotations/labelled/ --overwrite
 ```
 
 ## 🛠️ Development
