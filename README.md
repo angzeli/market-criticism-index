@@ -112,7 +112,7 @@ MCI = raw_criticism_count / total_market_article_count
 
 The output has one row per observed all-market headline date, sorted ascending. If `total_market_article_count` is zero, `MCI` is left blank.
 
-The rolling z-score column is current-inclusive:
+The rolling z-score column is current-inclusive and named for the configured window, for example:
 
 ```text
 mci_rolling_60d_zscore = (MCI - rolling_mean_60d) / rolling_std_60d
@@ -120,7 +120,9 @@ mci_rolling_60d_zscore = (MCI - rolling_mean_60d) / rolling_std_60d
 
 The rolling z-score uses a strict valid-observation window. It is blank until the full window is available, and it remains blank when the rolling standard deviation is zero.
 
-When completed labels are supplied, matched `criticism_label = 0` candidates are excluded and matched `criticism_label = 1` candidates are counted. Unmatched candidate rows still count as automated candidates. Category-specific columns are added only from matched positive labels with configured category labels, so they reflect labelled category coverage rather than automated category classification.
+Input rows with missing or unparseable dates fail fast. Candidate counts are also checked against all-market counts by date so `MCI` does not exceed `1.0`.
+
+When completed labels are supplied, matched `criticism_label = 0` candidates are excluded and matched `criticism_label = 1` candidates are counted. Matched labels must be resolved to `0` or `1`, and conflicting duplicate labels are rejected. Unmatched candidate rows still count as automated candidates. Category-specific columns are added only from matched positive labels with configured category labels, so they reflect labelled category coverage rather than automated category classification.
 
 Build the daily MCI CSV:
 

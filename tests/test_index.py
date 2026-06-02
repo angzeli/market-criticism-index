@@ -52,15 +52,15 @@ def test_build_daily_mci_counts_ratios_ordering_and_rolling_zscore(tmp_path: Pat
         "raw_criticism_count",
         "total_market_article_count",
         "MCI",
-        "mci_rolling_60d_zscore",
+        "mci_rolling_3d_zscore",
     ]
     assert output["date"].tolist() == ["2024-01-01", "2024-01-02", "2024-01-03"]
     assert output["total_market_article_count"].tolist() == [1, 1, 2]
     assert output["raw_criticism_count"].tolist() == [0, 1, 2]
     assert output["MCI"].tolist() == [0.0, 1.0, 1.0]
-    assert pd.isna(output.loc[0, "mci_rolling_60d_zscore"])
-    assert pd.isna(output.loc[1, "mci_rolling_60d_zscore"])
-    assert output.loc[2, "mci_rolling_60d_zscore"] == pytest.approx(0.577350269, rel=1e-6)
+    assert pd.isna(output.loc[0, "mci_rolling_3d_zscore"])
+    assert pd.isna(output.loc[1, "mci_rolling_3d_zscore"])
+    assert output.loc[2, "mci_rolling_3d_zscore"] == pytest.approx(0.577350269, rel=1e-6)
 
 
 def test_ratio_series_writes_nan_for_zero_denominator() -> None:
@@ -102,7 +102,7 @@ def test_rolling_zscore_is_blank_for_zero_variance(tmp_path: Path) -> None:
     output = pd.read_csv(output_path)
 
     assert output["MCI"].tolist() == [1.0, 1.0, 1.0]
-    assert output["mci_rolling_60d_zscore"].isna().all()
+    assert output["mci_rolling_2d_zscore"].isna().all()
 
 
 def test_labels_filter_negatives_keep_unmatched_and_add_category_columns(tmp_path: Path) -> None:
@@ -188,6 +188,127 @@ def test_labels_filter_negatives_keep_unmatched_and_add_category_columns(tmp_pat
     assert output["raw_criticism_count_concentration"].tolist() == [0, 1]
     assert output["MCI_concentration"].tolist() == pytest.approx([0.0, 1.0])
     assert output["raw_criticism_count_bubble_speculation"].tolist() == [0, 0]
+
+
+def test_matched_blank_labels_are_rejected(tmp_path: Path) -> None:
+    market_path, criticism_path = _write_minimal_inputs(tmp_path)
+    labels_path = tmp_path / "labels.csv"
+    output_path = tmp_path / "mci.csv"
+    _write_csv(
+        labels_path,
+        [_label_row("Candidate", "a.com", "", "2024-01-01", "", "")],
+        ("title", "domain", "url", "date", "criticism_label", "category_label"),
+    )
+
+    with pytest.raises(ValueError, match="criticism_label 0 or 1"):
+        build_daily_mci(
+            IndexConstructionSpec(
+                market_headlines_path=market_path,
+                criticism_headlines_path=criticism_path,
+                labels_path=labels_path,
+                output_path=output_path,
+            )
+        )
+
+
+def test_conflicting_duplicate_labels_are_rejected(tmp_path: Path) -> None:
+    market_path = tmp_path / "market.csv"
+    criticism_path = tmp_path / "criticism.csv"
+    labels_path = tmp_path / "labels.csv"
+    output_path = tmp_path / "mci.csv"
+    _write_csv(
+        market_path,
+        [{"title": "Market", "domain": "a.com", "trading_day": "2024-01-01"}],
+        ("title", "domain", "trading_day"),
+    )
+    _write_csv(
+        criticism_path,
+        [
+            {
+                "title": "Candidate",
+                "normalised_title": "candidate",
+                "domain": "a.com",
+                "url": "https://a.com/1",
+                "trading_day": "2024-01-01",
+            }
+        ],
+        ("title", "normalised_title", "domain", "url", "trading_day"),
+    )
+    _write_csv(
+        labels_path,
+        [
+            _label_row("Candidate", "a.com", "https://a.com/1", "2024-01-01", "1", "valuation"),
+            _label_row("Candidate", "a.com", "https://a.com/1", "2024-01-01", "0", ""),
+        ],
+        ("title", "domain", "url", "date", "criticism_label", "category_label"),
+    )
+
+    with pytest.raises(ValueError, match="Conflicting labels"):
+        build_daily_mci(
+            IndexConstructionSpec(
+                market_headlines_path=market_path,
+                criticism_headlines_path=criticism_path,
+                labels_path=labels_path,
+                output_path=output_path,
+            )
+        )
+
+
+def test_unparseable_headline_dates_fail_fast(tmp_path: Path) -> None:
+    market_path = tmp_path / "market.csv"
+    criticism_path = tmp_path / "criticism.csv"
+    output_path = tmp_path / "mci.csv"
+    _write_csv(
+        market_path,
+        [{"title": "Market", "domain": "a.com", "trading_day": "not-a-date"}],
+        ("title", "domain", "trading_day"),
+    )
+    _write_csv(
+        criticism_path,
+        [{"title": "Candidate", "domain": "a.com", "trading_day": "2024-01-01"}],
+        ("title", "domain", "trading_day"),
+    )
+
+    with pytest.raises(ValueError, match="first bad CSV row 2 value 'not-a-date'"):
+        build_daily_mci(
+            IndexConstructionSpec(
+                market_headlines_path=market_path,
+                criticism_headlines_path=criticism_path,
+                output_path=output_path,
+            )
+        )
+
+    assert not output_path.exists()
+
+
+def test_raw_criticism_count_cannot_exceed_market_count(tmp_path: Path) -> None:
+    market_path = tmp_path / "market.csv"
+    criticism_path = tmp_path / "criticism.csv"
+    output_path = tmp_path / "mci.csv"
+    _write_csv(
+        market_path,
+        [{"title": "Market", "domain": "a.com", "trading_day": "2024-01-01"}],
+        ("title", "domain", "trading_day"),
+    )
+    _write_csv(
+        criticism_path,
+        [
+            {"title": "Candidate A", "domain": "a.com", "trading_day": "2024-01-01"},
+            {"title": "Candidate B", "domain": "b.com", "trading_day": "2024-01-01"},
+        ],
+        ("title", "domain", "trading_day"),
+    )
+
+    with pytest.raises(ValueError, match="raw_criticism_count exceeds total_market_article_count"):
+        build_daily_mci(
+            IndexConstructionSpec(
+                market_headlines_path=market_path,
+                criticism_headlines_path=criticism_path,
+                output_path=output_path,
+            )
+        )
+
+    assert not output_path.exists()
 
 
 def test_date_source_priority_uses_trading_day_before_other_dates(tmp_path: Path) -> None:
@@ -297,4 +418,3 @@ def _write_csv(path: Path, rows: list[dict[str, str]], fieldnames: tuple[str, ..
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
-

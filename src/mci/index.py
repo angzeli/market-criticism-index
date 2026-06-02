@@ -12,12 +12,11 @@ from mci.config import CRITICISM_CATEGORIES, PROCESSED_DATA_DIR
 from mci.text_processing import normalise_title, validate_generated_output_path
 
 DATE_SOURCE_COLUMNS = ("trading_day", "date", "published_date_ny")
-ALWAYS_OUTPUT_COLUMNS = (
+BASE_OUTPUT_COLUMNS = (
     "date",
     "raw_criticism_count",
     "total_market_article_count",
     "MCI",
-    "mci_rolling_60d_zscore",
 )
 
 
@@ -50,6 +49,7 @@ def build_daily_mci(spec: IndexConstructionSpec) -> Path:
     market_counts = _daily_counts(market)
     criticism = _apply_labels_to_candidates(criticism, labels)
     criticism_counts = _daily_counts(criticism[criticism["_counts_as_criticism"]])
+    zscore_column = _zscore_column(spec.rolling_window)
 
     output = pd.DataFrame(
         {
@@ -62,15 +62,16 @@ def build_daily_mci(spec: IndexConstructionSpec) -> Path:
         if not output.empty
         else pd.Series(dtype="int64")
     )
+    _validate_numerator_not_over_denominator(output)
     output["MCI"] = _ratio_series(output["raw_criticism_count"], output["total_market_article_count"])
-    output["mci_rolling_60d_zscore"] = _rolling_zscore(output["MCI"], spec.rolling_window)
+    output[zscore_column] = _rolling_zscore(output["MCI"], spec.rolling_window)
 
     category_columns = _category_counts(criticism, output)
     if category_columns:
         for column_name, values in category_columns.items():
             output[column_name] = values
 
-    output = _ordered_output_columns(output)
+    output = _ordered_output_columns(output, zscore_column)
     spec.output_path.parent.mkdir(parents=True, exist_ok=True)
     output.to_csv(spec.output_path, index=False, na_rep="")
     return spec.output_path
@@ -85,7 +86,8 @@ def build_category_indices(spec: IndexConstructionSpec) -> Path:
 def _read_headline_csv(path: Path, path_name: str) -> pd.DataFrame:
     data = pd.read_csv(path, dtype=str, keep_default_na=False)
     data["_mci_date"] = _derive_date_series(data, path_name)
-    return data[data["_mci_date"] != ""].copy()
+    _validate_parseable_dates(data, path_name)
+    return data.copy()
 
 
 def _derive_date_series(data: pd.DataFrame, path_name: str) -> pd.Series:
@@ -106,6 +108,32 @@ def _derive_date_series(data: pd.DataFrame, path_name: str) -> pd.Series:
     return parsed.dt.strftime("%Y-%m-%d").fillna("")
 
 
+def _chosen_date_source_values(data: pd.DataFrame) -> pd.Series:
+    values = pd.Series("", index=data.index, dtype="object")
+    for column in DATE_SOURCE_COLUMNS:
+        if column not in data.columns:
+            continue
+        column_values = data[column].astype(str).str.strip()
+        mask = (values == "") & (column_values != "")
+        values.loc[mask] = column_values.loc[mask]
+    return values
+
+
+def _validate_parseable_dates(data: pd.DataFrame, path_name: str) -> None:
+    invalid = data["_mci_date"] == ""
+    if not invalid.any():
+        return
+
+    source_values = _chosen_date_source_values(data)
+    first_index = invalid[invalid].index[0]
+    first_row_number = int(first_index) + 2
+    first_value = source_values.loc[first_index]
+    raise ValueError(
+        f"{path_name} has {int(invalid.sum())} row(s) without a parseable date; "
+        f"first bad CSV row {first_row_number} value {first_value!r}."
+    )
+
+
 def _daily_counts(data: pd.DataFrame) -> pd.Series:
     if data.empty:
         return pd.Series(dtype="int64")
@@ -124,9 +152,19 @@ def _apply_labels_to_candidates(candidates: pd.DataFrame, labels: pd.DataFrame |
     categories: list[str] = []
     for _, row in labelled.iterrows():
         label = _match_label(row, label_by_url, label_by_key)
-        label_value = label[0] if label is not None else None
-        category = label[1] if label is not None else ""
-        counts.append(label_value != 0)
+        if label is None:
+            counts.append(True)
+            categories.append("")
+            continue
+
+        label_value, category = label
+        if label_value not in {0, 1}:
+            raise ValueError(
+                "Matched labels must have criticism_label 0 or 1 before MCI construction; "
+                f"found invalid value for candidate {_candidate_identifier(row)!r}."
+            )
+
+        counts.append(label_value == 1)
         categories.append(category if label_value == 1 and category in CRITICISM_CATEGORIES else "")
 
     labelled["_counts_as_criticism"] = counts
@@ -141,6 +179,7 @@ def _read_labels(labels_path: Path) -> pd.DataFrame:
         return pd.DataFrame()
     labels = pd.concat(frames, ignore_index=True)
     labels["_mci_date"] = _derive_date_series(labels, "labels_path")
+    _validate_parseable_dates(labels, "labels_path")
     return labels
 
 
@@ -165,14 +204,28 @@ def _label_lookup_tables(
         value = (label_value, category)
 
         url = _normalise_url(row.get("url", ""))
-        if url and url not in label_by_url:
-            label_by_url[url] = value
+        if url:
+            _store_label(label_by_url, url, value, "url")
 
         key = _match_key(row)
-        if key not in label_by_key:
-            label_by_key[key] = value
+        _store_label(label_by_key, key, value, "date/title/domain key")
 
     return label_by_url, label_by_key
+
+
+def _store_label(
+    lookup: dict[str, tuple[int | None, str]] | dict[tuple[str, str, str], tuple[int | None, str]],
+    key: str | tuple[str, str, str],
+    value: tuple[int | None, str],
+    key_type: str,
+) -> None:
+    existing = lookup.get(key)
+    if existing is not None and existing != value:
+        raise ValueError(
+            f"Conflicting labels for {key_type} {key!r}: {existing} vs {value}. "
+            "Use a consensus-labelled CSV for MCI construction."
+        )
+    lookup[key] = value
 
 
 def _match_label(
@@ -193,6 +246,13 @@ def _match_key(row: pd.Series) -> tuple[str, str, str]:
         normalise_title(str(title)),
         str(row.get("domain", "")).strip().lower(),
     )
+
+
+def _candidate_identifier(row: pd.Series) -> str:
+    url = _normalise_url(row.get("url", ""))
+    if url:
+        return url
+    return "|".join(_match_key(row))
 
 
 def _parse_binary_label(value: object) -> int | None:
@@ -216,6 +276,24 @@ def _ratio_series(numerator: pd.Series, denominator: pd.Series) -> pd.Series:
         where=denominator_array != 0,
     )
     return pd.Series(result, index=numerator.index, dtype="float64")
+
+
+def _validate_numerator_not_over_denominator(output: pd.DataFrame) -> None:
+    if output.empty:
+        return
+
+    invalid = output["raw_criticism_count"] > output["total_market_article_count"]
+    if not invalid.any():
+        return
+
+    first = output.loc[invalid].iloc[0]
+    raise ValueError(
+        "raw_criticism_count exceeds total_market_article_count for "
+        f"{int(invalid.sum())} date(s); first date {first['date']}: "
+        f"raw_criticism_count={int(first['raw_criticism_count'])}, "
+        f"total_market_article_count={int(first['total_market_article_count'])}. "
+        "Candidate rows must be a subset of all-market rows."
+    )
 
 
 def _rolling_zscore(values: pd.Series, rolling_window: int) -> pd.Series:
@@ -249,6 +327,11 @@ def _category_counts(criticism: pd.DataFrame, output: pd.DataFrame) -> dict[str,
     return columns
 
 
-def _ordered_output_columns(output: pd.DataFrame) -> pd.DataFrame:
-    category_columns = [column for column in output.columns if column not in ALWAYS_OUTPUT_COLUMNS]
-    return output[list(ALWAYS_OUTPUT_COLUMNS) + category_columns]
+def _zscore_column(rolling_window: int) -> str:
+    return f"mci_rolling_{rolling_window}d_zscore"
+
+
+def _ordered_output_columns(output: pd.DataFrame, zscore_column: str) -> pd.DataFrame:
+    always_output_columns = list(BASE_OUTPUT_COLUMNS) + [zscore_column]
+    category_columns = [column for column in output.columns if column not in always_output_columns]
+    return output[always_output_columns + category_columns]
