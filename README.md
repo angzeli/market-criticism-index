@@ -192,3 +192,7 @@ Collect one month of all US-market-related GDELT headlines:
 ```bash
 python scripts/collect_gdelt.py --query-type all_us_market --start-date 2022-01-01 --end-date 2022-01-31
 ```
+
+## 👥 Authors
+
+- Angze Li
