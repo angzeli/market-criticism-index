@@ -40,6 +40,9 @@ market-criticism-index/
 │   └── processed/
 ├── docs/
 │   └── k_annotation_workflow.md
+├── notebooks/
+│   ├── 00_data_collection_runbook.ipynb
+│   └── 01_market_data_collection_runbook.ipynb
 ├── outputs/
 │   ├── figures/
 │   └── tables/
@@ -79,6 +82,16 @@ market-criticism-index/
 Raw data should never be overwritten. Generated headline, annotation, and modelling datasets should be written to `data/interim/` or `data/processed/`. Figures belong in `outputs/figures/`; regression tables belong in `outputs/tables/`.
 
 The scaffold exposes these paths in `mci.config` so future implementation can keep outputs deterministic.
+
+## 📒 Interactive Data Collection Runbooks
+
+Use [notebooks/00_data_collection_runbook.ipynb](notebooks/00_data_collection_runbook.ipynb) for interactive GDELT/headline collection and lightweight previews. Use [notebooks/01_market_data_collection_runbook.ipynb](notebooks/01_market_data_collection_runbook.ipynb) for interactive SPY, QQQ, RSP, and VIX market-data collection and panel previews. Both notebooks call existing package functions and do not contain core pipeline logic.
+
+The GDELT notebook uses resumable daily DOC checkpoints under `data/raw/gdelt/doc_daily/`, so interrupted long runs can be restarted without losing completed days. It also includes an optional GKG filtered-extract fallback section for audit/candidate discovery; those outputs are labelled separately from DOC headline CSVs.
+
+The market-data notebook writes raw market prices under `data/raw/market/` and can build the merged panel at `data/processed/panel_daily.csv` when `data/processed/mci_daily.csv` is available. Raw market CSVs are reused when present and are never overwritten.
+
+Command-line scripts remain the reproducible path for pipeline runs.
 
 ## 🧹 Cleaning And Alignment Assumptions
 
