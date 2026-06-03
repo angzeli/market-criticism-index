@@ -528,19 +528,19 @@ name = "market-criticism-index"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
-    { name = "requests" },
-]
-
-[package.optional-dependencies]
-analysis = [
     { name = "matplotlib" },
     { name = "numpy", version = "2.2.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
     { name = "numpy", version = "2.4.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
     { name = "pandas", version = "2.3.3", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
     { name = "pandas", version = "3.0.3", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
+    { name = "requests" },
+    { name = "statsmodels" },
+]
+
+[package.optional-dependencies]
+analysis = [
     { name = "scikit-learn", version = "1.7.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
     { name = "scikit-learn", version = "1.8.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
-    { name = "statsmodels" },
 ]
 dev = [
     { name = "pytest" },
@@ -548,13 +548,13 @@ dev = [
 
 [package.metadata]
 requires-dist = [
-    { name = "matplotlib", marker = "extra == 'analysis'", specifier = ">=3.8" },
-    { name = "numpy", marker = "extra == 'analysis'", specifier = ">=1.26" },
-    { name = "pandas", marker = "extra == 'analysis'", specifier = ">=2.2" },
+    { name = "matplotlib", specifier = ">=3.8" },
+    { name = "numpy", specifier = ">=1.26" },
+    { name = "pandas", specifier = ">=2.2" },
     { name = "pytest", marker = "extra == 'dev'", specifier = ">=8.0" },
     { name = "requests", specifier = ">=2.31" },
     { name = "scikit-learn", marker = "extra == 'analysis'", specifier = ">=1.4" },
-    { name = "statsmodels", marker = "extra == 'analysis'", specifier = ">=0.14" },
+    { name = "statsmodels", specifier = ">=0.14" },
 ]
 provides-extras = ["analysis", "dev"]
 

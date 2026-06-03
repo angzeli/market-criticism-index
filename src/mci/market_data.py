@@ -284,6 +284,11 @@ def _market_feature_frame(
         for horizon in horizons:
             features[f"{prefix}_fwd_log_return_{horizon}d"] = np.log(price.shift(-horizon) / price).to_numpy()
         for horizon in horizons:
+            features[f"{prefix}_fwd_realized_vol_{horizon}d"] = _forward_realized_vol(
+                one_day_returns,
+                horizon,
+            ).to_numpy()
+        for horizon in horizons:
             features[f"{prefix}_lag_log_return_{horizon}d"] = np.log(price / price.shift(horizon)).to_numpy()
 
         realized_vol_column = f"{prefix}_realized_vol_{realized_vol_window}d"
@@ -299,10 +304,25 @@ def _market_feature_frame(
 
     if VIX_SYMBOL in symbols:
         vix = price_wide[VIX_SYMBOL]
+        features["vix_level"] = vix.to_numpy()
         for horizon in horizons:
             features[f"vix_fwd_change_{horizon}d"] = (vix.shift(-horizon) - vix).to_numpy()
 
     return features, price_wide
+
+
+def _forward_realized_vol(one_day_returns: pd.Series, horizon: int) -> pd.Series:
+    returns = one_day_returns.to_numpy(dtype=float)
+    realized_vol = np.full(len(returns), np.nan, dtype=float)
+    for index in range(len(returns)):
+        end = index + horizon
+        if end >= len(returns):
+            continue
+        future_returns = returns[index + 1 : end + 1]
+        if np.isnan(future_returns).any():
+            continue
+        realized_vol[index] = float(np.sqrt(np.mean(future_returns**2)) * np.sqrt(252))
+    return pd.Series(realized_vol, index=one_day_returns.index, dtype="float64")
 
 
 def _forward_max_drawdown(price: pd.Series, horizon: int) -> pd.Series:

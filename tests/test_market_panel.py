@@ -44,6 +44,11 @@ def test_build_market_panel_computes_market_features_and_preserves_mci_rows(tmp_
 
     assert output.loc[0, "spy_fwd_log_return_1d"] == pytest.approx(math.log(110 / 100))
     assert output.loc[0, "spy_fwd_log_return_2d"] == pytest.approx(math.log(105 / 100))
+    next_two_returns = pd.Series([math.log(110 / 100), math.log(105 / 110)])
+    assert output.loc[0, "spy_fwd_realized_vol_1d"] == pytest.approx(abs(math.log(110 / 100)) * math.sqrt(252))
+    assert output.loc[0, "spy_fwd_realized_vol_2d"] == pytest.approx(
+        math.sqrt((next_two_returns**2).mean()) * math.sqrt(252)
+    )
     assert output.loc[1, "spy_lag_log_return_1d"] == pytest.approx(math.log(110 / 100))
     assert output.loc[2, "spy_lag_log_return_2d"] == pytest.approx(math.log(105 / 100))
 
@@ -58,6 +63,7 @@ def test_build_market_panel_computes_market_features_and_preserves_mci_rows(tmp_
     assert output.loc[1, "spy_fwd_max_drawdown_2d"] == pytest.approx(105 / 110 - 1)
     assert pd.isna(output.loc[3, "spy_fwd_max_drawdown_2d"])
 
+    assert output.loc[0, "vix_level"] == 20
     assert output.loc[0, "vix_fwd_change_1d"] == 2
     assert output.loc[0, "vix_fwd_change_2d"] == 1
 

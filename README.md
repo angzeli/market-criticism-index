@@ -2,7 +2,7 @@
 
 This repository will implement a reproducible research pipeline for studying whether criticism narratives about the US equity market are related to later market returns, volatility, drawdowns, or reversals.
 
-The current state includes the MVP scaffold, an initial GDELT data collection layer, headline cleaning/deduplication utilities, the K annotation sample/validation workflow, daily Market Criticism Index construction, and market-data panel merging. Empirical modelling remains future work.
+The current state includes the MVP scaffold, an initial GDELT data collection layer, headline cleaning/deduplication utilities, the K annotation sample/validation workflow, daily Market Criticism Index construction, market-data panel merging, and MVP empirical analysis. Robustness extensions and source-stratified modelling remain future work.
 
 ## 🧭 Research Boundary
 
@@ -60,6 +60,7 @@ market-criticism-index/
 │   ├── build_mci_daily.py
 │   ├── build_panel_daily.py
 │   ├── collect_gdelt.py
+│   ├── run_mvp_analysis.py
 │   └── validate_annotations.py
 └── tests/
     ├── test_annotations.py
@@ -69,6 +70,7 @@ market-criticism-index/
     ├── test_imports.py
     ├── test_market_data.py
     ├── test_market_panel.py
+    ├── test_modelling.py
     └── test_text_processing.py
 ```
 
@@ -147,6 +149,12 @@ lag_log_return_h = log(price[t] / price[t-h])
 
 Realised volatility is the trailing standard deviation of 1-day log returns, annualized by `sqrt(252)`, and is blank until the full window is available. Lagged realised volatility is the prior-day realised-volatility value.
 
+Forward realised volatility uses the annualized root mean square of the next `h` one-day log returns:
+
+```text
+fwd_realized_vol_h = sqrt(mean(next_h_1d_log_returns^2)) * sqrt(252)
+```
+
 Forward max drawdown uses the full forward horizon:
 
 ```text
@@ -165,6 +173,46 @@ Build the daily panel:
 
 ```bash
 python scripts/build_panel_daily.py --prices-csv data/raw/market/market_prices_spy_qqq_rsp_vix_20220101_20260531.csv --overwrite
+```
+
+## 📉 MVP Empirical Analysis
+
+MVP empirical analysis runs from `data/processed/panel_daily.csv`. These estimates are correlational and should not be interpreted as causal effects.
+
+The event study selects nonmissing `mci_rolling_60d_zscore` days in the top decile and aligns SPY cumulative log returns from `-10` to `+21` observed trading days around each event. Events with incomplete windows are dropped. Outputs are:
+
+- `outputs/figures/event_study_top_decile_mci_spy.png`
+- `outputs/tables/event_study_top_decile_mci_spy.csv`
+
+Baseline regressions run horizons `1`, `5`, and `21` with OLS and Newey-West/HAC standard errors using `maxlags = horizon - 1`.
+
+Return model:
+
+```text
+spy_fwd_log_return_hd ~ mci_rolling_60d_zscore + spy_lag_log_return_hd + vix_level + spy_lag_realized_vol_21d
+```
+
+Future volatility model:
+
+```text
+spy_fwd_realized_vol_hd ~ mci_rolling_60d_zscore + spy_lag_realized_vol_21d + vix_level
+```
+
+Future drawdown model:
+
+```text
+spy_fwd_max_drawdown_hd ~ mci_rolling_60d_zscore + spy_lag_log_return_hd + vix_level + spy_lag_realized_vol_21d
+```
+
+Regression outputs are:
+
+- `outputs/tables/baseline_regressions.csv`
+- `outputs/tables/baseline_regressions.md`
+
+Run the MVP empirical analysis:
+
+```bash
+python scripts/run_mvp_analysis.py --overwrite
 ```
 
 ## 🛠️ Development
