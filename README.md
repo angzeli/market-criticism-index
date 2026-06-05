@@ -63,6 +63,7 @@ market-criticism-index/
 │   ├── build_mci_daily.py
 │   ├── build_panel_daily.py
 │   ├── collect_gdelt.py
+│   ├── collect_market_data.py
 │   ├── run_mvp_analysis.py
 │   └── validate_annotations.py
 └── tests/
@@ -72,6 +73,7 @@ market-criticism-index/
     ├── test_index.py
     ├── test_imports.py
     ├── test_market_data.py
+    ├── test_market_data_cli.py
     ├── test_market_panel.py
     ├── test_modelling.py
     └── test_text_processing.py
@@ -88,6 +90,8 @@ The scaffold exposes these paths in `mci.config` so future implementation can ke
 Use [notebooks/00_data_collection_runbook.ipynb](notebooks/00_data_collection_runbook.ipynb) for interactive GDELT/headline collection and lightweight previews. Use [notebooks/01_market_data_collection_runbook.ipynb](notebooks/01_market_data_collection_runbook.ipynb) for interactive SPY, QQQ, RSP, and VIX market-data collection and panel previews. Both notebooks call existing package functions and do not contain core pipeline logic.
 
 The GDELT notebook uses resumable daily DOC checkpoints under `data/raw/gdelt/doc_daily/`, so interrupted long runs can be restarted without losing completed days. It also includes an optional GKG filtered-extract fallback section for audit/candidate discovery; those outputs are labelled separately from DOC headline CSVs.
+
+GDELT headline collection defaults to English source-language queries with `sourcelang:english`. Cleaned interim headline CSVs also filter non-English metadata rows and remove repeated same-day, same-domain headlines after title normalisation. Generated interim CSVs may be rebuilt from saved raw aggregates/checkpoints only when the saved query and source-language metadata are compatible with the current run. Older incompatible raw artifacts are not silently adapted; use a different `raw_dir`, change the date range, or intentionally reuse the old aggregate/output as-is.
 
 The market-data notebook writes raw market prices under `data/raw/market/` and can build the merged panel at `data/processed/panel_daily.csv` when `data/processed/mci_daily.csv` is available. Raw market CSVs are reused when present and are never overwritten.
 
@@ -149,7 +153,9 @@ python scripts/build_mci_daily.py --market-csv data/interim/gdelt_all_us_market_
 
 ## 📈 Market Data And Panel Merge
 
-Daily panel construction expects `data/processed/mci_daily.csv` and a normalized long market-price CSV with required columns `date`, `symbol`, and `close`. The optional `adj_close` column is used for `SPY`, `QQQ`, and `RSP` when available; VIX features use `close`. Input symbols `VIX` and `^VIX` both map to the `vix` output prefix.
+Daily panel construction expects `data/processed/mci_daily.csv` and a normalized long market-price CSV. Local normalized CSV loading is the reproducible path; live Yahoo fetching is an optional convenience step and may be rate-limited.
+
+Required market CSV columns are `date`, `symbol`, and `close`. Optional columns are `open`, `high`, `low`, `adj_close`, and `volume`. The optional `adj_close` column is used for `SPY`, `QQQ`, and `RSP` when available; VIX features use `close`. Input symbols `VIX` and `^VIX` both map to the `vix` output prefix.
 
 Default symbols are `SPY`, `QQQ`, `RSP`, and `^VIX`. Default horizons are `1`, `5`, and `21` observed trading rows. The default realised-volatility window is `21` rows.
 
@@ -181,6 +187,16 @@ vix_fwd_change_h = VIX[t+h] - VIX[t]
 ```
 
 The panel keeps all MCI rows and merges market features by `date`. It fails if an MCI date lacks current-day market prices, while trailing forward-looking features may be blank near the end of the market sample. The default output is `data/processed/panel_daily.csv`.
+
+Market-price collection uses bounded retries for temporary provider errors such as HTTP `429`. HTTP `429` means retry later or use a local CSV; it does not mean the date range is wrong. One-day tests should use a known trading day, but provider rate limits can still block them. Partial raw market files are not written.
+
+Attempt an optional live fetch:
+
+```bash
+python scripts/collect_market_data.py --start-date 2022-01-01 --end-date 2026-05-31
+```
+
+Add `--preflight` only when you want a fast provider probe before the fetch. The default command avoids an extra live request.
 
 Build the daily panel:
 

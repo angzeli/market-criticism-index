@@ -4,10 +4,12 @@ from __future__ import annotations
 
 import csv
 import io
+import time
 from dataclasses import dataclass
 from datetime import date, datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
-from typing import Sequence
+from typing import Callable, Sequence
 from urllib.parse import quote
 
 import numpy as np
@@ -38,6 +40,10 @@ class MarketDataSpec:
     symbols: Sequence[str] = MARKET_SYMBOLS
     raw_output_dir: Path = RAW_DATA_DIR / "market"
     timeout: int = 30
+    max_retries: int = 5
+    backoff_seconds: float = 60.0
+    max_backoff_seconds: float = 900.0
+    request_pause_seconds: float = 5.0
 
 
 @dataclass(frozen=True)
@@ -56,8 +62,7 @@ class MarketPanelSpec:
 def collect_market_data(spec: MarketDataSpec) -> Path:
     """Collect price, volatility, and volume data for benchmark symbols."""
 
-    if spec.start_date > spec.end_date:
-        raise ValueError("start_date must be on or before end_date.")
+    _validate_market_data_spec(spec)
 
     symbols = _canonical_symbols(spec.symbols)
     output_path = market_data_output_path(spec.raw_output_dir, symbols, spec.start_date, spec.end_date)
@@ -67,7 +72,19 @@ def collect_market_data(spec: MarketDataSpec) -> Path:
     session = requests.Session()
     rows: list[dict[str, str]] = []
     for symbol in symbols:
-        rows.extend(_fetch_yahoo_daily_prices(session, symbol, spec.start_date, spec.end_date, spec.timeout))
+        rows.extend(
+            _fetch_yahoo_daily_prices(
+                session,
+                symbol,
+                spec.start_date,
+                spec.end_date,
+                spec.timeout,
+                max_retries=spec.max_retries,
+                backoff_seconds=spec.backoff_seconds,
+                max_backoff_seconds=spec.max_backoff_seconds,
+                request_pause_seconds=spec.request_pause_seconds,
+            )
+        )
 
     spec.raw_output_dir.mkdir(parents=True, exist_ok=True)
     with output_path.open("w", encoding="utf-8", newline="") as csv_file:
@@ -75,6 +92,37 @@ def collect_market_data(spec: MarketDataSpec) -> Path:
         writer.writeheader()
         writer.writerows(rows)
     return output_path
+
+
+def preflight_market_data_provider(
+    spec: MarketDataSpec,
+    *,
+    session: requests.Session | None = None,
+) -> None:
+    """Probe the optional market-data provider without a long retry loop."""
+
+    _validate_market_data_spec(spec)
+    symbols = _canonical_symbols(spec.symbols)
+    probe_session = session or requests.Session()
+    _fetch_yahoo_daily_prices(
+        probe_session,
+        symbols[0],
+        spec.start_date,
+        spec.end_date,
+        spec.timeout,
+        max_retries=0,
+        backoff_seconds=0,
+        max_backoff_seconds=0,
+        request_pause_seconds=0,
+        sleep=lambda _seconds: None,
+    )
+
+
+def validate_market_price_csv(path: Path, symbols: Sequence[str] = MARKET_SYMBOLS) -> Path:
+    """Validate a normalized local market-price CSV for panel construction."""
+
+    _read_market_price_csv(path, _canonical_symbols(symbols))
+    return path
 
 
 def build_market_panel(spec: MarketPanelSpec) -> Path:
@@ -127,6 +175,12 @@ def _fetch_yahoo_daily_prices(
     start_date: date,
     end_date: date,
     timeout: int,
+    *,
+    max_retries: int = 5,
+    backoff_seconds: float = 60.0,
+    max_backoff_seconds: float = 900.0,
+    request_pause_seconds: float = 5.0,
+    sleep: Callable[[float], None] = time.sleep,
 ) -> list[dict[str, str]]:
     period1 = _unix_timestamp(start_date)
     period2 = _unix_timestamp(end_date + timedelta(days=1))
@@ -139,7 +193,20 @@ def _fetch_yahoo_daily_prices(
         "includeAdjustedClose": "true",
     }
 
-    response = session.get(url, params=params, timeout=timeout)
+    response = _get_market_response(
+        session,
+        url,
+        params,
+        timeout,
+        symbol,
+        max_retries=max_retries,
+        backoff_seconds=backoff_seconds,
+        max_backoff_seconds=max_backoff_seconds,
+        sleep=sleep,
+    )
+    if request_pause_seconds > 0:
+        sleep(request_pause_seconds)
+
     if response.status_code >= 400:
         raise RuntimeError(f"Market data request for {symbol} returned HTTP {response.status_code}.")
 
@@ -162,12 +229,101 @@ def _fetch_yahoo_daily_prices(
         )
 
     if not rows:
-        raise RuntimeError(f"Market data request for {symbol} returned no usable daily rows.")
+        raise RuntimeError(
+            f"Market data request for {symbol} returned no usable daily rows. "
+            "If this was a one-day test, use a known trading day or try a wider trading-date range."
+        )
     return rows
+
+
+def _get_market_response(
+    session: requests.Session,
+    url: str,
+    params: dict[str, str],
+    timeout: int,
+    symbol: str,
+    *,
+    max_retries: int,
+    backoff_seconds: float,
+    max_backoff_seconds: float,
+    sleep: Callable[[float], None],
+) -> requests.Response:
+    retryable_statuses = {429, 500, 502, 503, 504}
+    attempts = max(1, max_retries + 1)
+
+    for attempt in range(1, attempts + 1):
+        try:
+            response = session.get(url, params=params, timeout=timeout)
+        except requests.RequestException as exc:
+            if attempt == attempts:
+                raise RuntimeError(
+                    f"Market data request for {symbol} failed after {attempts} attempts due to "
+                    f"{exc.__class__.__name__}: {exc}. Retry later or use a normalized local market CSV "
+                    "under data/raw/market/."
+                ) from exc
+            sleep_seconds = min(backoff_seconds * (2 ** (attempt - 1)), max_backoff_seconds)
+            sleep(sleep_seconds)
+            continue
+
+        if response.status_code not in retryable_statuses:
+            return response
+        if attempt == attempts:
+            raise RuntimeError(
+                f"Market data request for {symbol} returned HTTP {response.status_code} after "
+                f"{attempts} attempts. HTTP 429 means the provider is rate-limiting requests; "
+                "retry later or use a normalized local market CSV under data/raw/market/."
+            )
+
+        sleep_seconds = _market_retry_delay(response, attempt, backoff_seconds, max_backoff_seconds)
+        sleep(sleep_seconds)
+
+    raise RuntimeError(f"Market data request for {symbol} did not complete.")
+
+
+def _market_retry_delay(
+    response: requests.Response,
+    attempt: int,
+    backoff_seconds: float,
+    max_backoff_seconds: float,
+) -> float:
+    retry_after = _retry_after_seconds(response.headers.get("Retry-After"))
+    if retry_after is not None:
+        return min(retry_after, max_backoff_seconds)
+    return min(backoff_seconds * (2 ** (attempt - 1)), max_backoff_seconds)
+
+
+def _retry_after_seconds(value: str | None) -> float | None:
+    if not value:
+        return None
+    try:
+        return max(0.0, float(value))
+    except ValueError:
+        try:
+            retry_at = parsedate_to_datetime(value)
+        except (TypeError, ValueError):
+            return None
+        if retry_at.tzinfo is None:
+            retry_at = retry_at.replace(tzinfo=timezone.utc)
+        return max(0.0, (retry_at - datetime.now(timezone.utc)).total_seconds())
 
 
 def _unix_timestamp(day: date) -> int:
     return int(datetime.combine(day, datetime.min.time(), tzinfo=timezone.utc).timestamp())
+
+
+def _validate_market_data_spec(spec: MarketDataSpec) -> None:
+    if spec.start_date > spec.end_date:
+        raise ValueError("start_date must be on or before end_date.")
+    if not spec.symbols:
+        raise ValueError("At least one market symbol is required.")
+    if spec.max_retries < 0:
+        raise ValueError("max_retries must be nonnegative.")
+    if spec.backoff_seconds < 0:
+        raise ValueError("backoff_seconds must be nonnegative.")
+    if spec.max_backoff_seconds < 0:
+        raise ValueError("max_backoff_seconds must be nonnegative.")
+    if spec.request_pause_seconds < 0:
+        raise ValueError("request_pause_seconds must be nonnegative.")
 
 
 def _csv_value(value: object) -> str:

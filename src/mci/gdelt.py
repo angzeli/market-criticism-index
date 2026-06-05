@@ -19,10 +19,12 @@ import pandas as pd
 import requests
 
 from mci.config import CRITICISM_QUERY_TERMS, INTERIM_DATA_DIR, MARKET_QUERY_TERMS, RAW_DATA_DIR
+from mci.text_processing import normalise_title
 
 GDELT_DOC_ENDPOINT = "https://api.gdeltproject.org/api/v2/doc/doc"
 GDELT_V2_MASTERFILELIST = "https://data.gdeltproject.org/gdeltv2/masterfilelist.txt"
 GDELT_ARTICLE_FIELDS = ("title", "url", "domain", "source", "seendate", "language", "query_type")
+DEFAULT_GDELT_SOURCE_LANGUAGE = "english"
 
 
 class GdeltClientError(RuntimeError):
@@ -58,6 +60,7 @@ class GdeltRequestSpec:
     end_date: date
     market_terms: Sequence[str] = MARKET_QUERY_TERMS
     criticism_terms: Sequence[str] = CRITICISM_QUERY_TERMS
+    source_language: str | None = DEFAULT_GDELT_SOURCE_LANGUAGE
     raw_dir: Path = RAW_DATA_DIR / "gdelt"
     interim_dir: Path = INTERIM_DATA_DIR
     max_records: int = 250
@@ -85,6 +88,7 @@ class GdeltLongRunSpec:
     )
     market_terms: Sequence[str] = MARKET_QUERY_TERMS
     criticism_terms: Sequence[str] = CRITICISM_QUERY_TERMS
+    source_language: str | None = DEFAULT_GDELT_SOURCE_LANGUAGE
     raw_dir: Path = RAW_DATA_DIR / "gdelt"
     interim_dir: Path = INTERIM_DATA_DIR
     max_records: int = 250
@@ -319,15 +323,16 @@ def build_gdelt_query(
     *,
     market_terms: Sequence[str] = MARKET_QUERY_TERMS,
     criticism_terms: Sequence[str] = CRITICISM_QUERY_TERMS,
+    source_language: str | None = DEFAULT_GDELT_SOURCE_LANGUAGE,
 ) -> str:
     """Build the GDELT query string for a supported MVP query type."""
 
     market_query = f"({_join_terms(market_terms)})"
     if query_type is GdeltQueryType.ALL_MARKET:
-        return market_query
+        return _append_source_language(market_query, source_language)
 
     criticism_query = f"({_join_terms(criticism_terms)})"
-    return f"{market_query} {criticism_query}"
+    return _append_source_language(f"{market_query} {criticism_query}", source_language)
 
 
 def collect_gdelt_headlines(
@@ -351,6 +356,7 @@ def collect_gdelt_headlines(
         spec.query_type,
         market_terms=spec.market_terms,
         criticism_terms=spec.criticism_terms,
+        source_language=spec.source_language,
     )
     gdelt_client = client or GdeltClient()
     responses: list[dict[str, Any]] = []
@@ -369,6 +375,7 @@ def collect_gdelt_headlines(
         "query_type": spec.query_type.value,
         "start_date": spec.start_date.isoformat(),
         "end_date": spec.end_date.isoformat(),
+        "source_language": spec.source_language or "",
         "responses": responses,
     }
     rows = clean_gdelt_articles(raw_payload, spec.query_type)
@@ -577,7 +584,15 @@ def _collect_longrun_query(
 ) -> _LongRunQueryResult:
     raw_path = gdelt_output_path(spec.raw_dir, query_type, spec.start_date, spec.end_date, "json")
     interim_path = gdelt_output_path(spec.interim_dir, query_type, spec.start_date, spec.end_date, "csv")
+    query = build_gdelt_query(
+        query_type,
+        market_terms=spec.market_terms,
+        criticism_terms=spec.criticism_terms,
+        source_language=spec.source_language,
+    )
+
     if raw_path.exists() and interim_path.exists() and not spec.overwrite_interim:
+        _validate_saved_longrun_payload(_read_json(raw_path), query, spec.source_language, raw_path)
         rows = _read_article_count(interim_path)
         _emit_longrun_progress(
             progress_callback,
@@ -591,16 +606,22 @@ def _collect_longrun_query(
 
     _ensure_writable(interim_path, spec.overwrite_interim)
     if raw_path.exists():
-        raise FileExistsError(
-            f"{raw_path} already exists. Raw aggregate outputs are never overwritten; "
-            "use the existing raw JSON or choose a different date range."
+        raw_payload = _read_json(raw_path)
+        _validate_saved_longrun_payload(raw_payload, query, spec.source_language, raw_path)
+        rows = clean_gdelt_articles(raw_payload, query_type)
+        spec.interim_dir.mkdir(parents=True, exist_ok=True)
+        _write_article_csv(interim_path, rows)
+        _emit_longrun_progress(
+            progress_callback,
+            phase="aggregate",
+            query_type=query_type.value,
+            raw_path=str(raw_path),
+            interim_path=str(interim_path),
+            article_count=len(rows),
+            message="rebuilt interim CSV from existing raw aggregate",
         )
+        return _LongRunQueryResult(raw_path, interim_path, len(rows), 0)
 
-    query = build_gdelt_query(
-        query_type,
-        market_terms=spec.market_terms,
-        criticism_terms=spec.criticism_terms,
-    )
     responses: list[dict[str, Any]] = []
     skipped_existing = 0
 
@@ -611,7 +632,9 @@ def _collect_longrun_query(
                 raise FileExistsError(
                     f"{checkpoint_path} already exists. Pass resume=True to reuse daily raw checkpoints."
                 )
-            responses.append(_read_json(checkpoint_path))
+            checkpoint_payload = _read_json(checkpoint_path)
+            _validate_saved_response_block(checkpoint_payload, query, checkpoint_path)
+            responses.append(checkpoint_payload)
             skipped_existing += 1
             _emit_longrun_progress(
                 progress_callback,
@@ -640,6 +663,7 @@ def _collect_longrun_query(
                 json.dump(checkpoint_payload, checkpoint_file, indent=2, sort_keys=True)
         except FileExistsError:
             checkpoint_payload = _read_json(checkpoint_path)
+            _validate_saved_response_block(checkpoint_payload, query, checkpoint_path)
             skipped_existing += 1
         responses.append(checkpoint_payload)
         _emit_longrun_progress(
@@ -654,6 +678,7 @@ def _collect_longrun_query(
         "query_type": query_type.value,
         "start_date": spec.start_date.isoformat(),
         "end_date": spec.end_date.isoformat(),
+        "source_language": spec.source_language or "",
         "checkpoint_dir": str(_daily_checkpoint_root(spec.raw_dir, query_type)),
         "responses": responses,
     }
@@ -682,9 +707,13 @@ def clean_gdelt_articles(
     """Extract stable article metadata fields from saved GDELT responses."""
 
     rows: list[dict[str, str]] = []
+    seen: set[tuple[str, str, str]] = set()
+    source_language = _as_str(raw_payload.get("source_language")).strip().lower()
+
     for response_block in raw_payload.get("responses", []):
         if not isinstance(response_block, Mapping):
             continue
+        response_date = _as_str(response_block.get("date"))
         response = response_block.get("response", {})
         if not isinstance(response, Mapping):
             continue
@@ -695,7 +724,14 @@ def clean_gdelt_articles(
         for article in articles:
             if not isinstance(article, Mapping):
                 continue
-            rows.append(_article_row(article, query_type))
+            row = _article_row(article, query_type)
+            if not _article_matches_source_language(row, source_language):
+                continue
+            key = _article_dedupe_key(row, response_date)
+            if key in seen:
+                continue
+            seen.add(key)
+            rows.append(row)
 
     return rows
 
@@ -725,6 +761,25 @@ def _article_row(article: Mapping[str, Any], query_type: GdeltQueryType) -> dict
         "language": _as_str(article.get("language")),
         "query_type": query_type.value,
     }
+
+
+def _article_matches_source_language(row: Mapping[str, str], source_language: str) -> bool:
+    if source_language not in {"english", "eng", "en"}:
+        return True
+    language = _as_str(row.get("language")).strip().lower()
+    if not language:
+        return True
+    return language in {"english", "eng", "en"}
+
+
+def _article_dedupe_key(row: Mapping[str, str], response_date: str) -> tuple[str, str, str]:
+    title_key = normalise_title(_as_str(row.get("title"))).replace(" ", "")
+    text_key = title_key or normalise_title(_as_str(row.get("url"))).replace(" ", "")
+    return (
+        response_date,
+        text_key,
+        _as_str(row.get("domain")).strip().lower(),
+    )
 
 
 def _write_article_csv(path: Path, rows: Iterable[Mapping[str, str]]) -> None:
@@ -777,6 +832,49 @@ def _read_article_count(path: Path) -> int:
         return sum(1 for _ in csv.DictReader(csv_file))
 
 
+def _validate_saved_longrun_payload(
+    raw_payload: Mapping[str, Any],
+    expected_query: str,
+    expected_source_language: str | None,
+    path: Path,
+) -> None:
+    saved_source_language = raw_payload.get("source_language")
+    if saved_source_language is not None and _as_str(saved_source_language) != _as_str(expected_source_language):
+        raise _incompatible_raw_error(
+            path,
+            f"saved source_language {_as_str(saved_source_language)!r} does not match "
+            f"current source_language {_as_str(expected_source_language)!r}",
+        )
+
+    responses = raw_payload.get("responses", [])
+    if not isinstance(responses, list):
+        raise _incompatible_raw_error(path, "saved responses are not a list")
+    for response_block in responses:
+        if not isinstance(response_block, Mapping):
+            raise _incompatible_raw_error(path, "saved response block is not an object")
+        _validate_saved_response_block(response_block, expected_query, path)
+
+
+def _validate_saved_response_block(
+    response_block: Mapping[str, Any],
+    expected_query: str,
+    path: Path,
+) -> None:
+    saved_query = response_block.get("query")
+    if saved_query is None:
+        raise _incompatible_raw_error(path, "saved response block is missing query metadata")
+    if _as_str(saved_query) != expected_query:
+        raise _incompatible_raw_error(path, "saved query does not match the current GDELT query")
+
+
+def _incompatible_raw_error(path: Path, reason: str) -> FileExistsError:
+    return FileExistsError(
+        f"{path} is incompatible with the current GDELT long-run spec: {reason}. "
+        "Raw data is not overwritten. Use a different raw_dir, change the date range, "
+        "or intentionally reuse the old aggregate as-is."
+    )
+
+
 def _day_count(start_date: date, end_date: date) -> int:
     return (end_date - start_date).days + 1
 
@@ -826,6 +924,9 @@ def _resume_guidance(spec: GdeltLongRunSpec, query_type: GdeltQueryType) -> str:
         f"    end_date=date({spec.end_date.year}, {spec.end_date.month}, {spec.end_date.day}),\n"
         f"    query_types=(GdeltQueryType.{query_type.name},),\n"
         f"    max_records={spec.max_records},\n"
+        f"    source_language={spec.source_language!r},\n"
+        f"    raw_dir=Path({str(spec.raw_dir)!r}),\n"
+        f"    interim_dir=Path({str(spec.interim_dir)!r}),\n"
         "    resume=True,\n"
         f"    overwrite_interim={spec.overwrite_interim},\n"
         ")\n"
@@ -901,6 +1002,17 @@ def _iter_dates(start_date: date, end_date: date) -> Iterable[date]:
 
 def _join_terms(terms: Sequence[str]) -> str:
     return " OR ".join(_format_term(term) for term in terms)
+
+
+def _append_source_language(query: str, source_language: str | None) -> str:
+    if source_language is None:
+        return query
+    language = source_language.strip().lower()
+    if not language:
+        return query
+    if not language.replace("-", "").isalnum():
+        raise ValueError("source_language must contain only letters, numbers, or hyphens.")
+    return f"{query} sourcelang:{language}"
 
 
 def _format_term(term: str) -> str:

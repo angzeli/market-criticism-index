@@ -9,14 +9,19 @@ from pathlib import Path
 
 import pandas as pd
 import pytest
+import requests
 
+import mci.market_data as market_data_module
 from mci.config import RAW_DATA_DIR
 from mci.market_data import (
     MarketDataSpec,
     MarketPanelSpec,
+    _fetch_yahoo_daily_prices,
     build_market_panel,
     collect_market_data,
     market_data_output_path,
+    preflight_market_data_provider,
+    validate_market_price_csv,
 )
 
 
@@ -251,6 +256,218 @@ def test_market_data_output_path_is_deterministic_and_refuses_existing_raw_cache
         collect_market_data(spec)
 
 
+def test_provider_preflight_fails_fast_on_http_429() -> None:
+    session = _FakeMarketSession([_FakeMarketResponse(429, "")])
+    spec = MarketDataSpec(start_date=date(2024, 1, 2), end_date=date(2024, 1, 2))
+
+    with pytest.raises(RuntimeError, match="HTTP 429.*rate-limiting.*local market CSV"):
+        preflight_market_data_provider(spec, session=session)
+
+    assert len(session.requests) == 1
+
+
+def test_collect_market_data_writes_no_raw_file_when_fetch_fails(tmp_path: Path, monkeypatch) -> None:
+    session = _FakeMarketSession([_FakeMarketResponse(429, "")])
+    monkeypatch.setattr(market_data_module.requests, "Session", lambda: session)
+    spec = MarketDataSpec(
+        start_date=date(2024, 1, 2),
+        end_date=date(2024, 1, 2),
+        symbols=("SPY",),
+        raw_output_dir=tmp_path,
+        max_retries=0,
+    )
+    expected = market_data_output_path(tmp_path, spec.symbols, spec.start_date, spec.end_date)
+
+    with pytest.raises(RuntimeError, match="HTTP 429"):
+        collect_market_data(spec)
+
+    assert not expected.exists()
+
+
+def test_validate_market_price_csv_accepts_valid_normalized_csv(tmp_path: Path) -> None:
+    prices_path = tmp_path / "market_prices.csv"
+    _write_price_fixture(prices_path)
+
+    assert validate_market_price_csv(prices_path) == prices_path
+
+
+def test_validate_market_price_csv_rejects_missing_columns(tmp_path: Path) -> None:
+    prices_path = tmp_path / "market_prices.csv"
+    _write_csv(prices_path, [{"date": "2024-01-01", "symbol": "SPY"}], ("date", "symbol"))
+
+    with pytest.raises(ValueError, match="missing required columns: close"):
+        validate_market_price_csv(prices_path)
+
+
+def test_validate_market_price_csv_rejects_missing_symbols(tmp_path: Path) -> None:
+    prices_path = tmp_path / "market_prices.csv"
+    rows = [row for row in _price_fixture_rows() if row["symbol"] != "RSP"]
+    _write_csv(prices_path, rows, ("date", "symbol", "close", "adj_close"))
+
+    with pytest.raises(ValueError, match="missing required symbols: RSP"):
+        validate_market_price_csv(prices_path)
+
+
+def test_validate_market_price_csv_rejects_conflicting_duplicates(tmp_path: Path) -> None:
+    prices_path = tmp_path / "market_prices.csv"
+    rows = _price_fixture_rows()
+    rows.append({"date": "2024-01-01", "symbol": "SPY", "close": "1000", "adj_close": "101"})
+    _write_csv(prices_path, rows, ("date", "symbol", "close", "adj_close"))
+
+    with pytest.raises(ValueError, match="Conflicting duplicate market price rows"):
+        validate_market_price_csv(prices_path)
+
+
+def test_validate_market_price_csv_rejects_nonpositive_selected_prices(tmp_path: Path) -> None:
+    prices_path = tmp_path / "market_prices.csv"
+    rows = _price_fixture_rows()
+    rows[0]["adj_close"] = "0"
+    _write_csv(prices_path, rows, ("date", "symbol", "close", "adj_close"))
+
+    with pytest.raises(ValueError, match="non-positive"):
+        validate_market_price_csv(prices_path)
+
+
+def test_yahoo_fetch_retries_http_429_with_retry_after_header() -> None:
+    session = _FakeMarketSession(
+        [
+            _FakeMarketResponse(429, "", headers={"Retry-After": "7"}),
+            _FakeMarketResponse(200, _yahoo_price_csv()),
+        ]
+    )
+    sleeps: list[float] = []
+
+    rows = _fetch_yahoo_daily_prices(
+        session,
+        "SPY",
+        date(2024, 1, 1),
+        date(2024, 1, 2),
+        timeout=30,
+        max_retries=2,
+        backoff_seconds=60,
+        max_backoff_seconds=120,
+        request_pause_seconds=0,
+        sleep=sleeps.append,
+    )
+
+    assert len(session.requests) == 2
+    assert sleeps == [7.0]
+    assert rows == [
+        {
+            "date": "2024-01-02",
+            "symbol": "SPY",
+            "open": "100",
+            "high": "102",
+            "low": "99",
+            "close": "101",
+            "adj_close": "101",
+            "volume": "1000",
+        }
+    ]
+
+
+def test_yahoo_fetch_retries_timeout_then_success() -> None:
+    session = _FakeMarketSession(
+        [
+            requests.Timeout("timed out"),
+            _FakeMarketResponse(200, _yahoo_price_csv()),
+        ]
+    )
+    sleeps: list[float] = []
+
+    rows = _fetch_yahoo_daily_prices(
+        session,
+        "SPY",
+        date(2024, 1, 1),
+        date(2024, 1, 2),
+        timeout=30,
+        max_retries=1,
+        backoff_seconds=3,
+        max_backoff_seconds=30,
+        request_pause_seconds=0,
+        sleep=sleeps.append,
+    )
+
+    assert len(session.requests) == 2
+    assert sleeps == [3]
+    assert rows[0]["symbol"] == "SPY"
+
+
+def test_yahoo_fetch_repeated_connection_errors_fail_after_retry_budget() -> None:
+    session = _FakeMarketSession(
+        [
+            requests.ConnectionError("network down"),
+            requests.ConnectionError("still down"),
+            requests.ConnectionError("still down"),
+        ]
+    )
+    sleeps: list[float] = []
+
+    with pytest.raises(RuntimeError, match="SPY failed after 3 attempts.*ConnectionError.*local market CSV"):
+        _fetch_yahoo_daily_prices(
+            session,
+            "SPY",
+            date(2024, 1, 1),
+            date(2024, 1, 2),
+            timeout=30,
+            max_retries=2,
+            backoff_seconds=5,
+            max_backoff_seconds=8,
+            request_pause_seconds=0,
+            sleep=sleeps.append,
+        )
+
+    assert len(session.requests) == 3
+    assert sleeps == [5, 8]
+
+
+def test_yahoo_fetch_caps_exponential_backoff_and_fails_after_retries() -> None:
+    session = _FakeMarketSession(
+        [
+            _FakeMarketResponse(429, ""),
+            _FakeMarketResponse(429, ""),
+            _FakeMarketResponse(429, ""),
+        ]
+    )
+    sleeps: list[float] = []
+
+    with pytest.raises(RuntimeError, match="HTTP 429 after 3 attempts"):
+        _fetch_yahoo_daily_prices(
+            session,
+            "SPY",
+            date(2024, 1, 1),
+            date(2024, 1, 2),
+            timeout=30,
+            max_retries=2,
+            backoff_seconds=30,
+            max_backoff_seconds=45,
+            request_pause_seconds=0,
+            sleep=sleeps.append,
+        )
+
+    assert len(session.requests) == 3
+    assert sleeps == [30, 45]
+
+
+def test_yahoo_fetch_no_rows_message_mentions_wider_trading_range() -> None:
+    session = _FakeMarketSession(
+        [
+            _FakeMarketResponse(200, "Date,Open,High,Low,Close,Adj Close,Volume\n"),
+        ]
+    )
+
+    with pytest.raises(RuntimeError, match="no usable daily rows.*known trading day.*wider trading-date range"):
+        _fetch_yahoo_daily_prices(
+            session,
+            "SPY",
+            date(2024, 1, 6),
+            date(2024, 1, 6),
+            timeout=30,
+            max_retries=0,
+            request_pause_seconds=0,
+        )
+
+
 def _write_mci(path: Path, dates: list[str]) -> None:
     rows = [
         {"date": day, "MCI": str(index / 10), "raw_criticism_count": str(index)}
@@ -288,3 +505,30 @@ def _write_csv(path: Path, rows: list[dict[str, str]], fieldnames: tuple[str, ..
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
+
+
+class _FakeMarketResponse:
+    def __init__(self, status_code: int, text: str, headers: dict[str, str] | None = None) -> None:
+        self.status_code = status_code
+        self.text = text
+        self.headers = headers or {}
+
+
+class _FakeMarketSession:
+    def __init__(self, responses: list[_FakeMarketResponse | requests.RequestException]) -> None:
+        self.responses = responses
+        self.requests: list[dict[str, object]] = []
+
+    def get(self, url: str, params: dict[str, str], timeout: int) -> _FakeMarketResponse:
+        self.requests.append({"url": url, "params": params, "timeout": timeout})
+        response = self.responses.pop(0)
+        if isinstance(response, requests.RequestException):
+            raise response
+        return response
+
+
+def _yahoo_price_csv() -> str:
+    return (
+        "Date,Open,High,Low,Close,Adj Close,Volume\n"
+        "2024-01-02,100,102,99,101,101,1000\n"
+    )

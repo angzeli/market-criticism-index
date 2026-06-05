@@ -22,6 +22,7 @@ from mci.gdelt import (
     GdeltQueryType,
     GdeltRequestSpec,
     build_gdelt_query,
+    clean_gdelt_articles,
     collect_gdelt_headlines,
     collect_gdelt_longrun,
     collect_gkg_bulk_extract,
@@ -75,9 +76,87 @@ def test_builds_supported_queries() -> None:
     criticism_query = build_gdelt_query(GdeltQueryType.CANDIDATE_CRITICISM)
 
     assert '"US stock market"' in market_query
+    assert "sourcelang:english" in market_query
     assert "bubble" not in market_query
     assert '"US stock market"' in criticism_query
     assert "bubble" in criticism_query
+    assert "sourcelang:english" in criticism_query
+
+
+def test_build_query_can_disable_source_language_filter() -> None:
+    query = build_gdelt_query(GdeltQueryType.ALL_MARKET, source_language=None)
+
+    assert "sourcelang:" not in query
+
+
+def test_cleaned_articles_filter_non_english_and_deduplicate_same_title_domain_date() -> None:
+    raw_payload = {
+        "query_type": "all_us_market",
+        "source_language": "english",
+        "responses": [
+            {
+                "date": "2024-01-01",
+                "response": {
+                    "articles": [
+                        {
+                            "title": "U.S. stocks jump sharply",
+                            "url": "https://example.com/1",
+                            "domain": "example.com",
+                            "language": "English",
+                        },
+                        {
+                            "title": "U . S . stocks jump sharply",
+                            "url": "https://example.com/2",
+                            "domain": "example.com",
+                            "language": "English",
+                        },
+                        {
+                            "title": "Bourse - Apple depasse les 3000 milliards",
+                            "url": "https://example.fr/1",
+                            "domain": "example.fr",
+                            "language": "French",
+                        },
+                    ]
+                },
+            }
+        ],
+    }
+
+    rows = clean_gdelt_articles(raw_payload, GdeltQueryType.ALL_MARKET)
+
+    assert [row["title"] for row in rows] == ["U.S. stocks jump sharply"]
+
+
+def test_cleaned_articles_preserve_blank_title_rows_with_distinct_urls() -> None:
+    raw_payload = {
+        "query_type": "all_us_market",
+        "source_language": "english",
+        "responses": [
+            {
+                "date": "2024-01-01",
+                "response": {
+                    "articles": [
+                        {
+                            "title": "",
+                            "url": "https://example.com/first",
+                            "domain": "example.com",
+                            "language": "English",
+                        },
+                        {
+                            "title": "",
+                            "url": "https://example.com/second",
+                            "domain": "example.com",
+                            "language": "English",
+                        },
+                    ]
+                },
+            }
+        ],
+    }
+
+    rows = clean_gdelt_articles(raw_payload, GdeltQueryType.ALL_MARKET)
+
+    assert [row["url"] for row in rows] == ["https://example.com/first", "https://example.com/second"]
 
 
 def test_high_level_collection_uses_custom_market_terms(tmp_path: Path) -> None:
@@ -95,6 +174,7 @@ def test_high_level_collection_uses_custom_market_terms(tmp_path: Path) -> None:
 
     query = session.calls[0]["params"]["query"]
     assert '"custom market signal"' in query
+    assert "sourcelang:english" in query
     assert "US stock market" not in query
 
 
@@ -135,6 +215,7 @@ def test_collects_raw_and_cleaned_outputs_with_mocked_response(tmp_path: Path) -
 
     raw_payload = json.loads(result.raw_path.read_text(encoding="utf-8"))
     assert raw_payload["query_type"] == "all_us_market"
+    assert raw_payload["source_language"] == "english"
     assert raw_payload["responses"][0]["response"]["articles"][0]["title"] == "Wall Street warning grows"
 
     with result.interim_path.open(encoding="utf-8", newline="") as csv_file:
@@ -298,6 +379,51 @@ def test_longrun_status_and_dry_run_report_missing_days(tmp_path: Path) -> None:
     assert dry_run.loc[0, "estimated_minimum_duration_seconds"] == 10
 
 
+def test_longrun_rejects_incompatible_existing_checkpoint_query(tmp_path: Path) -> None:
+    raw_dir = tmp_path / "raw"
+    interim_dir = tmp_path / "interim"
+    checkpoint = raw_dir / "doc_daily" / "all_us_market" / "2024" / "20240101.json"
+    checkpoint.parent.mkdir(parents=True)
+    checkpoint.write_text(
+        json.dumps({"date": "2024-01-01", "query": "market", "response": {"articles": []}}),
+        encoding="utf-8",
+    )
+    spec = GdeltLongRunSpec(
+        start_date=date(2024, 1, 1),
+        end_date=date(2024, 1, 1),
+        query_types=(GdeltQueryType.ALL_MARKET,),
+        raw_dir=raw_dir,
+        interim_dir=interim_dir,
+    )
+
+    with pytest.raises(FileExistsError, match="incompatible.*saved query does not match"):
+        collect_gdelt_longrun(spec, client=GdeltClient(session=FakeSession([]), max_retries=0))
+
+    assert not (raw_dir / "gdelt_all_us_market_20240101_20240101.json").exists()
+    assert not (interim_dir / "gdelt_all_us_market_20240101_20240101.csv").exists()
+
+
+def test_longrun_rejects_checkpoint_missing_query_metadata(tmp_path: Path) -> None:
+    raw_dir = tmp_path / "raw"
+    interim_dir = tmp_path / "interim"
+    checkpoint = raw_dir / "doc_daily" / "all_us_market" / "2024" / "20240101.json"
+    checkpoint.parent.mkdir(parents=True)
+    checkpoint.write_text(
+        json.dumps({"date": "2024-01-01", "response": {"articles": []}}),
+        encoding="utf-8",
+    )
+    spec = GdeltLongRunSpec(
+        start_date=date(2024, 1, 1),
+        end_date=date(2024, 1, 1),
+        query_types=(GdeltQueryType.ALL_MARKET,),
+        raw_dir=raw_dir,
+        interim_dir=interim_dir,
+    )
+
+    with pytest.raises(FileExistsError, match="missing query metadata"):
+        collect_gdelt_longrun(spec, client=GdeltClient(session=FakeSession([]), max_retries=0))
+
+
 def test_longrun_resumes_from_checkpoints_and_writes_aggregate_outputs(tmp_path: Path) -> None:
     raw_dir = tmp_path / "raw"
     interim_dir = tmp_path / "interim"
@@ -307,7 +433,7 @@ def test_longrun_resumes_from_checkpoints_and_writes_aggregate_outputs(tmp_path:
         json.dumps(
             {
                 "date": "2024-01-01",
-                "query": "market",
+                "query": _expected_market_query(),
                 "response": {
                     "articles": [
                         {
@@ -352,9 +478,12 @@ def test_longrun_resumes_from_checkpoints_and_writes_aggregate_outputs(tmp_path:
     assert result.article_counts == {"all_us_market": 2}
     assert result.skipped_existing_checkpoints == 1
     assert len(session.calls) == 1
+    assert "sourcelang:english" in session.calls[0]["params"]["query"]
     assert (raw_dir / "doc_daily" / "all_us_market" / "2024" / "20240102.json").exists()
     assert result.raw_paths["all_us_market"].exists()
     assert result.interim_paths["all_us_market"].exists()
+    raw_payload = json.loads(result.raw_paths["all_us_market"].read_text(encoding="utf-8"))
+    assert raw_payload["source_language"] == "english"
     assert any(event["phase"] == "skip" for event in events)
     assert any(event["phase"] == "checkpoint" for event in events)
 
@@ -384,15 +513,53 @@ def test_longrun_failure_leaves_completed_checkpoints_and_resume_guidance(tmp_pa
     assert not (raw_dir / "gdelt_all_us_market_20240101_20240102.json").exists()
     assert exc_info.value.completed_days == 1
     assert exc_info.value.next_missing_day == date(2024, 1, 2)
-    assert "collect_gdelt_longrun" in (exc_info.value.resume_guidance or "")
+    guidance = exc_info.value.resume_guidance or ""
+    assert "collect_gdelt_longrun" in guidance
+    assert "source_language='english'" in guidance
+    assert "raw_dir=Path(" in guidance
+    assert "interim_dir=Path(" in guidance
 
 
-def test_longrun_never_overwrites_raw_aggregate_output(tmp_path: Path) -> None:
+def test_longrun_rebuilds_interim_from_existing_raw_without_overwriting_raw(tmp_path: Path) -> None:
     raw_dir = tmp_path / "raw"
     interim_dir = tmp_path / "interim"
     raw_dir.mkdir()
     aggregate = raw_dir / "gdelt_all_us_market_20240101_20240101.json"
-    aggregate.write_text("{}", encoding="utf-8")
+    aggregate.write_text(
+        json.dumps(
+            {
+                "query_type": "all_us_market",
+                "start_date": "2024-01-01",
+                "end_date": "2024-01-01",
+                "source_language": "english",
+                "responses": [
+                    {
+                        "date": "2024-01-01",
+                        "query": _expected_market_query(),
+                        "response": {
+                            "articles": [
+                                {
+                                    "title": "U.S. stocks jump sharply",
+                                    "url": "https://example.com/1",
+                                    "domain": "example.com",
+                                    "language": "English",
+                                },
+                                {
+                                    "title": "Bourse - Apple depasse les 3000 milliards",
+                                    "url": "https://example.fr/1",
+                                    "domain": "example.fr",
+                                    "language": "French",
+                                },
+                            ]
+                        },
+                    }
+                ],
+            },
+            sort_keys=True,
+        ),
+        encoding="utf-8",
+    )
+    original_raw = aggregate.read_text(encoding="utf-8")
     spec = GdeltLongRunSpec(
         start_date=date(2024, 1, 1),
         end_date=date(2024, 1, 1),
@@ -402,10 +569,70 @@ def test_longrun_never_overwrites_raw_aggregate_output(tmp_path: Path) -> None:
         overwrite_interim=True,
     )
 
-    with pytest.raises(FileExistsError, match="Raw aggregate outputs are never overwritten"):
+    result = collect_gdelt_longrun(spec, client=GdeltClient(session=FakeSession([]), max_retries=0))
+
+    assert aggregate.read_text(encoding="utf-8") == original_raw
+    with result.interim_paths["all_us_market"].open(encoding="utf-8", newline="") as csv_file:
+        rows = list(csv.DictReader(csv_file))
+    assert [row["title"] for row in rows] == ["U.S. stocks jump sharply"]
+
+
+def test_longrun_rejects_existing_raw_and_interim_when_raw_query_conflicts(tmp_path: Path) -> None:
+    raw_dir = tmp_path / "raw"
+    interim_dir = tmp_path / "interim"
+    raw_dir.mkdir()
+    interim_dir.mkdir()
+    aggregate = raw_dir / "gdelt_all_us_market_20240101_20240101.json"
+    interim = interim_dir / "gdelt_all_us_market_20240101_20240101.csv"
+    aggregate.write_text(
+        json.dumps(
+            {
+                "query_type": "all_us_market",
+                "source_language": "english",
+                "responses": [{"date": "2024-01-01", "query": "market", "response": {"articles": []}}],
+            }
+        ),
+        encoding="utf-8",
+    )
+    interim.write_text("title,url,domain,source,seendate,language,query_type\n", encoding="utf-8")
+    spec = GdeltLongRunSpec(
+        start_date=date(2024, 1, 1),
+        end_date=date(2024, 1, 1),
+        query_types=(GdeltQueryType.ALL_MARKET,),
+        raw_dir=raw_dir,
+        interim_dir=interim_dir,
+    )
+
+    with pytest.raises(FileExistsError, match="incompatible.*saved query does not match"):
         collect_gdelt_longrun(spec, client=GdeltClient(session=FakeSession([]), max_retries=0))
 
-    assert aggregate.read_text(encoding="utf-8") == "{}"
+
+def test_longrun_rejects_existing_raw_rebuild_when_source_language_conflicts(tmp_path: Path) -> None:
+    raw_dir = tmp_path / "raw"
+    interim_dir = tmp_path / "interim"
+    raw_dir.mkdir()
+    aggregate = raw_dir / "gdelt_all_us_market_20240101_20240101.json"
+    aggregate.write_text(
+        json.dumps(
+            {
+                "query_type": "all_us_market",
+                "source_language": "",
+                "responses": [{"date": "2024-01-01", "query": _expected_market_query(), "response": {"articles": []}}],
+            }
+        ),
+        encoding="utf-8",
+    )
+    spec = GdeltLongRunSpec(
+        start_date=date(2024, 1, 1),
+        end_date=date(2024, 1, 1),
+        query_types=(GdeltQueryType.ALL_MARKET,),
+        raw_dir=raw_dir,
+        interim_dir=interim_dir,
+        overwrite_interim=True,
+    )
+
+    with pytest.raises(FileExistsError, match="source_language"):
+        collect_gdelt_longrun(spec, client=GdeltClient(session=FakeSession([]), max_retries=0))
 
 
 def test_collect_gkg_bulk_extract_writes_filtered_rows_and_manifest(tmp_path: Path) -> None:
@@ -447,3 +674,7 @@ def _zip_bytes(name: str, text: str) -> bytes:
     with zipfile.ZipFile(buffer, "w") as archive:
         archive.writestr(name, text)
     return buffer.getvalue()
+
+
+def _expected_market_query() -> str:
+    return build_gdelt_query(GdeltQueryType.ALL_MARKET)
