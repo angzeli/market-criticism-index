@@ -1,0 +1,258 @@
+{
+  "date": "2022-01-03",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "dbtnews.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Canopy Growth Corporation [ CGC ] is - 64 . 57 % lower this YTD . Is it still time to buy ? ",
+        "url": "https://dbtnews.com/2022/01/03/canopy-growth-corporation-cgc-is-64-57-lower-this-ytd-is-it-still-time-to-buy/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "saltlakecitysun.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641247831986.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks jump sharply , Apple capitalization hits $3 trillion",
+        "url": "https://www.saltlakecitysun.com/news/272094223/us-stocks-jump-sharply-apple-capitalization-hits-3-trillion",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Digimarc Corporation Completes Acquisition of EVRYTHNG Ltd . ",
+        "url": "https://www.prnewswire.com:443/news-releases/digimarc-corporation-completes-acquisition-of-evrythng-ltd-301453049.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TNS Business Budget for Monday , Jan . 3 , 2022",
+        "url": "https://www.msn.com/en-us/money/companies/tns-business-budget-for-monday-jan-3-2022/ar-AASoeHI",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1694027!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/markets.jpg",
+        "sourcecountry": "Canada",
+        "title": "U . S . stocks start 2022 at record ; treasuries fall",
+        "url": "https://www.bnnbloomberg.ca/u-s-stocks-start-2022-at-record-treasuries-fall-1.1702386",
+        "url_mobile": "https://www.bnnbloomberg.ca/u-s-stocks-start-2022-at-record-treasuries-fall-1.1702386.amp.html"
+      },
+      {
+        "domain": "wjr.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bob Ciura on AbbVie : A Healthcare Stock for Long - Term Growth",
+        "url": "https://www.wjr.com/news/bob-ciura-on-abbvie-a-healthcare-stock-for-long-term-growth/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "siouxcityjournal.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/e/d7/ed7f6c44-0319-5daa-886e-10d7cefdeff2/61d2e5030446e.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Judge to poll Holmes jury still deadlocked on three charges",
+        "url": "https://siouxcityjournal.com/lifestyles/health-med-fit/judge-to-poll-holmes-jury-still-deadlocked-on-three-charges/article_91823222-1e9c-56c0-93e1-213cea89ff33.html",
+        "url_mobile": "https://siouxcityjournal.com/lifestyles/health-med-fit/judge-to-poll-holmes-jury-still-deadlocked-on-three-charges/article_91823222-1e9c-56c0-93e1-213cea89ff33.amp.html"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1702639!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/commuters-near-shimbashi-station-in-the-shimbashi-district-of-tokyo-photographer-soichiro-koriyama-bloomberg.jpg",
+        "sourcecountry": "Canada",
+        "title": "Stocks in Asia Eye Steady Start After U . S . Record : Markets Wrap",
+        "url": "https://www.bnnbloomberg.ca/stocks-in-asia-eye-steady-start-after-u-s-record-markets-wrap-1.1702638",
+        "url_mobile": "https://www.bnnbloomberg.ca/stocks-in-asia-eye-steady-start-after-u-s-record-markets-wrap-1.1702638.amp.html"
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "U . S .- listed Chinese firms trade mostly lower - Xinhua",
+        "url": "http://www.xinhuanet.com/english/northamerica/20220104/a888729a8e8b4e0bbc3e51374283685e/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bigcountry995.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://hot-town-images.s3.amazonaws.com/kwtv/production/2022/January/3/elizabeth-holmes-trial.1641252783096.jpeg",
+        "sourcecountry": "United States",
+        "title": "Elizabeth Holmes Jury Split On Three Of 11 Fraud Charges",
+        "url": "http://www.bigcountry995.com/story/61d387c2d97f7f0c158f2590/elizabeth-holmes-jury-split-on-three-of-11-fraud-charges",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://media.nbcmiami.com/2022/01/106995867-1641230033090-GettyImages-1237519405r.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After Dow and S & P 500 Close at Records",
+        "url": "https://www.nbcmiami.com/news/business/money-report/stock-futures-are-flat-after-dow-and-sp-500-close-at-records/2653676/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/stock-futures-are-flat-after-dow-and-sp-500-close-at-records/2653676/?amp"
+      },
+      {
+        "domain": "californiatelegraph.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641247831986.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks jump sharply , Apple capitalization hits $3 trillion",
+        "url": "https://www.californiatelegraph.com/news/272094223/us-stocks-jump-sharply-apple-capitalization-hits-3-trillion",
+        "url_mobile": ""
+      },
+      {
+        "domain": "home.nzcity.co.nz",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "",
+        "sourcecountry": "New Zealand",
+        "title": "Jury in Theranos founder Elizabeth Holmes fraud trial deadlocked on three charges - 04 - Jan - 2022",
+        "url": "https://home.nzcity.co.nz/news/article.aspx?id=346389",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dbtnews.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Intel Corporation [ INTC ] stock Upgrade by Northland Capital analyst , price target now $49",
+        "url": "https://dbtnews.com/2022/01/03/intel-corporation-intc-stock-upgrade-by-northland-capital-analyst-price-target-now-49/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "londonmercury.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641190011611.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Spreading wildfires blamed for destruction of 1000 Colorado homes",
+        "url": "https://www.londonmercury.com/news/272094014/spreading-wildfires-blamed-for-destruction-of-1000-colorado-homes",
+        "url_mobile": ""
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "More record highs for S & P 500 , Dow on first day of 2022",
+        "url": "https://www.startribune.com/more-record-highs-for-s-p-500-dow-on-first-day-of-2022/600132190/",
+        "url_mobile": "https://m.startribune.com/more-record-highs-for-s-p-500-dow-on-first-day-of-2022/600132190/"
+      },
+      {
+        "domain": "londonmercury.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641247831986.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "U . S . stocks jump sharply , Apple capitalization hits $3 trillion",
+        "url": "https://www.londonmercury.com/news/272094223/us-stocks-jump-sharply-apple-capitalization-hits-3-trillion",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kob.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://www.kob.com/apimages/ap22e3334d0c784bf690d829cbe4ba0214.jpg",
+        "sourcecountry": "United States",
+        "title": "Elizabeth Holmes jury affirms deadlock on 3 of 11 charges",
+        "url": "https://www.kob.com/national-news/holmes-jury-to-resume-deliberations-after-holiday-break/6347659/?cat=649",
+        "url_mobile": "https://amp.kob.com/articles/holmes-jury-to-resume-deliberations-after-holiday-break-6347659.html"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/03/D_20354image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Nasdaq 100 Starts the Year with a Bang as Tesla Gains 13 %, R ... ",
+        "url": "https://menafn.com/1103482455/Nasdaq-100-Starts-the-Year-with-a-Bang-as-Tesla-Gains-13-Reopening-Stocks-Surge&source=19",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wjr.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Gains on First Trading Day of 2022 , With Big Boost From Tesla , Apple",
+        "url": "https://www.wjr.com/news/wall-st-gains-on-first-trading-day-of-2022-with-big-boost-from-tesla-apple/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "americanfreepress.net",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Putin - Style Politics Could Be What Saves U . S . \u2013 American Free Press",
+        "url": "https://americanfreepress.net/putin-style-politics-could-be-what-saves-u-s/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://chorus.stimg.co/23142529/1thanos010322.jpg?&fit=crop&bg=999&crop=faces",
+        "sourcecountry": "United States",
+        "title": "Judge to poll Holmes jury still deadlocked on three charges",
+        "url": "https://www.startribune.com/judge-to-poll-holmes-jury-still-deadlocked-on-three-charges/600132183/",
+        "url_mobile": "https://m.startribune.com/judge-to-poll-holmes-jury-still-deadlocked-on-three-charges/600132183/"
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://media.nbcmiami.com/2021/08/106922844-1628199490703-gettyimages-1328986011-tedlasso112_20210715110418598.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Apple Rise to $3 Trillion Market Cap Shows the Value of Its Massive Share Buybacks",
+        "url": "https://www.nbcmiami.com/news/business/money-report/apples-rise-to-3-trillion-market-cap-shows-the-value-of-its-massive-share-buybacks/2653682/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/apples-rise-to-3-trillion-market-cap-shows-the-value-of-its-massive-share-buybacks/2653682/?amp"
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://media.nbcmiami.com/2022/01/104659050-IMG_5313-jim-cramer.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Cramer Says Investors Shouldnt Rule Out Another Strong Stock Rally in 2022 After Last Year Massive Gains",
+        "url": "https://www.nbcmiami.com/news/business/money-report/cramer-says-investors-shouldnt-rule-out-another-strong-stock-rally-in-2022-after-last-years-massive-gains/2653689/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/cramer-says-investors-shouldnt-rule-out-another-strong-stock-rally-in-2022-after-last-years-massive-gains/2653689/?amp"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220104T000000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/03/D_20354image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Nasdaq 100 Starts the Year with a Bang as Tesla Gains 13 %, R ... ",
+        "url": "https://menafn.com/1103482455/Nasdaq-100-Starts-the-Year-with-a-Bang-as-Tesla-Gains-13-Reopening-Stocks-Surge&source=25",
+        "url_mobile": ""
+      }
+    ]
+  }
+}

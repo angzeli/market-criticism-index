@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-08",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "albanyherald.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/d/c6/dc6a1f25-8551-5003-95ae-9f0a9c83ef1c/61d9e72a4c5dd.image.jpg?crop=1926%2C1011%2C0%2C32",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.albanyherald.com/news/business/need-a-raise-nows-the-time-to-demand-one/article_a02f4b5b-4eaf-585e-9914-773fdfe3619e.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kcra.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3ed7ececcc6edac5cb6c64ce2e47fec5-h-7e31dbdbef737439c82a9e3142c8a901-1641656506.jpg?crop=0.995xw:1.00xh;0.00326xw,0",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.kcra.com/article/need-a-raise-now-s-the-time-to-demand-one/38701303",
+        "url_mobile": "https://www.kcra.com/amp/article/need-a-raise-now-s-the-time-to-demand-one/38701303"
+      },
+      {
+        "domain": "wmur.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3ed7ececcc6edac5cb6c64ce2e47fec5-h-7e31dbdbef737439c82a9e3142c8a901-1641656506.jpg?crop=0.995xw:1.00xh;0.00326xw,0",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.wmur.com/article/need-a-raise-now-s-the-time-to-demand-one/38701303",
+        "url_mobile": "https://www.wmur.com/amp/article/need-a-raise-now-s-the-time-to-demand-one/38701303"
+      },
+      {
+        "domain": "rockdalenewtoncitizen.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/rockdalenewtoncitizen.com/content/tncms/assets/v3/editorial/4/89/48994533-f185-5f8d-87ee-75c7b89f4787/61d9e72a5f9be.image.jpg?crop=1926%2C1011%2C0%2C32",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.rockdalenewtoncitizen.com/news/business/need-a-raise-nows-the-time-to-demand-one/article_d6bd3609-4d7a-5555-8bc6-03dc738fc3c8.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mynbc5.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3ed7ececcc6edac5cb6c64ce2e47fec5-h-7e31dbdbef737439c82a9e3142c8a901-1641656506.jpg?crop=0.995xw:1.00xh;0.00326xw,0",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.mynbc5.com/article/need-a-raise-now-s-the-time-to-demand-one/38701303",
+        "url_mobile": "https://www.mynbc5.com/amp/article/need-a-raise-now-s-the-time-to-demand-one/38701303"
+      },
+      {
+        "domain": "tucson.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/1a/e1a4ddff-9cca-5c82-b08f-cd89e89349d4/61d9876788c6a.image.jpg?crop=1763%2C992%2C0%2C91",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Sen . Reid as man  who got things done  ",
+        "url": "https://tucson.com/news/national/obituaries/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_8028f1fd-9308-5638-bd13-c64ab7515667.html",
+        "url_mobile": "https://tucson.com/news/national/obituaries/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_8028f1fd-9308-5638-bd13-c64ab7515667.amp.html"
+      },
+      {
+        "domain": "beloitdailynews.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/beloitdailynews.com/content/tncms/custom/image/c270922e-ebc4-11eb-8571-eb444426d521.png",
+        "sourcecountry": "United States",
+        "title": "AP News in Brief at 6 : 04 p . m . EST",
+        "url": "https://www.beloitdailynews.com/news/national-news/ap-news-in-brief-at-6-04-p-m-est/article_a92fb96f-f4a8-55ac-b9cb-ad6df78c7bf5.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tucson.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/custom/image/80e87ada-cfb0-11e7-b59b-a75438cf81bb.png?crop=290%2C290%2C165%2C0",
+        "sourcecountry": "United States",
+        "title": "AP News in Brief at 6 : 04 p . m . EST",
+        "url": "https://tucson.com/news/national/ap-news-in-brief-at-6-04-p-m-est/article_0a40665a-1b1d-5201-b504-c92030b9ce76.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "telegraphindia.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://assets.telegraphindia.com/telegraph/2022/Jan/1641678291_citi.jpg",
+        "sourcecountry": "India",
+        "title": "Citigroup to crackdown on unvaccinated US staff",
+        "url": "https://www.telegraphindia.com/business/citigroup-to-crackdown-on-unvaccinated-us-staff/cid/1846816",
+        "url_mobile": "https://www.telegraphindia.com/amp/business/citigroup-to-crackdown-on-unvaccinated-us-staff/cid/1846816"
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://chorus.stimg.co/23155034/merlin_66045168.jpg?&fit=crop&bg=999&crop=faces",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Sen . Reid as man  who got things done  ",
+        "url": "https://www.startribune.com/obama-biden-honor-sen-reid-as-man-who-got-things-done/600133795/",
+        "url_mobile": "https://m.startribune.com/obama-biden-honor-sen-reid-as-man-who-got-things-done/600133795/"
+      },
+      {
+        "domain": "wesh.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3ed7ececcc6edac5cb6c64ce2e47fec5-h-7e31dbdbef737439c82a9e3142c8a901-1641656506.jpg?crop=0.995xw:1.00xh;0.00326xw,0",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.wesh.com/article/need-a-raise-now-s-the-time-to-demand-one/38701303",
+        "url_mobile": "https://www.wesh.com/amp/article/need-a-raise-now-s-the-time-to-demand-one/38701303"
+      },
+      {
+        "domain": "theusnews.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/voa1641681317.jpg",
+        "sourcecountry": "United States",
+        "title": "Biden , Obama Honor Late Senate Leader Harry Reid",
+        "url": "https://www.theusnews.com/news/272131183/biden-obama-honor-late-senate-leader-harry-reid",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tulsaworld.com",
+        "language": "English",
+        "seendate": "20220109T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/d6/0d6880a8-4984-52a5-b619-731eeb59380b/61d9874fdd86d.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Sen . Reid as man  who got things done  ",
+        "url": "https://tulsaworld.com/news/national/obituaries/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_7337aa0d-1a57-5709-8e9e-e61d352dc22b.html",
+        "url_mobile": "https://tulsaworld.com/news/national/obituaries/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_7337aa0d-1a57-5709-8e9e-e61d352dc22b.amp.html"
+      },
+      {
+        "domain": "banklesstimes.com",
+        "language": "English",
+        "seendate": "20220108T234500Z",
+        "socialimage": "https://www.banklesstimes.com/wp-content/uploads/2014/06/football-stadium-62891_640.jpg",
+        "sourcecountry": "United States",
+        "title": "Fantasy stocks exchange TradeStars launches governance token",
+        "url": "https://www.banklesstimes.com/2020/11/04/fantasy-stocks-exchange-tradestars-launches-governance-token/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyprogress.com",
+        "language": "English",
+        "seendate": "20220108T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/1/36/136b2caa-46a9-580a-90cb-bc7647158d4c/61d987631c851.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Sen . Reid as man  who got things done  ",
+        "url": "https://dailyprogress.com/news/national/obituaries/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_08e5c2ca-732b-507f-9ac8-766e92ad9d7e.html",
+        "url_mobile": "https://dailyprogress.com/news/national/obituaries/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_08e5c2ca-732b-507f-9ac8-766e92ad9d7e.amp.html"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220108T234500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d9e3d7f21771651bb66374%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "Dont Fight The Fed - Fed Tightening Puts Investors In Harm Way",
+        "url": "https://www.forbes.com/sites/johntobey/2022/01/08/dont-fight-the-fedfed-tightening-puts-investors-in-harms-way/",
+        "url_mobile": "https://www.forbes.com/sites/johntobey/2022/01/08/dont-fight-the-fedfed-tightening-puts-investors-in-harms-way/amp/"
+      },
+      {
+        "domain": "marketbeat.com",
+        "language": "English",
+        "seendate": "20220108T234500Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Franco - Nevada ( TSE : FNV ) Given New C$195 . 00 Price Target at National Bankshares",
+        "url": "https://www.marketbeat.com/instant-alerts/tse-fnv-a-buy-or-sell-right-now-2022-01/",
+        "url_mobile": "https://www.marketbeat.com/instant-alerts/tse-fnv-a-buy-or-sell-right-now-2022-01/amp/"
+      },
+      {
+        "domain": "kearneyhub.com",
+        "language": "English",
+        "seendate": "20220108T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/kearneyhub.com/content/tncms/assets/v3/editorial/d/94/d941c926-2139-5df6-b88f-0630f08c274a/61d987517d318.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Sen . Reid as man  who got things done  ",
+        "url": "https://kearneyhub.com/news/national/obituaries/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_5ce0ec2c-f927-5e69-8d60-07c8902ed9d6.html",
+        "url_mobile": "https://kearneyhub.com/news/national/obituaries/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_5ce0ec2c-f927-5e69-8d60-07c8902ed9d6.amp.html"
+      },
+      {
+        "domain": "lacrossetribune.com",
+        "language": "English",
+        "seendate": "20220108T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/custom/image/0a4caafe-c21a-11ea-9968-bfac22e84476.jpg?crop=662%2C662%2C238%2C0",
+        "sourcecountry": "United States",
+        "title": "AP News in Brief at 6 : 04 p . m . EST",
+        "url": "https://lacrossetribune.com/news/national/ap-news-in-brief-at-6-04-p-m-est/article_249414de-f491-5c22-b2db-6f10ad11b0b0.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sott.net",
+        "language": "English",
+        "seendate": "20220108T234500Z",
+        "socialimage": "https://www.sott.net/image/s31/633238/full/nlp.jpg",
+        "sourcecountry": "United States",
+        "title": "Breaking the Spell : MindSpace , Trance Warfare , and Neuro Linguistic Programming -- Science of the Spirit -- Sott . net",
+        "url": "https://www.sott.net/article/462922-Breaking-the-Spell-MindSpace-Trance-Warfare-and-Neuro-Linguistic-Programming",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wbaltv.com",
+        "language": "English",
+        "seendate": "20220108T234500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3ed7ececcc6edac5cb6c64ce2e47fec5-h-7e31dbdbef737439c82a9e3142c8a901-1641656506.jpg?crop=0.995xw:1.00xh;0.00326xw,0",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.wbaltv.com/article/need-a-raise-now-s-the-time-to-demand-one/38701303",
+        "url_mobile": "https://www.wbaltv.com/amp/article/need-a-raise-now-s-the-time-to-demand-one/38701303"
+      },
+      {
+        "domain": "titusvilleherald.com",
+        "language": "English",
+        "seendate": "20220108T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/titusvilleherald.com/content/tncms/custom/image/ae57dbb0-8544-11e8-91c6-97689030322a.jpg",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Sen . Reid as man  who got things done  ",
+        "url": "https://www.titusvilleherald.com/news/state_news/article_ce97dadc-8a49-5e67-99d2-fdfe984be0f4.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pressofatlanticcity.com",
+        "language": "English",
+        "seendate": "20220108T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/2/9f/29f4f7e5-1000-56d5-a9ec-05c2a5ec9dda/61d9875a4ac5b.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Sen . Reid as man  who got things done  ",
+        "url": "https://pressofatlanticcity.com/news/national/obituaries/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_935d6d93-aa5e-558f-95ce-0b884dfdd259.html",
+        "url_mobile": "https://pressofatlanticcity.com/news/national/obituaries/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_935d6d93-aa5e-558f-95ce-0b884dfdd259.amp.html"
+      },
+      {
+        "domain": "dothaneagle.com",
+        "language": "English",
+        "seendate": "20220108T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/dothaneagle.com/content/tncms/assets/v3/editorial/2/43/243a5bc2-e514-5110-8c63-b3525698c522/61d9875b907bc.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://dothaneagle.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_877e5306-7ea2-5019-a1b2-7b4e64670a20.html",
+        "url_mobile": "https://dothaneagle.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_877e5306-7ea2-5019-a1b2-7b4e64670a20.amp.html"
+      },
+      {
+        "domain": "tribstar.com",
+        "language": "English",
+        "seendate": "20220108T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/tribstar.com/content/tncms/custom/image/604bc538-2923-11ea-8d06-df03a003c410.jpg?crop=1277%2C1277%2C172%2C0",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Senate head as man  who got things done  ",
+        "url": "https://www.tribstar.com/region/obama-biden-honor-senate-head-as-man-who-got-things-done/article_14b7e717-425c-5439-9732-9e68b9c3957b.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "swoknews.com",
+        "language": "English",
+        "seendate": "20220108T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Senate head as man  who got things done  ",
+        "url": "https://www.swoknews.com/ap/national/obama-biden-honor-senate-head-as-man-who-got-things-done/article_d0e36687-a2c6-534d-845d-80a80b160a63.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220108T233000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : U . S . equities post weekly losses amid Fed minutes , economic data - Xinhua",
+        "url": "http://www.xinhuanet.com/english/northamerica/20220109/546e7da3c2e24a688eaf20885aaf4e8c/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gulf-times.com",
+        "language": "English",
+        "seendate": "20220108T233000Z",
+        "socialimage": "https://img.gulf-times.com/Content/Upload/Slider/120228222531884127896.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Nasdaq 100 Index is coming under pressure",
+        "url": "https://www.gulf-times.com/story/707621/Nasdaq-100-Index-is-coming-under-pressure",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chinaview.cn",
+        "language": "English",
+        "seendate": "20220108T233000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : U . S . reopens mass vaccination sites , suspends cruises amid COVID - 19 surge - Xinhua",
+        "url": "http://www.chinaview.cn/northamerica/20220109/f5176b05bd8843bfa215aeae7b6eba64/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thisismoney.co.uk",
+        "language": "English",
+        "seendate": "20220108T233000Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/08/18/52697105-0-image-a-92_1641666275464.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Now Asos is targeted as short sellers bet \u00a31bn on tech titans",
+        "url": "https://www.thisismoney.co.uk/money/markets/article-10381647/Now-Asos-targeted-short-sellers-bet-1bn-tech-titans.html",
+        "url_mobile": "https://www.thisismoney.co.uk/money/markets/article-10381647/amp/Now-Asos-targeted-short-sellers-bet-1bn-tech-titans.html"
+      },
+      {
+        "domain": "southeast.newschannelnebraska.com",
+        "language": "English",
+        "seendate": "20220108T233000Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/21998098_G.jpg?lastEditedDate=1641638564000",
+        "sourcecountry": "",
+        "title": "Obama hails Reid as a Senate majority leader who  got things done  ",
+        "url": "https://southeast.newschannelnebraska.com/story/45607684/obama-hails-reid-as-a-senate-majority-leader-who-got-things-done",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thedailynewsonline.com",
+        "language": "English",
+        "seendate": "20220108T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/thedailynewsonline.com/content/tncms/assets/v3/editorial/e/61/e614a777-3d0e-5342-882f-1c870a90bb04/61d92740ebdbb.image.jpg?crop=414%2C414%2C0%2C104",
+        "sourcecountry": "United States",
+        "title": "An insider view : Barber Conable journal offer inside view of Congress | Lifestyles",
+        "url": "https://www.thedailynewsonline.com/lifestyles/an-insider-s-view-barber-conable-s-journal-offer-inside-view-of-congress/article_4a201c8f-9ca7-5d94-b1f9-8da3dc77e9c9.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketbeat.com",
+        "language": "English",
+        "seendate": "20220108T231500Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Banco BBVA Argentina S . A . ( NYSE : BBAR ) Short Interest Update",
+        "url": "https://www.marketbeat.com/instant-alerts/nyse-bbar-options-data-report-2022-01/",
+        "url_mobile": "https://www.marketbeat.com/instant-alerts/nyse-bbar-options-data-report-2022-01/amp/"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220108T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Obama hails Harry Reid as a Senate majority leader who  got things done  ",
+        "url": "https://www.msn.com/en-us/news/politics/obama-hails-harry-reid-as-a-senate-majority-leader-who-got-things-done/ar-AASzjVN",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wionews.com",
+        "language": "English",
+        "seendate": "20220108T231500Z",
+        "socialimage": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2022/01/07/231933-untitled-design.jpg",
+        "sourcecountry": "India",
+        "title": "Opinion - Decoding Kazakhstan protests",
+        "url": "https://www.wionews.com/opinions-blogs/opinion-decoding-kazakhstan-protests-443175",
+        "url_mobile": "https://www.wionews.com/opinions-blogs/opinion-decoding-kazakhstan-protests-443175/amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220108T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Obama hails Harry Reid as a Senate majority leader who  got things done  ",
+        "url": "http://www.msn.com/en-us/news/politics/obama-hails-harry-reid-as-a-senate-majority-leader-who-got-things-done/ar-AASzjVN",
+        "url_mobile": ""
+      },
+      {
+        "domain": "caledonianrecord.com",
+        "language": "English",
+        "seendate": "20220108T231500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/b/1d/b1d3115c-d0d7-5365-8a80-97822b078596/61da02915e4d1.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Senate head as man  who got things done  ",
+        "url": "https://www.caledonianrecord.com/news/national/obama-biden-honor-senate-head-as-man-who-got-things-done/article_fd3d160c-048e-5173-bee7-6141d6517393.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "omaha.com",
+        "language": "English",
+        "seendate": "20220108T231500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/36/f36aff3d-1514-5027-b76d-ced36b305fa7/61d9875ae59c2.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://omaha.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_5cbc0c16-ea14-54c0-b67d-6d7e471b7d9c.html",
+        "url_mobile": "https://omaha.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_5cbc0c16-ea14-54c0-b67d-6d7e471b7d9c.amp.html"
+      },
+      {
+        "domain": "jacksonprogress-argus.com",
+        "language": "English",
+        "seendate": "20220108T231500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/jacksonprogress-argus.com/content/tncms/assets/v3/editorial/5/fe/5fedfcf0-cd68-5eba-9a59-eaa7df250578/61d9e72a4e4b0.image.jpg?crop=1926%2C1011%2C0%2C32",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.jacksonprogress-argus.com/news/business/need-a-raise-nows-the-time-to-demand-one/article_fba02480-c830-5981-8362-861435709ffe.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220108T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Rocket Experiencing Massive Growth , Expanding New Business Platforms Ahead Of Fed Interest Rate Hikes",
+        "url": "http://www.msn.com/en-us/money/news/rocket-experiencing-massive-growth-expanding-new-business-platforms-ahead-of-fed-interest-rate-hikes/ar-AASzu4M",
+        "url_mobile": ""
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220108T231500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Unvaccinated Citigroup workers may lose jobs by end of month - Xinhua",
+        "url": "http://www.xinhuanet.com/english/northamerica/20220109/53dab708b75047bdab27d9faa9e0d1f5/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220108T230000Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/UHRbTqap8BJ888WTzlxaSA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xNTI0/https://s.yimg.com/uu/api/res/1.2/.fdmm5dayQmSaEz0p4b60Q--~B/aD0yMDQ4O3c9MTYxMzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/f99d4629e8eba313b33ba9bdf3fd4a7e",
+        "sourcecountry": "United States",
+        "title": "10 Dividend Stocks in Adage Capital Portfolio",
+        "url": "https://news.yahoo.com/10-dividend-stocks-adage-capital-221952874.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/10-dividend-stocks-adage-capital-221952874.html"
+      },
+      {
+        "domain": "bozemandailychronicle.com",
+        "language": "English",
+        "seendate": "20220108T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/b/b5/bb5c790b-f7d1-5c18-b1c0-78651c789708/61d92209aa650.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://www.bozemandailychronicle.com/ap_news/obama-honors-late-senate-leader-as-man-who-got-things-done/article_4f5ab65c-4b9e-5af6-8c31-bd99bb25f910.html",
+        "url_mobile": "https://www.bozemandailychronicle.com/ap_news/obama-honors-late-senate-leader-as-man-who-got-things-done/article_4f5ab65c-4b9e-5af6-8c31-bd99bb25f910.amp.html"
+      },
+      {
+        "domain": "postregister.com",
+        "language": "English",
+        "seendate": "20220108T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/0/66/066da4a8-bb77-583b-ba3a-17a417aa167f/61d984603a451.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://www.postregister.com/news/national/obama-honors-late-senate-leader-as-man-who-got-things-done/article_5847928a-7566-5623-9aa6-6983427138a7.html",
+        "url_mobile": "https://www.postregister.com/news/national/obama-honors-late-senate-leader-as-man-who-got-things-done/article_5847928a-7566-5623-9aa6-6983427138a7.amp.html"
+      },
+      {
+        "domain": "therealdeal.com",
+        "language": "English",
+        "seendate": "20220108T230000Z",
+        "socialimage": "https://therealdeal.com/wp-content/uploads/2022/01/Featured-Mary-Trump-Book.jpg",
+        "sourcecountry": "United States",
+        "title": "Donald Trump Niece , Mary , Buys $7M Soho Condo",
+        "url": "https://therealdeal.com/2022/01/08/donald-trumps-niece-mary-buys-7m-soho-condo/",
+        "url_mobile": "https://therealdeal.com/2022/01/08/donald-trumps-niece-mary-buys-7m-soho-condo/amp/"
+      },
+      {
+        "domain": "joblo.com",
+        "language": "English",
+        "seendate": "20220108T230000Z",
+        "socialimage": "https://www.joblo.com/wp-content/uploads/2022/01/The-CW-potential-sale-e1641541389301.jpg",
+        "sourcecountry": "United States",
+        "title": "WarnerMedia & ViacomCBS eyeing a sell of The CW",
+        "url": "https://www.joblo.com/warnermedia-and-viacomcbs-eyeing-a-sell-of-the-cw/",
+        "url_mobile": "https://www.joblo.com/warnermedia-and-viacomcbs-eyeing-a-sell-of-the-cw/amp/"
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220108T230000Z",
+        "socialimage": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
+        "sourcecountry": "United States",
+        "title": "Roundup : U . S . equities post weekly losses amid Fed minutes , economic data",
+        "url": "https://www.bignewsnetwork.com/news/272131182/roundup-us-equities-post-weekly-losses-amid-fed-minutes-economic-data",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morganton.com",
+        "language": "English",
+        "seendate": "20220108T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/morganton.com/content/tncms/assets/v3/editorial/4/4a/44acaa3c-1412-5989-ab86-b5dd2d99e4cf/61d987533a5ef.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://morganton.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_84f35f70-2c74-5bfc-a254-0821c5c5440d.html",
+        "url_mobile": "https://morganton.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_84f35f70-2c74-5bfc-a254-0821c5c5440d.amp.html"
+      },
+      {
+        "domain": "nationalinterest.org",
+        "language": "English",
+        "seendate": "20220108T224500Z",
+        "socialimage": "https://nationalinterest.org/sites/default/files/main_images/Japan%20Navy%20%281%29.jpg",
+        "sourcecountry": "United States",
+        "title": "Power in the Pacific : Japan and Australia Ink a New Alliance",
+        "url": "https://nationalinterest.org/blog/buzz/power-pacific-japan-and-australia-ink-new-alliance-199214",
+        "url_mobile": ""
+      },
+      {
+        "domain": "parabolicarc.com",
+        "language": "English",
+        "seendate": "20220108T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Iridium Names Manjula Sriram as New Chief Information Officer \u2013 Parabolic Arc",
+        "url": "http://www.parabolicarc.com/2022/01/08/iridium-names-manjula-sriram-as-new-chief-information-officer/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "itbusinessnet.com",
+        "language": "English",
+        "seendate": "20220108T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NRx Pharmaceuticals to Announce New Details for Planned Investigational BriLife\u2122 COVID - 19 Vaccine",
+        "url": "http://itbusinessnet.com/2022/01/nrx-pharmaceuticals-to-announce-new-details-for-planned-investigational-brilife-covid-19-vaccine/",
+        "url_mobile": "http://itbusinessnet.com/2022/01/nrx-pharmaceuticals-to-announce-new-details-for-planned-investigational-brilife-covid-19-vaccine/amp/"
+      },
+      {
+        "domain": "wdrb.com",
+        "language": "English",
+        "seendate": "20220108T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/4/52/45250a6a-7090-11ec-ac81-770436c3d781/61d9a143e3342.image.jpg?crop=1000%2C525%2C0%2C71",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://www.wdrb.com/news/national/obama-honors-late-senate-leader-as-man-who-got-things-done/article_446e4fe4-4bc4-5a67-aa46-7c8d19e44fdb.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finchannel.com",
+        "language": "English",
+        "seendate": "20220108T224500Z",
+        "socialimage": "https://finchannel.com/wp-content/uploads/2021/09/covid-vaccine.jpg",
+        "sourcecountry": "United States",
+        "title": "Scientists Investigate Why Some Rapid Tests Arent Picking Up Omicron ; Should You Swab Your Throat , Too ? \u25ba FINCHANNEL",
+        "url": "https://finchannel.com/scientists-investigate-why-some-rapid-tests-arent-picking-up-omicron-should-you-swab-your-throat-too/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "emarketer.com",
+        "language": "English",
+        "seendate": "20220108T224500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Key Digital Ad Trends and Forecasts for 2022 | Meet the Analyst Webinar | January 20 , 2022",
+        "url": "https://www.emarketer.com/content/key-digital-ad-trends-forecasts-2022-meet-analyst-webinar-january-20-2022",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220108T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Obama honors Harry Reid as man  who got things done  ",
+        "url": "http://www.msn.com/en-us/news/politics/obama-honors-harry-reid-as-man-who-got-things-done/ar-AASzwwh",
+        "url_mobile": ""
+      },
+      {
+        "domain": "2news.com",
+        "language": "English",
+        "seendate": "20220108T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/2news.com/content/tncms/assets/v3/editorial/f/78/f781b577-9a12-561c-a4fd-885d125368aa/61d9221c3f72d.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://www.2news.com/news/national/obama-honors-late-senate-leader-as-man-who-got-things-done/article_4c4aab2c-9c72-57b8-9bc1-8ffcebe4a96a.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220108T223000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092?size=1",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TOP RANKED GLOBAL INVESTOR COUNSEL , Encourages Baidu",
+        "url": "https://www.globenewswire.com/news-release/2022/01/08/2363474/0/en/ROSEN-TOP-RANKED-GLOBAL-INVESTOR-COUNSEL-Encourages-Baidu-Inc-Investors-with-Losses-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-BIDU.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "yorknewstimes.com",
+        "language": "English",
+        "seendate": "20220108T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/yorknewstimes.com/content/tncms/assets/v3/editorial/e/6c/e6cf8cb5-63b4-5628-a269-df8a0195958e/61d9875d42ece.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://yorknewstimes.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_58f684cc-0ad7-5709-b79b-d99210ab9060.html",
+        "url_mobile": "https://yorknewstimes.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_58f684cc-0ad7-5709-b79b-d99210ab9060.amp.html"
+      },
+      {
+        "domain": "wcfcourier.com",
+        "language": "English",
+        "seendate": "20220108T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/d/a0/da08afc7-69e9-5d73-a55c-411dd03ad9e2/61d9876574d5a.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://wcfcourier.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_b2e35d04-d52e-554f-a668-ca0f4979614b.html",
+        "url_mobile": "https://wcfcourier.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_b2e35d04-d52e-554f-a668-ca0f4979614b.amp.html"
+      },
+      {
+        "domain": "journalstar.com",
+        "language": "English",
+        "seendate": "20220108T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/9/48/9488fe41-d4cd-54b9-9d2f-71a0b8ed22b7/61d9876da9dfb.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://journalstar.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_294125d1-1667-5bea-8503-6274994494d6.html",
+        "url_mobile": "https://journalstar.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_294125d1-1667-5bea-8503-6274994494d6.amp.html"
+      },
+      {
+        "domain": "wiscnews.com",
+        "language": "English",
+        "seendate": "20220108T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/0/b0/0b0dfdcd-572b-553a-a859-5d14ff2f86e3/61d987776ed44.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://www.wiscnews.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_bd80a454-1b6c-5249-9cc8-6bdee3341f3e.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "caledonianrecord.com",
+        "language": "English",
+        "seendate": "20220108T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/b/1d/b1d3115c-d0d7-5365-8a80-97822b078596/61da02915e4d1.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://www.caledonianrecord.com/news/national/obama-honors-late-senate-leader-as-man-who-got-things-done/article_fd3d160c-048e-5173-bee7-6141d6517393.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bakercityherald.com",
+        "language": "English",
+        "seendate": "20220108T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/bakercityherald.com/content/tncms/custom/image/0136f7a2-b308-11e9-b41e-2f07432a8231.jpg?crop=1111%2C1111%2C376%2C0",
+        "sourcecountry": "United States",
+        "title": "Trending Penny Stocks to Buy Right Now ? Here 3 to Watch | Business And Careers",
+        "url": "https://www.bakercityherald.com/online_features/business_and_careers/trending-penny-stocks-to-buy-right-now-here-s-3-to-watch/article_33e87be0-0257-52cc-bf2b-cfd3fd4847ad.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "brisbanetimes.com.au",
+        "language": "English",
+        "seendate": "20220108T223000Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.2942%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_43/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_no_label_no_age_social_wm/16af8307b92b94322df8649f67a3351adc112347",
+        "sourcecountry": "Australia",
+        "title": "Fallen Elizabeth Holmes showed Silicon Valley what not to do",
+        "url": "https://www.brisbanetimes.com.au/business/companies/fallen-elizabeth-holmes-showed-silicon-valley-what-not-to-do-20220106-p59mce.html",
+        "url_mobile": "https://amp.brisbanetimes.com.au/business/companies/fallen-elizabeth-holmes-showed-silicon-valley-what-not-to-do-20220106-p59mce.html"
+      },
+      {
+        "domain": "record-eagle.com",
+        "language": "English",
+        "seendate": "20220108T221500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/record-eagle.com/content/tncms/assets/v3/editorial/0/a0/0a06fce8-e250-5c19-8bdf-1aa7cb74e2fb/61d98470126d9.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://www.record-eagle.com/nation_world/obama-honors-late-senate-leader-as-man-who-got-things-done/article_a579078a-dec8-5526-99a2-ace714d91b37.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "scnow.com",
+        "language": "English",
+        "seendate": "20220108T221500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/scnow.com/content/tncms/assets/v3/editorial/1/07/1073b8bc-7705-5d5c-9ea6-12b224fbd81a/61d98767b69d0.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://scnow.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_3535fd9a-32dc-507a-af8b-733c3283f4de.html",
+        "url_mobile": "https://scnow.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_3535fd9a-32dc-507a-af8b-733c3283f4de.amp.html"
+      },
+      {
+        "domain": "infotel.ca",
+        "language": "English",
+        "seendate": "20220108T221500Z",
+        "socialimage": "https://infotel.ca/images/news/cp/photos/20220108160128-61da024c9bf92858da224fd4jpeg.jpg?&q=95",
+        "sourcecountry": "Canada",
+        "title": "Obama honors late Senate leader as man  who got things done  | iNFOnews | Thompson - Okanagan News Source",
+        "url": "https://infotel.ca/newsitem/us-harry-reid-memorial/cp57229775",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220108T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "New year , new mask : Why you should start wearing N95s",
+        "url": "http://www.msn.com/en-us/health/medical/new-year-new-mask-why-you-should-start-wearing-n95s/ar-AASzK3b",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tynmagazine.com",
+        "language": "English",
+        "seendate": "20220108T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "CFO change at Millicom - Tigo - TyN Magazine",
+        "url": "https://tynmagazine.com/cfo-change-at-millicom-tigo/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "smdailyjournal.com",
+        "language": "English",
+        "seendate": "20220108T220000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/custom/image/0b0b7a5a-a1d1-11e6-9041-cbc40d61c8f5.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://www.smdailyjournal.com/news/national/obama-honors-late-senate-leader-as-man-who-got-things-done/article_def9e033-0550-5dae-b0e8-dcae32dd4261.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tech.hindustantimes.com",
+        "language": "English",
+        "seendate": "20220108T220000Z",
+        "socialimage": "https://images.hindustantimes.com/tech/img/2022/01/08/1600x900/iPhone_SE_2020_1633776702883_1641670169001.jpg",
+        "sourcecountry": "India",
+        "title": "iPhone SE 2022 design will likely make you feel nostalgic - all the way back to iPhone 8",
+        "url": "https://tech.hindustantimes.com/mobile/news/iphone-se-2022-design-will-likely-make-you-feel-nostalgic-all-the-way-back-to-iphone-8-71641668150532.html",
+        "url_mobile": "https://tech.hindustantimes.com/amp/mobile/news/iphone-se-2022-design-will-likely-make-you-feel-nostalgic-all-the-way-back-to-iphone-8-71641668150532.html"
+      },
+      {
+        "domain": "richmond.com",
+        "language": "English",
+        "seendate": "20220108T220000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/1/38/138ed757-8ae6-582a-ad4f-2057150ba697/61d987622d60c.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://richmond.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_5083fd45-01d4-5598-956e-e5aba303f12e.html",
+        "url_mobile": "https://richmond.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_5083fd45-01d4-5598-956e-e5aba303f12e.amp.html"
+      },
+      {
+        "domain": "independenttribune.com",
+        "language": "English",
+        "seendate": "20220108T220000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/independenttribune.com/content/tncms/assets/v3/editorial/9/42/9425f6e1-5eaf-5358-b65f-5bdff8e66b45/61d987682330c.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://independenttribune.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_33dbf814-2e79-5298-ae5c-d2409d87b88d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "siouxcityjournal.com",
+        "language": "English",
+        "seendate": "20220108T220000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/0/f2/0f21be58-5ff0-5d64-a91f-9d5b9967e828/61d987701d2d6.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Obama honors late Senate leader as man  who got things done  ",
+        "url": "https://siouxcityjournal.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_a3dae623-88aa-566d-af65-c4c8bcdc75b6.html",
+        "url_mobile": "https://siouxcityjournal.com/news/national/obituaries/obama-honors-late-senate-leader-as-man-who-got-things-done/article_a3dae623-88aa-566d-af65-c4c8bcdc75b6.amp.html"
+      },
+      {
+        "domain": "bizpacreview.com",
+        "language": "English",
+        "seendate": "20220108T214500Z",
+        "socialimage": "https://www.bizpacreview.com/wp-content/uploads/2022/01/Tim-Cook-SG-1.jpg",
+        "sourcecountry": "United States",
+        "title": "Apple CEO Tim Cook made nearly $100 million in 2021",
+        "url": "https://www.bizpacreview.com/2022/01/08/apple-ceo-tim-cook-made-nearly-100-million-in-2021-1185942/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizpacreview.com",
+        "language": "English",
+        "seendate": "20220108T214500Z",
+        "socialimage": "https://www.bizpacreview.com/wp-content/uploads/2022/01/Uyghur-Muslims-SG-1.jpg",
+        "sourcecountry": "United States",
+        "title": "Intel bends knee to China , scrubs all mentions of Xinjiang forced labor from letter",
+        "url": "https://www.bizpacreview.com/2022/01/08/intel-bends-knee-to-china-scrubs-all-mentions-of-xinjiang-forced-labor-from-letter-1185910/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220108T214500Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/12/20031944/software-developer-6521720_1920.jpg",
+        "sourcecountry": "United States",
+        "title": "10 Best AI Stocks for 2022 - Insider Monkey",
+        "url": "https://www.insidermonkey.com/blog/10-best-ai-stocks-for-2022-1016674/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cryptohayes.medium.com",
+        "language": "English",
+        "seendate": "20220108T214500Z",
+        "socialimage": "https://miro.medium.com/max/400/0*nbbPYRSys_g7ZT_0",
+        "sourcecountry": "United States",
+        "title": "Maelstrom . ( Any views expressed in the below are \u2026 | by Arthur Hayes | Jan , 2022",
+        "url": "https://cryptohayes.medium.com/maelstrom-ee6021e9d0c2?source=home---------0---------------------8092cece_6d1d_492b_9da1_ea76e5014eb4-------7---",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizpacreview.com",
+        "language": "English",
+        "seendate": "20220108T214500Z",
+        "socialimage": "https://www.bizpacreview.com/wp-content/uploads/2022/01/SG-YouTube-Today-show-Biden-1.jpg",
+        "sourcecountry": "United States",
+        "title": "Republican leaders slam Biden after jobs report shows  massive miss  ",
+        "url": "https://www.bizpacreview.com/2022/01/08/republican-leaders-slam-biden-after-jobs-report-shows-massive-miss-1185905/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220108T214500Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+        "sourcecountry": "United States",
+        "title": "5 Best AI Stocks for 2022 - Insider Monkey",
+        "url": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220108T213000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/08/D_4b6abimage_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Probability of Nasdaq 100 and Dollar Breakdowns Next Week",
+        "url": "https://menafn.com/1103507008/Probability-of-Nasdaq-100-and-Dollar-Breakdowns-Next-Week&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bitcoinmagazine.com",
+        "language": "English",
+        "seendate": "20220108T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bitcoin Attack Ultimate Ponzi Scheme - Bitcoin Magazine : Bitcoin News , Articles , Charts , and Guides",
+        "url": "https://bitcoinmagazine.com/business/bitcoin-attack-ultimate-ponzi-scheme",
+        "url_mobile": "https://bitcoinmagazine.com/.amp/business/bitcoin-attack-ultimate-ponzi-scheme"
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220108T213000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates EPAY , CCMP , VRS , BRG ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://apnews.com/press-release/globe-newswire/business-e7812834f3c1f879efc3fb57ad7d1a93",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T211500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660522/cigarette-money-taxes-costs-smoking-source-getty.jpg",
+        "sourcecountry": "United States",
+        "title": "Why 22nd Century Group Was on Fire in December With a 23 % Gain",
+        "url": "https://www.fool.com/investing/2022/01/08/why-22nd-century-group-was-on-fire-in-december-wit/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "livemint.com",
+        "language": "English",
+        "seendate": "20220108T211500Z",
+        "socialimage": "https://images.livemint.com/img/2022/01/08/600x338/372297352_0-8_1623092092217_1641633842313.jpg",
+        "sourcecountry": "India",
+        "title": "Why Apple iMessage is winning : Teens dread the green text bubble",
+        "url": "https://www.livemint.com/technology/why-apple-s-imessage-is-winning-teens-dread-the-green-text-bubble-11641633457561.html",
+        "url_mobile": "https://www.livemint.com/technology/why-apple-s-imessage-is-winning-teens-dread-the-green-text-bubble/amp-11641633457561.html"
+      },
+      {
+        "domain": "henryherald.com",
+        "language": "English",
+        "seendate": "20220108T211500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/henryherald.com/content/tncms/assets/v3/editorial/a/ef/aef1b4ae-1e6c-5857-a981-31f094a8decd/61d9e72a51305.image.jpg?crop=1926%2C1011%2C0%2C32",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.henryherald.com/news/business/need-a-raise-nows-the-time-to-demand-one/article_a9eb1f5e-30f3-58e1-b586-65b6302883e9.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "eturbonews.com",
+        "language": "English",
+        "seendate": "20220108T211500Z",
+        "socialimage": "https://eturbonews.com/wp-content/uploads/2022/01/SATURDAY-Hotel-History-Image-courtesy-of-S.-Turkiel.png",
+        "sourcecountry": "United States",
+        "title": "The Greenbrier Hotel : Water to Cure Everything",
+        "url": "https://eturbonews.com/3013891/the-greenbrier-hotel-water-to-cure-everything/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How Bad Is the Stock Market Route Now , and How Bad Will its Collapse Get ? \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/how-bad-is-the-stock-market-route-now-and-how-bad-will-its-collapse-get/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The  Great Ammunition Shortage  Will Continue , Two Firms Now Control The Ammo Industry \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/the-great-ammunition-shortage-will-continue-two-firms-now-control-the-ammo-industry/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/5dbbadd8-4d10-4402-b700-103223bb4248?size=1",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates IHC , GCP , LEVL , CPLG ; ",
+        "url": "https://www.globenewswire.com/news-release/2022/01/08/2363465/0/en/Halper-Sadeh-LLP-Investigates-IHC-GCP-LEVL-CPLG-Shareholders-are-Encouraged-to-Contact-the-Firm.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "english.news.cn",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "U . S . reopens mass vaccination sites , suspends cruises amid COVID - 19 surge - Xinhua",
+        "url": "https://english.news.cn/20220109/bccb1948d7204db49a6f163e81981033/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "techstory.in",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "https://techstory.in/wp-content/uploads/2022/01/image_273.jpg",
+        "sourcecountry": "India",
+        "title": "Citigroup to fire unvaccinated employees by month end",
+        "url": "https://techstory.in/citigroup-to-fire-unvaccinated-employees-by-month-end/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "china.org.cn",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : U . S . reopens mass vaccination sites , suspends cruises amid COVID - 19 surge",
+        "url": "http://www.china.org.cn/world/Off_the_Wire/2022-01/09/content_77978061.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "freep.com",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2021/10/16/PDTF/29566c6c-e596-4936-a9bb-696f228dea43-IMG_1A_rail_1009__2__1_1_05.jpeg?auto=webp&crop=2777,1563,x0,y0&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Detroit to Toronto by train plan gets boost with Amtrak agreement",
+        "url": "https://www.freep.com/story/travel/michigan/2022/01/08/detroit-toronto-train-plan-gets-boost-amtrak-agreement/9135948002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.com.au",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "https://content.api.news/v3/images/bin/18d1de1998c6f6caccf4f3206d6dd17a",
+        "sourcecountry": "Australia",
+        "title": "Kim Kardashian bikini selfie proves  retro  accessory comeback | news . com . au Australia leading news site",
+        "url": "https://www.news.com.au/lifestyle/real-life/news-life/kim-kardashian-bikini-selfie-proves-retro-accessorys-comeback/news-story/d3e4ecdd422e3e846e67795cd8e545de",
+        "url_mobile": "https://www.news.com.au/lifestyle/real-life/news-life/kim-kardashian-bikini-selfie-proves-retro-accessorys-comeback/news-story/d3e4ecdd422e3e846e67795cd8e545de?amp"
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates TSC , RRD , NPTN , ROG ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://apnews.com/press-release/globe-newswire/business-5e9fbe006d1f36bd506671f03c48d1a2",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/5dbbadd8-4d10-4402-b700-103223bb4248?size=1",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates TSC , RRD , NPTN , ROG ; ",
+        "url": "https://www.globenewswire.com/news-release/2022/01/08/2363464/0/en/Halper-Sadeh-LLP-Investigates-TSC-RRD-NPTN-ROG-Shareholders-are-Encouraged-to-Contact-the-Firm.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "vg247.com",
+        "language": "English",
+        "seendate": "20220108T210000Z",
+        "socialimage": "https://asset.vg247.com/gamestop_ntfs.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gamestop_ntfs.jpg",
+        "sourcecountry": "United States",
+        "title": "GameStop stock soars 20 % over the news it creating an NFT marketplace",
+        "url": "https://www.vg247.com/gamestop-stock-up-20-over-creation-of-nft-marketplace",
+        "url_mobile": "https://www.vg247.com/amp/gamestop-stock-up-20-over-creation-of-nft-marketplace"
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220108T204500Z",
+        "socialimage": "",
+        "sourcecountry": "Taiwan",
+        "title": "Asian shares mixed on Wall St drop - Taipei Times",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2022/01/09/2003771001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "china.org.cn",
+        "language": "English",
+        "seendate": "20220108T204500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Unvaccinated Citigroup workers may lose jobs by end of month",
+        "url": "http://www.china.org.cn/world/Off_the_Wire/2022-01/09/content_77978128.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220108T204500Z",
+        "socialimage": "",
+        "sourcecountry": "Taiwan",
+        "title": "Wall St declines for first week of year",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2022/01/09/2003770999",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220108T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Biden COVID vaccine mandate : Which US workers need proof of vaccination ? ",
+        "url": "https://www.msn.com/en-us/news/us/biden-covid-vaccine-mandate-which-us-workers-need-proof-of-vaccination/ar-AANOu8z",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news-daily.com",
+        "language": "English",
+        "seendate": "20220108T203000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/news-daily.com/content/tncms/assets/v3/editorial/d/59/d59fca00-15ab-59df-b966-003d1d8c200a/61d9e72a56ac1.image.jpg?crop=1926%2C1011%2C0%2C32",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.news-daily.com/news/business/need-a-raise-nows-the-time-to-demand-one/article_03acc442-3d28-54f5-8f8e-5cce778803cc.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T203000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660401/consumer-goods-bed-bath-and-beyond-store-bbby.jpg",
+        "sourcecountry": "United States",
+        "title": "Bed Bath & Beyond Earnings : Another Disaster",
+        "url": "https://www.fool.com/investing/2022/01/08/bed-bath-beyond-earnings-another-disaster/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "watchingamerica.com",
+        "language": "English",
+        "seendate": "20220108T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Prices and Funds \u2013 Watching America",
+        "url": "https://watchingamerica.com/WA/2022/01/08/prices-and-funds/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theweek.com",
+        "language": "English",
+        "seendate": "20220108T203000Z",
+        "socialimage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641669638/GettyImages-1357754350.jpg",
+        "sourcecountry": "United States",
+        "title": "Sen . John Thune , South Dakota Republican who drew Trump ire , will seek a 4th term",
+        "url": "https://theweek.com/2022-elections/1008769/sen-john-thune-south-dakota-republican-who-drew-trumps-ire-will-seek-a-4th",
+        "url_mobile": "https://theweek.com/2022-elections/1008769/sen-john-thune-south-dakota-republican-who-drew-trumps-ire-will-seek-a-4th?amp"
+      },
+      {
+        "domain": "newser.com",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "https://img1-azrcdn.newser.com/image/1392788-12-20220108112155.jpeg",
+        "sourcecountry": "United States",
+        "title": "Hostage Negotiator Receives Call From Own Abducted Wife",
+        "url": "https://www.newser.com/story/315403/this-time-call-to-hostage-negotiator-was-about-his-wife.html",
+        "url_mobile": "https://amp.newser.com/story/315403/this-time-call-to-hostage-negotiator-was-about-his-wife.html"
+      },
+      {
+        "domain": "thepharmaletter.com",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Regulation - Eisai , Japan , AAIC",
+        "url": "https://www.thepharmaletter.com/listing/regulation/eisai-japan-aaic?tagid[]=5027&tagid[]=8658&tagid[]=54767",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "https://forextv.com/wp-content/uploads/The-Rosen-Law-Firm-PA-635.png",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TOP RANKED GLOBAL COUNSEL , Encourages Exicure , Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action \u2013 XCUR",
+        "url": "https://forextv.com/top-news/rosen-top-ranked-global-counsel-encourages-exicure-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action-xcur/",
+        "url_mobile": "https://forextv.com/top-news/rosen-top-ranked-global-counsel-encourages-exicure-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action-xcur/amp/"
+      },
+      {
+        "domain": "presstv.ir",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "",
+        "sourcecountry": "Iran",
+        "title": "As spending bill stalls , Biden climate goals remain elusive",
+        "url": "https://www.presstv.ir/Detail/2022/01/08/674330/As-spending-bill-stalls,-Biden-climate-goals-remain-elusive",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "https://forextv.com/wp-content/uploads/The-Rosen-Law-Firm-PA-636.png",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A TRUSTED AND TOP RANKED LAW FIRM , Encourages Playtika Holding Corp . Investors to Secure Counsel Before Important January 24 Deadline in Securities Class Action \u2013 PLTK",
+        "url": "https://forextv.com/top-news/rosen-a-trusted-and-top-ranked-law-firm-encourages-playtika-holding-corp-investors-to-secure-counsel-before-important-january-24-deadline-in-securities-class-action-pltk/",
+        "url_mobile": "https://forextv.com/top-news/rosen-a-trusted-and-top-ranked-law-firm-encourages-playtika-holding-corp-investors-to-secure-counsel-before-important-january-24-deadline-in-securities-class-action-pltk/amp/"
+      },
+      {
+        "domain": "nysun.com",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Lani Guinier",
+        "url": "https://www.nysun.com/editorials/lani-guinier/91885/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "https://forextv.com/wp-content/uploads/The-Rosen-Law-Firm-PA-637.png",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A LEADING AND LONGSTANDING LAW FIRM , Encourages Alfi , Inc . Investors to Secure Counsel Before Important January 31 Deadline in Securities Class Action \u2013 ALF",
+        "url": "https://forextv.com/top-news/rosen-a-leading-and-longstanding-law-firm-encourages-alfi-inc-investors-to-secure-counsel-before-important-january-31-deadline-in-securities-class-action-alf/",
+        "url_mobile": "https://forextv.com/top-news/rosen-a-leading-and-longstanding-law-firm-encourages-alfi-inc-investors-to-secure-counsel-before-important-january-31-deadline-in-securities-class-action-alf/amp/"
+      },
+      {
+        "domain": "smh.com.au",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.2942%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_43/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/16af8307b92b94322df8649f67a3351adc112347",
+        "sourcecountry": "Australia",
+        "title": "Fallen Elizabeth Holmes showed Silicon Valley what not to do",
+        "url": "https://www.smh.com.au/business/companies/fallen-elizabeth-holmes-showed-silicon-valley-what-not-to-do-20220106-p59mce.html",
+        "url_mobile": "https://amp.smh.com.au/business/companies/fallen-elizabeth-holmes-showed-silicon-valley-what-not-to-do-20220106-p59mce.html"
+      },
+      {
+        "domain": "theage.com.au",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.2942%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_43/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/16af8307b92b94322df8649f67a3351adc112347",
+        "sourcecountry": "Australia",
+        "title": "Fallen Elizabeth Holmes showed Silicon Valley what not to do",
+        "url": "https://www.theage.com.au/business/companies/fallen-elizabeth-holmes-showed-silicon-valley-what-not-to-do-20220106-p59mce.html",
+        "url_mobile": "https://amp.theage.com.au/business/companies/fallen-elizabeth-holmes-showed-silicon-valley-what-not-to-do-20220106-p59mce.html"
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/45.jpg",
+        "sourcecountry": "",
+        "title": "Inari Medical Inc . ( NASDAQ : NARI ): The Stock Was Up 18 . 72 Percent From Its Lows On Friday , So What To Come ? ",
+        "url": "https://marketingsentinel.com/2022/01/08/inari-medical-inc-nasdaq-narithe-stock-was-up-18-72-percent-from-its-lows-on-friday-so-whats-to-come/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "presstv.ir",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "",
+        "sourcecountry": "Iran",
+        "title": "US banking firm Citigroup to fire unvaccinated employees this month",
+        "url": "https://www.presstv.ir/Detail/2022/01/08/674337/US-Citigroup-bank-wall-street-jab-job-vaccination",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220108T201500Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092?size=1",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A TRUSTED AND TOP RANKED LAW FIRM , Encourages iQIYI , ",
+        "url": "https://www.globenewswire.com/news-release/2022/01/08/2363459/0/en/ROSEN-A-TRUSTED-AND-TOP-RANKED-LAW-FIRM-Encourages-iQIYI-Inc-Investors-to-Secure-Counsel-Before-Important-January-31-Deadline-in-Securities-Class-Action-IQ.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "telegraph.co.uk",
+        "language": "English",
+        "seendate": "20220108T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Donald Trump offers a grim warning about the West political future",
+        "url": "https://www.telegraph.co.uk/news/2022/01/08/donald-trump-offers-grim-warning-wests-political-future/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "industrialit.com.au",
+        "language": "English",
+        "seendate": "20220108T200000Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Switzerland Surface Treatment Market \u2013 Industrial IT",
+        "url": "https://industrialit.com.au/tag/switzerland-surface-treatment-market/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thepharmaletter.com",
+        "language": "English",
+        "seendate": "20220108T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Regulation - Eisai , Japan , Kisplyx",
+        "url": "https://www.thepharmaletter.com/listing/regulation/eisai-japan-kisplyx?tagid[]=5027&tagid[]=8658&tagid[]=33071",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thepharmaletter.com",
+        "language": "English",
+        "seendate": "20220108T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Regulation - Eisai , Japan , Research",
+        "url": "https://www.thepharmaletter.com/listing/regulation/eisai-japan-research?tagid[]=5027&tagid[]=8658&tagid[]=11",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220108T194500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/08/KT_e31beimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "UAE - Hawkish Fed gives value stocks a second wind",
+        "url": "https://menafn.com/1103507921/UAE-Hawkish-Fed-gives-value-stocks-a-second-wind&source=26",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220108T194500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/08/KT_e31beimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "UAE - Hawkish Fed gives value stocks a second wind",
+        "url": "https://menafn.com/1103507921/UAE-Hawkish-Fed-gives-value-stocks-a-second-wind&source=24",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220108T194500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/08/18/52696927-0-image-a-8_1641665873369.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Harry Reid memorial in Vegas drawing nation top Democrats",
+        "url": "https://www.dailymail.co.uk/news/article-10382135/Harry-Reid-memorial-Vegas-drawing-nations-Democrats.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "huffpost.com",
+        "language": "English",
+        "seendate": "20220108T194500Z",
+        "socialimage": "https://img.huffingtonpost.com/asset/61d9c594260000d7cc3d22ca.jpeg?cache=E7tc0wZQ6x&ops=1778_1000",
+        "sourcecountry": "",
+        "title": "Zoo Mourns Death Of  Beloved  Dog Who Helped Raise Cheetah Cubs",
+        "url": "https://www.huffpost.com/entry/dog-raised-cheetah-cubs-coby-dies_n_61d9c356e4b0bcd2195fd7d5",
+        "url_mobile": "https://www.huffpost.com/entry/dog-raised-cheetah-cubs-coby-dies_n_61d9c356e4b0bcd2195fd7d5/amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220108T194500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "What Life Was Like in the Roaring Twenties",
+        "url": "http://www.msn.com/en-us/travel/news/what-life-was-like-in-the-roaring-twenties/ss-AASzsUP",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220108T194500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/08/KT_e31beimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "UAE - Hawkish Fed gives value stocks a second wind",
+        "url": "https://menafn.com/1103507921/UAE-Hawkish-Fed-gives-value-stocks-a-second-wind&source=19",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hongkongherald.com",
+        "language": "English",
+        "seendate": "20220108T194500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "China",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.hongkongherald.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hongkongherald.com",
+        "language": "English",
+        "seendate": "20220108T194500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Chinese shares close lower Thursday",
+        "url": "https://www.hongkongherald.com/news/272113416/chinese-shares-close-lower-thursday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220108T194500Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Lost Money in Tecnoglass Inc .? ",
+        "url": "https://apnews.com/press-release/business-wire/business-tecnoglass-inc-66c5ac4cc11b45fabadfafb5db597b09",
+        "url_mobile": ""
+      },
+      {
+        "domain": "caribbeanherald.com",
+        "language": "English",
+        "seendate": "20220108T193000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "United States",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.caribbeanherald.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jamaicantimes.com",
+        "language": "English",
+        "seendate": "20220108T193000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Jamaica",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.jamaicantimes.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thepharmaletter.com",
+        "language": "English",
+        "seendate": "20220108T193000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Regulation - Eisai , Japan , Belviq XR",
+        "url": "https://www.thepharmaletter.com/listing/regulation/eisai-japan-belviq-xr?tagid[]=5027&tagid[]=8658&tagid[]=32796",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kezi.com",
+        "language": "English",
+        "seendate": "20220108T193000Z",
+        "socialimage": "https://cdn.cnn.com/cnnnext/dam/assets/220106141632-us-jobs-december-21-live-video.jpg",
+        "sourcecountry": "United States",
+        "title": "US economy added 199 , 000 jobs in December",
+        "url": "https://www.kezi.com/content/news/576031852.html",
+        "url_mobile": "http://www.kezi.com/templates/AMP?contentID=576031852"
+      },
+      {
+        "domain": "fool.ca",
+        "language": "English",
+        "seendate": "20220108T193000Z",
+        "socialimage": "https://www.fool.ca/wp-content/uploads/2020/03/COVID_newspaper.jpg",
+        "sourcecountry": "Canada",
+        "title": "2 Stocks to Buy if There Is Another COVID Lockdown | The Motley Fool Canada",
+        "url": "https://www.fool.ca/2022/01/08/2-stocks-to-buy-if-there-is-another-covid-lockdown/",
+        "url_mobile": "https://www.fool.ca/2022/01/08/2-stocks-to-buy-if-there-is-another-covid-lockdown/amp/"
+      },
+      {
+        "domain": "philippinetimes.com",
+        "language": "English",
+        "seendate": "20220108T193000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Philippines",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.philippinetimes.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "790business.com",
+        "language": "English",
+        "seendate": "20220108T193000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.790business.com/news/need-a-raise-nows-the-time-to-demand-one/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "veteranstoday.com",
+        "language": "English",
+        "seendate": "20220108T191500Z",
+        "socialimage": "https://www.veteranstoday.com/wp-content/uploads/2022/01/ScreenHunter-5756.jpg",
+        "sourcecountry": "United States",
+        "title": "Exclusive : The Critical Days of Civilization \u2013 Veterans Today | Military Foreign Affairs Policy Journal for Clandestine Services",
+        "url": "https://www.veteranstoday.com/2022/01/08/exclusive-the-critical-days-of-civilization/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcdfw.com",
+        "language": "English",
+        "seendate": "20220108T191500Z",
+        "socialimage": "https://media.nbcdfw.com/2022/01/106998348-1641573650663-gettyimages-1363291623-dscf0976_20220107104016341.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Inflation Will Be the Big Market Theme This Year , Two ETF Experts Agree . Here One Way to Play It",
+        "url": "https://www.nbcdfw.com/news/business/money-report/inflation-will-be-the-big-market-theme-this-year-two-etf-experts-agree-heres-one-way-to-play-it/2854701/",
+        "url_mobile": "https://www.nbcdfw.com/news/business/money-report/inflation-will-be-the-big-market-theme-this-year-two-etf-experts-agree-heres-one-way-to-play-it/2854701/?amp"
+      },
+      {
+        "domain": "realmoney.thestreet.com",
+        "language": "English",
+        "seendate": "20220108T191500Z",
+        "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/a79eca3b-6fc3-11ec-bba4-e76e3347724f.jpg",
+        "sourcecountry": "United States",
+        "title": "The Score Takes Care of Itself",
+        "url": "https://realmoney.thestreet.com/investing/stocks/the-score-takes-care-of-itself-15878519",
+        "url_mobile": ""
+      },
+      {
+        "domain": "blog.udn.com",
+        "language": "English",
+        "seendate": "20220108T191500Z",
+        "socialimage": "https://images2.markets.businessinsider.com/61d86a253ef33f001823c69f?format=jpeg",
+        "sourcecountry": "Taiwan",
+        "title": "Jeff Gundlach sees US stocks tumbling as the Fed hikes rates - \u8881\u798f\u5ef7\u7684\u90e8\u843d\u683c ( \u9752\u6d77\u7518\u8085\u8a6d\u7570\u5730\u9707\u524d\u4e00\u79d2\u9583\u767d\u5149 \uff09 ",
+        "url": "http://blog.udn.com/charlesyuen/171191856",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220108T191500Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": " ( FSLR ) DEADLINE : Did You Suffer a Substantial Loss ? Contact Johnson Fistel About Leading First Solar Class Action Lawsuit",
+        "url": "https://apnews.com/press-release/globe-newswire/business-lawsuits-class-action-lawsuits-shareholder-rights-33749628183544bd3396bc5bfff950b6",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220108T191500Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1704758!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/the-new-york-stock-exchange-nyse-in-new-york-u-s-on-monday-jan-3-2022-as-2022-begins-the-overriding-message-from-almost-50-financial-institutions-across-wall-street-and-beyond-is-that-conditions-still-look-good-but-the-rip-roaring-rallies-powered-by-the-reopening-are-history-photographer-michael-nagle-bloomberg.jpg",
+        "sourcecountry": "Canada",
+        "title": "Veteran Equity Strategist Expects a  Cathartic Upchuck  in 2022",
+        "url": "https://www.bnnbloomberg.ca/veteran-equity-strategist-expects-a-cathartic-upchuck-in-2022-1.1704757",
+        "url_mobile": "https://www.bnnbloomberg.ca/veteran-equity-strategist-expects-a-cathartic-upchuck-in-2022-1.1704757.amp.html"
+      },
+      {
+        "domain": "pharmiweb.com",
+        "language": "English",
+        "seendate": "20220108T191500Z",
+        "socialimage": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+        "sourcecountry": "United States",
+        "title": "NVAX DEADLINE : Kessler Topaz Meltzer & Check , LLP Reminds Investors of Novavax , Inc . of Deadline in",
+        "url": "https://www.pharmiweb.com/press-release/2022-01-08/nvax-deadline-kessler-topaz-meltzer-check-llp-reminds-investors-of-novavax-inc-of-deadline-in",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bloombergquint.com",
+        "language": "English",
+        "seendate": "20220108T190000Z",
+        "socialimage": "",
+        "sourcecountry": "India",
+        "title": "Surging Bond Rates Threaten to Muzzle Dip - Buying Stock Bulls",
+        "url": "https://www.bloombergquint.com/onweb/surging-bond-rates-threaten-to-muzzle-dip-buying-stock-bulls",
+        "url_mobile": "/amp/onweb/surging-bond-rates-threaten-to-muzzle-dip-buying-stock-bulls"
+      },
+      {
+        "domain": "mashable.com",
+        "language": "English",
+        "seendate": "20220108T190000Z",
+        "socialimage": "https://helios-i.mashable.com/imagery/articles/065YyD2BTcU4llHuwxtVfT9/hero-image.fill.size_1200x675.v1641665227.jpg",
+        "sourcecountry": "United States",
+        "title": "Elon Musk says price of Tesla  full self - driving  feature is going up",
+        "url": "https://mashable.com/article/tesla-full-self-driving-price-hike",
+        "url_mobile": "https://mashable.com/article/tesla-full-self-driving-price-hike?amp"
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220108T190000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Revance Therapeutics Class Action Reminder",
+        "url": "https://apnews.com/press-release/newmediawire/business-d758994848bfd6035a413e2077390a2b",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220108T190000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": " ( FSLR ) DEADLINE : Did You Suffer a Substantial Loss ? Contact",
+        "url": "https://www.globenewswire.com/news-release/2022/01/08/2363452/0/en/FSLR-DEADLINE-Did-You-Suffer-a-Substantial-Loss-Contact-Johnson-Fistel-About-Leading-First-Solar-Class-Action-Lawsuit.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T190000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660469/a-person-removing-a-segment-from-a-dna-strand.jpg",
+        "sourcecountry": "United States",
+        "title": "Why CRISPR Therapeutics Stock Sank 50 . 5 % in 2021 and Continues to Fall",
+        "url": "https://www.fool.com/investing/2022/01/08/why-crispr-therapeutics-stock-sank-505-in-2021/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220108T190000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Meta Materials Shareholder Alert",
+        "url": "https://apnews.com/press-release/newmediawire/business-8a8c526776c58afba8664b107c9a6e20",
+        "url_mobile": ""
+      },
+      {
+        "domain": "localnews8.com",
+        "language": "English",
+        "seendate": "20220108T190000Z",
+        "socialimage": "https://localnews8.b-cdn.net/2022/01/hypatia-h_3ed7ececcc6edac5cb6c64ce2e47fec5-h_7e31dbdbef737439c82a9e3142c8a901-300-860x480.jpg",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://localnews8.com/money/cnn-business-consumer/2022/01/08/need-a-raise-nows-the-time-to-demand-one/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220108T184500Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "sourcecountry": "",
+        "title": "INVESTOR REMINDER : Kessler Topaz Meltzer & Check , LLP Reminds Marathon Digital Holdings , Inc . ( MARA ) Shareholders of Securities Fraud Class Action Lawsuit Filed on Their Behalf",
+        "url": "https://www.marketscreener.com/quote/stock/MARATHON-DIGITAL-HOLDINGS-56976419/news/INVESTOR-REMINDER-Kessler-Topaz-Meltzer-Check-LLP-Reminds-Marathon-Digital-Holdings-Inc-MARA-37495436/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/MARATHON-DIGITAL-HOLDINGS-56976419/news/INVESTOR-REMINDER-Kessler-Topaz-Meltzer-Check-LLP-Reminds-Marathon-Digital-Holdings-Inc-MARA-37495436/"
+      },
+      {
+        "domain": "techncruncher.blogspot.com",
+        "language": "English",
+        "seendate": "20220108T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "GameStop jumps after report on NFT trading hub , crypto pact",
+        "url": "https://techncruncher.blogspot.com/2022/01/gamestop-jumps-after-report-on-nft.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nytimes.com",
+        "language": "English",
+        "seendate": "20220108T184500Z",
+        "socialimage": "https://static01.nyt.com/images/2022/01/07/obituaries/07Birnbaum1/07Birnbaum1-facebookJumbo.jpg",
+        "sourcecountry": "United States",
+        "title": "Robert Birnbaum , Architect of Modern - Day Financial Markets , Dies at 94",
+        "url": "https://www.nytimes.com/2022/01/08/business/robert-birnbaum-dead.html",
+        "url_mobile": "https://www.nytimes.com/2022/01/08/business/robert-birnbaum-dead.amp.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220108T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Facebook parent Meta head of communications exits company",
+        "url": "https://www.msn.com/en-us/news/technology/facebook-parent-metas-head-of-communications-exits-company/ar-AASzrrH",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businesstoday.in",
+        "language": "English",
+        "seendate": "20220108T184500Z",
+        "socialimage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202201/meta1200-sixteen_nine.jpg",
+        "sourcecountry": "India",
+        "title": "Head of communications at Facebook parent Meta leaves company",
+        "url": "https://www.businesstoday.in/latest/corporate/story/head-of-communications-at-facebook-parent-meta-leaves-company-318378-2022-01-08",
+        "url_mobile": "https://www.businesstoday.in/amp/latest/corporate/story/head-of-communications-at-facebook-parent-meta-leaves-company-318378-2022-01-08"
+      },
+      {
+        "domain": "streetinsider.com",
+        "language": "English",
+        "seendate": "20220108T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "MetaLaunch ( $ASVA ) Announces $3 Million Fund to Boost Metaverse and Gaming Projects",
+        "url": "https://www.streetinsider.com/Newsfile/MetaLaunch%20($ASVA)%20Announces%20$3%20Million%20Fund%20to%20Boost%20Metaverse%20and%20Gaming%20Projects/19437882.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cbn.com",
+        "language": "English",
+        "seendate": "20220108T184500Z",
+        "socialimage": "https://www1.cbn.com/sites/default/files/media/slider/images/manhattanskyscraperap_hdv.jpg",
+        "sourcecountry": "United States",
+        "title": "Citigroup to Terminate Employees Who Refuse to Comply With COVID - 19 Vaccine Requirements",
+        "url": "https://www1.cbn.com/cbnnews/us/2022/january/citigroup-to-terminate-employees-who-refuse-to-comply-with-covid-19-vaccine-requirements",
+        "url_mobile": "https://www1.cbn.com/cbnnews/us/2022/january/citigroup-to-terminate-employees-who-refuse-to-comply-with-covid-19-vaccine-requirements?amp"
+      },
+      {
+        "domain": "techncruncher.blogspot.com",
+        "language": "English",
+        "seendate": "20220108T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Facebook parent head of communications leaves company",
+        "url": "https://techncruncher.blogspot.com/2022/01/facebook-parents-head-of-communications.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "techncruncher.blogspot.com",
+        "language": "English",
+        "seendate": "20220108T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Reddit taps Morgan Stanley , Goldman Sachs for IPO",
+        "url": "https://techncruncher.blogspot.com/2022/01/reddit-taps-morgan-stanley-goldman.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220108T184500Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1704749!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/with-the-fed-turning-hawkish-bitcoin-is-already-down-some-40-from-its-highs.jpg",
+        "sourcecountry": "Canada",
+        "title": "Crypto Diehards Are About to Find Out If It Really Was a Bubble",
+        "url": "https://www.bnnbloomberg.ca/crypto-diehards-are-about-to-find-out-if-it-really-was-a-bubble-1.1704748",
+        "url_mobile": "https://www.bnnbloomberg.ca/crypto-diehards-are-about-to-find-out-if-it-really-was-a-bubble-1.1704748.amp.html"
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/cb/6cbb183d-7fe1-5f19-be7f-e09049916637/61d96b2ec8e1e.image.jpg?crop=700%2C368%2C0%2C48",
+        "sourcecountry": "United States",
+        "title": "3 Unstoppable ETFs to Stock Up On in 2022",
+        "url": "https://www.stltoday.com/business/investment/personal-finance/3-unstoppable-etfs-to-stock-up-on-in-2022/article_ca0b49b7-6ed6-5434-8eaa-9d823f0273d9.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Facebook parent Meta head of communications exits company",
+        "url": "http://www.msn.com/en-us/news/technology/facebook-parent-meta-s-head-of-communications-exits-company/ar-AASzrrH",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thepharmaletter.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Regulation - Eisai , Japan , Government Affairs",
+        "url": "https://www.thepharmaletter.com/listing/regulation/eisai-japan-government-affairs?tagid[]=5027&tagid[]=8658&tagid[]=4",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wtsp.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "https://media.wtsp.com/assets/WTSP/images/c189f148-d0d8-4ad6-b2a1-e06be44d7fd6/c189f148-d0d8-4ad6-b2a1-e06be44d7fd6_1140x641.jpeg",
+        "sourcecountry": "United States",
+        "title": "USF Health doctor discusses mixed messaging over mask usage",
+        "url": "https://www.wtsp.com/article/news/health/coronavirus/mixed-messaging-over-mask-usage/67-7a64d55b-90c1-41c3-bb41-10ccb72fe2a8",
+        "url_mobile": "https://www.wtsp.com/amp/article/news/health/coronavirus/mixed-messaging-over-mask-usage/67-7a64d55b-90c1-41c3-bb41-10ccb72fe2a8"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/07/V_8965bimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Crypto Meltdown Continues , Down 40 % From The November High",
+        "url": "https://menafn.com/1103505187/Crypto-Meltdown-Continues-Down-40-From-The-November-High&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/93/99390175-6bbd-55f2-ba07-3455e8503fae/61d98e6b4c6ec.image.jpg?crop=700%2C368%2C0%2C49",
+        "sourcecountry": "United States",
+        "title": "Already Worrying About Finances in 2022 ? Relax With These 3 Dividend Stocks",
+        "url": "https://www.stltoday.com/business/investment/personal-finance/already-worrying-about-finances-in-2022-relax-with-these-3-dividend-stocks/article_164a7f89-3fe1-59f1-a02c-95d539ad7c47.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/44.jpg",
+        "sourcecountry": "",
+        "title": "European Wax Center Inc . ( NASDAQ : EWCZ ) Shares Have Been Down About - 6 . 92 % Year - To - Date Since The Beginning Of 2022",
+        "url": "https://marketingsentinel.com/2022/01/08/european-wax-center-inc-nasdaq-ewcz-shares-have-been-down-about-6-92-year-to-date-since-the-beginning-of-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/a/33/a33adcb0-921a-551d-91fe-5b282d754ea4/61d98e6aedd99.image.jpg?crop=700%2C368%2C0%2C49",
+        "sourcecountry": "United States",
+        "title": "New to the Stock Market ? 3 Investments You Cant Go Wrong With",
+        "url": "https://www.stltoday.com/business/investment/personal-finance/new-to-the-stock-market-3-investments-you-cant-go-wrong-with/article_3894ff6b-959f-5670-957c-999250086158.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/dd/fddbc67f-c017-5420-9f1c-0b056e25b830/61d97d01063bc.image.jpg?crop=700%2C368%2C0%2C12",
+        "sourcecountry": "United States",
+        "title": "How to Become a Millionaire Retiree With Zero Investing Knowledge",
+        "url": "https://www.stltoday.com/business/investment/personal-finance/how-to-become-a-millionaire-retiree-with-zero-investing-knowledge/article_c85cf5be-2ca5-57d2-ba5c-9f7ce3f010b6.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/66.jpg",
+        "sourcecountry": "",
+        "title": "Risk - Tolerant Investors Should Take A Chance On Kaixin Auto Holdings ( NASDAQ : KXIN ) ",
+        "url": "https://marketingsentinel.com/2022/01/08/risk-tolerant-investors-should-take-a-chance-on-kaixin-auto-holdings-nasdaq-kxin/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "virginislandsnewsonline.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "",
+        "sourcecountry": "Virgin Islands",
+        "title": "Omicron sends COVID - 19 cases to over 3 , 330 in USVI | Virgin Islands News Online",
+        "url": "https://www.virginislandsnewsonline.com/en/news/omicron-sends-covid-19-cases-to-over-3330-in-usvi/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "virginislandsnewsonline.com",
+        "language": "English",
+        "seendate": "20220108T183000Z",
+        "socialimage": "",
+        "sourcecountry": "Virgin Islands",
+        "title": "Omicron sends COVID - 19 cases to over 3 , 330 in USVI | Virgin Islands News Online",
+        "url": "https://www.virginislandsnewsonline.com/en/news/omicron-sends-covid-19-cases-to-over-3330-in-usvi",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/08/16/52694809-0-image-a-2_1641660171613.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Five million people could call in sick this week as US hits its second highest daily case count",
+        "url": "https://www.dailymail.co.uk/news/article-10381669/Five-million-people-call-sick-week-hits-second-highest-daily-case-count.html",
+        "url_mobile": "https://www.dailymail.co.uk/news/article-10381669/amp/Five-million-people-call-sick-week-hits-second-highest-daily-case-count.html"
+      },
+      {
+        "domain": "wmac-am.com",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.wmac-am.com/news/need-a-raise-nows-the-time-to-demand-one/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/LcxegpWgoqSLaxUPau3A8w--~B/aD02MDA7dz0xMTk5O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_huffington_post_584/7afa0c9f42678fec299bbd1a92a74666",
+        "sourcecountry": "United States",
+        "title": "Zoo Mourns Death Of  Beloved  Dog Who Helped Raise Cheetah Cubs",
+        "url": "https://news.yahoo.com/zoo-mourns-death-beloved-dog-174833959.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/zoo-mourns-death-beloved-dog-174833959.html"
+      },
+      {
+        "domain": "houstonianonline.com",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "https://houstonianonline.com/wp-content/uploads/2022/01/Citigroup-to-lay-off-unvaccinated-US-employees.jpg",
+        "sourcecountry": "United States",
+        "title": "Citigroup to lay off unvaccinated U . S . employees",
+        "url": "https://houstonianonline.com/citigroup-to-lay-off-unvaccinated-u-s-employees/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2022/01/04/Stock-photo-1200x800.jpeg",
+        "sourcecountry": "United States",
+        "title": "These Were the 10 Worst Performing Large - Cap Stocks in 2021",
+        "url": "https://www.theepochtimes.com/these-were-the-ten-worst-performing-large-cap-stocks-in-2021_4192693.html",
+        "url_mobile": "https://www.theepochtimes.com/these-were-the-ten-worst-performing-large-cap-stocks-in-2021_4192693.html/amp"
+      },
+      {
+        "domain": "thepharmaletter.com",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Regulation - Eisai , Japan , Immunologicals",
+        "url": "https://www.thepharmaletter.com/listing/regulation/eisai-japan-immunologicals?tagid[]=5027&tagid[]=8658&tagid[]=41",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "5 Cryptocurrencies Up Big In 2022 Trading Like Penny Stocks",
+        "url": "https://www.chron.com/business/article/5-Cryptocurrencies-Up-Big-In-2022-Trading-Like-16759594.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "arynews.tv",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "https://arynews.tv/wp-content/uploads/2022/01/bank.jpg",
+        "sourcecountry": "Pakistan",
+        "title": "Top bank to fire unvaccinated staff this month",
+        "url": "https://arynews.tv/bank-to-fire-unvaccinated-staff/",
+        "url_mobile": "//arynews.tv/bank-to-fire-unvaccinated-staff/amp/"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/More-Hawkish-Fed-How-Would-EM-React.jpg",
+        "sourcecountry": "China",
+        "title": "More Hawkish Fed - How Would EM React ? ",
+        "url": "https://www.etftrends.com/beyond-basic-beta-channel/more-hawkish-fed-how-would-em-react/",
+        "url_mobile": "https://www.etftrends.com/beyond-basic-beta-channel/more-hawkish-fed-how-would-em-react/amp/"
+      },
+      {
+        "domain": "cbs58.com",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "https://newscdn2.weigelbroadcasting.com/Mqhls-1641652800-216092-blog-hypatia-h_3ed7ececcc6edac5cb6c64ce2e47fec5-h_7e31dbdbef737439c82a9e3142c8a901.jpg",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.cbs58.com/news/need-a-raise-nows-the-time-to-demand-one",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thepharmaletter.com",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Regulation - Eisai , Japan , Equfina",
+        "url": "https://www.thepharmaletter.com/listing/regulation/eisai-japan-equfina?tagid[]=5027&tagid[]=8658&tagid[]=77138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T181500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660204/a-person-looking-up-at-an-oil-pump.jpg",
+        "sourcecountry": "United States",
+        "title": "Our Favorite Oil Stocks for 2022 and Beyond",
+        "url": "https://www.fool.com/investing/2022/01/08/our-favorite-oil-stocks-for-2022-and-beyond/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "github.com",
+        "language": "English",
+        "seendate": "20220108T180000Z",
+        "socialimage": "https://opengraph.githubassets.com/325a6d309312b937fe47a475fabd3559cc2aa61132dc54d3fed11f0deeb6418b/cboitz88/Ren-Protocol",
+        "sourcecountry": "United States",
+        "title": "GitHub - cboitz88 / Ren - Protocol : Case Study of Ren Protocol",
+        "url": "https://github.com/cboitz88/Ren-Protocol",
+        "url_mobile": ""
+      },
+      {
+        "domain": "markets.com",
+        "language": "English",
+        "seendate": "20220108T180000Z",
+        "socialimage": "https://www.markets.com/wp-content/uploads/2020/06/Financial-Markets.jpg",
+        "sourcecountry": "Cyprus",
+        "title": "The markets month ahead : January events for your trading diary",
+        "url": "https://www.markets.com/nl/knowledge/insights/the-markets-month-ahead-january-events-for-your-trading-diary/",
+        "url_mobile": "https://www.markets.com/nl/knowledge/insights/the-markets-month-ahead-january-events-for-your-trading-diary/?amp=1"
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220108T180000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2022/01/106937624-1630708345598-gettyimages-468267222-84581830.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Starboard Value Has Three Levers to Strengthen Profitability at GoDaddy",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/starboard-value-has-three-levers-to-strengthen-profitability-at-godaddy/3101182/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/starboard-value-has-three-levers-to-strengthen-profitability-at-godaddy/3101182/?amp"
+      },
+      {
+        "domain": "miragenews.com",
+        "language": "English",
+        "seendate": "20220108T180000Z",
+        "socialimage": "https://www.ucl.ac.uk/news/sites/news/files/styles/medium_image/public/istock-car_t2.jpg?itok=btoLXneR",
+        "sourcecountry": "United States",
+        "title": "Second generation CAR T - cell therapy trialled in patients",
+        "url": "https://www.miragenews.com/second-generation-car-t-cell-therapy-trialled-704082/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220108T180000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2022/01/106998348-1641573650663-gettyimages-1363291623-dscf0976_20220107104016341.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Inflation Will Be the Big Market Theme This Year , Two ETF Experts Agree . Here One Way to Play It",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/inflation-will-be-the-big-market-theme-this-year-two-etf-experts-agree-heres-one-way-to-play-it/3101213/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/inflation-will-be-the-big-market-theme-this-year-two-etf-experts-agree-heres-one-way-to-play-it/3101213/?amp"
+      },
+      {
+        "domain": "thepharmaletter.com",
+        "language": "English",
+        "seendate": "20220108T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Regulation - Eisai , Japan , European Medicines Agency",
+        "url": "https://www.thepharmaletter.com/listing/regulation/eisai-japan-european-medicines-agency?tagid[]=5027&tagid[]=8658&tagid[]=8891",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gcaptain.com",
+        "language": "English",
+        "seendate": "20220108T180000Z",
+        "socialimage": "https://gcaptain.com/wp-content/uploads/2022/01/j-mintzmyermercogliano-scaled.jpg",
+        "sourcecountry": "United States",
+        "title": "Watch : What Going On With Ship Stocks ? ",
+        "url": "https://gcaptain.com/ship-stocks-youtube/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wccbcharlotte.com",
+        "language": "English",
+        "seendate": "20220108T180000Z",
+        "socialimage": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wccbcharlotte.com/content/uploads/2022/01/f/z/c02f70d59281503b487c5a9c06b05d073f3b012e.jpg",
+        "sourcecountry": "United States",
+        "title": "Non Fungible Tokens : Here To Stay Or Just A Fad ? - WCCB Charlotte CW",
+        "url": "https://www.wccbcharlotte.com/2022/01/08/non-fungible-tokens-here-to-stay-or-just-a-fad/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220108T180000Z",
+        "socialimage": "",
+        "sourcecountry": "Germany",
+        "title": "Beneffx . com Expands Operation in Mexico , Central America",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54924368-beneffx-com-expands-operation-in-mexico-central-america-008.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcnewyork.com",
+        "language": "English",
+        "seendate": "20220108T174500Z",
+        "socialimage": "https://media.nbcnewyork.com/2022/01/106998348-1641573650663-gettyimages-1363291623-dscf0976_20220107104016341.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Inflation Will Be the Big Market Theme This Year , Two ETF Experts Agree . Here One Way to Play It",
+        "url": "https://www.nbcnewyork.com/news/business/money-report/inflation-will-be-the-big-market-theme-this-year-two-etf-experts-agree-heres-one-way-to-play-it/3486168/",
+        "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/inflation-will-be-the-big-market-theme-this-year-two-etf-experts-agree-heres-one-way-to-play-it/3486168/?amp"
+      },
+      {
+        "domain": "thepharmaletter.com",
+        "language": "English",
+        "seendate": "20220108T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Regulation - Eisai , Japan , Jyseleca",
+        "url": "https://www.thepharmaletter.com/listing/regulation/eisai-japan-jyseleca?tagid[]=5027&tagid[]=8658&tagid[]=84748",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T174500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660313/rising-arrow-three.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Growth Stocks That Could Be Huge Winners in the Next Decade and Beyond",
+        "url": "https://www.fool.com/investing/2022/01/08/3-growth-stocks-could-be-huge-winners-in-decade/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ndtv.com",
+        "language": "English",
+        "seendate": "20220108T174500Z",
+        "socialimage": "https://c.ndtvimg.com/2022-01/save2ego_dr-prannoy-royruchir-sharma-650_625x300_08_January_22.jpg",
+        "sourcecountry": "India",
+        "title": "Dr Prannoy Roy , Ruchir Sharma On 2022 Top 10 Trends : Full Transcript",
+        "url": "https://www.ndtv.com/india-news/dr-prannoy-roy-ruchir-sharma-on-2022s-top-10-trends-full-transcript-2696979",
+        "url_mobile": "https://www.ndtv.com/india-news/dr-prannoy-roy-ruchir-sharma-on-2022s-top-10-trends-full-transcript-2696979/amp/1"
+      },
+      {
+        "domain": "iol.co.za",
+        "language": "English",
+        "seendate": "20220108T174500Z",
+        "socialimage": "https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/bf8be0a6-6b53-586d-8ddc-f8133f194700",
+        "sourcecountry": "South Africa",
+        "title": "Meme stocks meet crypto mania with GameStop pursuing NFT",
+        "url": "https://www.iol.co.za/business-report/international/meme-stocks-meet-crypto-mania-with-gamestop-pursuing-nft-58e489d0-a04d-40a4-b634-455eeb1a0382",
+        "url_mobile": "https://www.iol.co.za/amp/business-report/international/meme-stocks-meet-crypto-mania-with-gamestop-pursuing-nft-58e489d0-a04d-40a4-b634-455eeb1a0382"
+      },
+      {
+        "domain": "japanherald.com",
+        "language": "English",
+        "seendate": "20220108T174500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Japan",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.japanherald.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "magicvalley.com",
+        "language": "English",
+        "seendate": "20220108T173000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/b/01/b0193ce5-512d-5ffc-95c6-c1ea3cd1cdfe/61d97d051b0cb.image.jpg?crop=700%2C368%2C0%2C12",
+        "sourcecountry": "United States",
+        "title": "How to Become a Millionaire Retiree With Zero Investing Knowledge",
+        "url": "https://magicvalley.com/business/investment/personal-finance/how-to-become-a-millionaire-retiree-with-zero-investing-knowledge/article_226cfc2c-681e-521b-bd39-d1d6cc439f0a.html",
+        "url_mobile": "https://magicvalley.com/business/investment/personal-finance/how-to-become-a-millionaire-retiree-with-zero-investing-knowledge/article_226cfc2c-681e-521b-bd39-d1d6cc439f0a.amp.html"
+      },
+      {
+        "domain": "hypebeast.com",
+        "language": "English",
+        "seendate": "20220108T173000Z",
+        "socialimage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftop-business-and-crypto-stories-of-the-week-january-7-tw.jpg?&cbr=1&q=90&fit=max",
+        "sourcecountry": "United States",
+        "title": "Top Business and Crypto Stories of The Week : January 7",
+        "url": "https://hypebeast.com/2022/1/ces-2022-teased-new-products-and-apple-briefly-hit-3-trillion-usd-in-this-weeks-business-and-crypto-roundup",
+        "url_mobile": ""
+      },
+      {
+        "domain": "weny.com",
+        "language": "English",
+        "seendate": "20220108T173000Z",
+        "socialimage": "https://WENY.images.worldnow.com/images/21997997_G.jpeg?lastEditedDate=1641633159000",
+        "sourcecountry": "United States",
+        "title": "A weak quarter at Bed Bath & Beyond , and shares soar",
+        "url": "https://www.weny.com/story/45607689/a-weak-quarter-at-bed-bath-and-beyond-and-shares-soar",
+        "url_mobile": ""
+      },
+      {
+        "domain": "itnewsonline.com",
+        "language": "English",
+        "seendate": "20220108T173000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Beneffx . com Expands Operation in Mexico , Central America",
+        "url": "http://www.itnewsonline.com/PRNewswire/Beneffx.com-Expands-Operation-in-Mexico-Central-America/810154",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220108T173000Z",
+        "socialimage": "https://images.barrons.com/im-452612/social",
+        "sourcecountry": "United States",
+        "title": "Tesla New Austin Factory To Start Up Soon . It Going To Be Wild . ",
+        "url": "https://www.marketwatch.com/articles/tesla-stock-tsla-austin-texas-factory-51641660078",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pnj.com",
+        "language": "English",
+        "seendate": "20220108T173000Z",
+        "socialimage": "https://www.gannett-cdn.com/-mm-/8dd3c787d246ba10f44cbe8873960179f535d8e8/c=0-516-3534-2504/local/-/media/2017/07/14/Pensacola/B9328468625Z.1_20170714130651_000_G23J0IFM9.1-0.jpg?auto=webp&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Quint Studer : Deflecting compliments is not humility , but false pride",
+        "url": "https://www.pnj.com/story/money/business/2022/01/08/quint-studer-deflecting-compliments-not-humility-but-false-pride/9095145002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "magicvalley.com",
+        "language": "English",
+        "seendate": "20220108T173000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/c/de/cde2057a-f586-55c1-87b4-13a9ffeb3854/61d98e5d506c9.image.jpg?crop=700%2C368%2C0%2C49",
+        "sourcecountry": "United States",
+        "title": "Already Worrying About Finances in 2022 ? Relax With These 3 Dividend Stocks",
+        "url": "https://magicvalley.com/business/investment/personal-finance/already-worrying-about-finances-in-2022-relax-with-these-3-dividend-stocks/article_d5d8a864-2b51-5f26-9f8a-a9404b4b9446.html",
+        "url_mobile": "https://magicvalley.com/business/investment/personal-finance/already-worrying-about-finances-in-2022-relax-with-these-3-dividend-stocks/article_d5d8a864-2b51-5f26-9f8a-a9404b4b9446.amp.html"
+      },
+      {
+        "domain": "thepharmaletter.com",
+        "language": "English",
+        "seendate": "20220108T171500Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Regulation - Eisai , Japan , lecanemab",
+        "url": "https://www.thepharmaletter.com/listing/regulation/eisai-japan-lecanemab?tagid[]=5027&tagid[]=8658&tagid[]=89574",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220108T171500Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "NVAX DEADLINE : Kessler Topaz Meltzer & Check , LLP Reminds Investors of Novavax , Inc . of Deadline in Securities Fraud Class Action Lawsuit",
+        "url": "https://apnews.com/press-release/business-wire/business-health-lawsuits-class-action-lawsuits-securities-fraud-2309edb77fba4c829b1f2de462f4e360",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sputniknews.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://cdnn1.img.sputniknews.com/images/sharing/article/eng/1092118405.jpg",
+        "sourcecountry": "Russia",
+        "title": "Tehran Condemns WSJ Op - Ed Advising Biden on Striking Iranian Nuclear Facilities",
+        "url": "https://sputniknews.com/20220108/tehran-condemns-wsj-op-ed-advising-biden-on-striking-iranian-nuclear-facilities-1092118405.html",
+        "url_mobile": "https://sputniknews.com/amp/20220108/tehran-condemns-wsj-op-ed-advising-biden-on-striking-iranian-nuclear-facilities-1092118405.html"
+      },
+      {
+        "domain": "kxly.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/01/c/m/ff1f335e4c5325aba7f7c180110fbe3f0bb25592.jpg",
+        "sourcecountry": "United States",
+        "title": "Already Worrying About Finances in 2022 ? Relax With These 3 Dividend Stocks",
+        "url": "https://www.kxly.com/i/already-worrying-about-finances-in-2022-relax-with-these-3-dividend-stocks/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "heraldbulletin.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/heraldbulletin.com/content/tncms/assets/v3/editorial/8/69/86986aaa-3c13-54e2-8bcc-3c3a61f24962/53e688fcb4e5f.image.jpg?crop=300%2C300%2C54%2C112",
+        "sourcecountry": "United States",
+        "title": "  Big Joe  Clark column : What hiding in your financial plan ? ",
+        "url": "https://www.heraldbulletin.com/opinion/columns/big-joe-clark-column-whats-hiding-in-your-financial-plan/article_6ad3f690-6ff5-11ec-a110-67349d78efa3.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cryptohayes.medium.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://miro.medium.com/max/400/0*nbbPYRSys_g7ZT_0",
+        "sourcecountry": "United States",
+        "title": "Maelstrom . ( Any views expressed in the below are \u2026 | by Arthur Hayes | Jan , 2022",
+        "url": "https://cryptohayes.medium.com/maelstrom-ee6021e9d0c2?source=home---------0---------------------5fd00167_4bdd_4920_83ef_9de60c52c2dc-------7---",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660048/travel-checking-in-room.jpg",
+        "sourcecountry": "United States",
+        "title": "Could Airbnb Be a Millionaire - Maker Stock ? ",
+        "url": "https://www.fool.com/investing/2022/01/08/could-airbnb-be-a-millionaire-maker-stock/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660225/businessman-showing-chart-to-co-worker.jpg",
+        "sourcecountry": "United States",
+        "title": "2 Growth Stocks That Are Also Generating Billions in Free Cash",
+        "url": "https://www.fool.com/investing/2022/01/08/2-growth-stocks-that-are-also-generating-billions/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659696/a-construction-worker-holds-a-thermos-and-helmet.jpg",
+        "sourcecountry": "United States",
+        "title": "30 % of My Retirement Is in These 5 Stocks : Here Why I Believe Theyre Winners for 2022",
+        "url": "https://www.fool.com/investing/2022/01/08/30-of-my-retirement-is-in-these-5-stocks-heres-why/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2015/07/Insider-Trading-Wall-Street-Trader-Panic.jpg",
+        "sourcecountry": "United States",
+        "title": "11 Best Depressed Stocks To Invest In - Insider Monkey",
+        "url": "https://www.insidermonkey.com/blog/11-best-depressed-stocks-to-invest-in-1018094/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660156/a-person-receiving-a-vaccine-from-a-nurse_hBHHK3b.jpg",
+        "sourcecountry": "United States",
+        "title": "1 Big Question Facing Moderna in 2022",
+        "url": "https://www.fool.com/investing/2022/01/08/1-big-question-facing-moderna-in-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/61.jpg",
+        "sourcecountry": "",
+        "title": "The Current Price For PetIQ Inc . ( NASDAQ : PETQ ): And Is It Worth Investing In ? ",
+        "url": "https://marketingsentinel.com/2022/01/08/the-current-price-for-petiq-inc-nasdaq-petq-and-is-it-worth-investing-in/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/36.jpg",
+        "sourcecountry": "",
+        "title": "We Just Learned Something New About Youdao Inc . ( NYSE : DAO ) This Week With Its 0 . 96 % Gain",
+        "url": "https://marketingsentinel.com/2022/01/08/we-just-learned-something-new-about-youdao-inc-nyse-dao-this-week-with-its-0-96-gain/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/08/22081035/zach-betten-KYTT8L5JLDs-unsplash.jpg",
+        "sourcecountry": "United States",
+        "title": "5 Safe Dividend Stocks for 2022 - Insider Monkey",
+        "url": "https://www.insidermonkey.com/blog/5-safe-dividend-stocks-for-2022-1016108/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092?size=1",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A LEADING AND TRUSTED LAW FIRM , Encourages Ginkgo",
+        "url": "https://www.globenewswire.com/news-release/2022/01/08/2363425/0/en/ROSEN-A-LEADING-AND-TRUSTED-LAW-FIRM-Encourages-Ginkgo-Bioworks-Holdings-Inc-f-k-a-Soaring-Eagle-Acquisition-Corp-Investors-with-Losses-to-Secure-Counsel-Before-Important-January-1.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659536/gettyimages-1271562654.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Top Healthcare Stocks to Buy for January",
+        "url": "https://www.fool.com/investing/2022/01/08/3-top-healthcare-stocks-to-buy-for-january/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zimbabwestar.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Zimbabwe",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.zimbabwestar.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcsandiego.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://media.nbcsandiego.com/2022/01/106998348-1641573650663-gettyimages-1363291623-dscf0976_20220107104016341.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Inflation Will Be the Big Market Theme This Year , Two ETF Experts Agree . Here One Way to Play It",
+        "url": "https://www.nbcsandiego.com/news/business/money-report/inflation-will-be-the-big-market-theme-this-year-two-etf-experts-agree-heres-one-way-to-play-it/2834222/",
+        "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/inflation-will-be-the-big-market-theme-this-year-two-etf-experts-agree-heres-one-way-to-play-it/2834222/?amp"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660204/a-person-looking-up-at-an-oil-pump.jpg",
+        "sourcecountry": "United States",
+        "title": "Our Favorite Oil Stocks for 2022 and Beyond",
+        "url": "https://www.fool.com/investing/2022/01/08/our-favorite-oil-stocks-for-2022-and-beyond/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://www.kmjnow.com/news/need-a-raise-nows-the-time-to-demand-one/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "infowars.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://api-assets.infowars.com/2022/01/pelosischumer2974861789.jpg",
+        "sourcecountry": "United States",
+        "title": "It Now or Never : What Behind Dem Push for Changing Senate Rules & Passing Voting Rights Bills ? ",
+        "url": "https://www.infowars.com/posts/its-now-or-never-whats-behind-dems-push-for-changing-senate-rules-passing-voting-rights-bills/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "comunicati.net",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "",
+        "sourcecountry": "Italy",
+        "title": "PRN : Beneffx . com Expands Operation in Mexico , Central America",
+        "url": "http://www.comunicati.net/comunicati/turismo/varie/752206.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660068/gettyimages-1266949844.jpg",
+        "sourcecountry": "United States",
+        "title": "Buy These 2 Stocks If You Want 75 % to 95 % Returns , Says Wall Street",
+        "url": "https://www.fool.com/investing/2022/01/08/buy-these-2-stocks-if-you-want-75-to-95-returns-sa/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/maxresdefault%20%283%29.jpg?itok=82H7WzQd",
+        "sourcecountry": "United States",
+        "title": "Why This Time Is Different ( And Not In A Good Way For Powell ) ",
+        "url": "https://www.zerohedge.com/markets/why-time-different-and-not-good-way-powell",
+        "url_mobile": ""
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/11/17042047/vitaly-taranov-OCrPJce6GPk-unsplash.jpg",
+        "sourcecountry": "United States",
+        "title": "10 Safe Dividend Stocks for 2022 - Insider Monkey",
+        "url": "https://www.insidermonkey.com/blog/10-safe-dividend-stocks-for-2022-1016070/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "luxtimes.lu",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://blobsvc.wort.lu/picture/145242fa6a9abac3207fb43c9ff67916/600/315/wortv3/715d8c9a361803f0191135d1a92ac96ab5e099cb",
+        "sourcecountry": "Luxembourg",
+        "title": "Crypto diehards will find out if it really was a bubble",
+        "url": "https://www.luxtimes.lu/en/business-finance/crypto-diehards-will-find-out-if-it-really-was-a-bubble-61d9bd9fde135b923657f1d3",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660341/gettyimages-1304093999.jpg",
+        "sourcecountry": "United States",
+        "title": "If Youd Invested $100 in Bitcoin in 2011 , Here How Much Youd Have Now",
+        "url": "https://www.fool.com/investing/2022/01/08/if-you-invested-100-in-bitcoin-in-2011-heres-how-m/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kxly.com",
+        "language": "English",
+        "seendate": "20220108T170000Z",
+        "socialimage": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/01/n/m/0d5e560e20ecd3ce09351ea682fcf65e82d7e8c8.jpg",
+        "sourcecountry": "United States",
+        "title": "New to the Stock Market ? 3 Investments You Cant Go Wrong With",
+        "url": "https://www.kxly.com/i/new-to-the-stock-market-3-investments-you-cant-go-wrong-with-4/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "veteranstoday.com",
+        "language": "English",
+        "seendate": "20220108T164500Z",
+        "socialimage": "https://www.veteranstoday.com/wp-content/uploads/2022/01/ScreenHunter-5739.jpg",
+        "sourcecountry": "United States",
+        "title": "Blockbuster : NEO \u2013 The Dark Heart of Treason Infecting America Military \u2013 Veterans Today | Military Foreign Affairs Policy Journal for Clandestine Services",
+        "url": "https://www.veteranstoday.com/2022/01/08/neo-the-dark-heart-of-treason-infecting-americas-military/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "libcom.org",
+        "language": "English",
+        "seendate": "20220108T164500Z",
+        "socialimage": "http://libcom.org/files/images/library/crisis_0.jpg",
+        "sourcecountry": "United States",
+        "title": "Return of the crisis : Part 1",
+        "url": "http://libcom.org/library/return-crisis-part-1",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220108T164500Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/45.jpg",
+        "sourcecountry": "",
+        "title": "How Could You Make A Quick Recovery From Agora Inc . ( NASDAQ : API ) Given A - 143 . 06 % Drop From Highs ? ",
+        "url": "https://marketingsentinel.com/2022/01/08/how-could-you-make-a-quick-recovery-from-agora-inc-nasdaq-api-given-a-143-06-drop-from-highs/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "haitisun.com",
+        "language": "English",
+        "seendate": "20220108T163000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "United States",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.haitisun.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "asiabulletin.com",
+        "language": "English",
+        "seendate": "20220108T163000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "China",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.asiabulletin.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businessinsider.com.au",
+        "language": "English",
+        "seendate": "20220108T163000Z",
+        "socialimage": "https://i.insider.com/61d74fd895f1b90018379441?format=jpeg",
+        "sourcecountry": "Australia",
+        "title": "Shoppers are expected to return up to $120 billion worth of holiday gifts this year the process is costly to retailers , annoying to consumers , and harmful to the planet",
+        "url": "https://www.businessinsider.com.au/what-happens-to-returned-products-restock-resale-landfill-2022-1",
+        "url_mobile": "https://www.businessinsider.com.au/what-happens-to-returned-products-restock-resale-landfill-2022-1/amp"
+      },
+      {
+        "domain": "stuff.co.nz",
+        "language": "English",
+        "seendate": "20220108T163000Z",
+        "socialimage": "https://resources.stuff.co.nz/content/dam/images/4/y/w/k/8/j/image.related.StuffLandscapeSixteenByNine.1420x800.4ywk80.png/1641418077712.jpg",
+        "sourcecountry": "New Zealand",
+        "title": "Reclaimed & Rewritten : Stunning podcast exposes myth of the  Black Wall Street  ",
+        "url": "https://www.stuff.co.nz/entertainment/tv-radio/300490848/reclaimed--rewritten-stunning-podcast-exposes-myth-of-the-black-wall-street",
+        "url_mobile": ""
+      },
+      {
+        "domain": "caller.com",
+        "language": "English",
+        "seendate": "20220108T163000Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2022/01/07/PCCT/01891cd5-58f9-40d3-a4ed-cceacb4efa41-karl_rove_-_usat_michael_monday.JPG?auto=webp&crop=1038,584,x0,y0&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Tough love : Karl Rove blunt message to Republicans over insurrection",
+        "url": "https://www.caller.com/story/news/columnists/john-moritz/2022/01/08/tough-love-karl-roves-blunt-message-republicans-over-insurrection/9129941002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220108T163000Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d98741d9f19622277ac525%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "Down 67 % From Peak , Rocket Mortgage Stock Is No Bargain",
+        "url": "https://www.forbes.com/sites/petercohan/2022/01/08/down-67-from-peak-rocket-mortgage-stock-is-no-bargain/",
+        "url_mobile": "https://www.forbes.com/sites/petercohan/2022/01/08/down-67-from-peak-rocket-mortgage-stock-is-no-bargain/amp/"
+      },
+      {
+        "domain": "wiredprnews.com",
+        "language": "English",
+        "seendate": "20220108T163000Z",
+        "socialimage": "https://ml.globenewswire.com/media/Y2ViZDg3OGYtYWE2Ny00NTQwLWIyZmItMmExZTE1ZThkOWYzLTEwMzE5ODM=/tiny/The-Rosen-Law-Firm-PA.png",
+        "sourcecountry": "United States",
+        "title": "FINAL DEADLINE NOTICE : ROSEN , TOP RANKED INVESTOR COUNSEL , Encourages American Century Value Fund Investors with Losses Over $100K to Secure Counsel Before Important Monday Deadline in Securities Class Action \u2013 TWVLX , AVLIX , AVUYX , TWADX , ACLC...",
+        "url": "https://www.wiredprnews.com/final-deadline-notice-rosen-top-ranked-investor-counsel-encourages-american-century-value-fund-investors-with-losses-over-100k-to-secure-counsel-before-important-monday-deadline-in-securities-clas/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "governor.ny.gov",
+        "language": "English",
+        "seendate": "20220108T161500Z",
+        "socialimage": "https://www.governor.ny.gov/sites/default/files/styles/cover_image_660x400_/public/thumbnails/image/MTASubway_hero.jpg?c&itok=tWns50al",
+        "sourcecountry": "United States",
+        "title": "Governor Hochul Announces Nominations to MTA Board",
+        "url": "https://www.governor.ny.gov/news/governor-hochul-announces-nominations-mta-board",
+        "url_mobile": ""
+      },
+      {
+        "domain": "alternet.org",
+        "language": "English",
+        "seendate": "20220108T161500Z",
+        "socialimage": "https://www.alternet.org/media-library/biden-trump-s-mishandling-of-transition-is-nothing-short-of-irresponsibility.jpg?id=24437600&coordinates=0%2C60%2C0%2C60",
+        "sourcecountry": "United States",
+        "title": "Biden pursues Trump plan that creates big profits by denying health care",
+        "url": "https://www.alternet.org/2022/01/medicare/",
+        "url_mobile": "https://www.alternet.org/amp/medicare-2656301491"
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220108T161500Z",
+        "socialimage": "https://media.nbclosangeles.com/2022/01/106937624-1630708345598-gettyimages-468267222-84581830.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Starboard Value Has Three Levers to Strengthen Profitability at GoDaddy",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/starboard-value-has-three-levers-to-strengthen-profitability-at-godaddy/2793702/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/starboard-value-has-three-levers-to-strengthen-profitability-at-godaddy/2793702/?amp"
+      },
+      {
+        "domain": "ktvz.com",
+        "language": "English",
+        "seendate": "20220108T161500Z",
+        "socialimage": "https://ktvz.b-cdn.net/2022/01/hypatia-h_3ed7ececcc6edac5cb6c64ce2e47fec5-h_7e31dbdbef737439c82a9e3142c8a901-300-860x480.jpg",
+        "sourcecountry": "United States",
+        "title": "Need a raise ? Now the time to demand one",
+        "url": "https://ktvz.com/money/cnn-business-consumer/2022/01/08/need-a-raise-nows-the-time-to-demand-one/",
+        "url_mobile": ""
+      }
+    ]
+  }
+}

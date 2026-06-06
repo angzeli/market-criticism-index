@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-05",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TNS Business Budget for Wednesday , Jan . 5 , 2022",
+        "url": "https://www.msn.com/en-us/news/us/tns-business-budget-for-wednesday-jan-5-2022/ar-AASs0ru",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://media.nbclosangeles.com/2022/01/106804432-1606845536618-gettyimages-1275537291-nng_6840_2020092225436851.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Jim Cramer Names 4 Tech Stocks That Look Attractive After Nasdaq Rough Start in 2022",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/jim-cramer-names-4-tech-stocks-that-look-attractive-after-nasdaqs-rough-start-in-2022/2791897/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/jim-cramer-names-4-tech-stocks-that-look-attractive-after-nasdaqs-rough-start-in-2022/2791897/?amp"
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2022/01/106804432-1606845536618-gettyimages-1275537291-nng_6840_2020092225436851.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Jim Cramer Names 4 Tech Stocks That Look Attractive After Nasdaq Rough Start in 2022",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/jim-cramer-names-4-tech-stocks-that-look-attractive-after-nasdaqs-rough-start-in-2022/3098309/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/jim-cramer-names-4-tech-stocks-that-look-attractive-after-nasdaqs-rough-start-in-2022/3098309/?amp"
+      },
+      {
+        "domain": "pressherald.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://multifiles.pressherald.com/uploads/sites/4/2022/01/Markets_40436-1641420976.jpg",
+        "sourcecountry": "United States",
+        "title": "Stocks slump after release of Fed minutes",
+        "url": "https://www.pressherald.com/2022/01/05/stocks-slump-after-release-of-fed-minutes/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "valdostadailytimes.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?crop=336%2C336%2C152%2C0",
+        "sourcecountry": "United States",
+        "title": "The Signs , Diagnosis and Treatment of Lyme Disease Discussed as Part of New , On - Demand Webinar Hosted by Industry - Leading Quidel Corporation",
+        "url": "https://www.valdostadailytimes.com/news/business/the-signs-diagnosis-and-treatment-of-lyme-disease-discussed-as-part-of-new-on-demand/article_e45c035d-feeb-58f4-bd94-796ec035c231.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tennesseedaily.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TLSS Announces Executive and Board Changes",
+        "url": "https://www.tennesseedaily.com/news/272110086/tlss-announces-executive-and-board-changes",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyvoice.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://daily-voice-res.cloudinary.com/image/upload/c_limit,e_sharpen,f_auto,q_auto:eco,w_640/Screen_Shot_2019-07-01_at_9.40.52_AM_yolhad.jpg",
+        "sourcecountry": "United States",
+        "title": "Ivanka Trump , Don Jr . Subpoenaed In NY AG Probe",
+        "url": "https://dailyvoice.com/connecticut/ridgefield/politics/ivanka-trump-don-jr-subpoenaed-in-ny-ag-probe/823101/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://media.nbclosangeles.com/2022/01/106816354-1608883812721-gettyimages-1229336191-JAPAN_TRADING.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Japan Stocks Set for Lower Open Following Overnight Wall Street Losses",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/japan-stocks-set-for-lower-open-following-overnight-wall-street-losses/2791893/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/japan-stocks-set-for-lower-open-following-overnight-wall-street-losses/2791893/?amp"
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2022/01/106816354-1608883812721-gettyimages-1229336191-JAPAN_TRADING.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Japan Stocks Set for Lower Open Following Overnight Wall Street Losses",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/japan-stocks-set-for-lower-open-following-overnight-wall-street-losses/3098302/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/japan-stocks-set-for-lower-open-following-overnight-wall-street-losses/3098302/?amp"
+      },
+      {
+        "domain": "sanantoniopost.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.sanantoniopost.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "indiagazette.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "India",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.indiagazette.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "efe.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The Power of Verizon 5G Ultra Wideband Coming to 100 Million People in US This Month | News release | English edition",
+        "url": "https://www.efe.com/efe/english/news-release/the-power-of-verizon-5g-ultra-wideband-coming-to-100-million-people-in-us-this-month/50000339-MULTIMEDIAE_4711835",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2021/12/106993273-1640739101413-abcd.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After Wednesday Sell - Off",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-flat-after-wednesdays-sell-off/3098245/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-flat-after-wednesdays-sell-off/3098245/?amp"
+      },
+      {
+        "domain": "tennesseedaily.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.tennesseedaily.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2022/01/106848022-1614715046276-home.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Jim Cramer 2022 Forecast for the Best - Performing Dow Stocks Last Year",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/jim-cramers-2022-forecast-for-the-best-performing-dow-stocks-last-year/3098305/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/jim-cramers-2022-forecast-for-the-best-performing-dow-stocks-last-year/3098305/?amp"
+      },
+      {
+        "domain": "tahlequahdailypress.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/tahlequahdailypress.com/content/tncms/assets/v3/editorial/0/6e/06e2a159-671c-5a81-99a0-4100f331687d/61d5af446cc8f.image.jpg?crop=1765%2C927%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.tahlequahdailypress.com/natlnewsap/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_a1415575-e3db-57a0-97fc-ef3ccd3d14a5.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "magicvalley.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/f/b8/fb8b1044-bc4a-5842-9387-fbf0a0e5fe3c/61d5264d790c3.image.jpg?crop=1764%2C926%2C0%2C123",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://magicvalley.com/lifestyles/health-med-fit/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_1397a744-2a85-5b14-99e6-5ebc731c31c4.html",
+        "url_mobile": "https://magicvalley.com/lifestyles/health-med-fit/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_1397a744-2a85-5b14-99e6-5ebc731c31c4.amp.html"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660090/big-red-arrow-going-down-over-a-stock-chart.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Tesla Stock Is Toast Today | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/05/why-tesla-stock-is-toast-today/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wbap.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "US Stocks Slump After Fed Meeting Minutes Rattle Market",
+        "url": "https://www.wbap.com/news/us-stocks-slump-after-fed-meeting-minutes-rattle-market/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sanantoniopost.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "United States",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.sanantoniopost.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pennystocks.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://pennystocks.com/wp-content/uploads/2022/01/best-penny-stocks-to-buy-now-5.jpg",
+        "sourcecountry": "",
+        "title": "3 Hot Penny Stocks to Watch As The First Week of January Ends",
+        "url": "https://pennystocks.com/featured/2022/01/05/3-hot-penny-stocks-watch-january-end/",
+        "url_mobile": "https://pennystocks.com/featured/2022/01/05/3-hot-penny-stocks-watch-january-end/?amp"
+      },
+      {
+        "domain": "caledonianrecord.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/0/dc/0dc259f9-93bc-5678-9f1b-17e7e9cd3777/61d52331bc89e.image.jpg?crop=1765%2C927%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.caledonianrecord.com/news/national/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_94454ca3-3f57-5469-ab29-9078f6d5047e.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AVDCFZTOPQI6ZMPCAU45VD2EKE.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Private Equity Wont Be the Savior of Fossil Fuels",
+        "url": "https://www.washingtonpost.com/business/energy/why-private-equity-wont-be-the-savior-of-fossil-fuels/2022/01/05/0785c480-6e7c-11ec-b1e2-0539da8f4451_story.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://media.nbclosangeles.com/2022/01/106848022-1614715046276-home.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Jim Cramer 2022 Forecast for the Best - Performing Dow Stocks Last Year",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/jim-cramers-2022-forecast-for-the-best-performing-dow-stocks-last-year/2791896/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/jim-cramers-2022-forecast-for-the-best-performing-dow-stocks-last-year/2791896/?amp"
+      },
+      {
+        "domain": "iraqsun.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Iraq",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.iraqsun.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FHIIH4SXVNHBFBACH7CXQZXGQA.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion | On Fox Business personal finance portal , can you tell the news stories from sponsored content ? ",
+        "url": "https://www.washingtonpost.com/opinions/2022/01/05/fox-businesss-personal-finance-portal-can-you-tell-news-stories-sponsored-content/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/Z9IBtg_cVe8lZhQOmviS3g--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/628331af831df71e5e3c6e8802ec117b",
+        "sourcecountry": "United States",
+        "title": "Asia Stocks to Fall as Tech Rout Deepens on Fed : Markets Wrap",
+        "url": "https://finance.yahoo.com/news/asia-stocks-fall-tech-rout-214906942.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/asia-stocks-fall-tech-rout-214906942.html"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1703666!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-stock-bond-market-s-worst-start-in-decade-revives-60-40-doubt.png",
+        "sourcecountry": "Canada",
+        "title": "Stock , Bond Market Worst Start in Decade Revives 60 / 40 Doubt",
+        "url": "https://www.bnnbloomberg.ca/stock-bond-market-s-worst-start-in-decade-revives-60-40-doubt-1.1703665",
+        "url_mobile": "https://www.bnnbloomberg.ca/stock-bond-market-s-worst-start-in-decade-revives-60-40-doubt-1.1703665.amp.html"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d6154a542a13253b299df8%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "The 10 Fastest - Growing Cryptocurrency Ecosystems In 2021",
+        "url": "https://www.forbes.com/sites/jeffkauflin/2022/01/05/the-10-fastest-growing-cryptocurrency-ecosystems-in-2021/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220106T000000Z",
+        "socialimage": "https://media.nbclosangeles.com/2021/12/106993273-1640739101413-abcd.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After Wednesday Sell - Off",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-flat-after-wednesdays-sell-off/2791853/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-flat-after-wednesdays-sell-off/2791853/?amp"
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/e31.jpg?b39&itok=NTNHKdBb",
+        "sourcecountry": "United States",
+        "title": "Markets Turmoil As FOMC Minutes Spark Surge In Rate - Hike - Odds",
+        "url": "https://www.zerohedge.com/markets/markets-turmoil-fomc-minutes-spark-surge-rate-hike-odds",
+        "url_mobile": ""
+      },
+      {
+        "domain": "983thesnake.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://townsquare.media/site/95/files/2022/01/attachment-House-1.jpg?&zc=1&s=0&a=t&q=89",
+        "sourcecountry": "United States",
+        "title": "Survey Says Twin Falls is Third Fastest Growing Place in Idaho",
+        "url": "https://983thesnake.com/survey-says-twin-falls-is-third-fastest-growing-place-in-idaho/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "europesun.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Russia",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.europesun.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/05/D_e32c5image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "S & P 500 Sinks as FOMC Meeting Minutes Hint at Earlier , Faste ... ",
+        "url": "https://menafn.com/1103494772/SP-500-Sinks-as-FOMC-Meeting-Minutes-Hint-at-Earlier-Faster-Rate-Hikes&source=26",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://images.barrons.com/im-462464/social",
+        "sourcecountry": "United States",
+        "title": "Chip Stocks Tumbled on Fed Minutes . Intel Was an Exception . ",
+        "url": "https://www.marketwatch.com/articles/chip-stocks-intel-amd-fed-minutes-51641420823",
+        "url_mobile": ""
+      },
+      {
+        "domain": "russiaherald.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Russia",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.russiaherald.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyfx.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://a.c-dn.net/b/4xc7kS/headline_NYSE_17.JPG",
+        "sourcecountry": "China",
+        "title": "Nasdaq 100 Plunges as Fed Minutes Signal Faster Stimulus Pullback , ARKK in Free Fall",
+        "url": "https://www.dailyfx.com/forex/fundamental/article/fundamentals_vs_technicals/2022/01/05/Nasdaq-100-Plunges-as-Fed-Minutes-Signal-Faster-Stimulus-Pullback-ARKK-in-Free-Fall.html",
+        "url_mobile": "https://www.dailyfx.com/forex/fundamental/article/fundamentals_vs_technicals/2022/01/05/Nasdaq-100-Plunges-as-Fed-Minutes-Signal-Faster-Stimulus-Pullback-ARKK-in-Free-Fall.html/amp"
+      },
+      {
+        "domain": "dailyfx.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://a.c-dn.net/b/2mrSbc/headline_stock_board_chicago.JPG",
+        "sourcecountry": "China",
+        "title": "Bond Market - What is the Shape of the Yield Curve Signaling for Cyclical Stocks ? ",
+        "url": "https://www.dailyfx.com/forex/fundamental/article/fundamentals_vs_technicals/2022/01/05/Bond-Market-What-is-the-Shape-of-the-Yield-Curve-Signaling-for-Cyclical-Stocks.html",
+        "url_mobile": "https://www.dailyfx.com/forex/fundamental/article/fundamentals_vs_technicals/2022/01/05/Bond-Market-What-is-the-Shape-of-the-Yield-Curve-Signaling-for-Cyclical-Stocks.html/amp"
+      },
+      {
+        "domain": "dailyfx.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://a.c-dn.net/b/1HVOR9/headline_NASDAQ_4.JPG",
+        "sourcecountry": "China",
+        "title": "S & P 500 Sinks as FOMC Meeting Minutes Hint at Earlier , Faster Rate Hikes",
+        "url": "https://www.dailyfx.com/forex/market_alert/2022/01/05/SP-500-Sinks-as-FOMC-Meeting-Minutes-Hint-at-Earlier-Faster-Rate-Hikes.html",
+        "url_mobile": "https://www.dailyfx.com/forex/market_alert/2022/01/05/SP-500-Sinks-as-FOMC-Meeting-Minutes-Hint-at-Earlier-Faster-Rate-Hikes.html/amp"
+      },
+      {
+        "domain": "hotair.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://media.townhall.com/townhall/reu/o/2021/138/2c4ddc76-bc82-4d52-b285-4c0f1a91db02-1110x740.jpeg",
+        "sourcecountry": "United States",
+        "title": "The missing chapter of  holding all January 6 rioters accountable  ",
+        "url": "https://hotair.com/jazz-shaw/2022/01/05/the-missing-chapter-of-holding-all-january-6-rioters-accountable-n439471",
+        "url_mobile": "https://hotair.com/jazz-shaw/2022/01/05/the-missing-chapter-of-holding-all-january-6-rioters-accountable-n439471/amp"
+      },
+      {
+        "domain": "dailyunion.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/dailyunion.com/content/tncms/assets/v3/editorial/5/61/5615b7e0-052b-5440-b2be-2bf1fb6f80dc/61d5af862892a.image.jpg?crop=1765%2C927%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.dailyunion.com/news/nation_world/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_8f863e5c-b1dd-552f-b90d-a2c2ab636c6a.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fnarena.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Alterity Therapeutics to Present at the H . C . Wainwright BIOCONNECT Virtual Conference",
+        "url": "https://www.fnarena.com/index.php/2022/01/05/alterity-therapeutics-to-present-at-the-h-c-wainwright-bioconnect-virtual-conference/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "aljazeera.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://www.aljazeera.com/wp-content/uploads/2022/01/382579685.jpg",
+        "sourcecountry": "United States",
+        "title": "Fed minutes flag chance of earlier or faster interest rate hike",
+        "url": "https://www.aljazeera.com/economy/2022/1/5/fed-minutes-flag-chance-of-earlier-or-faster-interest-rate-hike",
+        "url_mobile": "https://www.aljazeera.com/amp/economy/2022/1/5/fed-minutes-flag-chance-of-earlier-or-faster-interest-rate-hike"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/05/D_20a10image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Equities Q1 2022 Technical Forecast : Stock Trends Are Pointe ... ",
+        "url": "https://menafn.com/1103493960/Equities-Q1-2022-Technical-Forecast-Stock-Trends-Are-Pointed-Higher-Until-They-Arent&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fee.org",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://fee.org/media/41056/elizabeth-holmes_guilty_cognitive-dissonance_behavorial-ecnomics2.jpg?center=0.2882205513784461,0.59833333333333338&mode=crop&widthratio=2.0171673819742489270386266094&rnd=132857603210000000",
+        "sourcecountry": "United States",
+        "title": "The Behavioral Experiment That Helps Explain the Fall of Elizabeth Holmes and the Horrors of Socialism",
+        "url": "https://fee.org/articles/the-behavioral-experiment-that-helps-explain-the-fall-of-elizabeth-holmes-and-the-horrors-of-socialism/",
+        "url_mobile": "https://fee.org/articles/the-behavioral-experiment-that-helps-explain-the-fall-of-elizabeth-holmes-and-the-horrors-of-socialism/amp"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/05/D_e32c5image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "S & P 500 Sinks as FOMC Meeting Minutes Hint at Earlier , Faste ... ",
+        "url": "https://menafn.com/1103494772/SP-500-Sinks-as-FOMC-Meeting-Minutes-Hint-at-Earlier-Faster-Rate-Hikes&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "9and10news.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2022/01/t/b/stock-market-ap.jpeg",
+        "sourcecountry": "United States",
+        "title": "U . S . Stocks Slump After Minutes from Fed Meeting Rattle Market",
+        "url": "https://www.9and10news.com/2022/01/05/u-s-stocks-slump-after-minutes-from-fed-meeting-rattle-market/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cryptobriefing.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://static.cryptobriefing.com/wp-content/uploads/2022/01/05113823/kazakhstan-bitcoin-mining-cover-768x403.png",
+        "sourcecountry": "",
+        "title": "How Kazakhstan Energy Crisis Could Impact Bitcoin",
+        "url": "https://cryptobriefing.com/how-kazakhstans-energy-crisis-could-impact-bitcoin/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/arkk%20record.png?itok=7WqTZBM3",
+        "sourcecountry": "United States",
+        "title": "Cathie Wood ARKK Sinks With Record 45 % Drawdown",
+        "url": "https://www.zerohedge.com/markets/arkk-starts-2022-cementing-record-45-drawdown",
+        "url_mobile": ""
+      },
+      {
+        "domain": "streetinsider.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Corsair Gaming ( CRSR ) Appoints Thi La and Sarah Mears Kim to its Board",
+        "url": "https://www.streetinsider.com/Board+Changes/Corsair+Gaming+(CRSR)+Appoints+Thi+La+and+Sarah+Mears+Kim+to+its+Board/19426340.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "russiaherald.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "",
+        "sourcecountry": "Russia",
+        "title": "Latest count of confirmed COVID - 19 cases worldwide at 1500 GMT , Jan . 5",
+        "url": "https://www.russiaherald.com/news/272108611/latest-count-of-confirmed-covid-19-cases-worldwide-at-1500-gmt-jan-5",
+        "url_mobile": ""
+      },
+      {
+        "domain": "citizensjournal.us",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://www.citizensjournal.us/wp-content/uploads/2015/07/school.supply-e1437175458913.jpg",
+        "sourcecountry": "United States",
+        "title": "DEI Must DIE",
+        "url": "https://www.citizensjournal.us/dei-must-die/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wjbc.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://express-images.franklymedia.com/6616/sites/389/2022/01/05165717/0105Rivian.jpg",
+        "sourcecountry": "United States",
+        "title": "Rivian stock falls after Amazon announces new partnership with Stellantis",
+        "url": "https://www.wjbc.com/2022/01/05/rivian-stock-falls-after-amazon-announces-new-partnership-with-stellantis/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability What next for winter highway travel ? ",
+        "url": "https://www.msn.com/en-us/news/us/equilibriumsustainability-whats-next-for-winter-highway-travel/ar-AAStiCJ",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fnarena.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "IMTE raise funds to support the acquisition and building out of manufacturing infrastructure",
+        "url": "https://www.fnarena.com/index.php/2022/01/05/imte-raise-funds-to-support-the-acquisition-and-building-out-of-manufacturing-infrastructure/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "visualcapitalist.com",
+        "language": "English",
+        "seendate": "20220105T234500Z",
+        "socialimage": "https://www.visualcapitalist.com/wp-content/uploads/2021/12/Corporate-Finance-Explained-1.png",
+        "sourcecountry": "United States",
+        "title": "Breaking Down Corporate Finance Careers , From Hedge Funds to M & A",
+        "url": "https://www.visualcapitalist.com/finance-careers-from-hedge-funds-to-ma/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "brinknews.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://www.brinknews.com/wp-content/uploads/2022/01/tomas-eidsvold-Vhr4lk8gNBk-unsplash.jpg",
+        "sourcecountry": "China",
+        "title": "The Global Economy in 2022",
+        "url": "https://www.brinknews.com/the-global-economy-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://chorus.stimg.co/23148255/merlin_65976584.jpg?&fit=crop&bg=999&crop=faces",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.startribune.com/anticipation-that-fed-will-raise-rates-sends-stocks-lower/600132770/",
+        "url_mobile": "https://m.startribune.com/anticipation-that-fed-will-raise-rates-sends-stocks-lower/600132770/"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bionomics Limited Announces Full Exercise of Underwriter Option to Purchase Additional ADSs in the United States",
+        "url": "https://www.prnewswire.com:443/news-releases/bionomics-limited-announces-full-exercise-of-underwriters-option-to-purchase-additional-adss-in-the-united-states-301455083.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d5f8d95b49881682299df6%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "Conagra Stock Seeing Pressure Ahead Of Earnings",
+        "url": "https://www.forbes.com/sites/greatspeculations/2022/01/05/conagra-stock-seeing-pressure-ahead-of-earnings/",
+        "url_mobile": "https://www.forbes.com/sites/greatspeculations/2022/01/05/conagra-stock-seeing-pressure-ahead-of-earnings/amp/"
+      },
+      {
+        "domain": "torontotelegraph.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Canada",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.torontotelegraph.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://media.bizj.us/view/img/11809568/ces-1-e1546292241415*1200xx1000-563-0-52.jpg",
+        "sourcecountry": "United States",
+        "title": "PHL Inno - 6 Philadelphia - area companies are set to showcase at CES 2022",
+        "url": "https://www.bizjournals.com/philadelphia/inno/stories/news/2022/01/05/these-6-philadelphia-area-companies-ces-2022.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "argus-press.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/custom/image/bdf824b4-27a0-11e8-a78f-67fc2c3cc6dd.png?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "JetBlue Introduces  Sustainable Travel Partner Program Empowering Corporate Customers to Enhance the Sustainability of their Business Travel | National",
+        "url": "https://www.argus-press.com/news/national/article_eb5ddae3-a39c-53e1-ae23-746eefb341ef.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "goskagit.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/6/17/617f3397-fe76-5304-a99f-cf7a53f27512/61d52310dee01.image.jpg?crop=1765%2C927%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.goskagit.com/news/nation/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_e493da9d-54cd-5a6c-9be1-5f996524e702.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "reflector.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/c/a8/ca861140-bdcf-59de-a50d-6b6ad7762e33/61d522f02e57f.image.jpg?crop=1765%2C927%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.reflector.com/news/national/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_9727fedd-7006-550e-8c6b-099889242bfb.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcnewyork.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://media.nbcnewyork.com/2021/12/106993273-1640739101413-abcd.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Dip After Wednesday Sell - Off",
+        "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-flat-after-wednesdays-sell-off/3481671/",
+        "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-flat-after-wednesdays-sell-off/3481671/?amp"
+      },
+      {
+        "domain": "industrialit.com.au",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Biomass Power Market Size 2022 - 2028 Industry Share , Growth Analysis , Regional Demand , Key Manufacturers \u2013 Babcock & Wilcox Enterprises ., Xcel Energy Inc ., Ramboll Group A / S , National Bio Energy , Mitsubishi Heavy Industries \u2013 Industrial IT",
+        "url": "https://industrialit.com.au/biomass-power-market-size-2022-2028-industry-share-growth-analysis-regional-demand-key-manufacturers-babcock-wilcox-enterprises-xcel-energy-inc-ramboll-group-a-s-national-bio-energy-m/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "malaysiasun.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.malaysiasun.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "texasguardian.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Water Tower Research ( WTR ) Publishes Initiation of Coverage Report on Crown Electrokinetics , Inc . ( NASDAQ : CRKN ) Titled  Looking Through the Window Into Smart Glass Solutions For The Commercial Retrofit Market  ",
+        "url": "https://www.texasguardian.com/news/272110055/water-tower-research-wtr-publishes-initiation-of-coverage-report-on-crown-electrokinetics-inc-nasdaq-crkn-titled-looking-through-the-window-into-smart-glass-solutions-for-the-commercial-retrofit-market",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bionomics Limited Announces Full Exercise of Underwriter Option to Purchase Additional ADSs in the United States",
+        "url": "https://www.prnewswire.com/news-releases/bionomics-limited-announces-full-exercise-of-underwriters-option-to-purchase-additional-adss-in-the-united-states-301455083.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DJLFEXLZFRHA5A26MMPWIUSJIE.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion | President Biden broke his promise to separated migrant families",
+        "url": "https://www.washingtonpost.com/opinions/2022/01/05/president-biden-broke-his-promise-separated-migrant-families/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "barbadostoday.bb",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://barbadostoday.bb/wp-content/uploads/2022/01/Economy.jpg",
+        "sourcecountry": "Barbados",
+        "title": " # BTColumn \u2013 Multiverse of economic madness ( Part 1 ) ",
+        "url": "https://barbadostoday.bb/2022/01/05/btcolumn-multiverse-of-economic-madness-part-1/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "irishsun.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Ireland",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.irishsun.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "malaysiasun.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.malaysiasun.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "texasguardian.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.texasguardian.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "myanmarnews.net",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Myanmar",
+        "title": "Nasdaq Composite sheds more than 3 percent in U . S . stocks rout",
+        "url": "https://www.myanmarnews.net/news/272110102/nasdaq-composite-sheds-more-than-3-percent-in-us-stocks-rout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://images.barrons.com/im-462696/social",
+        "sourcecountry": "United States",
+        "title": "This ARK Fund Just Had Its Worst Day Since September 2020",
+        "url": "https://www.marketwatch.com/articles/this-ark-fund-just-had-its-worst-day-since-september-2020-51641424042",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2021/12/106993273-1640739101413-abcd.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After Wednesday Sell - Off",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-flat-after-wednesdays-sell-off/2685297/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-flat-after-wednesdays-sell-off/2685297/?amp"
+      },
+      {
+        "domain": "galvnews.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?crop=1080%2C1080%2C420%2C0",
+        "sourcecountry": "United States",
+        "title": "Sonoma Pharmaceuticals to Present at H . C . Wainwright BioConnect Virtual Conference January 10 - 13 , 2022",
+        "url": "https://www.galvnews.com/news_ap/business/article_e7e70a1e-66eb-5132-b9a0-5165bf778a48.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "abcnews.go.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How major US stock indexes fared Wednesday",
+        "url": "https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-82096738",
+        "url_mobile": "https://abcnews.go.com/amp/Business/wireStory/major-us-stock-indexes-fared-wednesday-82096738"
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2021/02/106842092-1613653412291-gettyimages-1230992672-PGONCHAR_3E9626JPG.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Hedge Fund Senvest Posts 85 % Return in 2021 Riding GameStop Meme , Among Wall Street Best",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/hedge-fund-senvest-posts-85-return-in-2021-riding-gamestop-meme-among-wall-streets-best/2685196/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/hedge-fund-senvest-posts-85-return-in-2021-riding-gamestop-meme-among-wall-streets-best/2685196/?amp"
+      },
+      {
+        "domain": "medscape.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://img.medscape.com/thumbnail_library/ap_220105_at_home_covid_test_800x450.jpg",
+        "sourcecountry": "United States",
+        "title": "Walmart , Kroger Raise Price of At - Home COVID Test",
+        "url": "https://www.medscape.com/viewarticle/966107",
+        "url_mobile": ""
+      },
+      {
+        "domain": "industrialit.com.au",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Biomass Gasification Market Size 2022 - 2028 Industry Share , Growth Analysis , Regional Demand , Key Manufacturers \u2013 Xergi , Carbotech , Corenso United , MT Energie , Wilcox Volund \u2013 Industrial IT",
+        "url": "https://industrialit.com.au/biomass-gasification-market-size-2022-2028-industry-share-growth-analysis-regional-demand-key-manufacturers-xergi-carbotech-corenso-united-mt-energie-wilcox-volund/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "myanmarnews.net",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Myanmar",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.myanmarnews.net/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sandiegosun.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.sandiegosun.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kasu.org",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/05/ap21336676795210-acab2bb9d5329a31c598208ea91e1269afc1c7b3.jpg",
+        "sourcecountry": "United States",
+        "title": "The global supply chain is amazingly efficient . So why did it break down ? ",
+        "url": "https://www.kasu.org/2022-01-05/the-global-supply-chain-is-amazingly-efficient-so-why-did-it-break-down",
+        "url_mobile": "https://www.kasu.org/2022-01-05/the-global-supply-chain-is-amazingly-efficient-so-why-did-it-break-down?_amp=true"
+      },
+      {
+        "domain": "bakersfield.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Riot Blockchain Announces December Production and Operations Updates",
+        "url": "https://www.bakersfield.com/ap/news/riot-blockchain-announces-december-production-and-operations-updates/article_4841e45a-d19e-5f84-94e4-43be709d1a70.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nashvilleherald.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.nashvilleherald.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "streetinsider.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "USA Truck Selects Nikola & Thompson Truck Centers",
+        "url": "https://www.streetinsider.com/Accesswire/USA+Truck+Selects+Nikola+&+Thompson+Truck+Centers/19423346.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sandiegosun.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Water Tower Research ( WTR ) Publishes Initiation of Coverage Report on Crown Electrokinetics , Inc . ( NASDAQ : CRKN ) Titled  Looking Through the Window Into Smart Glass Solutions For The Commercial Retrofit Market  ",
+        "url": "https://www.sandiegosun.com/news/272110055/water-tower-research-wtr-publishes-initiation-of-coverage-report-on-crown-electrokinetics-inc-nasdaq-crkn-titled-looking-through-the-window-into-smart-glass-solutions-for-the-commercial-retrofit-market",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtontimes.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Inside the Beltway : The media squints at Jan . 6 anniversary",
+        "url": "https://www.washingtontimes.com:443/news/2022/jan/5/inside-beltway-media-squints-jan-6-anniversary/",
+        "url_mobile": "https://amp.washingtontimes.com/news/2022/jan/5/inside-beltway-media-squints-jan-6-anniversary/"
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Sutro Biopharma Announces Interim Data from Dose - Expansion Cohort of STRO - 002 Phase 1 Study for Patients with Advanced Ovarian Cancer",
+        "url": "https://www.morningstar.com/news/pr-newswire/20220105ny22669/sutro-biopharma-announces-interim-data-from-dose-expansion-cohort-of-stro-002-phase-1-study-for-patients-with-advanced-ovarian-cancer",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sent-trib.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/sent-trib.com/content/tncms/assets/v3/editorial/d/10/d10dbcbc-6e73-11ec-8d17-f7a390f7c57b/61d616a41f353.image.jpg?crop=1024%2C538%2C0%2C72",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.sent-trib.com/news/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_c5a11a90-6e73-11ec-827d-e7637c780ddc.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nashvilleherald.com",
+        "language": "English",
+        "seendate": "20220105T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TLSS Announces Executive and Board Changes",
+        "url": "https://www.nashvilleherald.com/news/272110086/tlss-announces-executive-and-board-changes",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investors.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://www.investors.com/wp-content/uploads/2019/10/stock-Federal-Reserve-fall-12-shutter.jpg",
+        "sourcecountry": "United States",
+        "title": "Dow Jones Futures : Hawkish Fed Slams Market Rally ; Tesla , Microsoft , Google Break Key Levels",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-hawkish-fed-slams-market-rally-tesla-microsoft-google-break-key-levels/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "singaporestar.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Singapore",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.singaporestar.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investors.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://www.investors.com/wp-content/uploads/2022/01/sotd-for-01-05-2022-desktop-1.png",
+        "sourcecountry": "United States",
+        "title": "Nucor , IBD Stock Of The Day , Breaks Out As Cyclicals Show Strength",
+        "url": "https://www.investors.com/research/ibd-stock-of-the-day/nucor-nue-stock-breaks-out-as-cyclicals-show-strength/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investors.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://www.investors.com/wp-content/uploads/2018/06/stock-Federal_Reserve-09-adobe.jpg",
+        "sourcecountry": "United States",
+        "title": "Fed Minutes : Here How Fast Balance Sheet Will Unwind ; Stock Market Slides",
+        "url": "https://www.investors.com/news/economy/fed-minutes-heres-how-fast-balance-sheet-will-unwind-stock-market-slides/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "",
+        "sourcecountry": "Greece",
+        "title": "ForexLive Americas FX news wrap : Hawkish Fed talk overshadows strong ADP jobs report",
+        "url": "https://www.forexlive.com/news/forexlive-americas-fx-news-wrap-hawkish-fed-talk-overshadows-strong-adp-jobs-report-20220105/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chinanationalnews.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "China",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.chinanationalnews.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investors.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://www.investors.com/wp-content/uploads/2017/10/stock-exxon-01-shutter.jpg",
+        "sourcecountry": "United States",
+        "title": "Top Dividend Stocks : Dividend Aristocrat Exxon Mobil Passes A Buy Point",
+        "url": "https://www.investors.com/research/the-income-investor/top-dividend-stocks-dividend-aristocrat-exxon-mobil-passes-a-buy-point/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wfdd.org",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://wfdd-live.s3.amazonaws.com/styles/story-full/s3/images/story/The-global-supply-chain-is-amazingly-efficient-So-why-did-it-break-down-1070547196-1641407413.jpg?itok=hNkIaiAs",
+        "sourcecountry": "United States",
+        "title": "The global supply chain is amazingly efficient . So why did it break down ? ",
+        "url": "https://www.wfdd.org/story/global-supply-chain-amazingly-efficient-so-why-did-it-break-down",
+        "url_mobile": ""
+      },
+      {
+        "domain": "albuquerqueexpress.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TLSS Announces Executive and Board Changes",
+        "url": "https://www.albuquerqueexpress.com/news/272110086/tlss-announces-executive-and-board-changes",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailypress.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://www.dailypress.com/resizer/ZvryznlcwIsMEIyWpf8X2EFeBRY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZVTJIKQIKVDR5OV3M63HQJTEHA.jpg",
+        "sourcecountry": "United States",
+        "title": "KFC will start selling plant - based Beyond Fried Chicken next week",
+        "url": "http://www.dailypress.com/food-drink/vp-nw-kfc-beyond-meat-20220105-catqykqvabebfehuq2bkwzoey4-story.html",
+        "url_mobile": "https://www.dailypress.com/food-drink/vp-nw-kfc-beyond-meat-20220105-catqykqvabebfehuq2bkwzoey4-story.html?outputType=amp"
+      },
+      {
+        "domain": "investors.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://www.investors.com/wp-content/uploads/2018/12/Stock-NYSE-09-adobe.jpg",
+        "sourcecountry": "United States",
+        "title": "Dow Jones Reverses Sharply Lower After Fed Minutes ; Salesforce , Adobe Crumble As Software Massacre Continues",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-reverses-lower-after-fed-minutes-salesforce-adobe-crumble-software-maasacre-continues/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cambodiantimes.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Cambodia",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.cambodiantimes.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "singaporestar.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Singapore",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.singaporestar.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvik.org",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/05/ap21336676795210-acab2bb9d5329a31c598208ea91e1269afc1c7b3.jpg",
+        "sourcecountry": "United States",
+        "title": "The global supply chain is amazingly efficient . So why did it break down ? ",
+        "url": "https://www.wvik.org/2022-01-05/the-global-supply-chain-is-amazingly-efficient-so-why-did-it-break-down",
+        "url_mobile": "https://www.wvik.org/2022-01-05/the-global-supply-chain-is-amazingly-efficient-so-why-did-it-break-down?_amp=true"
+      },
+      {
+        "domain": "smdailyjournal.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/custom/image/0b0b7a5a-a1d1-11e6-9041-cbc40d61c8f5.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.smdailyjournal.com/news/national/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_ad701aeb-19f6-5ca9-875d-da74f6907824.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kkoh.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "US Stocks Slump After Fed Meeting Minutes Rattle Market",
+        "url": "https://www.kkoh.com/news/us-stocks-slump-after-fed-meeting-minutes-rattle-market/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "londonmercury.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.londonmercury.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Vuzix Collaborates with European Optical Group Fielmann and TeamViewer to Support the Enterprise Workforce",
+        "url": "https://www.prnewswire.com/news-releases/vuzix-collaborates-with-european-optical-group-fielmann-and-teamviewer-to-support-the-enterprise-workforce-301454844.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "albuquerqueexpress.com",
+        "language": "English",
+        "seendate": "20220105T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.albuquerqueexpress.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/E-Commerce-Is-Booming-in-This-Region-%E2%80%94-Play-It-With-EMQQ.jpg",
+        "sourcecountry": "China",
+        "title": "E - Commerce Is Booming in This Region Play It With EMQQ",
+        "url": "https://www.etftrends.com/emerging-markets-channel/e-commerce-is-booming-in-this-region-play-it-with-emqq/",
+        "url_mobile": "https://www.etftrends.com/emerging-markets-channel/e-commerce-is-booming-in-this-region-play-it-with-emqq/amp/"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/5-ETF-Predictions-for-2022.jpg",
+        "sourcecountry": "China",
+        "title": "5 ETF Predictions for 2022 | ETF Trends",
+        "url": "https://www.etftrends.com/5-etf-predictions-for-2022/",
+        "url_mobile": "https://www.etftrends.com/5-etf-predictions-for-2022/amp/"
+      },
+      {
+        "domain": "medicinehatnews.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://medicinehatnews.com/wp-content/uploads/cp/2022010511010-61d5c11a783312144d68e77ejpeg.jpg",
+        "sourcecountry": "United States",
+        "title": "Shopify loses crown as tech leads stock markets falling after Fed minutes - Medicine Hat NewsMedicine Hat News",
+        "url": "https://medicinehatnews.com/business/2022/01/05/shopify-loses-crown-as-tech-leads-stock-markets-falling-after-fed-minutes/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businesswire.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Eagle Pharmaceuticals Provides 2022 Business Update and Announces Launch of Vasopressin",
+        "url": "https://www.businesswire.com/news/home/20220105005918/en/Eagle-Pharmaceuticals-Provides-2022-Business-Update-and-Announces-Launch-of-Vasopressin",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newyorktelegraph.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Water Tower Research ( WTR ) Publishes Initiation of Coverage Report on Crown Electrokinetics , Inc . ( NASDAQ : CRKN ) Titled  Looking Through the Window Into Smart Glass Solutions For The Commercial Retrofit Market  ",
+        "url": "https://www.newyorktelegraph.com/news/272110055/water-tower-research-wtr-publishes-initiation-of-coverage-report-on-crown-electrokinetics-inc-nasdaq-crkn-titled-looking-through-the-window-into-smart-glass-solutions-for-the-commercial-retrofit-market",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Fed minutes , electric trucks",
+        "url": "https://www.chron.com/business/article/Business-Highlights-Fed-minutes-electric-trucks-16752370.php",
+        "url_mobile": "https://www.chron.com/business/amp/Business-Highlights-Fed-minutes-electric-trucks-16752370.php"
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://images.forexlive.com/images/Forex_id_853411da-ece8-443a-b648-0192e32aeeea_size900.jpg?v=1641422787108",
+        "sourcecountry": "Greece",
+        "title": "US major indices close at session lows",
+        "url": "https://www.forexlive.com/technical-analysis/us-major-indices-close-at-session-lows-20220105/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fbherald.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/5e06dd4e-3beb-11ec-89e8-ebe74271bae8.jpg?crop=539%2C539%2C450%2C0",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.fbherald.com/news/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_e5fbe099-cfbf-532d-b691-1b090f9cc158.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://menafn.com/updates/pr/",
+        "sourcecountry": "Qatar",
+        "title": "Calibre Mining Shareholders Overwhelmingly Approve Fiore Gol ... ",
+        "url": "https://menafn.com/1103494209/Calibre-Mining-Shareholders-Overwhelmingly-Approve-Fiore-Gold-Acquisition",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gobankingrates.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://cdn.gobankingrates.com/wp-content/uploads/2022/01/republican-senator-roger-wicker-mississippi-ndaa-remarks-nov-2021_shutterstock_editorial_12584140w.jpg",
+        "sourcecountry": "United States",
+        "title": "Stimulus Update : As US COVID Cases Surge , Congress Considers Relief Funding for Restaurants",
+        "url": "https://www.gobankingrates.com/money/economy/covid-cases-surge-congress-considers-restaurant-relief-funding/",
+        "url_mobile": "https://www.gobankingrates.com/money/economy/covid-cases-surge-congress-considers-restaurant-relief-funding/amp/"
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stocks slide as Federal Reserve confirms its foot is on the stimulus brakes",
+        "url": "https://www.kmjnow.com/news/stocks-slide-as-federal-reserve-confirms-its-foot-is-on-the-stimulus-brakes/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/05/18/52584123-0-image-a-6_1641406640387.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "RUTH SUNDERLAND : Bitcoin may well be going mainstream ... but it lacks the lustre of gold",
+        "url": "https://www.dailymail.co.uk/money/comment/article-10372395/RUTH-SUNDERLAND-Bitcoin-going-mainstream-lacks-lustre-gold.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "californiatelegraph.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TLSS Announces Executive and Board Changes",
+        "url": "https://www.californiatelegraph.com/news/272110086/tlss-announces-executive-and-board-changes",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks tumble on FOMC minutes , Nasdaq dives 523 points",
+        "url": "https://www.bignewsnetwork.com/news/272110102/us-stocks-tumble-on-fomc-minutes-nasdaq-dives-523-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newswire.ca",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://mma.prnewswire.com/media/1719902/Canopy_Growth_Corporation_Canopy_Growth_Issues_Environmental__So.jpg?p=facebook",
+        "sourcecountry": "Canada",
+        "title": "Canopy Growth Issues Environmental , Social , and Governance Report",
+        "url": "https://www.newswire.ca/news-releases/canopy-growth-issues-environmental-social-and-governance-report-853298918.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1703622!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/the-bank-of-america-tower-in-new-york-photographer-amir-hamja-bloomberg.jpg",
+        "sourcecountry": "Canada",
+        "title": "BofA to Make $100 Donation for Each Boosted U . S . Employee",
+        "url": "https://www.bnnbloomberg.ca/bofa-to-make-100-donation-for-each-boosted-u-s-employee-1.1703621",
+        "url_mobile": "https://www.bnnbloomberg.ca/bofa-to-make-100-donation-for-each-boosted-u-s-employee-1.1703621.amp.html"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": " ( BLI ) DEADLINE : Did You Suffer a Substantial Loss ? Contact",
+        "url": "https://www.globenewswire.com/news-release/2022/01/05/2362071/0/en/BLI-DEADLINE-Did-You-Suffer-a-Substantial-Loss-Contact-Johnson-Fistel-About-Leading-Berkeley-Lights-Class-Action-Lawsuit.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "US Stocks Slump After Fed Meeting Minutes Rattle Market",
+        "url": "https://www.kmjnow.com/news/us-stocks-slump-after-fed-meeting-minutes-rattle-market/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tucson.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/e/d8/ed8fe516-347d-57a9-9ef3-5789c5aa9008/61d52643a19bc.image.jpg?crop=1764%2C992%2C0%2C90",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://tucson.com/lifestyles/health-med-fit/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_0fa7402b-5ba9-5306-8e1a-c2f80d731c9c.html",
+        "url_mobile": "https://tucson.com/lifestyles/health-med-fit/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_0fa7402b-5ba9-5306-8e1a-c2f80d731c9c.amp.html"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2018/02/etf-trends-exchange-traded-funds-default1.jpg",
+        "sourcecountry": "China",
+        "title": "The Year In Review | ETF Trends",
+        "url": "https://www.etftrends.com/etf-strategist-channel/the-year-in-review/",
+        "url_mobile": "https://www.etftrends.com/etf-strategist-channel/the-year-in-review/amp/"
+      },
+      {
+        "domain": "californiatelegraph.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.californiatelegraph.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newyorktelegraph.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.newyorktelegraph.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "justicenewsflash.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.ft.com/__origami/service/image/v2/images/raw/https://d1e00ek4ebabms.cloudfront.net/production/72e4ff91-10e0-42af-bef7-0e2097889882.jpg?source=next-opengraph&fit=scale-down",
+        "sourcecountry": "United States",
+        "title": "The Fed warns that it may need to speed up interest rates to curb soaring inflation",
+        "url": "https://www.justicenewsflash.com/2022/01/05/the-fed-warns-that-it-may-need-to-speed-up-interest-rates-to-curb-soaring-inflation_20220105164794.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gobankingrates.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://cdn.gobankingrates.com/wp-content/uploads/2022/01/iStock-157316792-2.jpg",
+        "sourcecountry": "United States",
+        "title": "Private Sector Added 807 , 000 Jobs in December , Still 4 Million Short of Pre - COVID Levels",
+        "url": "https://www.gobankingrates.com/money/jobs/private-sector-added-807000-jobs-in-december-still-4-million-short-of-pre-covid-levels/",
+        "url_mobile": "https://www.gobankingrates.com/money/jobs/private-sector-added-807000-jobs-in-december-still-4-million-short-of-pre-covid-levels/amp/"
+      },
+      {
+        "domain": "theweek.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641399975/GettyImages-1237544027.jpg",
+        "sourcecountry": "United States",
+        "title": "Protesters burn Kazakh president house after cabinet resigns",
+        "url": "https://theweek.com/protests/1008647/protesters-burn-kazakh-presidents-house-after-cabinet-resigns",
+        "url_mobile": "https://theweek.com/protests/1008647/protesters-burn-kazakh-presidents-house-after-cabinet-resigns?amp"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1703633!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/the-tencent-holdings-ltd-building-stands-in-the-nanshan-district-in-shenzhen-china.png",
+        "sourcecountry": "Canada",
+        "title": "Asia Stocks to Fall as Tech Rout Deepens on Fed : Markets Wrap",
+        "url": "https://www.bnnbloomberg.ca/asia-stocks-to-fall-as-tech-rout-deepens-on-fed-markets-wrap-1.1703632",
+        "url_mobile": "https://www.bnnbloomberg.ca/asia-stocks-to-fall-as-tech-rout-deepens-on-fed-markets-wrap-1.1703632.amp.html"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Fed-Mapping-Out-Its-Bond-Purchase-Reduction-Plan.jpg",
+        "sourcecountry": "China",
+        "title": "Fed Mapping Out Its Bond Purchase Reduction Plan",
+        "url": "https://www.etftrends.com/fixed-income-channel/fed-mapping-out-its-bond-purchase-reduction-plan/",
+        "url_mobile": "https://www.etftrends.com/fixed-income-channel/fed-mapping-out-its-bond-purchase-reduction-plan/amp/"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/U.S.-Stock-ETFs-Could-Maintain-Their-Momentum-Through-2022.jpg",
+        "sourcecountry": "China",
+        "title": "U . S . Stock ETFs Could Maintain Their Momentum Through 2022",
+        "url": "https://www.etftrends.com/u-s-stock-etfs-could-maintain-their-momentum-through-2022/",
+        "url_mobile": "https://www.etftrends.com/u-s-stock-etfs-could-maintain-their-momentum-through-2022/amp/"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/U.S.-Stock-ETFs-Waver-as-Cyclicals-Help-Offset-Tech-Pullback.jpg",
+        "sourcecountry": "China",
+        "title": "U . S . Stock ETFs Waver as Cyclicals Help Offset Tech Pullback",
+        "url": "https://www.etftrends.com/portfolio-strategies-channel/u-s-stock-etfs-waver-as-cyclicals-help-offset-tech-pullback/",
+        "url_mobile": "https://www.etftrends.com/portfolio-strategies-channel/u-s-stock-etfs-waver-as-cyclicals-help-offset-tech-pullback/amp/"
+      },
+      {
+        "domain": "gobankingrates.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://cdn.gobankingrates.com/wp-content/uploads/2020/05/guy-watching-esports-gaming-iStock-1206214988.jpg",
+        "sourcecountry": "United States",
+        "title": "10 Best Gaming Stocks To Buy",
+        "url": "https://www.gobankingrates.com/investing/stocks/best-gaming-stocks/",
+        "url_mobile": "https://www.gobankingrates.com/investing/stocks/best-gaming-stocks/amp/"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1703630!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-heaviest-tech-selling-in-a-decade-fueled-stock-market-rate-rout.png",
+        "sourcecountry": "Canada",
+        "title": "Heaviest Tech Selling in a Decade Fueled Stock - Market Rate Rout",
+        "url": "https://www.bnnbloomberg.ca/heaviest-tech-selling-in-a-decade-fueled-stock-market-rate-rout-1.1703629",
+        "url_mobile": "https://www.bnnbloomberg.ca/heaviest-tech-selling-in-a-decade-fueled-stock-market-rate-rout-1.1703629.amp.html"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2021/12/Transitory-or-Not-Stay-Ahead-of-Inflation-With-VTIP.jpg",
+        "sourcecountry": "China",
+        "title": "Special Report : Astoria 10 ETF Themes for 2022",
+        "url": "https://www.etftrends.com/etf-strategist-channel/special-report-astorias-10-etf-themes-for-2022/",
+        "url_mobile": "https://www.etftrends.com/etf-strategist-channel/special-report-astorias-10-etf-themes-for-2022/amp/"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/EWSC-Could-Be-an-Excellent-Idea-for-Small-Cap-Diversification.jpg",
+        "sourcecountry": "China",
+        "title": "EWSC Could Be an Excellent Idea for Small - Cap Diversification",
+        "url": "https://www.etftrends.com/portfolio-strategies-channel/ewsc-could-be-an-excellent-idea-for-small-cap-diversification/",
+        "url_mobile": "https://www.etftrends.com/portfolio-strategies-channel/ewsc-could-be-an-excellent-idea-for-small-cap-diversification/amp/"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Steel-ETFs-Strengthen-on-Positive-Outlook-for-Nucor-Cleveland-Cliffs.jpg",
+        "sourcecountry": "China",
+        "title": "Steel ETFs Strengthen on Positive Outlook for Nucor , Cleveland - Cliffs",
+        "url": "https://www.etftrends.com/steel-etfs-strengthen-on-positive-outlook-for-nucor-cleveland-cliffs/",
+        "url_mobile": "https://www.etftrends.com/steel-etfs-strengthen-on-positive-outlook-for-nucor-cleveland-cliffs/amp/"
+      },
+      {
+        "domain": "foxbusiness.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/Powell-9.jpg?ve=1&tl=1",
+        "sourcecountry": "United States",
+        "title": "Fed eyes faster interest rate liftoff , balance sheet reduction as inflation soars",
+        "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rates-balance-sheet-december-minutes",
+        "url_mobile": "https://www.foxbusiness.com/economy/federal-reserve-interest-rates-balance-sheet-december-minutes.amp"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Building-a-Resilient-and-Adaptable-Portfolio-for-2022.jpg",
+        "sourcecountry": "China",
+        "title": "Building a Resilient and Adaptable Portfolio for 2022",
+        "url": "https://www.etftrends.com/etf-strategist-channel/building-a-resilient-and-adaptable-portfolio-for-2022/",
+        "url_mobile": "https://www.etftrends.com/etf-strategist-channel/building-a-resilient-and-adaptable-portfolio-for-2022/amp/"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/It-Might-Not-Be-a-2021-Sequel-but-Chip-ETFs-Can-Deliver-in-2022.jpg",
+        "sourcecountry": "China",
+        "title": "It Might Not Be a 2021 Sequel , but Chip ETFs Can Deliver in 2022",
+        "url": "https://www.etftrends.com/tactical-allocation-channel/it-might-not-be-2021-sequel-but-chip-etfs-can-deliver-in-2022/",
+        "url_mobile": "https://www.etftrends.com/tactical-allocation-channel/it-might-not-be-2021-sequel-but-chip-etfs-can-deliver-in-2022/amp/"
+      },
+      {
+        "domain": "haberx.com",
+        "language": "English",
+        "seendate": "20220105T230000Z",
+        "socialimage": "https://www.haberx.com/user/gallery/20220106005433-us-stocks-slump-after-minutes-from-fed-meeting-rattling-market-721948.jpg",
+        "sourcecountry": "Turkey",
+        "title": "US stocks slump after minutes from Fed meeting rattling market",
+        "url": "https://www.haberx.com/post/721948/us-stocks-slump-after-minutes-from-fed-meeting-rattling-market",
+        "url_mobile": ""
+      },
+      {
+        "domain": "vegasslotsonline.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://www.vegasslotsonline.com/news/wp-content/uploads/2022/01/shutterstock_653491039.png",
+        "sourcecountry": "",
+        "title": "Nevada Gaming Regulators Appealing Wynn  Free Pass  ",
+        "url": "https://www.vegasslotsonline.com/news/2022/01/05/nevada-gaming-regulators-urge-supreme-court-to-reconsider-free-pass-for-steve-wynn/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wfnc640am.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stocks slide as Federal Reserve confirms its foot is on the stimulus brakes",
+        "url": "https://www.wfnc640am.com/news/stocks-slide-as-federal-reserve-confirms-its-foot-is-on-the-stimulus-brakes/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theguardian.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Corrections and clarifications",
+        "url": "https://www.theguardian.com/news/2022/jan/05/corrections-and-clarifications",
+        "url_mobile": "https://amp.theguardian.com/news/2022/jan/05/corrections-and-clarifications"
+      },
+      {
+        "domain": "idahopress.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/5/e4/5e450d2f-da32-5aae-84e2-e9b4ea11bbd9/61d526c9606d5.image.jpg?crop=1765%2C927%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.idahopress.com/news/national/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_f511a112-a276-5ba4-8d39-e7c24e6ff07b.html",
+        "url_mobile": "https://www.idahopress.com/news/national/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_f511a112-a276-5ba4-8d39-e7c24e6ff07b.amp.html"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://menafn.com/updates/pr/",
+        "sourcecountry": "Qatar",
+        "title": "Arrival to Present at the Virtual Needham Growth Conference ... ",
+        "url": "https://menafn.com/1103494609/Arrival-to-Present-at-the-Virtual-Needham-Growth-Conference-on-January-14",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wypr.org",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/05/ap21336676795210-acab2bb9d5329a31c598208ea91e1269afc1c7b3.jpg",
+        "sourcecountry": "United States",
+        "title": "The global supply chain is amazingly efficient . So why did it break down ? ",
+        "url": "https://www.wypr.org/wypr-arts/2022-01-05/the-global-supply-chain-is-amazingly-efficient-so-why-did-it-break-down",
+        "url_mobile": "https://www.wypr.org/wypr-arts/2022-01-05/the-global-supply-chain-is-amazingly-efficient-so-why-did-it-break-down?_amp=true"
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-alkermes-plc-aktie-intraklein-tradegate.png",
+        "sourcecountry": "Germany",
+        "title": "Alkermes plc : Alkermes to Take Part in the 40th Annual J . P . Morgan Healthcare Conference",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54903885-alkermes-plc-alkermes-to-take-part-in-the-40th-annual-j-p-morgan-healthcare-conference-008.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "houstonchronicle.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://www.houstonchronicle.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Fed minutes , electric trucks",
+        "url": "https://www.houstonchronicle.com/business/article/Business-Highlights-Fed-minutes-electric-trucks-16752370.php",
+        "url_mobile": "https://www.houstonchronicle.com/business/amp/Business-Highlights-Fed-minutes-electric-trucks-16752370.php"
+      },
+      {
+        "domain": "benningtonbanner.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/benningtonbanner.com/content/tncms/assets/v3/editorial/d/18/d182a561-d9c4-51b8-8408-e34eaa43a233/61d522c526bd6.image.jpg?crop=1765%2C927%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.benningtonbanner.com/ap/national/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_b75efcf1-0ce7-5ff9-ad67-eccf4e5db11c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bondbuyer.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://source-media-brightspot.s3.amazonaws.com/27/59/f9a4541b491482201d1af158616e/bb-010622-ici.jpeg",
+        "sourcecountry": "United States",
+        "title": "FOMC roils UST and equities while munis sit tight",
+        "url": "https://www.bondbuyer.com/news/fomc-roils-ust-and-equities-while-munis-sit-tight",
+        "url_mobile": ""
+      },
+      {
+        "domain": "webmd.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/covid_19_testing_four_other/1800x1200_covid_19_testing_four_other.jpg",
+        "sourcecountry": "United States",
+        "title": "Walmart , Kroger Raise Price of At - Home COVID Test",
+        "url": "https://www.webmd.com/lung/news/20220105/walmart-kroger-raise-price-at-home-covid-test",
+        "url_mobile": ""
+      },
+      {
+        "domain": "shanghainews.net",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "China",
+        "title": "Nasdaq Composite sheds more than 3 percent in U . S . stocks rout",
+        "url": "https://www.shanghainews.net/news/272110102/nasdaq-composite-sheds-more-than-3-percent-in-us-stocks-rout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660061/finance-and-technology-online-finance.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Salesforce . com Fell Over 6 % Today",
+        "url": "https://www.fool.com/investing/2022/01/05/why-salesforcecom-fell-6-today/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pentictonherald.ca",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/pentictonherald.ca/content/tncms/assets/v3/editorial/e/ea/eea8f4ff-755a-5f23-b928-08ebcfc6f08f/61d5cea521608.image.jpg?crop=650%2C341%2C0%2C45",
+        "sourcecountry": "Canada",
+        "title": "Shopify loses crown as tech leads stock markets falling after Fed minutes",
+        "url": "https://www.pentictonherald.ca/business_news/national_business/article_68fd98ab-b574-52f3-9dcc-9a13daf4c123.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cincinnatisun.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.cincinnatisun.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "triblive.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://assets-varnish.triblive.com/2022/01/4614474_web1_4614474-7ed92907147a44bf8ef85d44777c1b82.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks slump after minutes from Fed meeting rattle market",
+        "url": "https://triblive.com/news/wire-stories/u-s-stocks-slump-after-minutes-from-fed-meeting-rattle-market/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "africaleader.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "South Africa",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.africaleader.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "",
+        "sourcecountry": "Germany",
+        "title": "ICON plc to Present at the 40th Annual JP Morgan Healthcare Conference",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54904033-icon-plc-to-present-at-the-40th-annual-jp-morgan-healthcare-conference-004.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tucsonpost.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "United States",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.tucsonpost.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afghanistannews.net",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "Nasdaq Composite sheds more than 3 percent in U . S . stocks rout",
+        "url": "https://www.afghanistannews.net/news/272110102/nasdaq-composite-sheds-more-than-3-percent-in-us-stocks-rout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "swvatoday.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/swvatoday.com/content/tncms/assets/v3/editorial/5/a9/5a9380fd-3d50-54ca-859d-c8ba5cddb8a9/61d525d7d553c.image.jpg?crop=1764%2C926%2C0%2C123",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://swvatoday.com/lifestyles/health-med-fit/article_5bf30805-9e8d-5189-b69c-c47d98bbd1a9.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://media.breitbart.com/media/2022/01/china-is-tolerance-strategy-pandemic-potential-impact-winter-olympics-afp-640x335.png",
+        "sourcecountry": "United States",
+        "title": "Olympics Committee Cant Confirm Its Beijing Merchandise Wasnt Made by Chinese Slaves",
+        "url": "https://www.breitbart.com/national-security/2022/01/05/olympics-committee-cant-confirm-its-beijing-merchandise-wasnt-made-by-chinese-slaves/",
+        "url_mobile": "https://www.breitbart.com/asia/2022/01/05/olympics-committee-cant-confirm-its-beijing-merchandise-wasnt-made-by-chinese-slaves/amp/"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660070/rivian-r1t-is-rivian.jpg",
+        "sourcecountry": "United States",
+        "title": "Rivian Stock Got Cheaper Today -- Is It a Buy ? ",
+        "url": "https://www.fool.com/investing/2022/01/05/rivian-stock-got-cheaper-today-is-it-a-buy/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thechiefleader.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/thechiefleader.com/content/tncms/assets/v3/editorial/b/50/b5037622-6e61-11ec-ad34-83cb9f347dcd/61d5f84424941.image.jpg?crop=1762%2C925%2C0%2C125",
+        "sourcecountry": "United States",
+        "title": "Unions Call for Hazard Pay As Omicron Sidelines Staff",
+        "url": "https://thechiefleader.com/news/news_of_the_week/unions-call-for-hazard-pay-as-omicron-sidelines-staff/article_9ceeb44a-6e69-11ec-81de-cff96c1808c8.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660050/bear_and_bull.jpg",
+        "sourcecountry": "United States",
+        "title": "Alibaba Stock Soared Today -- Is It a Buy ? ",
+        "url": "https://www.fool.com/investing/2022/01/05/alibaba-stock-soared-today-is-it-a-buy/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability What next for winter highway travel ? ",
+        "url": "https://www.msn.com/en-us/news/us/equilibrium-sustainability-%e2%80%94-whats-next-for-winter-highway-travel/ar-AAStiCJ",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news-gazette.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/custom/image/3d3bfbd4-3cf5-11ec-9461-574a9d514a20.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "How major US stock indexes fared Wednesday",
+        "url": "https://www.news-gazette.com/news/nation-world/how-major-us-stock-indexes-fared-wednesday/article_79164b6d-62e0-51aa-a390-24159555f11a.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "latimes.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://california-times-brightspot.s3.amazonaws.com/44/10/503051cba61d62213f4183d154ff/099f9812b8b843609fe74c1517e6d55a",
+        "sourcecountry": "United States",
+        "title": "Tech stocks slide , bonds fall after Fed flags rate hikes",
+        "url": "https://www.latimes.com/business/story/2022-01-05/tech-stocks-slide-bonds-fall-after-fed-flags-rate-hikes",
+        "url_mobile": "https://www.latimes.com/business/story/2022-01-05/tech-stocks-slide-bonds-fall-after-fed-flags-rate-hikes?_amp=true"
+      },
+      {
+        "domain": "news-gazette.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/custom/image/e462f33a-3c65-11ec-b3f1-2f038a8f66b4.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.news-gazette.com/coronavirus/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_694966d9-3bad-58ea-96b8-1b833159ea98.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "sourcecountry": "United States",
+        "title": "Chart Of The Day : DAX Rise Slowing , Mirroring Germany Economic Growth",
+        "url": "https://www.investing.com/analysis/chart-of-the-day-dax-rise-slowing-mirroring-germanys-economic-growth-200613714",
+        "url_mobile": "https://m.investing.com/analysis/chart-of-the-day-dax-rise-slowing-mirroring-germanys-economic-growth-200613714?ampMode=1"
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "US Stocks Slump After Fed Meeting Minutes Rattle Market",
+        "url": "https://www.kmaj1440.com/news/us-stocks-slump-after-fed-meeting-minutes-rattle-market/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/f6/1f65175f-98cd-5d22-8b12-4be5c35cd5af/61d525dc672e0.image.jpg?crop=1764%2C926%2C0%2C123",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.stltoday.com/lifestyles/health-med-fit/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_f62277bb-939e-5ed5-a06e-561e14c8f837.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "qctimes.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/1/ea/1ea90629-e1bb-5bd4-a5c8-6280c45eddcd/61d525e43f7b5.image.jpg?crop=1764%2C926%2C0%2C123",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://qctimes.com/lifestyles/health-med-fit/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_5620c4f7-3101-55f8-afb4-4dcdc0fd5194.html",
+        "url_mobile": "https://qctimes.com/lifestyles/health-med-fit/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_5620c4f7-3101-55f8-afb4-4dcdc0fd5194.amp.html"
+      },
+      {
+        "domain": "nakedcapitalism.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://www.nakedcapitalism.com/wp-content/uploads/2022/01/calder_mobile.jpeg",
+        "sourcecountry": "United States",
+        "title": "2 : 00PM Water Cooler 1 / 5 / 2022 | naked capitalism",
+        "url": "https://www.nakedcapitalism.com/2022/01/200pm-water-cooler-1-5-2022.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/05/D_57770image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Bond Market - What is the Shape of the Yield Curve Signaling ... ",
+        "url": "https://menafn.com/1103494653/Bond-Market-What-is-the-Shape-of-the-Yield-Curve-Signaling-for-Cyclical-Stocks&source=24",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://fns1.de/g/fb.png",
+        "sourcecountry": "Germany",
+        "title": "Hawkish Fed Minutes Contribute To Sell - Off On Wall Street",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54904103-hawkish-fed-minutes-contribute-to-sell-off-on-wall-street-020.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "madison.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/d/64/d64c0918-9d94-5b1a-884e-84a65672bfbe/61d5261ab6edb.image.jpg?crop=1764%2C926%2C0%2C123",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://madison.com/lifestyles/health-med-fit/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_b46571c9-ed75-54fa-8773-efdf018f2786.html",
+        "url_mobile": "https://madison.com/lifestyles/health-med-fit/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_b46571c9-ed75-54fa-8773-efdf018f2786.amp.html"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659731/gettyimages-1136527903.jpg",
+        "sourcecountry": "United States",
+        "title": "1 Simple Strategy to Beat Inflation in 2022",
+        "url": "https://www.fool.com/investing/2022/01/05/1-simple-strategy-to-beat-inflation-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "blog.wenxuecity.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "gossipgirl8 _ \u6587\u5b66\u57ce\u535a\u5ba2",
+        "url": "https://blog.wenxuecity.com/myblog/36840/202201/4445.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afghanistannews.net",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.afghanistannews.net/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "africaleader.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "South Africa",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.africaleader.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/05/D_57770image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Bond Market - What is the Shape of the Yield Curve Signaling ... ",
+        "url": "https://menafn.com/1103494653/Bond-Market-What-is-the-Shape-of-the-Yield-Curve-Signaling-for-Cyclical-Stocks&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Berkeley Lights stock drops more than 25 % following outlook , CEO search",
+        "url": "https://www.marketwatch.com/story/berkeley-lights-stock-drops-more-than-25-following-outlook-ceo-search-11641421261",
+        "url_mobile": "https://www.marketwatch.com/amp/story/berkeley-lights-stock-drops-more-than-25-following-outlook-ceo-search-11641421261"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d618e695861a841b077731%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D151%26cropY2%3D2401",
+        "sourcecountry": "United States",
+        "title": "CDC Panel Recommends Pfizer Covid Vaccine Boosters For Ages 12 - 15",
+        "url": "https://www.forbes.com/sites/zacharysmith/2022/01/05/cdc-panel-recommends-pfizer-covid-vaccine-boosters-for-ages-12-15/",
+        "url_mobile": "https://www.forbes.com/sites/zacharysmith/2022/01/05/cdc-panel-recommends-pfizer-covid-vaccine-boosters-for-ages-12-15/amp/"
+      },
+      {
+        "domain": "shanghainews.net",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "China",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.shanghainews.net/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20220105005902r1&sid=gefi2&distro=ftp",
+        "sourcecountry": "Germany",
+        "title": "NANOBIOTIX Announces First Patient Enrolled in NANORAY - 312 Global Phase III Registrational Study of NBTXR3 in Head and Neck Cancer",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54904034-nanobiotix-announces-first-patient-enrolled-in-nanoray-312-global-phase-iii-registrational-study-of-nbtxr3-in-head-and-neck-cancer-004.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "watoday.com.au",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.1839%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_76/t_crop_custom/q_86%2Cf_auto/t_watoday_no_label_no_age_social_wm/5fbcbb3bea78c1b6d277284c3c7fb8087dfac9d3",
+        "sourcecountry": "Australia",
+        "title": "ASX set to fall as Fed minutes rattle Wall Street",
+        "url": "https://www.watoday.com.au/business/markets/more-weakness-in-tech-stocks-pulls-wall-street-lower-20220106-p59m7e.html",
+        "url_mobile": "https://amp.watoday.com.au/business/markets/more-weakness-in-tech-stocks-pulls-wall-street-lower-20220106-p59m7e.html"
+      },
+      {
+        "domain": "sfgate.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Fed minutes , electric trucks",
+        "url": "https://www.sfgate.com/business/article/Business-Highlights-Fed-minutes-electric-trucks-16752370.php",
+        "url_mobile": "https://www.sfgate.com/business/amp/Business-Highlights-Fed-minutes-electric-trucks-16752370.php"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/05/D_57770image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Bond Market - What is the Shape of the Yield Curve Signaling ... ",
+        "url": "https://menafn.com/1103494653/Bond-Market-What-is-the-Shape-of-the-Yield-Curve-Signaling-for-Cyclical-Stocks&source=27",
+        "url_mobile": ""
+      },
+      {
+        "domain": "haitisun.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.haitisun.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/05/D_57770image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Bond Market - What is the Shape of the Yield Curve Signaling ... ",
+        "url": "https://menafn.com/1103494653/Bond-Market-What-is-the-Shape-of-the-Yield-Curve-Signaling-for-Cyclical-Stocks&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://images.barrons.com/im-462464/social",
+        "sourcecountry": "United States",
+        "title": "Chip Stocks Tumble on Fed Minutes . Intel Was an Exception . ",
+        "url": "https://www.marketwatch.com/articles/chip-stocks-intel-amd-fed-51641420823",
+        "url_mobile": ""
+      },
+      {
+        "domain": "azbigmedia.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://azbigmedia.com/wp-content/uploads/2022/01/paradise-valley.jpg",
+        "sourcecountry": "United States",
+        "title": "Paradise Valley mansion will be sold at auction",
+        "url": "https://azbigmedia.com/real-estate/residential-real-estate/paradise-valley-mansion-will-be-sold-at-auction/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news-daily.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/news-daily.com/content/tncms/assets/v3/editorial/a/93/a934fee8-ad0b-5e9b-8335-6c74ca5b824e/61d5c9e5f3169.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Trump cancels press conference on January 6 anniversary at urging of advisers",
+        "url": "https://www.news-daily.com/news/trump-cancels-press-conference-on-january-6-anniversary-at-urging-of-advisers/article_9a47929f-604b-5d2e-8ae5-eef6fa8181f5.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cincinnatisun.com",
+        "language": "English",
+        "seendate": "20220105T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "United States",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.cincinnatisun.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "batonrougepost.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "United States",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.batonrougepost.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/1/f6/1f65175f-98cd-5d22-8b12-4be5c35cd5af/61d525dc672e0.image.jpg?crop=1764%2C926%2C0%2C123",
+        "sourcecountry": "United States",
+        "title": "US stocks slump after minutes from Fed meeting rattle market",
+        "url": "https://www.stltoday.com/lifestyles/health-med-fit/us-stocks-slump-after-minutes-from-fed-meeting-rattle-market/article_f62277bb-939e-5ed5-a06e-561e14c8f837.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "berkshireeagle.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/9/85/985df9f8-2ba9-5a6e-b220-56539afa7752/61d52275314b5.image.jpg?crop=1765%2C927%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.berkshireeagle.com/ap/national/us-stocks-slump-after-minutes-from-fed-meeting-rattle-market/article_9e41848e-e26a-55af-845d-e1738debd417.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "swoknews.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.swoknews.com/ap/business/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_035d7b54-d204-5211-88f5-92a499664285.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "neonnettle.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://neonnettle.com/news/images/elon-musk-warning-slow-birth-rates-15122.jpg",
+        "sourcecountry": "United States",
+        "title": "Elon Musk Issues Warning over Slowing Birth Rates",
+        "url": "https://neonnettle.com/news/17940-elon-musk-issues-warning-over-slowing-birth-rates",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Quantum Accelerates Data - Intensive Autonomous Vehicle Research at Mississippi State University",
+        "url": "https://www.prnewswire.com/news-releases/quantum-accelerates-data-intensive-autonomous-vehicle-research-at-mississippi-state-university-301454269.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zimbabwestar.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Zimbabwe",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.zimbabwestar.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/fe462a92-0c58-4e9e-86e2-348c8aba8591?size=2",
+        "sourcecountry": "United States",
+        "title": "Corsair Acquires Majority Ownership in Taiwan - based",
+        "url": "https://www.globenewswire.com/news-release/2022/01/05/2362065/0/en/Corsair-Acquires-Majority-Ownership-in-Taiwan-based-Electronics-Designer-and-Display-Specialist-iDisplay.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "beloitdailynews.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/beloitdailynews.com/content/tncms/assets/v3/editorial/e/b6/eb6feebe-ce2c-582e-9e6c-51927d44cdfe/61d5afcc66a25.image.jpg?crop=1765%2C927%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Anticipation that Fed will raise rates sends stocks lower",
+        "url": "https://www.beloitdailynews.com/news/national-news/anticipation-that-fed-will-raise-rates-sends-stocks-lower/article_d16f6656-fda6-5e76-8b8c-79cf4f13eb9f.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pluggedin.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://www.pluggedin.com/wp-content/uploads/2021/12/Graphic-Pop-Culture-Desktop-Wallpaper-1.png",
+        "sourcecountry": "United States",
+        "title": "Pop Culture Top 10 Movers and Shakers ( 2021 Edition ) ",
+        "url": "https://www.pluggedin.com/blog/pop-cultures-top-10-movers-and-shakers-2021-edition/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "whitehouse.gov",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Press Briefing by Press Secretary Jen Psaki and Port Envoy to the White House Supply Chain Task Force John Porcari , January 5 , 2022",
+        "url": "https://www.whitehouse.gov/briefing-room/press-briefings/2022/01/05/press-briefing-by-press-secretary-jen-psaki-and-port-envoy-to-the-white-house-supply-chain-task-force-john-porcari-january-5-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/12/national-beverage.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Best beverage stocks to buy now",
+        "url": "https://invezz.com/news/2022/01/05/best-beverage-stocks-to-buy-now/",
+        "url_mobile": "https://invezz.com/news/2022/01/05/best-beverage-stocks-to-buy-now/?amp"
+      },
+      {
+        "domain": "crowdfundinsider.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "charles allen - All news and posts by Crowdfund Insider",
+        "url": "https://www.crowdfundinsider.com/tag/charles-allen/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "batonrougepost.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology stocks take brunt of Wall Street sell - off",
+        "url": "https://www.batonrougepost.com/news/272110102/technology-stocks-take-brunt-of-wall-street-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bruneinews.net",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641418993426.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Nasdaq Composite sheds more than 3 percent in U . S . stocks rout",
+        "url": "https://www.bruneinews.net/news/272110102/nasdaq-composite-sheds-more-than-3-percent-in-us-stocks-rout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "crowdfundinsider.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Two-Bitcoin.jpeg",
+        "sourcecountry": "United Kingdom",
+        "title": "Nasdaq Listed BTCS to Pay Dividend in Bitcoin",
+        "url": "https://www.crowdfundinsider.com/2022/01/185155-nasdaq-listed-btcs-to-pay-dividend-in-bitcoin/",
+        "url_mobile": "https://www.crowdfundinsider.com/2022/01/185155-nasdaq-listed-btcs-to-pay-dividend-in-bitcoin/amp/"
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2019/11/stock-trading-course.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Best momentum stocks to buy this year",
+        "url": "https://invezz.com/news/2022/01/05/best-momentum-stocks-to-buy-this-year/",
+        "url_mobile": "https://invezz.com/news/2022/01/05/best-momentum-stocks-to-buy-this-year/?amp"
+      },
+      {
+        "domain": "kitchener.citynews.ca",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Shopify loses crown as tech leads stock markets falling after Fed minutes",
+        "url": "https://kitchener.citynews.ca/national-business/shopify-loses-crown-as-tech-leads-stock-markets-falling-after-fed-minutes-4923451",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mexicostar.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Mexico",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.mexicostar.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/75f696b5-1105-460d-be1b-58599cdd3454?size=1",
+        "sourcecountry": "United States",
+        "title": "Xometry to Participate in the 24th Annual Needham Virtual",
+        "url": "https://www.globenewswire.com/news-release/2022/01/05/2362067/0/en/Xometry-to-Participate-in-the-24th-Annual-Needham-Virtual-Growth-Conference.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/11/creative-realities-merger-e1636991962357.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Data Storage up 30 % after announcing multi - million dollar contract",
+        "url": "https://invezz.com/news/2022/01/05/data-storage-up-30-after-announcing-multi-million-dollar-contract/",
+        "url_mobile": "https://invezz.com/news/2022/01/05/data-storage-up-30-after-announcing-multi-million-dollar-contract/?amp"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/b42098de-7172-484f-b1c6-308b6a33fc3e?size=2",
+        "sourcecountry": "United States",
+        "title": "Riot Blockchain Announces December Production and",
+        "url": "https://www.globenewswire.com/news-release/2022/01/05/2362061/0/en/Riot-Blockchain-Announces-December-Production-and-Operations-Updates.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "erienewsnow.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/21985163_G.jpg?lastEditedDate=1641400002000",
+        "sourcecountry": "United States",
+        "title": "Stocks slide as Federal Reserve confirms its foot is on the stimulus brakes",
+        "url": "https://www.erienewsnow.com/story/45591325/stocks-slide-as-federal-reserve-confirms-its-foot-is-on-the-stimulus-brakes",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mrtopstep.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://mrtopstep.com/wp-content/uploads/2022/01/aba0a5b9d1466106b651d58b15ff12747a76682b.jpg",
+        "sourcecountry": "United States",
+        "title": "Almanac Trader",
+        "url": "https://mrtopstep.com/almanac-trader-156/",
+        "url_mobile": "https://mrtopstep.com/almanac-trader-156/amp/"
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/02/133578780-s.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "This biotech stock is a buy despite bearish view from BofA Securities",
+        "url": "https://invezz.com/news/2022/01/05/this-biotech-stock-is-a-buy-despite-bearish-view-from-bofa-securities/",
+        "url_mobile": "https://invezz.com/news/2022/01/05/this-biotech-stock-is-a-buy-despite-bearish-view-from-bofa-securities/?amp"
+      },
+      {
+        "domain": "america-retail.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "http://www.america-retail.com/static/2020/09/soprano-tienda-ropa-2.jpg",
+        "sourcecountry": "Colombia",
+        "title": "Fabletics launches Any - Wear collection - Am\u00e9rica Retail",
+        "url": "https://www.america-retail.com/usa/fabletics-launches-any-wear-collection/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bruneinews.net",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.bruneinews.net/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/12/allakos-tanks-e1640201652654.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Mainz spikes by 80 % after acquiring exclusive mRNA biomarkers rights",
+        "url": "https://invezz.com/news/2022/01/05/mainz-spikes-by-80-after-acquiring-exclusive-mrna-biomarkers-rights/",
+        "url_mobile": "https://invezz.com/news/2022/01/05/mainz-spikes-by-80-after-acquiring-exclusive-mrna-biomarkers-rights/?amp"
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/08/zscaler-stock-price.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Best cybersecurity stocks for 2022",
+        "url": "https://invezz.com/news/2022/01/05/best-cybersecurity-stocks-for-2022/",
+        "url_mobile": "https://invezz.com/news/2022/01/05/best-cybersecurity-stocks-for-2022/?amp"
+      },
+      {
+        "domain": "crowdfundinsider.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "btcs - All news and posts by Crowdfund Insider",
+        "url": "https://www.crowdfundinsider.com/tag/btcs/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businesswire.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "INVESTOR ALERT : Law Offices of Howard G . Smith Announces Investigation of Meta Materials Inc . f / k / a Torchlight Energy Resources , Inc . ( MMAT ) on Behalf of Investors",
+        "url": "https://www.businesswire.com/news/home/20220105005331/en/INVESTOR-ALERT-Law-Offices-of-Howard-G.-Smith-Announces-Investigation-of-Meta-Materials-Inc.-fka-Torchlight-Energy-Resources-Inc.-MMAT-on-Behalf-of-Investors",
+        "url_mobile": ""
+      },
+      {
+        "domain": "middleeaststar.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "Syria",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.middleeaststar.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220105T223000Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/10/164767207-s.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Attention Robinhood investors : dont lose hope just yet",
+        "url": "https://invezz.com/news/2022/01/05/attention-robinhood-investors-dont-lose-hope-just-yet/",
+        "url_mobile": "https://invezz.com/news/2022/01/05/attention-robinhood-investors-dont-lose-hope-just-yet/?amp"
+      },
+      {
+        "domain": "milwaukeesun.com",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1641409487.jpg",
+        "sourcecountry": "United States",
+        "title": "Piyush Goyal calls for transparency , highest level of integrity in stock markets",
+        "url": "https://www.milwaukeesun.com/news/272109429/piyush-goyal-calls-for-transparency-highest-level-of-integrity-in-stock-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizpacreview.com",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "https://www.bizpacreview.com/wp-content/uploads/2022/01/Getty-Biden-Holmes.jpg",
+        "sourcecountry": "United States",
+        "title": "Biden praise of Theranos played  key role  in Elizabeth Holmes defrauding investors : report",
+        "url": "https://www.bizpacreview.com/2022/01/05/bidens-praise-of-theranos-played-key-role-in-elizabeth-holmes-defrauding-investors-report-1184567/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morning-times.com",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/morning-times.com/content/tncms/custom/image/6f227d7e-148e-11e7-9387-232e3c9bc44a.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Saratoga Investment : Fiscal Q3 Earnings Snapshot",
+        "url": "https://www.morning-times.com/state_news/article_9206e858-066f-58e9-8f79-14c5c2848caa.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability What next for winter highway travel ? ",
+        "url": "http://www.msn.com/en-us/news/us/equilibrium-sustainability-what-s-next-for-winter-highway-travel/ar-AAStiCJ",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wesm913.org",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The global supply chain is amazingly efficient . So why did it break down ? ",
+        "url": "https://www.wesm913.org/post/global-supply-chain-amazingly-efficient-so-why-did-it-break-down",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Special Committee Concludes Review of Non - Binding Proposal from Carlson Capital",
+        "url": "https://www.prnewswire.com:443/news-releases/special-committee-concludes-review-of-non-binding-proposal-from-carlson-capital-301455030.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stlouisstar.com",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641360795809.jpg",
+        "sourcecountry": "United States",
+        "title": "US mobile carriers postpone 5G service due to airline warnings",
+        "url": "https://www.stlouisstar.com/news/272110105/us-mobile-carriers-postpone-5g-service-due-to-airlines-warnings",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wicz.com",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/21985163_G.jpg?lastEditedDate=1641400002000",
+        "sourcecountry": "United States",
+        "title": "Stocks slide as Federal Reserve confirms its foot is on the stimulus brakes",
+        "url": "https://www.wicz.com/story/45591325/stocks-slide-as-federal-reserve-confirms-its-foot-is-on-the-stimulus-brakes",
+        "url_mobile": ""
+      },
+      {
+        "domain": "yakimaherald.com",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/f/39/f3971976-eea7-5d1c-8ee9-f4b839f595ec/61d5238c4d115.image.jpg?crop=1765%2C927%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "US stocks slump after minutes from Fed meeting rattle market",
+        "url": "https://www.yakimaherald.com/news/nation_and_world/us-stocks-slump-after-minutes-from-fed-meeting-rattle-market/article_771841db-7401-51e5-9acf-8dd02ed294ec.html",
+        "url_mobile": "https://www.yakimaherald.com/news/nation_and_world/us-stocks-slump-after-minutes-from-fed-meeting-rattle-market/article_771841db-7401-51e5-9acf-8dd02ed294ec.amp.html"
+      },
+      {
+        "domain": "wcsufm.org",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/05/ap21336676795210-acab2bb9d5329a31c598208ea91e1269afc1c7b3.jpg",
+        "sourcecountry": "United States",
+        "title": "The global supply chain is amazingly efficient . So why did it break down ? ",
+        "url": "https://www.wcsufm.org/latest-from-npr/2022-01-05/the-global-supply-chain-is-amazingly-efficient-so-why-did-it-break-down",
+        "url_mobile": "https://www.wcsufm.org/latest-from-npr/2022-01-05/the-global-supply-chain-is-amazingly-efficient-so-why-did-it-break-down?_amp=true"
+      },
+      {
+        "domain": "parisguardian.com",
+        "language": "English",
+        "seendate": "20220105T221500Z",
+        "socialimage": "",
+        "sourcecountry": "France",
+        "title": "Latest count of confirmed COVID - 19 cases worldwide at 1500 GMT , Jan . 5",
+        "url": "https://www.parisguardian.com/news/272108611/latest-count-of-confirmed-covid-19-cases-worldwide-at-1500-gmt-jan-5",
+        "url_mobile": ""
+      }
+    ]
+  }
+}

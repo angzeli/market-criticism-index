@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-15",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "pinkvilla.com",
+        "language": "English",
+        "seendate": "20220116T000000Z",
+        "socialimage": "https://www.pinkvilla.com/files/styles/fbimagesection/public/jonah_hill_mandalorian_social.jpg?itok=Nh63jGPl",
+        "sourcecountry": "India",
+        "title": "Jonah Hill REVEALS Leonardo DiCaprio made him watch THIS series , admits he  wasnt interested  ",
+        "url": "https://www.pinkvilla.com/entertainment/jonah-hill-reveals-leonardo-dicaprio-made-him-watch-series-admits-he-wasnt-interested-995884",
+        "url_mobile": "https://www.pinkvilla.com/entertainment/jonah-hill-reveals-leonardo-dicaprio-made-him-watch-series-admits-he-wasnt-interested-995884?amp"
+      },
+      {
+        "domain": "middletownpress.com",
+        "language": "English",
+        "seendate": "20220116T000000Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/47/75/21921608/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Facing a potential primary , Larson formalizes his reelection status",
+        "url": "https://www.middletownpress.com/news/article/Facing-a-potential-primary-Larson-formalizes-his-16778120.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcnewyork.com",
+        "language": "English",
+        "seendate": "20220115T234500Z",
+        "socialimage": "https://media.nbcnewyork.com/2022/01/AP_22015768940630.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Texas Synagogue Hostage Phones Rabbi in NYC to Deliver Demands : Officials \u2013 NBC New York",
+        "url": "https://www.nbcnewyork.com/news/local/crime-and-courts/nypd-deploys-extra-police-after-texas-hostage-calls-nyc-rabbi-no-active-threat-in-city/3497862/",
+        "url_mobile": "https://www.nbcnewyork.com/news/local/crime-and-courts/nypd-deploys-extra-police-after-texas-hostage-calls-nyc-rabbi-no-active-threat-in-city/3497862/?amp"
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220115T234500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : U . S . equities post weekly losses amid rate hike concerns , economic data - Xinhua",
+        "url": "http://www.xinhuanet.com/english/northamerica/20220116/4d2a980ec54c4756b1de63272b5aad55/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businesswire.com",
+        "language": "English",
+        "seendate": "20220115T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ZIVO Bioscience Names Chairman John B . Payne as President and CEO",
+        "url": "https://www.businesswire.com/news/home/20220110005984/en/ZIVO-Bioscience-Names-Chairman-John-B.-Payne-as-President-and-CEO",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220115T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TLIS ALERT : Talis Biomedical Corp . Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+        "url": "https://www.prnewswire.com:443/news-releases/tlis-alert-talis-biomedical-corp-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-301461448.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220115T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "FCFS DEADLINE : Robbins Geller Rudman & Dowd LLP Files Class Action Lawsuit Against FirstCash Holdings , Inc . and Announces Opportunity for Investors with Substantial Losses to Lead Case",
+        "url": "https://www.prnewswire.com:443/news-releases/fcfs-deadline-robbins-geller-rudman--dowd-llp-files-class-action-lawsuit-against-firstcash-holdings-inc-and-announces-opportunity-for-investors-with-substantial-losses-to-lead-case-301461534.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "journaltimes.com",
+        "language": "English",
+        "seendate": "20220115T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/4/46/446bea50-f316-56be-a822-9bcb16280622/61e31795cb1e2.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Masks , tests , the National Guard and COVID - 19 : The government current pandemic response",
+        "url": "https://journaltimes.com/news/local/govt-and-politics/masks-tests-the-national-guard-and-covid-19-the-governments-current-pandemic-response/article_446bea50-f316-56be-a822-9bcb16280622.html",
+        "url_mobile": "https://journaltimes.com/news/local/govt-and-politics/masks-tests-the-national-guard-and-covid-19-the-governments-current-pandemic-response/article_446bea50-f316-56be-a822-9bcb16280622.amp.html"
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220115T233000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/steve%20cohen%20teaser%203.jpg?h=d9ce2bb3&itok=hXEzzxtn",
+        "sourcecountry": "United States",
+        "title": "A Former SAC PM Advice To Traders :  Sit Tight , Be Right  ",
+        "url": "https://www.zerohedge.com/markets/former-sac-pms-advice-traders-sit-tight-be-right",
+        "url_mobile": ""
+      },
+      {
+        "domain": "npr.org",
+        "language": "English",
+        "seendate": "20220115T233000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout_wide-103b769a134b0ddd38555b6b572d81fb5506f979.jpg?s=1400",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.npr.org/transcripts/1073266149",
+        "url_mobile": ""
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220115T233000Z",
+        "socialimage": "https://media.breitbart.com/media/2022/01/King-Soopers-strike-getty-640x335.jpg",
+        "sourcecountry": "United States",
+        "title": "VIDEO : Thousands of Kroger Workers Strike to Demand Better Pay",
+        "url": "https://www.breitbart.com/economy/2022/01/15/thousands-kroger-workers-strike-demand-better-pay/",
+        "url_mobile": "https://www.breitbart.com/economy/2022/01/15/thousands-kroger-workers-strike-demand-better-pay/amp/"
+      },
+      {
+        "domain": "obituaries.normantranscript.com",
+        "language": "English",
+        "seendate": "20220115T233000Z",
+        "socialimage": "https://cdn-otf-cas.prfct.cc/dfs1/eyJkIjo3MiwieCI6IjIyIiwieSI6IjAiLCJjdyI6IjI5MC43Nzc0Nzk4OTI3NjE0IiwiY2giOiIzNzQiLCJybyI6IjAiLCJjciI6MSwidyI6MjQwLCJoIjozMDAsInVybCI6Imh0dHBzOlwvXC9hZGFzLW9yZWdvbi1jYXMtb2JpdHMuczMuYW1hem9uYXdzLmNvbVwvcGhvdG9zXC9jcmVhdGVfc3RvcnlcLzYxZTM0ZWFhYmMyZGVcLzQ0M2QyOWUzMTQyZjBhMDE3MzRhZWVkYzIyMjIuanBnIn0=",
+        "sourcecountry": "United States",
+        "title": "Henry Enterline , Jr . | Obituary | The Norman Transcript",
+        "url": "https://obituaries.normantranscript.com/obituary/henry-enterline-jr-1084222324",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyvoice.com",
+        "language": "English",
+        "seendate": "20220115T230000Z",
+        "socialimage": "https://daily-voice-res.cloudinary.com/image/upload/c_limit,e_sharpen,f_auto,q_auto:eco,w_640/Screen_Shot_2022-01-15_at_11.56.46_AM_oz8zmt.jpg",
+        "sourcecountry": "United States",
+        "title": "17 - Year - Old Connecticut Girl Is Outearning Top CEOs By Millions",
+        "url": "https://dailyvoice.com/connecticut/new-haven/business/17-year-old-connecticut-girl-is-outearning-top-ceos-by-millions/824023/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220115T230000Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/10/25033609/Dividend.jpg",
+        "sourcecountry": "United States",
+        "title": "10 Penny Stocks that Pay Dividends - Insider Monkey",
+        "url": "https://www.insidermonkey.com/blog/10-penny-stocks-that-pay-dividends-1016956/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jordantimes.com",
+        "language": "English",
+        "seendate": "20220115T230000Z",
+        "socialimage": "",
+        "sourcecountry": "Jordan",
+        "title": "A bad year for markets ? ",
+        "url": "http://jordantimes.com/opinion/jim-oneill/bad-year-markets",
+        "url_mobile": ""
+      },
+      {
+        "domain": "arabnews.com",
+        "language": "English",
+        "seendate": "20220115T224500Z",
+        "socialimage": "https://www.arabnews.com/sites/default/files/main-image/2022/01/16/3017566-240326384.jpg",
+        "sourcecountry": "Saudi Arabia",
+        "title": "Stocks stumble , yields jump on rates outlook ; oil rallies",
+        "url": "https://www.arabnews.com/node/2005156/business-economy",
+        "url_mobile": "https://www.arabnews.com/node/2005156/amp"
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220115T224500Z",
+        "socialimage": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEI0E031_M.jpg",
+        "sourcecountry": "United States",
+        "title": "Apple complies with Dutch watchdog ruling on payment options in Netherlands By Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/apple-complies-with-dutch-watchdog-ruling-on-payment-options-in-netherlands-2739790",
+        "url_mobile": "https://m.investing.com/news/stock-market-news/apple-complies-with-dutch-watchdog-ruling-on-payment-options-in-netherlands-2739790?ampMode=1"
+      },
+      {
+        "domain": "iwradio.co.uk",
+        "language": "English",
+        "seendate": "20220115T224500Z",
+        "socialimage": "https://e3.365dm.com/22/01/640x380/skynews-synagogue-colleyville_5642834.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Rabbi and worshippers held hostage at Texas synagogue",
+        "url": "https://www.iwradio.co.uk/news/sky-news/rabbi-and-worshippers-held-hostage-at-texas-synagogue/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kenoshanews.com",
+        "language": "English",
+        "seendate": "20220115T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/kenoshanews.com/content/tncms/assets/v3/editorial/e/be/ebe8cb41-f8d1-5788-9ac1-6322df63befa/61e319e8e45ce.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Masks , tests , the National Guard and COVID - 19 : The government current pandemic response",
+        "url": "https://www.kenoshanews.com/news/local/govt-and-politics/masks-tests-the-national-guard-and-covid-19-the-governments-current-pandemic-response/article_ebe8cb41-f8d1-5788-9ac1-6322df63befa.html",
+        "url_mobile": "https://www.kenoshanews.com/news/local/govt-and-politics/masks-tests-the-national-guard-and-covid-19-the-governments-current-pandemic-response/article_ebe8cb41-f8d1-5788-9ac1-6322df63befa.amp.html"
+      },
+      {
+        "domain": "english.news.cn",
+        "language": "English",
+        "seendate": "20220115T224500Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Roundup : U . S . equities post weekly losses amid rate hike concerns , economic data - Xinhua",
+        "url": "https://english.news.cn/northamerica/20220116/4d2a980ec54c4756b1de63272b5aad55/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220115T224500Z",
+        "socialimage": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEI0E07H_M.jpg",
+        "sourcecountry": "United States",
+        "title": "Apple to require employee proof of COVID - 19 booster - The Verge By Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/apple-to-require-employee-proof-of-covid19-booster-the-verge-2739885",
+        "url_mobile": "https://m.investing.com/news/stock-market-news/apple-to-require-employee-proof-of-covid19-booster-the-verge-2739885?ampMode=1"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220115T224500Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1708089!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/an-office-worker-enters-the-jpmorgan-chase-co-headquarters-in-new-york-u-s-on-thursday-july-22-2021-after-a-year-of-zoom-meetings-and-awkward-virtual-happy-hours-new-york-s-youngest-aspiring-financiers-have-returned-to-the-offices-of-the-city-s-investment-banks-where-they-re-making-the-most-of-the-in-person-mentoring-and-networking-they-ve-lacked-during-the-pandemic.jpg",
+        "sourcecountry": "Canada",
+        "title": "Wall Street Big\u00a0Banks Are Set to Tap the Corporate Bond Market",
+        "url": "https://www.bnnbloomberg.ca/wall-street-s-big-banks-are-set-to-tap-the-corporate-bond-market-1.1708088",
+        "url_mobile": "https://www.bnnbloomberg.ca/wall-street-s-big-banks-are-set-to-tap-the-corporate-bond-market-1.1708088.amp.html"
+      },
+      {
+        "domain": "timesofindia.indiatimes.com",
+        "language": "English",
+        "seendate": "20220115T224500Z",
+        "socialimage": "https://static.toiimg.com/thumb/msid-88923455,width-1070,height-580,imgsize-53842,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "sourcecountry": "India",
+        "title": "harris : Written off for 2024 election ? Kamala Harris fights to stay in fray",
+        "url": "https://timesofindia.indiatimes.com/world/us/written-off-for-2024-election-kamala-harris-fights-to-stay-in-fray/articleshow/88923430.cms",
+        "url_mobile": "https://m.timesofindia.com/world/us/written-off-for-2024-election-kamala-harris-fights-to-stay-in-fray/amp_articleshow/88923430.cms"
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220115T224500Z",
+        "socialimage": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEI0E05A_M.jpg",
+        "sourcecountry": "United States",
+        "title": "London Stock Exchange proposes special listings for private companies",
+        "url": "https://www.investing.com/news/stock-market-news/london-stock-exchange-proposes-special-listings-for-private-companies--wsj-2739830",
+        "url_mobile": "https://m.investing.com/news/stock-market-news/london-stock-exchange-proposes-special-listings-for-private-companies--wsj-2739830?ampMode=1"
+      },
+      {
+        "domain": "sott.net",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "https://www.sott.net/image/s31/633905/full/1_US_Embassy_in_Paris_immigrat.jpg",
+        "sourcecountry": "United States",
+        "title": "American diplomats in Geneva , Paris fall victim to  Havana Syndrome  -- Society Child -- Sott . net",
+        "url": "https://www.sott.net/article/463219-American-diplomats-in-Geneva-Paris-fall-victim-to-Havana-Syndrome",
+        "url_mobile": ""
+      },
+      {
+        "domain": "summitdaily.com",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "https://imengine.public.prod.sci.navigacloud.com/?uuid=ca8087eb-a7ed-57d7-ad23-855f1401f052&type=preview&function=cover&q=80",
+        "sourcecountry": "United States",
+        "title": "Vail Resorts reports skier visits are down for start of the season",
+        "url": "https://www.summitdaily.com/news/regional/vail-resorts-reports-skier-visits-are-down-for-start-of-the-season/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TME Saturday : Sentiment screams buy , but .... ",
+        "url": "https://www.zerohedge.com/the-market-ear/but",
+        "url_mobile": ""
+      },
+      {
+        "domain": "greatfallstribune.com",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2022/01/15/PREN/0c9091d3-33a2-4211-9244-a77b7693a9a6-AP22014792577782.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Cowboy recalls years working Montana ranch bought by Murdoch",
+        "url": "https://www.greatfallstribune.com/story/news/2022/01/15/cowboy-recalls-years-working-montana-ranch-bought-by-murdoch/60365447007/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "sourcecountry": "",
+        "title": "Halper Sadeh LLP Investigates CONE , AZPN , TSC , VSAT , MCFE ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://www.marketscreener.com/quote/stock/VIASAT-INC-11323/news/Halper-Sadeh-LLP-Investigates-CONE-AZPN-TSC-VSAT-MCFE-Shareholders-are-Encouraged-to-Contact-th-37560725/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/VIASAT-INC-11323/news/Halper-Sadeh-LLP-Investigates-CONE-AZPN-TSC-VSAT-MCFE-Shareholders-are-Encouraged-to-Contact-th-37560725/"
+      },
+      {
+        "domain": "sott.net",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "https://www.sott.net/image/s31/633975/full/mmbooks.jpg",
+        "sourcecountry": "United States",
+        "title": "MindMatters : Books for the New Year , and Responding to a Reader Comment -- Society Child -- Sott . net",
+        "url": "https://www.sott.net/article/463208-MindMatters-Books-for-the-New-Year-and-Responding-to-a-Reader-Comment",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thepilot.com",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/thepilot.com/content/tncms/custom/image/131e72c6-2bfb-11e5-9b9f-070bd3599e11.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Column :  Round and  Round We Go : Circles are New Town Square",
+        "url": "https://www.thepilot.com/opinion/column-round-and-round-we-go-circles-are-new-town-square/article_913686b4-7571-11ec-a0f4-ffa1898deacd.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zeebiz.com",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "https://cdn.zeebiz.com/sites/default/files/2022/01/15/172780-bse-pti.jpg",
+        "sourcecountry": "India",
+        "title": "Nifty Realty , S & P BSE Power top gainers on NSE , BSE this week",
+        "url": "https://www.zeebiz.com/market-news/news-nifty-realty-sp-bse-power-top-gainers-on-nse-bse-this-week-176225",
+        "url_mobile": "https://www.zeebiz.com/market-news/news-nifty-realty-sp-bse-power-top-gainers-on-nse-bse-this-week-176225/amp"
+      },
+      {
+        "domain": "foxbusiness.com",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/06/0/0/mcdonalds.jpg?ve=1&tl=1",
+        "sourcecountry": "United States",
+        "title": "McDonald locations to cut hours by 10 % due to staffing shortages : CEO",
+        "url": "https://www.foxbusiness.com/economy/mcdonalds-locations-cut-hours-staffing-shortages",
+        "url_mobile": "https://www.foxbusiness.com/economy/mcdonalds-locations-cut-hours-staffing-shortages.amp"
+      },
+      {
+        "domain": "canadafreepress.com",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dr . Anthony Fauci financial disclosure shows $10 . 4M in investments",
+        "url": "https://canadafreepress.com/article/dr-anthony-faucis-financial-disclosure-shows-10.4m-in-investments",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220115T223000Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "sourcecountry": "",
+        "title": "Halper Sadeh LLP Investigates CCMP , EPAY , VRS , HXOH ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://www.marketscreener.com/news/latest/Halper-Sadeh-LLP-Investigates-CCMP-EPAY-VRS-HXOH-Shareholders-are-Encouraged-to-Contact-the-Firm--37553816/",
+        "url_mobile": "https://www.marketscreener.com/amp/news/latest/Halper-Sadeh-LLP-Investigates-CCMP-EPAY-VRS-HXOH-Shareholders-are-Encouraged-to-Contact-the-Firm--37553816/"
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220115T221500Z",
+        "socialimage": "https://media.breitbart.com/media/2022/01/King-Soopers-strike-getty-640x335.jpg",
+        "sourcecountry": "United States",
+        "title": "VIDEO : Thousands of Kroger Workers Strike to Demand Better Pay",
+        "url": "https://www.breitbart.com/health/2022/01/15/thousands-kroger-workers-strike-demand-better-pay/",
+        "url_mobile": "https://www.breitbart.com/economy/2022/01/15/thousands-kroger-workers-strike-demand-better-pay/amp/"
+      },
+      {
+        "domain": "usatoday.com",
+        "language": "English",
+        "seendate": "20220115T221500Z",
+        "socialimage": "https://www.gannett-cdn.com/-mm-/7eb89fa7e6eb24f3ed6fd6b462eaae25a5ec787c/c=0-276-2633-1757/local/-/media/2022/01/12/USATODAY/usatsports/wall-street-gettyimages-488263377.jpg?auto=webp&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Wall St . stocks start slow , low ; could lead to another weekly decline",
+        "url": "https://www.usatoday.com/story/money/2022/01/14/stocks-low-wall-street-potential-weekly-decline/6527825001/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prweb.com",
+        "language": "English",
+        "seendate": "20220115T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "CannaBeSecure Rebrands to Cannaspire as a Full - Service Cannabis Consultancy",
+        "url": "https://www.prweb.com/releases/2022/1/prweb18436426.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "foxnews.com",
+        "language": "English",
+        "seendate": "20220115T220000Z",
+        "socialimage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/Anxiety-iStock-3.jpg",
+        "sourcecountry": "United States",
+        "title": "As millions suffer from  COVID - somnia , here how you can sleep through the night",
+        "url": "https://www.foxnews.com/health/americans-suffer-covid-somnia-sleep-insomnia",
+        "url_mobile": "https://www.foxnews.com/health/americans-suffer-covid-somnia-sleep-insomnia.amp"
+      },
+      {
+        "domain": "cleantechnica.com",
+        "language": "English",
+        "seendate": "20220115T220000Z",
+        "socialimage": "https://cleantechnica.com/files/2021/08/XPeng-P7-factory-China-10-%E6%8B%B7%E8%B4%9D-1024x576.jpg",
+        "sourcecountry": "United States",
+        "title": "Tesla & Chinese EV Makers Putting Lot of Weight on These Low - Cost EV Batteries",
+        "url": "https://cleantechnica.com/2022/01/15/tesla-chinese-ev-makers-putting-lot-of-weight-on-these-low-cost-ev-batteries/",
+        "url_mobile": "https://cleantechnica.com/2022/01/15/tesla-chinese-ev-makers-putting-lot-of-weight-on-these-low-cost-ev-batteries/amp/"
+      },
+      {
+        "domain": "virginislandsnewsonline.com",
+        "language": "English",
+        "seendate": "20220115T220000Z",
+        "socialimage": "",
+        "sourcecountry": "Virgin Islands",
+        "title": "Omicron sends COVID - 19 cases to over 3 , 330 in USVI | Virgin Islands News Online",
+        "url": "https://www.virginislandsnewsonline.com/domains/virginislandsnewsonline.com/en/news/omicron-sends-covid-19-cases-to-over-3330-in-usvi",
+        "url_mobile": ""
+      },
+      {
+        "domain": "itnewsonline.com",
+        "language": "English",
+        "seendate": "20220115T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "CannaBeSecure Rebrands to Cannaspire as a Full - Service Cannabis Consultancy",
+        "url": "http://www.itnewsonline.com/PRNewswire/CannaBeSecure-Rebrands-to-Cannaspire-as-a-Full-Service-Cannabis-Consultancy/811801",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nationalmemo.com",
+        "language": "English",
+        "seendate": "20220115T220000Z",
+        "socialimage": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yODE2ODczNS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY5ODEwNDQ2OX0.JSa1LWqXuHPu4VIaHBLyXlT1BBlqcUeIjFf3Suydx98/img.jpg?&coordinates=0%2C147%2C0%2C148",
+        "sourcecountry": "United States",
+        "title": "GOP Get Free KN95 Masks Respond With Anti - Asian Attacks",
+        "url": "https://www.nationalmemo.com/gop-2656414064",
+        "url_mobile": "https://www.nationalmemo.com/amp/gop-2656414064-2656414064"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220115T220000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/15/PN_835b3image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Halper Sadeh LLP Investigates CONE , AZPN , TSC , VSAT , MCFE ... ",
+        "url": "https://menafn.com/1103544789/Halper-Sadeh-LLP-Investigates-CONE-AZPN-TSC-VSAT-MCFE-Shareholders-are-Encouraged-to-Contact-the-Firm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcdfw.com",
+        "language": "English",
+        "seendate": "20220115T220000Z",
+        "socialimage": "https://media.nbcdfw.com/2021/01/106820840-16100466222021-01-07t183104z_1584998285_rc263l9bivig_rtrmadp_0_usa-stocks-tesla-facebook.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Asked Law Firm to Fire Attorney Who Worked on Elon Musk Probe at SEC , Report Says",
+        "url": "https://www.nbcdfw.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/2859510/",
+        "url_mobile": "https://www.nbcdfw.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/2859510/?amp"
+      },
+      {
+        "domain": "postandcourier.com",
+        "language": "English",
+        "seendate": "20220115T220000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/e/45/e4502556-74f6-11ec-b230-9b6747063de4/61e1036c4855d.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "The Black church is an essential community pillar that has been a target over the centuries",
+        "url": "https://www.postandcourier.com/news/the-black-church-is-an-essential-community-pillar-that-has-been-a-target-over-the/article_ae6779c6-74ba-11ec-8f34-ff8da9c36b52.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nationalmemo.com",
+        "language": "English",
+        "seendate": "20220115T220000Z",
+        "socialimage": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNzA4NTg3MC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTY3NTc5OTkxM30.EvWqsmpEapnZFvoHItx_lyTD0mSTxg0zSe-T3lmK5ss/img.jpg?&coordinates=0%2C15%2C0%2C15",
+        "sourcecountry": "United States",
+        "title": "Fox News Promotes Dumbest Anti - Vax Lie To Date",
+        "url": "https://www.nationalmemo.com/fox-news",
+        "url_mobile": "https://www.nationalmemo.com/amp/fox-news-2656413651"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220115T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates LAWS , VG , SUNS , TACO , SEAC ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://www.prnewswire.com:443/news-releases/halper-sadeh-llp-investigates-laws-vg-suns-taco-seac-shareholders-are-encouraged-to-contact-the-firm-301461611.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220115T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates CONE , AZPN , TSC , VSAT , MCFE ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://www.prnewswire.com/news-releases/halper-sadeh-llp-investigates-cone-azpn-tsc-vsat-mcfe-shareholders-are-encouraged-to-contact-the-firm-301461612.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mtshastanews.com",
+        "language": "English",
+        "seendate": "20220115T214500Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2022/01/12/USAT/4bae861b-9049-4429-9df6-dd54bd844462-AP22011669250522.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Grocery stores empty shelves 2022 : Shortages continue as prices rise",
+        "url": "https://www.mtshastanews.com/story/money/shopping/2022/01/12/shortage-grocery-store-empty-shelves/9178100002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220115T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "AT & T , Dish , and T - Mobile spend billions on more 5G spectrum",
+        "url": "https://www.msn.com/en-us/news/technology/atandt-dish-and-t-mobile-spend-billions-on-more-5g-spectrum/ar-AASOU0X",
+        "url_mobile": ""
+      },
+      {
+        "domain": "entrepreneur.com",
+        "language": "English",
+        "seendate": "20220115T214500Z",
+        "socialimage": "https://assets.entrepreneur.com/providers/investorplace/hero-image-investorplace-413429.jpeg",
+        "sourcecountry": "United States",
+        "title": "Novavax Still Has Not Received an FDA EUA as the Market Waits",
+        "url": "https://www.entrepreneur.com/article/413429",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220115T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates LAWS , VG , SUNS , TACO , SEAC ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://www.prnewswire.com/news-releases/halper-sadeh-llp-investigates-laws-vg-suns-taco-seac-shareholders-are-encouraged-to-contact-the-firm-301461611.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220115T214500Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2021/01/106820840-16100466222021-01-07t183104z_1584998285_rc263l9bivig_rtrmadp_0_usa-stocks-tesla-facebook.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Asked Law Firm to Fire Attorney Who Worked on Elon Musk Probe at SEC , Report Says",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/3108629/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/3108629/?amp"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220115T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates CONE , AZPN , TSC , VSAT , MCFE ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://www.prnewswire.com:443/news-releases/halper-sadeh-llp-investigates-cone-azpn-tsc-vsat-mcfe-shareholders-are-encouraged-to-contact-the-firm-301461612.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bloombergquint.com",
+        "language": "English",
+        "seendate": "20220115T214500Z",
+        "socialimage": "https://gumlet.assettype.com/bloombergquint%2F2021-11%2F02f3844c-be8f-447a-bf7a-105f4d0b5d42%2F380909586.jpg?rect=0%2C227%2C3998%2C2099&auto=format%2Ccompress&ogImage=true",
+        "sourcecountry": "India",
+        "title": "Asia Stocks Decline as Fed Hawks Spur Nasdaq Rout : Markets Wrap",
+        "url": "https://www.bloombergquint.com/markets/asia-stocks-to-drop-as-fed-hawks-spur-nasdaq-rout-markets-wrap",
+        "url_mobile": "/amp/markets/asia-stocks-to-drop-as-fed-hawks-spur-nasdaq-rout-markets-wrap"
+      },
+      {
+        "domain": "markets.businessinsider.com",
+        "language": "English",
+        "seendate": "20220115T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Barron Latest Picks And Pans : Netflix , Disney , Kroger , Walmart And More",
+        "url": "https://markets.businessinsider.com/news/stocks/barron-s-latest-picks-and-pans-netflix-disney-kroger-walmart-and-more-1031104415",
+        "url_mobile": ""
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220115T213000Z",
+        "socialimage": "",
+        "sourcecountry": "Taiwan",
+        "title": "Asian shares track Wall Street retreat",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2022/01/16/2003771444",
+        "url_mobile": ""
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220115T213000Z",
+        "socialimage": "https://www.taipeitimes.com/images/2022/01/16/p10-220116-walll.jpg",
+        "sourcecountry": "Taiwan",
+        "title": "Dow closes lower due to bank results",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2022/01/16/2003771439",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hotair.com",
+        "language": "English",
+        "seendate": "20220115T213000Z",
+        "socialimage": "https://hotair.com/wp-content/uploads/2022/01/biden-arrest-1110x740.jpg",
+        "sourcecountry": "United States",
+        "title": "Retreat : White House declares Republicans , Manchin , Sinema not segregationists and traitors  as humans , or something",
+        "url": "https://hotair.com/ed-morrissey/2022/01/15/retreat-white-house-declares-republicans-manchin-sinema-not-segregationists-and-traitors-as-humans-or-something-n441771",
+        "url_mobile": "https://hotair.com/ed-morrissey/2022/01/15/retreat-white-house-declares-republicans-manchin-sinema-not-segregationists-and-traitors-as-humans-or-something-n441771/amp"
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220115T213000Z",
+        "socialimage": "",
+        "sourcecountry": "Taiwan",
+        "title": "Prosecutors recommend dropping MIT spying case",
+        "url": "https://www.taipeitimes.com/News/world/archives/2022/01/16/2003771485",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wjr.com",
+        "language": "English",
+        "seendate": "20220115T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.wjr.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wiredprnews.com",
+        "language": "English",
+        "seendate": "20220115T213000Z",
+        "socialimage": "https://ml.globenewswire.com/media/NmZlMWFhYjYtOTBkMC00OGQxLWEwMGMtMzk4ZmRlNjg2MTRmLTExMzczODY=/tiny/Halper-Sadeh-LLP.png",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates FLMN , VCRA , ADTX , OCDX ; Shareholders are Encouraged to Contact the Firm - Press Release",
+        "url": "https://www.wiredprnews.com/halper-sadeh-llp-investigates-flmn-vcra-adtx-ocdx-shareholders-are-encouraged-to-contact-the-firm-press-release/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "borneobulletin.com.bn",
+        "language": "English",
+        "seendate": "20220115T213000Z",
+        "socialimage": "https://borneobulletin.com.bn/wp-content/uploads/2022/01/page-16-a_16012022.jpg",
+        "sourcecountry": "Brunei",
+        "title": "What in the Wordle Five - letter puzzle craze goes global",
+        "url": "https://borneobulletin.com.bn/what-in-the-wordle-five-letter-puzzle-craze-goes-global/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220115T213000Z",
+        "socialimage": "https://media.nbclosangeles.com/2021/01/106820840-16100466222021-01-07t183104z_1584998285_rc263l9bivig_rtrmadp_0_usa-stocks-tesla-facebook.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Asked Law Firm to Fire Attorney Who Worked on Elon Musk Probe at SEC , Report Says",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/2798050/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/2798050/?amp"
+      },
+      {
+        "domain": "veteranstoday.com",
+        "language": "English",
+        "seendate": "20220115T213000Z",
+        "socialimage": "https://www.veteranstoday.com/wp-content/uploads/2022/01/kapner.jpg",
+        "sourcecountry": "United States",
+        "title": "Confessions of an anti - Zionist Journalist ( Part I ) \u2013 Veterans Today | Military Foreign Affairs Policy Journal for Clandestine Services",
+        "url": "https://www.veteranstoday.com/2022/01/15/confessions-of-an-anti-zionist-journalist-part-i/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "abqjournal.com",
+        "language": "English",
+        "seendate": "20220115T213000Z",
+        "socialimage": "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2022/01/15/AP-Financial-Markets-IMG.jpg",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://www.abqjournal.com/2461559/stocks-end-mostly-higher-but-still-log-another-losing-week.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "usatoday.com",
+        "language": "English",
+        "seendate": "20220115T211500Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2022/01/15/USAT/ac988a6c-953c-4850-aca2-b13b89f3a617-DirecTV_dish.jpg?auto=webp&crop=3499,1968,x0,y349&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "DirecTV to drop pro - Trump One America News Network from pay TV service",
+        "url": "https://www.usatoday.com/story/entertainment/tv/2022/01/15/directv-drop-pro-trump-one-america-news-network/6539218001/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apr.org",
+        "language": "English",
+        "seendate": "20220115T211500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.apr.org/arts-life/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.apr.org/arts-life/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220115T211500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Written off for 2024 election ? Kamala Harris fights to stay in fray",
+        "url": "https://www.msn.com/en-in/news/world/written-off-for-2024-election-kamala-harris-fights-to-stay-in-fray/ar-AASORrg",
+        "url_mobile": ""
+      },
+      {
+        "domain": "capeandislands.org",
+        "language": "English",
+        "seendate": "20220115T211500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.capeandislands.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.capeandislands.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "wyomingpublicmedia.org",
+        "language": "English",
+        "seendate": "20220115T211500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wyomingpublicmedia.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wyomingpublicmedia.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220115T211500Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2019/07/blue-chip-money.jpg",
+        "sourcecountry": "United States",
+        "title": "The 7 Best Blue - Chip Stocks to Buy for 2022 and Beyond",
+        "url": "https://investorplace.com/2022/01/the-7-best-blue-chip-stocks-to-buy-for-2022/",
+        "url_mobile": "https://investorplace.com/2022/01/the-7-best-blue-chip-stocks-to-buy-for-2022/amp/"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220115T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "AT & T , Dish , and T - Mobile spend billions on more 5G spectrum",
+        "url": "https://www.msn.com/en-us/news/technology/at-t-dish-and-t-mobile-spend-billions-on-more-5g-spectrum/ar-AASOCG8",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvlkam.com",
+        "language": "English",
+        "seendate": "20220115T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.wvlkam.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220115T210000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661045/gettyimages-1283427204.jpg",
+        "sourcecountry": "United States",
+        "title": "Got $5 , 000 ? 2 Top Growth Stocks to Buy and Hold for Decades",
+        "url": "https://www.fool.com/investing/2022/01/15/got-5000-2-top-growth-stocks-to-buy-and-hold-for-d/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220115T210000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661038/a-cheering-man-holding-a-caluclator-with-the-word-dividends-on-the-screen.jpg",
+        "sourcecountry": "United States",
+        "title": "Our Favorite Dividend Stocks for 2022 and Beyond",
+        "url": "https://www.fool.com/investing/2022/01/15/our-favorite-dividend-stocks-for-2022-and-beyond/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "natlawreview.com",
+        "language": "English",
+        "seendate": "20220115T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Louis Lehot Private Equity Lawyer Foley and Lardner Law Firm",
+        "url": "https://www.natlawreview.com:443/author/louis-lehot",
+        "url_mobile": ""
+      },
+      {
+        "domain": "redstate.com",
+        "language": "English",
+        "seendate": "20220115T204500Z",
+        "socialimage": "https://redstate.com/wp-content/uploads/2022/01/Image-from-iOS-1110x740.jpg",
+        "sourcecountry": "United States",
+        "title": "The RedState 2021 Pulitzer Prize Parody Awards Where All the Winners Are ... Not ( Part 2 ) ",
+        "url": "https://redstate.com/bradslager/2022/01/15/the-redstate-2021-pulitzer-prize-parody-awards-where-all-the-winners-are-not-part-2-n507158",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220115T204500Z",
+        "socialimage": "https://forextv.com/wp-content/uploads/Halper-Sadeh-LLP-128.png",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates CCMP , EPAY , VRS , HXOH ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://forextv.com/top-news/halper-sadeh-llp-investigates-ccmp-epay-vrs-hxoh-shareholders-are-encouraged-to-contact-the-firm/",
+        "url_mobile": "https://forextv.com/top-news/halper-sadeh-llp-investigates-ccmp-epay-vrs-hxoh-shareholders-are-encouraged-to-contact-the-firm/amp/"
+      },
+      {
+        "domain": "thewrap.com",
+        "language": "English",
+        "seendate": "20220115T204500Z",
+        "socialimage": "https://www.thewrap.com/wp-content/uploads/2022/01/ted-koppel-donald-trump.jpg",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel Blasts News Media for Bias Against Trump",
+        "url": "https://www.thewrap.com/ted-koppel-blasts-media-bias-against-trump/",
+        "url_mobile": "https://www.thewrap.com/ted-koppel-blasts-media-bias-against-trump/amp/"
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220115T204500Z",
+        "socialimage": "https://forextv.com/wp-content/uploads/Johnson-Fistel-LLP-131.png",
+        "sourcecountry": "United States",
+        "title": " ( FCFS ) News : Did You Suffer a Loss ? Contact Johnson Fistel About Leading FirstCash Class Action Lawsuit",
+        "url": "https://forextv.com/top-news/fcfs-news-did-you-suffer-a-loss-contact-johnson-fistel-about-leading-firstcash-class-action-lawsuit/",
+        "url_mobile": "https://forextv.com/top-news/fcfs-news-did-you-suffer-a-loss-contact-johnson-fistel-about-leading-firstcash-class-action-lawsuit/amp/"
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220115T204500Z",
+        "socialimage": "https://forextv.com/wp-content/uploads/Halper-Sadeh-LLP-129.png",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates IHC , NEOG , LEVL , CPLG ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://forextv.com/top-news/halper-sadeh-llp-investigates-ihc-neog-levl-cplg-shareholders-are-encouraged-to-contact-the-firm/",
+        "url_mobile": "https://forextv.com/top-news/halper-sadeh-llp-investigates-ihc-neog-levl-cplg-shareholders-are-encouraged-to-contact-the-firm/amp/"
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220115T204500Z",
+        "socialimage": "https://www.morningstar.com/assets/img/marketwatch.dad5abb.png",
+        "sourcecountry": "China",
+        "title": "Wells Fargo outshines JPMorgan as big banks kick off the fourth - quarter earnings season",
+        "url": "https://www.morningstar.com/news/marketwatch/20220115377/wells-fargo-outshines-jpmorgan-as-big-banks-kick-off-the-fourth-quarter-earnings-season",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220115T204500Z",
+        "socialimage": "https://forextv.com/wp-content/uploads/Halper-Sadeh-LLP-127.png",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates FLMN , VCRA , ADTX , OCDX ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://forextv.com/top-news/halper-sadeh-llp-investigates-flmn-vcra-adtx-ocdx-shareholders-are-encouraged-to-contact-the-firm/",
+        "url_mobile": "https://forextv.com/top-news/halper-sadeh-llp-investigates-flmn-vcra-adtx-ocdx-shareholders-are-encouraged-to-contact-the-firm/amp/"
+      },
+      {
+        "domain": "kcbx.org",
+        "language": "English",
+        "seendate": "20220115T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kcbx.org/npr-top-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kcbx.org/npr-top-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "theverge.com",
+        "language": "English",
+        "seendate": "20220115T204500Z",
+        "socialimage": "https://cdn.vox-cdn.com/thumbor/OvIsFEMsLbec5XP2rUts_zcgCtE=/0x369:4774x2868/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23171334/1187777086.jpg",
+        "sourcecountry": "United States",
+        "title": "AT & T , Dish , and T - Mobile spend billions on more 5G spectrum",
+        "url": "https://www.theverge.com/2022/1/15/22885320/att-dish-tmobile-5g-spectrum-billions-auction",
+        "url_mobile": "https://www.theverge.com/platform/amp/2022/1/15/22885320/att-dish-tmobile-5g-spectrum-billions-auction"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220115T203000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660610/self-driving-car.jpg",
+        "sourcecountry": "United States",
+        "title": "Nvidia Is Pushing the Limits in Autonomous Driving",
+        "url": "https://www.fool.com/investing/2022/01/15/nvidia-is-pushing-the-limits-in-autonomous-driving/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kazu.org",
+        "language": "English",
+        "seendate": "20220115T203000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kazu.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kazu.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220115T203000Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2021/10/24/GettyImages-1208730736-1200x799.jpg",
+        "sourcecountry": "United States",
+        "title": "Companies Drop , Keep , or Reinstate Vaccination Requirement for Employees After SCOTUS Ruling",
+        "url": "https://www.theepochtimes.com/companies-drop-keep-or-reinstate-vaccination-requirement-for-employees-after-scotus-ruling_4215562.html",
+        "url_mobile": "https://www.theepochtimes.com/companies-drop-keep-or-reinstate-vaccination-requirement-for-employees-after-scotus-ruling_4215562.html/amp"
+      },
+      {
+        "domain": "markets.businessinsider.com",
+        "language": "English",
+        "seendate": "20220115T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "EV Week In Review : Elon Musk Makes Good On His Doge Promise , Hyzon Subpoenaed By SEC , Fisker Teases Supercar , Rivian Warns And More",
+        "url": "https://markets.businessinsider.com/news/stocks/ev-week-in-review-elon-musk-makes-good-on-his-doge-promise-hyzon-subpoenaed-by-sec-fisker-teases-supercar-rivian-warns-and-more-1031104412",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pjmedia.com",
+        "language": "English",
+        "seendate": "20220115T203000Z",
+        "socialimage": "https://media.townhall.com/townhall/reu/o/2021/347/2757eefd-15b9-4ad5-9ee9-8fc804e9ec78-1110x740.jpg",
+        "sourcecountry": "United States",
+        "title": "All Signs Point to a Russian  False Flag  Operation Underway \u2013 PJ Media",
+        "url": "https://pjmedia.com/news-and-politics/rick-moran/2022/01/15/all-signs-point-to-a-russian-false-flag-operation-underway-to-justify-war-against-ukraine-n1549675",
+        "url_mobile": "https://pjmedia.com/news-and-politics/rick-moran/2022/01/15/all-signs-point-to-a-russian-false-flag-operation-underway-to-justify-war-against-ukraine-n1549675/amp"
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220115T203000Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2019/07/25/GettyImages-79159117-1200x800.jpg",
+        "sourcecountry": "United States",
+        "title": "Investing Secrets of the Federal Reserve",
+        "url": "https://www.theepochtimes.com/investing-secrets-of-the-federal-reserve_4214193.html",
+        "url_mobile": "https://www.theepochtimes.com/investing-secrets-of-the-federal-reserve_4214193.html/amp"
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220115T201500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Fed Chair Faces the Ultimate Lose - Lose Decision \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/fed-chair-faces-the-ultimate-lose-lose-decision/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "michiganradio.org",
+        "language": "English",
+        "seendate": "20220115T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.michiganradio.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.michiganradio.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "cryptohayes.medium.com",
+        "language": "English",
+        "seendate": "20220115T201500Z",
+        "socialimage": "https://miro.medium.com/max/400/0*nbbPYRSys_g7ZT_0",
+        "sourcecountry": "United States",
+        "title": "Maelstrom . ( Any views expressed in the below are \u2026 | by Arthur Hayes | Jan , 2022",
+        "url": "https://cryptohayes.medium.com/maelstrom-ee6021e9d0c2?source=home---------1---------------------00a32a65_8313_4990_a099_0e5172836a0c-------7---",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kpbs.org",
+        "language": "English",
+        "seendate": "20220115T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kpbs.org/news/national/2022/01/15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wbfo.org",
+        "language": "English",
+        "seendate": "20220115T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wbfo.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wbfo.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "kalw.org",
+        "language": "English",
+        "seendate": "20220115T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kalw.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kalw.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220115T201500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.kmaj1440.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wbap.com",
+        "language": "English",
+        "seendate": "20220115T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.wbap.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220115T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "An ex - Goldman Sachs banker warned against broadly diversified ETFs , as banks may pull liquidity out of the market",
+        "url": "https://www.msn.com/en-US/news/other/an-ex-goldman-sachs-banker-warned-against-broadly-diversified-etfs-as-banks-may-pull-liquidity-out-of-the-market/ar-AASM9mR",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mdjonline.com",
+        "language": "English",
+        "seendate": "20220115T200000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/b/9e/b9e12cc0-24c8-5e24-9dfa-b37050f2b75d/61e31efa43e3b.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "US Census shelves planned changes to population survey",
+        "url": "https://www.mdjonline.com/tribune/business/us-census-shelves-planned-changes-to-population-survey/article_9832f640-4197-5eaa-a68f-07e529b61880.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220115T200000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660610/self-driving-car.jpg",
+        "sourcecountry": "United States",
+        "title": "Nvidia Is Pushing the Limits in Autonomous Driving",
+        "url": "https://www.fool.com/investing/2022/01/15/nvidia-is-pushing-the-limits-in-autonomous-driving/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newsradio1029.com",
+        "language": "English",
+        "seendate": "20220115T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.newsradio1029.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "interlochenpublicradio.org",
+        "language": "English",
+        "seendate": "20220115T200000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.interlochenpublicradio.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wypr.org",
+        "language": "English",
+        "seendate": "20220115T194500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wypr.org/wypr-arts/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wypr.org/wypr-arts/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "arabnews.com",
+        "language": "English",
+        "seendate": "20220115T194500Z",
+        "socialimage": "https://www.arabnews.com/sites/default/files/authors/1527771-ah.png",
+        "sourcecountry": "Saudi Arabia",
+        "title": "How business leaders have restored their credibility",
+        "url": "https://www.arabnews.com/node/2005036",
+        "url_mobile": "https://www.arabnews.com/node/2005036/amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220115T194500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "An ex - Goldman Sachs banker warned against broadly diversified ETFs , as banks may pull liquidity out of the market",
+        "url": "https://www.msn.com/en-us/money/other/an-ex-goldman-sachs-banker-warned-against-broadly-diversified-etfs-as-banks-may-pull-liquidity-out-of-the-market/ar-AASM9mR",
+        "url_mobile": ""
+      },
+      {
+        "domain": "blackenterprise.com",
+        "language": "English",
+        "seendate": "20220115T194500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Don Cheadle To Bring Series About Wall Street First Black Millionaire To Life At HBO Max",
+        "url": "https://www.blackenterprise.com/don-cheadle-to-bring-series-about-wall-streets-first-black-millionaire-to-life-at-hbo-max/",
+        "url_mobile": "https://www.blackenterprise.com/don-cheadle-to-bring-series-about-wall-streets-first-black-millionaire-to-life-at-hbo-max/amp/"
+      },
+      {
+        "domain": "timesrecordnews.com",
+        "language": "English",
+        "seendate": "20220115T194500Z",
+        "socialimage": "https://www.gannett-cdn.com/-mm-/e4f3ead154c5402e5a8f26e01877b787844b59da/c=0-22-500-304/local/-/media/2016/11/03/TXGroup/Wichita/636137724759469761-Alex-Mills.jpg?auto=webp&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Oil industry rebounds in 2021 forecasters predict solid 2022 Ale Mills",
+        "url": "https://www.timesrecordnews.com/story/opinion/columnists/2022/01/15/oil-industry-rebounds-2021-forecasters-predict-solid-2022-ale-mills/6512432001/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wrvo.org",
+        "language": "English",
+        "seendate": "20220115T194500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wrvo.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wrvo.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "californiatelegraph.com",
+        "language": "English",
+        "seendate": "20220115T194500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1642260332.jpg",
+        "sourcecountry": "United States",
+        "title": "Jonah Hill reveals Leonardo DiCaprio forced him to watch  The Mandalorian  ",
+        "url": "https://www.californiatelegraph.com/news/272179406/jonah-hill-reveals-leonardo-dicaprio-forced-him-to-watch-the-mandalorian",
+        "url_mobile": ""
+      },
+      {
+        "domain": "christianpost.com",
+        "language": "English",
+        "seendate": "20220115T194500Z",
+        "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/64/246449.jpg",
+        "sourcecountry": "United States",
+        "title": "Sheryl Crow featured on TobyMac Christian song  Promised Land  ",
+        "url": "https://www.christianpost.com:443/entertainment/sheryl-crow-featured-on-tobymacs-christian-song-promised-land.html",
+        "url_mobile": "https://www.christianpost.com/amp/sheryl-crow-featured-on-tobymacs-christian-song-promised-land.html"
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220115T193000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2021/01/106820840-16100466222021-01-07t183104z_1584998285_rc263l9bivig_rtrmadp_0_usa-stocks-tesla-facebook.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Asked Law Firm to Fire Attorney Who Worked on Elon Musk Probe at SEC , Report Says",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/2691528/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/2691528/?amp"
+      },
+      {
+        "domain": "997wtn.com",
+        "language": "English",
+        "seendate": "20220115T193000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.997wtn.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wncw.org",
+        "language": "English",
+        "seendate": "20220115T193000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wncw.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wncw.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "kbia.org",
+        "language": "English",
+        "seendate": "20220115T193000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kbia.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kbia.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "boisestatepublicradio.org",
+        "language": "English",
+        "seendate": "20220115T193000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.boisestatepublicradio.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcnewyork.com",
+        "language": "English",
+        "seendate": "20220115T193000Z",
+        "socialimage": "https://media.nbcnewyork.com/2021/01/106820840-16100466222021-01-07t183104z_1584998285_rc263l9bivig_rtrmadp_0_usa-stocks-tesla-facebook.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Asked Law Firm to Fire Attorney Who Worked on Elon Musk Probe at SEC , Report Says",
+        "url": "https://www.nbcnewyork.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/3497715/",
+        "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/3497715/?amp"
+      },
+      {
+        "domain": "wgowam.com",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.wgowam.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "https://images.barrons.com/im-468763/social",
+        "sourcecountry": "United States",
+        "title": "GlaxoSmithKline Rejects Unilever Proposal for Consumer Health Unit",
+        "url": "https://www.marketwatch.com/articles/unilever-glaxosmithkline-consumer-health-business-51642271329",
+        "url_mobile": ""
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "https://media.breitbart.com/media/2020/10/GettyImages-490009808-640x335.jpg",
+        "sourcecountry": "United States",
+        "title": "China Trade Surplus Hits Annual Record in 2021 Saw Double - Digit Growth in Exports Every Month",
+        "url": "https://www.breitbart.com/national-security/2022/01/14/chinas-trade-surplus-hits-annual-record-in-2021-saw-double-digit-growth-in-exports-every-month/",
+        "url_mobile": "https://www.breitbart.com/asia/2022/01/14/chinas-trade-surplus-hits-annual-record-in-2021-saw-double-digit-growth-in-exports-every-month/amp/"
+      },
+      {
+        "domain": "enca.com",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "https://www.enca.com/sites/default/files/afp/2022-01/doc-9W662C-%40photo0.jpg",
+        "sourcecountry": "South Africa",
+        "title": "Stocks retreat as Fed officials fan rate hike fears",
+        "url": "https://www.enca.com/news/stocks-retreat-fed-officials-fan-rate-hike-fears",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Nvidia Is Pushing the Limits in Autonomous Driving",
+        "url": "https://www.msn.com/en-us/money/companies/nvidia-is-pushing-the-limits-in-autonomous-driving/ar-AASOQDV",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pcmag.com",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "https://i.pcmag.com/imagery/articles/01uATEzOuIQkyCKFoubPg6h-1.fit_lim.size_1200x630.v1642270604.jpg",
+        "sourcecountry": "United States",
+        "title": "Medical Experts Want Spotify to Implement a COVID Misinformation Policy",
+        "url": "https://www.pcmag.com/news/medical-experts-want-spotify-to-implement-a-covid-misinformation-policy",
+        "url_mobile": "https://www.pcmag.com/news/medical-experts-want-spotify-to-implement-a-covid-misinformation-policy?amp=true"
+      },
+      {
+        "domain": "autoevolution.com",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "https://s1.cdn.autoevolution.com/images/news/1964-pontiac-banshee-xp-833-concept-car-listed-at-12-million-179219_1.jpg",
+        "sourcecountry": "United States",
+        "title": "1964 Pontiac Banshee XP - 833 Concept Car Listed at $1 . 2 Million",
+        "url": "https://www.autoevolution.com/news/1964-pontiac-banshee-xp-833-concept-car-listed-at-12-million-179219.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1708078!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/buildings-in-the-manhattan-skyline-in-new-york-u-s-on-thursday-june-17-2021-new-york-state-s-pandemic-mandates-were-lifted-last-week-after-70-of-the-adult-population-has-now-been-given-at-least-one-dose-of-a-coronavirus-vaccine.jpg",
+        "sourcecountry": "Canada",
+        "title": "New York State Tax Receipts Surge to $12 . 9 Billion Over Forecast",
+        "url": "https://www.bnnbloomberg.ca/new-york-state-tax-receipts-surge-to-12-9-billion-over-forecast-1.1708077",
+        "url_mobile": "https://www.bnnbloomberg.ca/new-york-state-tax-receipts-surge-to-12-9-billion-over-forecast-1.1708077.amp.html"
+      },
+      {
+        "domain": "hppr.org",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.hppr.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.hppr.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "sierraleonetimes.com",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Sierra Leone",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.sierraleonetimes.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "techcrunch.com",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "https://techcrunch.com/wp-content/uploads/2021/11/this-week-in-apps-splash-2021.png",
+        "sourcecountry": "United States",
+        "title": "This Week in Apps : Fortnite ( sorta !) returns to iOS , PUBG Mobile maker sues over copycats , Apple plans for alternative payments in South Korea \u2013 TechCrunch",
+        "url": "https://techcrunch.com/2022/01/15/this-week-in-apps-fortnite-sorta-returns-to-ios-pubg-mobile-maker-sues-over-copycats-apple-plans-for-alternative-payments-in-south-korea/",
+        "url_mobile": "https://techcrunch.com/2022/01/15/this-week-in-apps-fortnite-sorta-returns-to-ios-pubg-mobile-maker-sues-over-copycats-apple-plans-for-alternative-payments-in-south-korea/amp/"
+      },
+      {
+        "domain": "wesa.fm",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wesa.fm/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cleantechnica.com",
+        "language": "English",
+        "seendate": "20220115T191500Z",
+        "socialimage": "https://cleantechnica.com/files/2022/01/ej-strat-VjWi56AWQ9k-unsplash-1024x576.jpg",
+        "sourcecountry": "United States",
+        "title": "Largely Unregulated Gas Pipelines = Huge Methane Pollution , Permian Ponzi Scheme Nexus News Roundup",
+        "url": "https://cleantechnica.com/2022/01/15/largely-unregulated-gas-pipelines-huge-methane-pollution-permian-ponzi-scheme-nexus-news-roundup/",
+        "url_mobile": "https://cleantechnica.com/2022/01/15/largely-unregulated-gas-pipelines-huge-methane-pollution-permian-ponzi-scheme-nexus-news-roundup/amp/"
+      },
+      {
+        "domain": "health.wusf.usf.edu",
+        "language": "English",
+        "seendate": "20220115T190000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://health.wusf.usf.edu/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://health.wusf.usf.edu/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220115T190000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Why you shouldnt just  get COVID over with  ",
+        "url": "http://www.msn.com/en-us/news/technology/why-you-shouldn-t-just-get-covid-over-with/ar-AASOA2a",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcsandiego.com",
+        "language": "English",
+        "seendate": "20220115T190000Z",
+        "socialimage": "https://media.nbcsandiego.com/2021/01/106820840-16100466222021-01-07t183104z_1584998285_rc263l9bivig_rtrmadp_0_usa-stocks-tesla-facebook.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Asked Law Firm to Fire Attorney Who Worked on Elon Musk Probe at SEC , Report Says",
+        "url": "https://www.nbcsandiego.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/2839606/",
+        "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/2839606/?amp"
+      },
+      {
+        "domain": "briefingwire.com",
+        "language": "English",
+        "seendate": "20220115T190000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Leading Edge Cyber - Security Solutions at Every Level for an Expanding Range of Clients Worldwide",
+        "url": "https://www.briefingwire.com/pr/leading-edge-cyber-security-solutions-at-every-level-for-an-expanding-range-of-clients-worldwide",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kyuk.org",
+        "language": "English",
+        "seendate": "20220115T190000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kyuk.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kyuk.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "hot1047.com",
+        "language": "English",
+        "seendate": "20220115T190000Z",
+        "socialimage": "https://townsquare.media/site/98/files/2022/01/attachment-volcano-drill.jpg?&zc=1&s=0&a=t&q=89",
+        "sourcecountry": "United States",
+        "title": "No , NASA Isnt Drilling into Yellowstone to Stop an Eruption",
+        "url": "https://hot1047.com/no-nasa-isnt-drilling-into-yellowstone-to-stop-an-eruption/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/5dbbadd8-4d10-4402-b700-103223bb4248?size=1",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates CCMP , EPAY , VRS , HXOH ; ",
+        "url": "https://www.globenewswire.com/news-release/2022/01/15/2367465/0/en/Halper-Sadeh-LLP-Investigates-CCMP-EPAY-VRS-HXOH-Shareholders-are-Encouraged-to-Contact-the-Firm.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.wsiu.org",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://news.wsiu.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://news.wsiu.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661506/dogecoin2.jpg",
+        "sourcecountry": "United States",
+        "title": "Dogecoin Holds Steady , But Traders Hit Hard This Weekend",
+        "url": "https://www.fool.com/investing/2022/01/15/dogecoin-holds-steady-but-traders-hit-hard-this-we/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "streetinsider.com",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "University of Rochester Medical Center to Deploy Butterfly Across Enterprise",
+        "url": "https://www.streetinsider.com/Business+Wire/University+of+Rochester+Medical+Center+to+Deploy+Butterfly+Across+Enterprise/19446036.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/5dbbadd8-4d10-4402-b700-103223bb4248?size=1",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates IHC , NEOG , LEVL , CPLG ; ",
+        "url": "https://www.globenewswire.com/news-release/2022/01/15/2367466/0/en/Halper-Sadeh-LLP-Investigates-IHC-NEOG-LEVL-CPLG-Shareholders-are-Encouraged-to-Contact-the-Firm.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "https://media.nbcmiami.com/2021/01/106820840-16100466222021-01-07t183104z_1584998285_rc263l9bivig_rtrmadp_0_usa-stocks-tesla-facebook.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Asked Law Firm to Fire Attorney Who Worked on Elon Musk Probe at SEC , Report Says",
+        "url": "https://www.nbcmiami.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/2661981/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/tesla-asked-law-firm-to-fire-attorney-who-worked-on-elon-musk-probe-at-sec-report-says/2661981/?amp"
+      },
+      {
+        "domain": "kacu.org",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kacu.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kacu.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/5dbbadd8-4d10-4402-b700-103223bb4248?size=1",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates FLMN , VCRA , ADTX , OCDX ; ",
+        "url": "https://www.globenewswire.com/news-release/2022/01/15/2367464/0/en/Halper-Sadeh-LLP-Investigates-FLMN-VCRA-ADTX-OCDX-Shareholders-are-Encouraged-to-Contact-the-Firm.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wcsufm.org",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wcsufm.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wcsufm.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Halper Sadeh LLP Investigates IHC , NEOG , LEVL , CPLG ; Shareholders are Encouraged to Contact the Firm",
+        "url": "https://apnews.com/press-release/globe-newswire/business-independence-holding-co-1fefe672603ad7b4c7305d467e10d846",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvik.org",
+        "language": "English",
+        "seendate": "20220115T184500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wvik.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wvik.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "wutc.org",
+        "language": "English",
+        "seendate": "20220115T183000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wutc.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wutc.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "theedgemarkets.com",
+        "language": "English",
+        "seendate": "20220115T183000Z",
+        "socialimage": "https://assets.theedgemarkets.com/Market-Preview_theedgemarkets_125.jpg?mlBXFl4T5RE_gp0b3CpgexQOh8sJWUAd",
+        "sourcecountry": "Malaysia",
+        "title": "Bursa Malaysia to see cautious trading next week",
+        "url": "https://www.theedgemarkets.com/article/bursa-malaysia-see-cautious-trading-next-week",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvasfm.org",
+        "language": "English",
+        "seendate": "20220115T183000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wvasfm.org/post/opinion-remembering-friendship-terry-teachout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220115T183000Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/47/75/21921608/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Facing a potential primary , Larson formalizes his reelection status",
+        "url": "https://www.chron.com/news/article/Facing-a-potential-primary-Larson-formalizes-his-16778120.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wsiltv.com",
+        "language": "English",
+        "seendate": "20220115T183000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/5/01/501b14ef-2781-5cda-90c2-a51c097b11a2/61b4553a3d7bf.image.jpg?crop=768%2C403%2C0%2C14",
+        "sourcecountry": "United States",
+        "title": "Police arrest juvenile in connection to two Carbondale shootings",
+        "url": "https://www.wsiltv.com/townnews/police/police-arrest-juvenile-in-connection-to-two-carbondale-shootings/article_0bf01d66-760d-11ec-a6ca-8ba41402a22a.html",
+        "url_mobile": "https://www.wsiltv.com/townnews/police/police-arrest-juvenile-in-connection-to-two-carbondale-shootings/article_0bf01d66-760d-11ec-a6ca-8ba41402a22a.amp.html"
+      },
+      {
+        "domain": "floppingaces.net",
+        "language": "English",
+        "seendate": "20220115T183000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Developing a virus that cripples the world pays really well",
+        "url": "https://www.floppingaces.net/most-wanted/developing-a-virus-that-cripples-the-world-pays-really-well/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "streetinsider.com",
+        "language": "English",
+        "seendate": "20220115T183000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Heat Biologics Announces New PTX - 35 Preclinical Data in Organ Transplantation and Provides Update on HS - 110",
+        "url": "https://www.streetinsider.com/Globe+Newswire/Heat+Biologics+Announces+New+PTX-35+Preclinical+Data+in+Organ+Transplantation+and+Provides+Update+on+HS-110/19451494.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220115T183000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660677/investorrelaxed.jpg",
+        "sourcecountry": "United States",
+        "title": "Hold These Stocks If Youre Worried About the Market Sell - Off",
+        "url": "https://www.fool.com/investing/2022/01/15/hold-these-stocks-in-a-market-sell-off/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "themilitant.com",
+        "language": "English",
+        "seendate": "20220115T183000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "To fight effects of rising prices , fight for cost of living protection \u2013 The Militant",
+        "url": "https://themilitant.com/2022/01/15/to-fight-effects-of-rising-prices-fight-for-cost-of-living-protection/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kunm.org",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kunm.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kunm.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Corporate America is coming around to remote work . But more big changes lie ahead . ",
+        "url": "https://www.msn.com/en-us/money/companies/corporate-america-is-coming-around-to-remote-work-but-more-big-changes-lie-ahead/ar-AASOMab",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kikn.com",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://townsquare.media/site/98/files/2022/01/attachment-volcano-drill.jpg?&zc=1&s=0&a=t&q=89",
+        "sourcecountry": "United States",
+        "title": "No , NASA Isnt Drilling into Yellowstone to Stop an Eruption",
+        "url": "https://kikn.com/no-nasa-isnt-drilling-into-yellowstone-to-stop-an-eruption/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "lmtonline.com",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/47/72/21921444/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Cowboy recalls years working Montana ranch bought by Murdoch",
+        "url": "https://www.lmtonline.com/news/article/Cowboy-recalls-years-working-Montana-ranch-bought-16777947.php",
+        "url_mobile": "https://www.lmtonline.com/news/amp/Cowboy-recalls-years-working-Montana-ranch-bought-16777947.php"
+      },
+      {
+        "domain": "kabc.com",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://express-images.franklymedia.com/6616/sites/320/2019/02/19091232/kabc-website-thumnail.png",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.kabc.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kgou.org",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kgou.org/arts-and-entertainment/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kgou.org/arts-and-entertainment/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "lmtonline.com",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://s.hdnux.com/photos/01/02/02/61/17312892/15/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Imagine Entertainment in Talks to Sell Majority Stake to London Investment Firm Centricus",
+        "url": "https://www.lmtonline.com/entertainment/article/Imagine-Entertainment-in-Talks-to-Sell-Majority-16778140.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e2f298a6512cc032f5226f%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "How Far Can Bonds Fall As Interest Rates Rise Again ? ",
+        "url": "https://www.forbes.com/sites/johnnavin/2022/01/15/how-far-can-bonds-fall-as-interest-rates-rise-again/",
+        "url_mobile": "https://www.forbes.com/sites/johnnavin/2022/01/15/how-far-can-bonds-fall-as-interest-rates-rise-again/amp/"
+      },
+      {
+        "domain": "freerepublic.com",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Latest Articles",
+        "url": "https://freerepublic.com/tag/*/index?more=4029788",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.ca",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://www.fool.ca/wp-content/uploads/2020/10/Thinking-or-idea.jpg",
+        "sourcecountry": "Canada",
+        "title": "Smart Choices : 3 Under - $12 Tech Stocks to Buy Now | The Motley Fool Canada",
+        "url": "https://www.fool.ca/2022/01/15/smart-choices-3-under-12-tech-stocks-to-buy-now/",
+        "url_mobile": "https://www.fool.ca/2022/01/15/smart-choices-3-under-12-tech-stocks-to-buy-now/amp/"
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Max frustration continues ... ",
+        "url": "https://www.zerohedge.com/the-market-ear/itcontinues",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wxpr.org",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wxpr.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wxpr.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "wboi.org",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wboi.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wboi.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "klcc.org",
+        "language": "English",
+        "seendate": "20220115T181500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.klcc.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.klcc.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "wknofm.org",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wknofm.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wknofm.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "thehill.com",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "https://thehill.com/sites/default/files/sinemakyrsten_121521_jn01.jpg",
+        "sourcecountry": "United States",
+        "title": "Sinema reignites 2024 primary chatter amid filibuster fight",
+        "url": "https://thehill.com/homenews/senate/589864-sinema-reignites-2024-primary-chatter-amid-filibuster-fight",
+        "url_mobile": "https://thehill.com/homenews/senate/589864-sinema-reignites-2024-primary-chatter-amid-filibuster-fight?amp"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Hedging Against Inflation with RAAX",
+        "url": "https://www.etftrends.com/tactical-allocation-channel/hedging-against-inflation-with-raax/",
+        "url_mobile": "https://www.etftrends.com/tactical-allocation-channel/hedging-against-inflation-with-raax/amp/"
+      },
+      {
+        "domain": "omanobserver.om",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "https://www.omanobserver.om/theme_omandailyobserver/images/social-image.jpg",
+        "sourcecountry": "Oman",
+        "title": "2022 : A bad year for markets ? ",
+        "url": "https://www.omanobserver.om/article/1112712/opinion/2022-a-bad-year-for-markets",
+        "url_mobile": "https://www.omanobserver.om/ampArticle/1112712"
+      },
+      {
+        "domain": "wuky.org",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wuky.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wuky.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "thehill.com",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "https://thehill.com/sites/default/files/article_images/coronavirus_calif_hospital_090221getty_lead.jpg",
+        "sourcecountry": "United States",
+        "title": "Child hospitalizations reach record high amid omicron surge : WSJ",
+        "url": "https://thehill.com/policy/healthcare/589885-child-hospitalizations-reach-record-high-amid-omicron-surge-wsj",
+        "url_mobile": "https://thehill.com/policy/healthcare/589885-child-hospitalizations-reach-record-high-amid-omicron-surge-wsj?amp"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "https://www.wisdomtree.com/-/media/us-media-files/blog/blog-images-2/2022/01-11-22/figure-1---asness-replication.png",
+        "sourcecountry": "China",
+        "title": "When Do Capital - Efficient Strategies Disappoint ? ",
+        "url": "https://www.etftrends.com/model-portfolio-channel/when-do-capital-efficient-strategies-disappoint/",
+        "url_mobile": "https://www.etftrends.com/model-portfolio-channel/when-do-capital-efficient-strategies-disappoint/amp/"
+      },
+      {
+        "domain": "kkoh.com",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.kkoh.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "1490wosh.com",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.1490wosh.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "omanobserver.om",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "https://www.omanobserver.om/theme_omandailyobserver/images/social-image.jpg",
+        "sourcecountry": "Oman",
+        "title": "An entrepreneur and a swindler",
+        "url": "https://www.omanobserver.om/article/1112727/opinion/an-entrepreneur-and-a-swindler",
+        "url_mobile": "https://www.omanobserver.om/ampArticle/1112727"
+      },
+      {
+        "domain": "telegraph.co.uk",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "  Endemic  could be a misleading term when considering Covid future and its potential complications",
+        "url": "https://www.telegraph.co.uk/global-health/science-and-disease/endemic-could-misleading-term-considering-covids-future-potential/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wftw.com",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.wftw.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wmot.org",
+        "language": "English",
+        "seendate": "20220115T180000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wmot.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wmot.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "980waav.com",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.980waav.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "techstory.in",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "https://techstory.in/wp-content/uploads/2021/11/quality-of-earnings-report-1.jpg",
+        "sourcecountry": "India",
+        "title": "Upcoming Earnings for this Week",
+        "url": "https://techstory.in/upcoming-earnings-for-this-week/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ted Koppel on NYTimes , WaPo :  Opinions Belong on the Opinion Page  ",
+        "url": "https://www.kmjnow.com/news/ted-koppel-on-nytimes-wapo-opinions-belong-on-the-opinion-page/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "iol.co.za",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/62890d4a-4fac-5090-bf78-d81afcd54800",
+        "sourcecountry": "South Africa",
+        "title": "Tech drives stock rebound at end of jittery week",
+        "url": "https://www.iol.co.za/business-report/international/tech-drives-stock-rebound-at-end-of-jittery-week-6f722c0e-143c-4e09-afde-b76580a26239",
+        "url_mobile": "https://www.iol.co.za/amp/business-report/international/tech-drives-stock-rebound-at-end-of-jittery-week-6f722c0e-143c-4e09-afde-b76580a26239"
+      },
+      {
+        "domain": "pmnewsnigeria.com",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "https://cdn.pmnewsnigeria.com/2020/04/Netflix.jpg",
+        "sourcecountry": "Nigeria",
+        "title": "Netflix increases monthly subscription prices in US , Canada",
+        "url": "https://pmnewsnigeria.com/2022/01/15/netflix-increases-monthly-subscription-prices-in-us-canada/",
+        "url_mobile": "https://pmnewsnigeria.com/2022/01/15/netflix-increases-monthly-subscription-prices-in-us-canada/?amp=1"
+      },
+      {
+        "domain": "calcuttanews.net",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642220853727.jpg",
+        "sourcecountry": "India",
+        "title": "In first for Ford Motors , valuation reaches $100 billion",
+        "url": "https://www.calcuttanews.net/news/272179270/in-first-for-ford-motors-valuation-reaches-100-billion",
+        "url_mobile": ""
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "https://www.taipeitimes.com/images/2022/01/16/p09-220116-Hong%20Kong.jpg",
+        "sourcecountry": "Taiwan",
+        "title": "Hong Kong brain drain worsens as expats , locals flee",
+        "url": "https://www.taipeitimes.com/News/editorials/archives/2022/01/16/2003771451",
+        "url_mobile": ""
+      },
+      {
+        "domain": "indiagazette.com",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "India",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.indiagazette.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "taiwansun.com",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "China",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.taiwansun.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "presstv.ir",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "",
+        "sourcecountry": "Iran",
+        "title": "Child hospitalizations reach record high in US , united kingdom ",
+        "url": "https://www.presstv.ir/Detail/2022/01/15/674810/US-UK-Child-hospitalizations-COVID-19-pandemic-Omicron",
+        "url_mobile": ""
+      },
+      {
+        "domain": "upr.org",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.upr.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.upr.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "waer.org",
+        "language": "English",
+        "seendate": "20220115T174500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.waer.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.waer.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220115T173000Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/09130955/andres-perez-Ftu6gc3A1VE-unsplash.jpg",
+        "sourcecountry": "United States",
+        "title": "10 ESG Dividend Stocks to Buy - Insider Monkey",
+        "url": "https://www.insidermonkey.com/blog/10-esg-dividend-stocks-to-buy-1013418/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kwbu.org",
+        "language": "English",
+        "seendate": "20220115T173000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kwbu.org/post/opinion-remembering-friendship-terry-teachout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "freerepublic.com",
+        "language": "English",
+        "seendate": "20220115T173000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Federal Employees Plan Rally In D . C . To Oppose Biden Vaccine Mandate",
+        "url": "https://freerepublic.com/focus/f-news/4029688/posts",
+        "url_mobile": ""
+      },
+      {
+        "domain": "katcountry989.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/15/2022-01-15T143453Z_2_LYNXMPEI0E05A_RTROPTP_3_BRITAIN-STOCKS.JPG",
+        "sourcecountry": "United States",
+        "title": "London Stock Exchange proposes special listings for private companies \u2013 WSJ",
+        "url": "https://katcountry989.com/2022/01/15/london-stock-exchange-proposes-special-listings-for-private-companies-wsj/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thepeninsulaqatar.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "http://thepeninsulaqatar.com/get/maximage/20181125_1543153673-210485.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Bitcoin options shift has some bulls calling $40 , 000 the bottom",
+        "url": "http://thepeninsulaqatar.com/article/15/01/2022/bitcoin-options-shift-has-some-bulls-calling-40000-the-bottom",
+        "url_mobile": ""
+      },
+      {
+        "domain": "triquarterly.org",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://www.triquarterly.org/sites/triquarterly/files/styles/social/public/TQ%20161%20cover%20image.jpg?itok=YO7nxxVJ",
+        "sourcecountry": "United States",
+        "title": "House of Wax",
+        "url": "https://www.triquarterly.org/issues/issue-161/house-wax",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kilgorenewsherald.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/kilgorenewsherald.com/content/tncms/custom/image/7aa624ba-3b66-11e9-a8f2-ebdebd1a20d9.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Can These Penny Stocks Continue to Make Gains This Month ? ",
+        "url": "https://www.kilgorenewsherald.com/can-these-penny-stocks-continue-to-make-gains-this-month/article_0a4a647c-1319-5f94-ba34-477358533c75.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661045/gettyimages-1283427204.jpg",
+        "sourcecountry": "United States",
+        "title": "Got $5 , 000 ? 2 Top Growth Stocks to Buy and Hold for Decades",
+        "url": "https://www.fool.com/investing/2022/01/15/got-5000-2-top-growth-stocks-to-buy-and-hold-for-d/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wclk.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wclk.com/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.wclk.com/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "wusfnews.wusf.usf.edu",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://wusfnews.wusf.usf.edu/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "australiannews.net",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642220853727.jpg",
+        "sourcecountry": "Australia",
+        "title": "In first for Ford Motors , valuation reaches $100 billion",
+        "url": "https://www.australiannews.net/news/272179270/in-first-for-ford-motors-valuation-reaches-100-billion",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sandiegosun.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/ani1642260332.jpg",
+        "sourcecountry": "United States",
+        "title": "Jonah Hill reveals Leonardo DiCaprio forced him to watch  The Mandalorian  ",
+        "url": "https://www.sandiegosun.com/news/272179406/jonah-hill-reveals-leonardo-dicaprio-forced-him-to-watch-the-mandalorian",
+        "url_mobile": ""
+      },
+      {
+        "domain": "latimes.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://california-times-brightspot.s3.amazonaws.com/1d/8c/9d91f4da4b7e8388b2d33f415813/la-ca-bruce-springsteen-catalog.jpg",
+        "sourcecountry": "United States",
+        "title": "Music catalogs are fetching huge deals . Are they overvalued ? ",
+        "url": "https://www.latimes.com/entertainment-arts/business/story/2022-01-15/music-catalogs-deals-bruce-springsteen-john-legend-bob-dylan-songwriters-streaming",
+        "url_mobile": "https://www.latimes.com/entertainment-arts/business/story/2022-01-15/music-catalogs-deals-bruce-springsteen-john-legend-bob-dylan-songwriters-streaming?_amp=true"
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://www.taipeitimes.com/images/2022/01/16/P12-220116-306.jpg",
+        "sourcecountry": "Taiwan",
+        "title": "Online universe becomes a lab for real - life products",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2022/01/16/2003771436",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thehindubusinessline.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://www.thehindubusinessline.com/theme/images/og-image.png",
+        "sourcecountry": "India",
+        "title": "Why you should accumulate this Nasdaq - listed new age company",
+        "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/why-you-should-accumulate-this-nasdaq-listed-new-age-company/article64825226.ece",
+        "url_mobile": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/why-you-should-accumulate-this-nasdaq-listed-new-age-company/article64825226.ece/amp/"
+      },
+      {
+        "domain": "argentinastar.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Argentina",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.argentinastar.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "philippinetimes.com",
+        "language": "English",
+        "seendate": "20220115T171500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Philippines",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.philippinetimes.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220115T170000Z",
+        "socialimage": "https://chorus.stimg.co/23164864/merlin_65965863.jpg?&fit=crop&bg=999&crop=faces",
+        "sourcecountry": "United States",
+        "title": "Moderate stock valuations reduce downside risk",
+        "url": "https://www.startribune.com/moderate-stock-valuations-reduce-downside-risk/600136166/",
+        "url_mobile": "https://m.startribune.com/moderate-stock-valuations-reduce-downside-risk/600136166/"
+      },
+      {
+        "domain": "latimes.com",
+        "language": "English",
+        "seendate": "20220115T170000Z",
+        "socialimage": "https://california-times-brightspot.s3.amazonaws.com/65/e6/2cb9fbe44f2f96f0af3d426b6fd9/2-245mag049-gonzales-day-hr.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Aperture special issue on Latino image - making matters",
+        "url": "https://www.latimes.com/entertainment-arts/newsletter/2022-01-15/essential-arts-aperture-latinx-issue-covers-latino-image-making-essential-arts",
+        "url_mobile": ""
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220115T170000Z",
+        "socialimage": "https://chorus.stimg.co/23164951/merlin_65762143.jpg?&fit=crop&bg=999&crop=faces",
+        "sourcecountry": "United States",
+        "title": "In a blitz of hawkish speeches , Fed officials convey that rate hikes are real",
+        "url": "https://www.startribune.com/in-a-blitz-of-hawkish-speeches-fed-officials-convey-that-rate-hikes-are-real/600136168/",
+        "url_mobile": "https://m.startribune.com/in-a-blitz-of-hawkish-speeches-fed-officials-convey-that-rate-hikes-are-real/600136168/"
+      },
+      {
+        "domain": "ricochet.com",
+        "language": "English",
+        "seendate": "20220115T170000Z",
+        "socialimage": "https://cdn.ricochet.com/wp-content/uploads/2021/11/Call-me-back.jpeg",
+        "sourcecountry": "United States",
+        "title": "  Back in the USSR  with The Wall Street Journal Walter Russell Mead \u2013 Ricochet",
+        "url": "https://ricochet.com/podcast/call-me-back/back-in-the-ussr-with-the-wall-street-journals-walter-russell-mead/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kenw.org",
+        "language": "English",
+        "seendate": "20220115T170000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kenw.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kenw.org/npr-news/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "businessmirror.com.ph",
+        "language": "English",
+        "seendate": "20220115T170000Z",
+        "socialimage": "https://businessmirror.com.ph/wp-content/uploads/2020/11/BusinessMirror-BM-lettermark.jpg",
+        "sourcecountry": "Philippines",
+        "title": "Biden picks Fed bank regulator , adds first Black woman to board",
+        "url": "https://businessmirror.com.ph/2022/01/16/biden-picks-fed-bank-regulator-adds-first-black-woman-to-board/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chinanationalnews.com",
+        "language": "English",
+        "seendate": "20220115T170000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "China",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.chinanationalnews.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kccu.org",
+        "language": "English",
+        "seendate": "20220115T164500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kccu.org/arts/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kccu.org/arts/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "britainnews.net",
+        "language": "English",
+        "seendate": "20220115T164500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642220853727.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "In first for Ford Motors , valuation reaches $100 billion",
+        "url": "https://www.britainnews.net/news/272179270/in-first-for-ford-motors-valuation-reaches-100-billion",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220115T164500Z",
+        "socialimage": "https://www.morningstar.com/assets/img/marketwatch.dad5abb.png",
+        "sourcecountry": "China",
+        "title": "Is the stock market open on Monday ? Here are the trading hours on Martin Luther King Jr . Day",
+        "url": "https://www.morningstar.com/news/marketwatch/20220115327/is-the-stock-market-open-on-monday-here-are-the-trading-hours-on-martin-luther-king-jr-day",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220115T164500Z",
+        "socialimage": "https://www.morningstar.com/assets/img/marketwatch.dad5abb.png",
+        "sourcecountry": "China",
+        "title": "As Wall Street braces for Netflix subscriber - growth miss , some want the company to stop reporting the number",
+        "url": "https://www.morningstar.com/news/marketwatch/20220115346/as-wall-street-braces-for-netflix-subscriber-growth-miss-some-want-the-company-to-stop-reporting-the-number",
+        "url_mobile": ""
+      },
+      {
+        "domain": "insideevs.com",
+        "language": "English",
+        "seendate": "20220115T164500Z",
+        "socialimage": "https://cdn.motor1.com/images/mgl/BXOeq6/s1/2022-tesla-model-3.jpg",
+        "sourcecountry": "United States",
+        "title": "Tesla Pivots On Battery Tech And It Starts A Major Trend",
+        "url": "https://insideevs.com/news/560976/tesla-new-battery-tech-trend/",
+        "url_mobile": "https://insideevs.com/news/560976/tesla-new-battery-tech-trend/amp/"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220115T164500Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1708067!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/the-gamestop-corp-website-on-a-laptop-computer-arranged-in-hastings-on-hudson-new-york-u-s-on-friday-jan-29-2021-gamestop-corp-advanced-on-friday-and-was-on-track-to-recoup-much-of-thursday-s-11-billion-blow-after-robinhood-markets-inc-and-other-brokerages-eased-trading-restrictions-on-the-video-game-retailer.png",
+        "sourcecountry": "Canada",
+        "title": "Meme Stocks , De - SPACS and Biotech Slump in Rough Start to 2022",
+        "url": "https://www.bnnbloomberg.ca/meme-stocks-de-spacs-and-biotech-slump-in-rough-start-to-2022-1.1708066",
+        "url_mobile": "https://www.bnnbloomberg.ca/meme-stocks-de-spacs-and-biotech-slump-in-rough-start-to-2022-1.1708066.amp.html"
+      },
+      {
+        "domain": "spokanepublicradio.org",
+        "language": "English",
+        "seendate": "20220115T164500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.spokanepublicradio.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.spokanepublicradio.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "wbaa.org",
+        "language": "English",
+        "seendate": "20220115T164500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wbaa.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ktep.org",
+        "language": "English",
+        "seendate": "20220115T164500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.ktep.org/post/opinion-remembering-friendship-terry-teachout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kedm.org",
+        "language": "English",
+        "seendate": "20220115T164500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-eb6ccdd256a74c7fc885a8a9a3b2dc9830d8fc34.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.kedm.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout",
+        "url_mobile": "https://www.kedm.org/2022-01-15/opinion-remembering-a-friendship-with-terry-teachout?_amp=true"
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220115T163000Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2021/03/tdoc-stock-2.jpg",
+        "sourcecountry": "United States",
+        "title": "TDOC Stock Is Returning to Long - Term Pivotal Zones",
+        "url": "https://investorplace.com/2022/01/teladoc-tdoc-stock-is-returning-to-long-term-pivotal-zones/",
+        "url_mobile": "https://investorplace.com/2022/01/teladoc-tdoc-stock-is-returning-to-long-term-pivotal-zones/amp/"
+      },
+      {
+        "domain": "hongkongherald.com",
+        "language": "English",
+        "seendate": "20220115T163000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "China",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.hongkongherald.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bozemandailychronicle.com",
+        "language": "English",
+        "seendate": "20220115T163000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/6/46/6464b1c9-7e42-5f2c-b467-077e30675bda/61e2e57da0de6.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Cowboy recalls years working Montana ranch bought by Murdoch",
+        "url": "https://www.bozemandailychronicle.com/ap_news/montana/cowboy-recalls-years-working-montana-ranch-bought-by-murdoch/article_33ad7964-1a58-5259-aced-0173084ea37f.html",
+        "url_mobile": "https://www.bozemandailychronicle.com/ap_news/montana/cowboy-recalls-years-working-montana-ranch-bought-by-murdoch/article_33ad7964-1a58-5259-aced-0173084ea37f.amp.html"
+      },
+      {
+        "domain": "japanherald.com",
+        "language": "English",
+        "seendate": "20220115T163000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Japan",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.japanherald.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "citizensjournal.us",
+        "language": "English",
+        "seendate": "20220115T163000Z",
+        "socialimage": "https://www.citizensjournal.us/wp-content/uploads/2016/08/Raven-West-goes-to-Havana-e1471745752942.jpg",
+        "sourcecountry": "United States",
+        "title": "Blinken Says He Has  No Doubt  American Diplomats Have Havana Syndrome , Adds They Cant Figure Out Who Is Responsible",
+        "url": "https://www.citizensjournal.us/blinken-says-he-has-no-doubt-american-diplomats-have-havana-syndrome-adds-they-cant-figure-out-who-is-responsible/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "therealdeal.com",
+        "language": "English",
+        "seendate": "20220115T163000Z",
+        "socialimage": "https://therealdeal.com/tristate/wp-content/uploads/2022/01/crosspost-20220114090300.jpg",
+        "sourcecountry": "United States",
+        "title": "Germany Tightens Mortgage Lending to Reel in Soaring Housing Prices",
+        "url": "https://therealdeal.com/tristate/2022/01/15/germany-tightens-mortgage-lending-to-reel-in-soaring-housing-prices/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wfdd.org",
+        "language": "English",
+        "seendate": "20220115T163000Z",
+        "socialimage": "https://wfdd-live.s3.amazonaws.com/styles/story-full/s3/images/story/Opinion-Remembering-a-friendship-with-Terry-Teachout-1073289076-1642260609.jpg?itok=MxnUlint",
+        "sourcecountry": "United States",
+        "title": "Opinion : Remembering a friendship with Terry Teachout",
+        "url": "https://www.wfdd.org/story/opinion-remembering-friendship-terry-teachout",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ETF Daily News - Page 5299 of 5299 - The latest news you need for informed trading . ",
+        "url": "https://etfdailynews.com/page/5299/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizpacreview.com",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "https://www.bizpacreview.com/wp-content/uploads/2022/01/SG-Bill-Gates.jpg",
+        "sourcecountry": "United States",
+        "title": "Microsoft will review sexual harassment investigation of Bill Gates , others",
+        "url": "https://www.bizpacreview.com/2022/01/15/microsoft-will-review-sexual-harassment-investigation-of-bill-gates-others-1188774/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizpacreview.com",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "https://www.bizpacreview.com/wp-content/uploads/2022/01/pexels-retail-store.jpg",
+        "sourcecountry": "United States",
+        "title": "Retail sales plummet as inflation , COVID - 19 concerns rise",
+        "url": "https://www.bizpacreview.com/2022/01/15/retail-sales-plummet-as-inflation-covid-19-concerns-rise-1188783/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investors.com",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "https://www.investors.com/wp-content/uploads/2018/01/stock-caterpillar-03-shutter.jpg",
+        "sourcecountry": "United States",
+        "title": "Deere , CAT Stock Lead 5 Industrial Plays Near Buy Zones",
+        "url": "https://www.investors.com/news/deere-cat-stock-lead-5-industrial-plays-near-buy-zones/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Gulf International Bank united kingdom Ltd Sells 395 Shares of Quest Diagnostics Incorporated ( NYSE : DGX ) ",
+        "url": "https://etfdailynews.com/news/gulf-international-bank-uk-ltd-sells-395-shares-of-quest-diagnostics-incorporated-nysedgx/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Teacher Retirement System of Texas Buys 101 , 697 Shares of Principal Financial Group , Inc . ( NASDAQ : PFG ) ",
+        "url": "https://etfdailynews.com/news/teacher-retirement-system-of-texas-buys-101697-shares-of-principal-financial-group-inc-nasdaqpfg/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": " ( FCFS ) News : Did You Suffer a Loss ? Contact Johnson Fistel",
+        "url": "https://www.globenewswire.com/news-release/2022/01/15/2367462/0/en/FCFS-News-Did-You-Suffer-a-Loss-Contact-Johnson-Fistel-About-Leading-FirstCash-Class-Action-Lawsuit.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "https://forextv.com/wp-content/uploads/Johnson-Fistel-LLP-128.png",
+        "sourcecountry": "United States",
+        "title": " ( RVNC ) News : Did You Suffer a Substantial Loss ? Contact Johnson Fistel About Leading Revance Therapeutics Class Action Lawsuit",
+        "url": "https://forextv.com/top-news/rvnc-news-did-you-suffer-a-substantial-loss-contact-johnson-fistel-about-leading-revance-therapeutics-class-action-lawsuit/",
+        "url_mobile": "https://forextv.com/top-news/rvnc-news-did-you-suffer-a-substantial-loss-contact-johnson-fistel-about-leading-revance-therapeutics-class-action-lawsuit/amp/"
+      },
+      {
+        "domain": "businessinsider.com.au",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "https://i.insider.com/61e073d0c5e27c00185b751e?format=jpeg",
+        "sourcecountry": "Australia",
+        "title": "I used Etsy to decorate my apartment and saw how it beats out Amazon in the home decor department despite longer delivery times",
+        "url": "https://www.businessinsider.com.au/etsy-versus-amazon-comparison-art-home-decor-delivery-times-2022-1",
+        "url_mobile": "https://www.businessinsider.com.au/etsy-versus-amazon-comparison-art-home-decor-delivery-times-2022-1/amp"
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "AUD / USD Weekly Forecast : Bulls Pause Above 0 . 72 , Eying Chinese Data",
+        "url": "https://forextv.com/forex-analysis/aud-usd-weekly-forecast-bulls-pause-above-0-72-eying-chinese-data/",
+        "url_mobile": "https://forextv.com/forex-analysis/aud-usd-weekly-forecast-bulls-pause-above-0-72-eying-chinese-data/amp/"
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220115T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Market Extra : Roaring U . S . housing market may cool , keep climbing as Fed ends emergency support",
+        "url": "https://forextv.com/market-news/market-extra-roaring-u-s-housing-market-may-cool-keep-climbing-as-fed-ends-emergency-support/",
+        "url_mobile": "https://forextv.com/market-news/market-extra-roaring-u-s-housing-market-may-cool-keep-climbing-as-fed-ends-emergency-support/amp/"
+      }
+    ]
+  }
+}

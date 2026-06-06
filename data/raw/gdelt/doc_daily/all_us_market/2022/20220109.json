@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-09",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220110T000000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/d00ef506-8a60-4ead-8cf0-3754191b99af?size=1",
+        "sourcecountry": "United States",
+        "title": "MYR Group Acquires Powerline Plus Companies",
+        "url": "https://www.globenewswire.com/news-release/2022/01/04/2361234/10748/en/MYR-Group-Acquires-Powerline-Plus-Companies.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businessinsider.com.au",
+        "language": "English",
+        "seendate": "20220110T000000Z",
+        "socialimage": "https://imgix.businessinsider.com.au/content/uploads/sites/5/2022/01/05/GettyImages-1338410381.jpg?ar=4%3A3&auto=format&fit=crop&q=65",
+        "sourcecountry": "Australia",
+        "title": "10 things you need to know this morning in Australia",
+        "url": "https://www.businessinsider.com.au/10-things-you-need-to-know-this-morning-in-australia-112",
+        "url_mobile": "https://www.businessinsider.com.au/10-things-you-need-to-know-this-morning-in-australia-112/amp"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220110T000000Z",
+        "socialimage": "https://images.barrons.com/im-454200/social",
+        "sourcecountry": "United States",
+        "title": "U . S . Stock Futures Poised to Open Slightly Lower on Monday",
+        "url": "https://www.marketwatch.com/articles/u-s-stock-futures-poised-to-open-slightly-lower-on-monday-51641771129",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220110T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TRUSTED AND TOP RANKED INVESTOR COUNSEL , Encourages Peloton Interactive , Inc . Investors to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-trusted-and-top-ranked-investor-counsel-encourages-peloton-interactive-inc-investors-to-secure-counsel-before-important-deadline-in-securities-class-action--pton-301456441.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220110T000000Z",
+        "socialimage": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ATDUODRUQI6ZITNDQQ4C2Y4SM.jpg",
+        "sourcecountry": "United States",
+        "title": "Airlines Are Going to Need Big Data to Recover From Covid",
+        "url": "https://www.washingtonpost.com/business/airlines-are-going-to-need-big-data-to-recover-from-covid/2022/01/09/e0f3e78a-71a4-11ec-a26d-1c21c16b1c93_story.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtontimes.com",
+        "language": "English",
+        "seendate": "20220110T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Corrupt Democrats and their fake  justice  - Washington Times",
+        "url": "https://www.washingtontimes.com/news/2022/jan/9/corrupt-democrats-and-their-fake-justice/",
+        "url_mobile": "https://amp.washingtontimes.com/news/2022/jan/9/corrupt-democrats-and-their-fake-justice/"
+      },
+      {
+        "domain": "washingtontimes.com",
+        "language": "English",
+        "seendate": "20220110T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Corrupt Democrats and their fake  justice  - Washington Times",
+        "url": "https://www.washingtontimes.com:443/news/2022/jan/9/corrupt-democrats-and-their-fake-justice/",
+        "url_mobile": "https://amp.washingtontimes.com/news/2022/jan/9/corrupt-democrats-and-their-fake-justice/"
+      },
+      {
+        "domain": "fool.com.au",
+        "language": "English",
+        "seendate": "20220110T000000Z",
+        "socialimage": "https://www.fool.com.au/wp-content/uploads/2021/03/nasdaq.jpg",
+        "sourcecountry": "Australia",
+        "title": "Novonix ( ASX : NVX ) share price jumps 7 % on Nasdaq listing plans",
+        "url": "https://www.fool.com.au/2022/01/10/novonix-asxnvx-share-price-jumps-7-on-nasdaq-listing-plans/",
+        "url_mobile": "https://www.fool.com.au/2022/01/10/novonix-asxnvx-share-price-jumps-7-on-nasdaq-listing-plans/amp/"
+      },
+      {
+        "domain": "crainsnewyork.com",
+        "language": "English",
+        "seendate": "20220109T231500Z",
+        "socialimage": "https://s3-prod.crainsnewyork.com/styles/800x600/s3/morgan%20stanley%20midtown.png",
+        "sourcecountry": "United States",
+        "title": "Crain Extra : New York City recovery will take time , but there are hopeful signs",
+        "url": "https://www.crainsnewyork.com/crains-extra/new-york-citys-recovery-will-take-time-there-are-hopeful-signs",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com.au",
+        "language": "English",
+        "seendate": "20220109T231500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "5 things to watch on the ASX 200 on Monday 10 January 2022",
+        "url": "https://www.fool.com.au/2022/01/10/5-things-to-watch-on-the-asx-200-on-monday-91/",
+        "url_mobile": "https://www.fool.com.au/2022/01/10/5-things-to-watch-on-the-asx-200-on-monday-91/amp/"
+      },
+      {
+        "domain": "industrialit.com.au",
+        "language": "English",
+        "seendate": "20220109T231500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Egypt Voluntary Carbon Offsets Market \u2013 Industrial IT",
+        "url": "https://industrialit.com.au/tag/egypt-voluntary-carbon-offsets-market/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cityindex.co.uk",
+        "language": "English",
+        "seendate": "20220109T230000Z",
+        "socialimage": "https://www.cityindex.co.uk/~/media/research/global/news-analysis/featured-image/charts1.png",
+        "sourcecountry": "United Kingdom",
+        "title": "Asian Open Equity sentiment fragile during first week of trade",
+        "url": "https://www.cityindex.co.uk/market-analysis/asian-open-equity-sentiment-fragile-during-first-week-of-trade/",
+        "url_mobile": "https://www.cityindex.co.uk/market-analysis/asian-open-equity-sentiment-fragile-during-first-week-of-trade/?amp"
+      },
+      {
+        "domain": "kevinmd.com",
+        "language": "English",
+        "seendate": "20220109T230000Z",
+        "socialimage": "https://www.kevinmd.com/blog/wp-content/uploads/unnamed-20-scaled.jpg",
+        "sourcecountry": "United States",
+        "title": "The estimated $1 . 7 trillion legacy asset Jeff Bezos loves . ( Physicians can easily diversify their portfolio with this .) ",
+        "url": "https://www.kevinmd.com/blog/2022/01/the-estimated-1-7-trillion-legacy-asset-jeff-bezos-loves-physicians-can-easily-diversify-their-portfolio-with-this.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nextpittsburgh.com",
+        "language": "English",
+        "seendate": "20220109T230000Z",
+        "socialimage": "https://nextpittsburgh-images.s3.amazonaws.com/2021/12/07134509/Phipps_CREDIT_Paul-g.-Wiegman-3.jpg",
+        "sourcecountry": "United States",
+        "title": "What to do this week , from Pittsburgh Restaurant Week to the Orchid and Tropical Bonsai Show",
+        "url": "https://nextpittsburgh.com/events/what-to-do-this-week-from-pittsburgh-restaurant-week-to-the-orchid-and-tropical-bonsai-show/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hellenicshippingnews.com",
+        "language": "English",
+        "seendate": "20220109T230000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Hedge funds end challenging 2021 with 10 . 3 % gain - HFR | Hellenic Shipping News Worldwide",
+        "url": "https://www.hellenicshippingnews.com/hedge-funds-end-challenging-2021-with-10-3-gain-hfr/",
+        "url_mobile": "https://www.hellenicshippingnews.com/hedge-funds-end-challenging-2021-with-10-3-gain-hfr/amp/"
+      },
+      {
+        "domain": "wrn.com",
+        "language": "English",
+        "seendate": "20220109T224500Z",
+        "socialimage": "https://cdn.wrn.com/wp-content/uploads/2017/06/rojomsnbc.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . Senator Ron Johnson will seek third term",
+        "url": "https://www.wrn.com/2022/01/u-s-senator-ron-johnson-will-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "straitstimes.com",
+        "language": "English",
+        "seendate": "20220109T224500Z",
+        "socialimage": "",
+        "sourcecountry": "Singapore",
+        "title": "EDB investment arm had strongest year on record in 2021 despite pandemic",
+        "url": "https://www.straitstimes.com/business/economy/edbs-investment-arm-had-strongest-year-on-record-in-2021-despite-pandemic",
+        "url_mobile": ""
+      },
+      {
+        "domain": "freerepublic.com",
+        "language": "English",
+        "seendate": "20220109T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The Importance of Government Watchdogs & Quotes from Nine Watchdogs from Ancient Athens to America Today",
+        "url": "https://freerepublic.com/focus/f-bloggers/4028089/posts",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pressreleasepoint.com",
+        "language": "English",
+        "seendate": "20220109T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Governor Hochul Announces Nominations to MTA Board",
+        "url": "https://www.pressreleasepoint.com/governor-hochul-announces-nominations-mta-board",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wtvbam.com",
+        "language": "English",
+        "seendate": "20220109T224500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://wtvbam.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theconservativetreehouse.com",
+        "language": "English",
+        "seendate": "20220109T224500Z",
+        "socialimage": "https://theconservativetreehouse.com/wp-content/uploads/2022/01/mcconnell-and-thune-2.jpg",
+        "sourcecountry": "United States",
+        "title": "Very Interesting Marionette Strings Visible in South Dakota , There Are No Coincidences of This Scale",
+        "url": "https://theconservativetreehouse.com/blog/2022/01/09/very-interesting-marionette-strings-visible-in-south-dakota-there-are-no-coincidences-of-this-scale/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "macrobusiness.com.au",
+        "language": "English",
+        "seendate": "20220109T224500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Macro Morning",
+        "url": "https://www.macrobusiness.com.au/2022/01/macro-morning-1220/",
+        "url_mobile": "https://amp.macrobusiness.com.au/?url=https://www.macrobusiness.com.au/2022/01/macro-morning-1220/"
+      },
+      {
+        "domain": "wsau.com",
+        "language": "English",
+        "seendate": "20220109T224500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://wsau.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stevenspointjournal.com",
+        "language": "English",
+        "seendate": "20220109T224500Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2021/06/28/PMJS/897a24c3-4c4d-4909-8076-18e23dd7bff7-MJS_Johnson_1.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Republican U . S . Sen . Ron Johnson announces run for re - election",
+        "url": "https://www.stevenspointjournal.com/story/news/politics/elections/2022/01/09/republican-u-s-sen-ron-johnson-announces-run-re-election/8797338002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wispolitics.com",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Godlewski campaign : Releases statement after Ron Johnson makes it official and announces his run for re - election",
+        "url": "https://www.wispolitics.com/2022/godlewski-campaign-releases-statement-after-ron-johnson-makes-it-official-and-announces-his-run-for-re-election/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "moneymanagement.com.au",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "https://moneymanagement-prod.s3-ap-southeast-2.amazonaws.com/s3fs-public/field/image/world%20globe300.jpg",
+        "sourcecountry": "Australia",
+        "title": "Which market performed best in 2021 ? | Money Management",
+        "url": "https://www.moneymanagement.com.au/news/funds-management/which-market-performed-best-2021",
+        "url_mobile": ""
+      },
+      {
+        "domain": "lakegenevanews.net",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/lakegenevanews.net/content/tncms/assets/v3/editorial/4/9a/49a2dbf5-9430-5b22-ac74-80c4c60ff9bc/61db1bb7217d8.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson makes it official : he will run for third term despite pledge not to",
+        "url": "https://www.lakegenevanews.net/news/state-and-regional/govt-and-politics/sen-ron-johnson-makes-it-official-he-will-run-for-third-term-despite-pledge-not/article_49a2dbf5-9430-5b22-ac74-80c4c60ff9bc.html",
+        "url_mobile": "https://www.lakegenevanews.net/news/state-and-regional/govt-and-politics/sen-ron-johnson-makes-it-official-he-will-run-for-third-term-despite-pledge-not/article_49a2dbf5-9430-5b22-ac74-80c4c60ff9bc.amp.html"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/831eaafc-5ab8-455b-9219-4d3a789519aa?size=1",
+        "sourcecountry": "United States",
+        "title": "EXPANDED CLASS PERIOD : Robbins Geller Rudman & Dowd LLP",
+        "url": "https://www.globenewswire.com/news-release/2022/01/09/2363500/0/en/EXPANDED-CLASS-PERIOD-Robbins-Geller-Rudman-Dowd-LLP-Announces-that-Zillow-Group-Inc-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Z-ZG.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/831eaafc-5ab8-455b-9219-4d3a789519aa?size=1",
+        "sourcecountry": "United States",
+        "title": "STNE UPCOMING DEADLINE : Robbins Geller Rudman & Dowd LLP",
+        "url": "https://www.globenewswire.com/news-release/2022/01/09/2363499/0/en/STNE-UPCOMING-DEADLINE-Robbins-Geller-Rudman-Dowd-LLP-Announces-that-StoneCo-Ltd-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/405ec490-b904-4a5e-85a7-710cdebe280d?size=1",
+        "sourcecountry": "United States",
+        "title": "Kessler Topaz Meltzer & Check , LLP : Reminds Investors of",
+        "url": "https://www.globenewswire.com/news-release/2022/01/09/2363494/0/en/Kessler-Topaz-Meltzer-Check-LLP-Reminds-Investors-of-Deadline-in-Securities-Fraud-Class-Action-Filed-Against-Organogenesis-Holdings-Inc.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wtaq.com",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://wtaq.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bdtonline.com",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/bdtonline.com/content/tncms/custom/image/eb1e85e6-05b9-11e7-b62c-6b1accec9988.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Hologic Announces Preliminary Revenue Results for First Quarter of Fiscal 2022",
+        "url": "https://www.bdtonline.com/news/nation_world/hologic-announces-preliminary-revenue-results-for-first-quarter-of-fiscal-2022/article_d60c1506-1344-5fc6-a921-00d6ec335fc0.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/405ec490-b904-4a5e-85a7-710cdebe280d?size=1",
+        "sourcecountry": "United States",
+        "title": "RVNC CLASS ACTION ALERT : Kessler Topaz Meltzer & Check , LLP",
+        "url": "https://www.globenewswire.com/news-release/2022/01/09/2363492/0/en/RVNC-CLASS-ACTION-ALERT-Kessler-Topaz-Meltzer-Check-LLP-Reminds-Revance-Therapeutics-Inc-Shareholders-of-Securities-Fraud-Class-Action-Lawsuit.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "vulture.com",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "https://pyxis.nymag.com/v1/imgs/5d4/741/2713130749034ab9df76d43d8fc909cab8-search-party-season-5-ep-06.1x.rsocial.w1200.jpg",
+        "sourcecountry": "United States",
+        "title": "  Search Party  Season 5 , Episode 6 Recap : Book of Judas",
+        "url": "https://www.vulture.com/article/search-party-season-5-episode-6-recap-book-of-judas.html",
+        "url_mobile": "https://www.vulture.com/amp/article/search-party-season-5-episode-6-recap-book-of-judas.html"
+      },
+      {
+        "domain": "commondigital.commonperu.com",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "http://www.commondigital.commonperu.com/images/boletin/161n19/PR161_v3.jpg",
+        "sourcecountry": "Peru",
+        "title": "Navitas at CES 2022 :  Electrify Our World\u2122  - and Win a Tesla ! ",
+        "url": "http://www.commondigital.commonperu.com/index.php/ces/40563-navitas-at-ces-2022-electrify-our-world-and-win-a-tesla",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220109T223000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Kessler Topaz Meltzer & Check , LLP : Reminds Investors of Deadline in Securities Fraud Class Action Filed Against Organogenesis Holdings Inc . ",
+        "url": "https://apnews.com/press-release/globe-newswire/business-lawsuits-class-action-lawsuits-securities-fraud-27503f43dbc98e4834ccebe8e4438026",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jordantimes.com",
+        "language": "English",
+        "seendate": "20220109T221500Z",
+        "socialimage": "http://jordantimes.com/sites/default/files/4yemen_16.jpg",
+        "sourcecountry": "Jordan",
+        "title": "Iran allegedly smuggling weapons to Yemen report",
+        "url": "http://jordantimes.com/news/region/iran-allegedly-smuggling-weapons-yemen-%E2%80%94-report",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailycaller.com",
+        "language": "English",
+        "seendate": "20220109T221500Z",
+        "socialimage": "https://cdn01.dailycaller.com/wp-content/uploads/2021/09/ron-johnson-scaled-e1631800454923.jpg",
+        "sourcecountry": "United States",
+        "title": "Ron Johnson Running For Third Term In Wisconsin",
+        "url": "https://dailycaller.com/2022/01/09/ron-johnson-running-senate-third-term-wisconsin/",
+        "url_mobile": "https://amp.dailycaller.com/2022/01/09/ron-johnson-running-senate-third-term-wisconsin"
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220109T221500Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/trader%20looking%2043%20more%20monitors_1.jpg?c2fb80c&itok=Vh7U6rZN",
+        "sourcecountry": "United States",
+        "title": "Hedge Fund CIO : We Are Headed Toward A Catastrophic Political Collision - It So Obvious But Few People Want To Admit It",
+        "url": "https://www.zerohedge.com/markets/hegde-fund-cio-we-are-headed-toward-catastrophic-political-collision-its-so-obvious-few",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mrtopstep.com",
+        "language": "English",
+        "seendate": "20220109T221500Z",
+        "socialimage": "https://mrtopstep.com/wp-content/uploads/2016/09/peak-asset-management.jpeg",
+        "sourcecountry": "United States",
+        "title": "PEAK ASSET : MORNING WRAP 10 JANUARY : ASX eyes flat start as tech slump hurts Wall Street | Australian Open serves up its own NFTs and moves into the Decentraland metaverse | New Peak Deal Live Today |",
+        "url": "https://mrtopstep.com/peak-asset-morning-wrap-10-january-asx-eyes-flat-start-as-tech-slump-hurts-wall-street-australian-open-serves-up-its-own-nfts-and-moves-into-the-decentraland-metaverse-new-peak-deal-live-today/",
+        "url_mobile": "https://mrtopstep.com/peak-asset-morning-wrap-10-january-asx-eyes-flat-start-as-tech-slump-hurts-wall-street-australian-open-serves-up-its-own-nfts-and-moves-into-the-decentraland-metaverse-new-peak-deal-live-today/amp/"
+      },
+      {
+        "domain": "mexicostar.com",
+        "language": "English",
+        "seendate": "20220109T221500Z",
+        "socialimage": "",
+        "sourcecountry": "Mexico",
+        "title": "Ordinary Americans feel squeezed as Omicron infections surge",
+        "url": "https://www.mexicostar.com/news/272136267/ordinary-americans-feel-squeezed-as-omicron-infections-surge",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220109T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Just checking in on Wall Street Bets . Someone is trying to organise a bank run . Totally normal . \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/just-checking-in-on-wall-street-bets-someone-is-trying-to-organise-a-bank-run-totally-normal/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizpacreview.com",
+        "language": "English",
+        "seendate": "20220109T221500Z",
+        "socialimage": "https://www.bizpacreview.com/wp-content/uploads/2022/01/Getty-Johnson.jpg",
+        "sourcecountry": "United States",
+        "title": "GOP Sen . Ron Johnson running for third term in Wisconsin",
+        "url": "https://www.bizpacreview.com/2022/01/09/gops-sen-ron-johnson-running-for-third-term-in-wisconsin-1186579/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220109T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Should I buy General Electric shares after a positive view from Credit Suisse ? ",
+        "url": "https://invezz.com/news/2022/01/09/should-i-buy-general-electric-shares-after-a-positive-view-from-credit-suisse/",
+        "url_mobile": "https://invezz.com/news/2022/01/09/should-i-buy-general-electric-shares-after-a-positive-view-from-credit-suisse/?amp"
+      },
+      {
+        "domain": "933thedrive.com",
+        "language": "English",
+        "seendate": "20220109T220000Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://www.933thedrive.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220109T220000Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2022/01/dow-jones-the-sp-500-and-nasdaq-price-forecast-after-weak-us-job-report.jpeg",
+        "sourcecountry": "United Kingdom",
+        "title": "Dow Jones , the S & P 500 , and Nasdaq price forecast after weak U . S . job report",
+        "url": "https://invezz.com/news/2022/01/09/dow-jones-the-sp-500-and-nasdaq-price-forecast-after-weak-u-s-job-report-2/",
+        "url_mobile": "https://invezz.com/news/2022/01/09/dow-jones-the-sp-500-and-nasdaq-price-forecast-after-weak-u-s-job-report-2/?amp"
+      },
+      {
+        "domain": "industrialit.com.au",
+        "language": "English",
+        "seendate": "20220109T220000Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Runway Guard Light Market Size 2022 - 2028 Industry Share , Growth Analysis , Regional Demand , Key Manufacturers \u2013 ADB SAFEGATE ( Belgium ), Honeywell ( US ), Hella ( TKH ) ( Germany ), Eaton ( Ireland ), OSRAM ( Germany ) \u2013 Industrial IT",
+        "url": "https://industrialit.com.au/runway-guard-light-market-size-2022-2028-industry-share-growth-analysis-regional-demand-key-manufacturers-adb-safegate-belgium-honeywellus-hella-tkh-germany-eaton-ireland-osram-ger/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wamc.org",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wamc.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wamc.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "kfgo.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://kfgo.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wyomingpublicmedia.org",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wyomingpublicmedia.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wyomingpublicmedia.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "wknofm.org",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wknofm.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wknofm.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "theatlantic.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://cdn.theatlantic.com/thumbor/0utqGI_wF2FyFJvZNpznCUW3jRw=/0x364:5552x3256/960x500/media/img/mt/2018/12/RTX1EV2V/original.jpg",
+        "sourcecountry": "United States",
+        "title": "The Economy Killed Millennials , Not Vice Versa",
+        "url": "https://www.theatlantic.com/ideas/archive/2018/12/stop-blaming-millennials-killing-economy/577408/",
+        "url_mobile": "https://amp.theatlantic.com/amp/article/577408/"
+      },
+      {
+        "domain": "wiky.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://wiky.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newsnow.co.uk",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "NewsNow : Bronx news | Breaking News & Search 24 / 7",
+        "url": "https://www.newsnow.co.uk/h/World+News/US/States/New+York/New+York+City/Bronx",
+        "url_mobile": ""
+      },
+      {
+        "domain": "atlantaleader.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ordinary Americans feel squeezed as Omicron infections surge",
+        "url": "https://www.atlantaleader.com/news/272136267/ordinary-americans-feel-squeezed-as-omicron-infections-surge",
+        "url_mobile": ""
+      },
+      {
+        "domain": "seekingalpha.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1312405670/medium_image_1312405670.jpg",
+        "sourcecountry": "United States",
+        "title": "ONEOK Stock : A Solid 6 %- Yielder With Natural Gas Strength ( NYSE : OKE ) ",
+        "url": "https://seekingalpha.com/article/4478657-oneok-solid-6-percent-yielder-with-natural-gas-strength",
+        "url_mobile": "https://seekingalpha.com/amp/article/4478657-oneok-solid-6-percent-yielder-with-natural-gas-strength"
+      },
+      {
+        "domain": "hot96.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://hot96.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wibqam.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://wibqam.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "atlantaleader.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Roundup : Ordinary Americans feel squeezed as Omicron infections surge",
+        "url": "https://www.atlantaleader.com/news/272136299/roundup-ordinary-americans-feel-squeezed-as-omicron-infections-surge",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fox5atlanta.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/01/1280/720/GettyImages-617652292-e1641649951842.jpg?ve=1&tl=1",
+        "sourcecountry": "United States",
+        "title": "Harry Reid memorial brings nation top Democrats to Las Vegas",
+        "url": "https://www.fox5atlanta.com/news/harry-reid-memorial-brings-nations-top-democrats-to-las-vegas",
+        "url_mobile": "https://www.fox5atlanta.com/news/harry-reid-memorial-brings-nations-top-democrats-to-las-vegas.amp"
+      },
+      {
+        "domain": "whtc.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://whtc.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apr.org",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.apr.org/politics-government/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.apr.org/politics-government/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "wbfo.org",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wbfo.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wbfo.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "teslarati.com",
+        "language": "English",
+        "seendate": "20220109T211500Z",
+        "socialimage": "https://www.teslarati.com/wp-content/uploads/2021/08/tesla-model-y-production-gigafactory-texas--1024x620.jpeg",
+        "sourcecountry": "United States",
+        "title": "Tesla Giga Texas could start Model Y production in 7 - 10 days : Wedbush analyst",
+        "url": "https://www.teslarati.com/tesla-giga-texas-model-y-production-start-date-tentative/",
+        "url_mobile": "https://www.teslarati.com/tesla-giga-texas-model-y-production-start-date-tentative/amp/"
+      },
+      {
+        "domain": "elkodaily.com",
+        "language": "English",
+        "seendate": "20220109T210000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/elkodaily.com/content/tncms/assets/v3/editorial/0/3b/03b1a9c5-a5cc-5ee8-81f4-6f2bd6cc663c/61db127648404.image.jpg?crop=1024%2C538%2C0%2C72",
+        "sourcecountry": "United States",
+        "title": "Obama , Biden honor Sen . Reid as man  who got things done  ",
+        "url": "https://elkodaily.com/news/state-and-regional/govt-and-politics/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_b37f4301-29ff-547d-8a1b-6392b0acb683.html",
+        "url_mobile": "https://elkodaily.com/news/state-and-regional/govt-and-politics/obama-biden-honor-sen-reid-as-man-who-got-things-done/article_b37f4301-29ff-547d-8a1b-6392b0acb683.amp.html"
+      },
+      {
+        "domain": "hppr.org",
+        "language": "English",
+        "seendate": "20220109T210000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.hppr.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.hppr.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "theguardian.com",
+        "language": "English",
+        "seendate": "20220109T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Medical research | Science | The Guardian",
+        "url": "https://www.theguardian.com/science/medical-research",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvik.org",
+        "language": "English",
+        "seendate": "20220109T210000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wvik.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wvik.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220109T210000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/09/M_10ad1image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Ringing in the New Year with Industry Recognition and Awards ... ",
+        "url": "https://menafn.com/1103511127/Ringing-in-the-New-Year-with-Industry-Recognition-and-Awards-from-2021&source=20",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220109T210000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/09/DF_4d0c7image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "NFP Undershoots , Mixed Data",
+        "url": "https://menafn.com/1103510950/NFP-Undershoots-Mixed-Data&source=19",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220109T210000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/09/M_10ad1image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Ringing in the New Year with Industry Recognition and Awards ... ",
+        "url": "https://menafn.com/1103511127/Ringing-in-the-New-Year-with-Industry-Recognition-and-Awards-from-2021&source=25",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220109T210000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "RVNC CLASS ACTION ALERT : Kessler Topaz Meltzer & Check , LLP Reminds Revance Therapeutics , Inc . Shareholders of Securities Fraud Class Action Lawsuit",
+        "url": "https://apnews.com/press-release/globe-newswire/business-lawsuits-class-action-lawsuits-securities-fraud-edb72c82dc9bbcdaa8dccbf1c3e316ce",
+        "url_mobile": ""
+      },
+      {
+        "domain": "elpasoinc.com",
+        "language": "English",
+        "seendate": "20220109T210000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/elpasoinc.com/content/tncms/custom/image/d1748eca-2ab1-11e7-b238-e3e4ea30cc77.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Whispers | Whispers | elpasoinc . com",
+        "url": "http://www.elpasoinc.com/columns/whispers/whispers/article_2794fb8a-716d-11ec-84d6-5f7065c67260.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220109T204500Z",
+        "socialimage": "https://images.barrons.com/im-454904/social",
+        "sourcecountry": "United States",
+        "title": "JPMorgan , Delta , Citigroup , Tilray , and Other Stocks for Investors to Watch This Week",
+        "url": "https://www.marketwatch.com/articles/jpmorgan-delta-citigroup-tilray-and-other-stocks-for-investors-to-watch-this-week-51641758447",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kyuk.org",
+        "language": "English",
+        "seendate": "20220109T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kyuk.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kyuk.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "newyorktelegraph.com",
+        "language": "English",
+        "seendate": "20220109T204500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ordinary Americans feel squeezed as Omicron infections surge",
+        "url": "https://www.newyorktelegraph.com/news/272136267/ordinary-americans-feel-squeezed-as-omicron-infections-surge",
+        "url_mobile": ""
+      },
+      {
+        "domain": "foxbusiness.com",
+        "language": "English",
+        "seendate": "20220109T204500Z",
+        "socialimage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/Wall-Street.jpg?ve=1&tl=1",
+        "sourcecountry": "United States",
+        "title": "Consumer inflation data , Fed Powell hearing , Delta earnings top week ahead",
+        "url": "https://www.foxbusiness.com/markets/powell-cpi-delta-airlines-earnings-week-ahead",
+        "url_mobile": "https://www.foxbusiness.com/markets/powell-cpi-delta-airlines-earnings-week-ahead.amp"
+      },
+      {
+        "domain": "wutc.org",
+        "language": "English",
+        "seendate": "20220109T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wutc.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wutc.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220109T204500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660237/gettyimages-1330550844.jpg",
+        "sourcecountry": "United States",
+        "title": "My Favorite Warren Buffett Stock to Buy for 2022",
+        "url": "https://www.fool.com/investing/2022/01/09/warren-buffett-stock-to-buy-for-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220109T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/09/M_10ad1image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Ringing in the New Year with Industry Recognition and Awards ... ",
+        "url": "https://menafn.com/1103511127/Ringing-in-the-New-Year-with-Industry-Recognition-and-Awards-from-2021&source=22",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220109T204500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659822/oil-pumps-at-sunrise-with-money-in-the-background.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Top Energy Dividend Stocks to Buy in January",
+        "url": "https://www.fool.com/investing/2022/01/09/3-top-energy-dividend-stocks-to-buy-in-january/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "989kkzx.iheart.com",
+        "language": "English",
+        "seendate": "20220109T204500Z",
+        "socialimage": "https://i.iheart.com/v3/re/assets.brands/60c21afa2ed5bdc2ef6ae83e?ops=gravity(%22center%22),contain(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Find 98 . 9 KKZX Sunday Live On - Air Schedule",
+        "url": "https://989kkzx.iheart.com/schedule/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "waer.org",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.waer.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.waer.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "smh.com.au",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.2925%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_404%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/3f485b64c5b51b137d8c325304051c90257d7b50",
+        "sourcecountry": "Australia",
+        "title": "ASX eyes flat start as tech slump hurts Wall Street",
+        "url": "https://www.smh.com.au/business/markets/asx-eyes-flat-start-as-tech-slump-hurts-wall-street-20220110-p59mzd.html",
+        "url_mobile": "https://amp.smh.com.au/business/markets/asx-eyes-flat-start-as-tech-slump-hurts-wall-street-20220110-p59mzd.html"
+      },
+      {
+        "domain": "wgow.com",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson says he will run for reelection",
+        "url": "https://www.wgow.com/news/wisconsin-sen-ron-johnson-says-he-will-run-for-re-election/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/09/DF_4d0c7image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "NFP Undershoots , Mixed Data",
+        "url": "https://menafn.com/1103510950/NFP-Undershoots-Mixed-Data&source=26",
+        "url_mobile": ""
+      },
+      {
+        "domain": "brisbanetimes.com.au",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.2925%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_404%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_no_label_no_age_social_wm/3f485b64c5b51b137d8c325304051c90257d7b50",
+        "sourcecountry": "Australia",
+        "title": "ASX eyes flat start as tech slump hurts Wall Street",
+        "url": "https://www.brisbanetimes.com.au/business/markets/asx-eyes-flat-start-as-tech-slump-hurts-wall-street-20220110-p59mzd.html",
+        "url_mobile": "https://amp.brisbanetimes.com.au/business/markets/asx-eyes-flat-start-as-tech-slump-hurts-wall-street-20220110-p59mzd.html"
+      },
+      {
+        "domain": "naturalnews.com",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/01/Twitter-Censorship-Zipper-Mouth.jpg",
+        "sourcecountry": "United States",
+        "title": "Glenn Greenwald torches left - wing Twitter over  dystopian  permanent ban of another GOP lawmaker",
+        "url": "https://www.naturalnews.com/2022-01-09-glenn-greenwald-torches-twitter-permanent-ban-gop-lawmaker.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "https://chorus.stimg.co/20686486/1bestbuy022813.jpg?&fit=crop&bg=999&crop=top",
+        "sourcecountry": "United States",
+        "title": "Founder Richard Schulze fails in his bid to retake Best Buy",
+        "url": "https://www.startribune.com/founder-richard-schulze-fails-in-his-bid-to-retake-best-buy/193875901/",
+        "url_mobile": "https://m.startribune.com/founder-richard-schulze-fails-in-his-bid-to-retake-best-buy/193875901/"
+      },
+      {
+        "domain": "naturalnews.com",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/01/Stock-Money-Market-Crash-Down-Arrow.jpg",
+        "sourcecountry": "United States",
+        "title": "  Massive meltdown : 40 % of Nasdaq companies are down more than half from their highs",
+        "url": "https://www.naturalnews.com/2022-01-09-nasdaq-companies-are-down-from-highs.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "democratherald.com",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/6/22/62221440-daef-5a94-8146-581f05f9e65e/5fd3e6bae54b4.image.jpg?crop=358%2C358%2C95%2C110",
+        "sourcecountry": "United States",
+        "title": "As I See It : Writer did not anticipate a return to topic",
+        "url": "https://democratherald.com/news/opinion/as-i-see-it/as-i-see-it-writer-did-not-anticipate-a-return-to-topic/article_5b382c9a-2cab-56fe-84ee-4883e02c4210.html",
+        "url_mobile": "https://democratherald.com/news/opinion/as-i-see-it/as-i-see-it-writer-did-not-anticipate-a-return-to-topic/article_5b382c9a-2cab-56fe-84ee-4883e02c4210.amp.html"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/09/DF_4d0c7image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "NFP Undershoots , Mixed Data",
+        "url": "https://menafn.com/1103510950/NFP-Undershoots-Mixed-Data&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kelo.com",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://kelo.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220109T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "California allows hospitals to force COVID - positive employees to work",
+        "url": "https://www.msn.com/en-us/news/us/california-allows-hospitals-to-force-covid-positive-employees-to-work/ar-AASB8vw",
+        "url_mobile": ""
+      },
+      {
+        "domain": "postandcourier.com",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/4/3e/43e6a0a4-6fdd-11ec-8e11-d71c6794f4a3/61d875c08dca4.image.jpg?crop=1662%2C873%2C0%2C187",
+        "sourcecountry": "United States",
+        "title": "SC stocks trounced the bigger , broader markets in 2021",
+        "url": "https://www.postandcourier.com/business/scs-stocks-trounced-the-bigger-broader-markets-in-2021/article_ce7b42b2-6e69-11ec-b675-736cba490452.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "boisestatepublicradio.org",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.boisestatepublicradio.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ksmu.org",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.ksmu.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.ksmu.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "theage.com.au",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.2925%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_404%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_theage_no_label_no_age_social_wm/3f485b64c5b51b137d8c325304051c90257d7b50",
+        "sourcecountry": "Australia",
+        "title": "ASX eyes flat start as tech slump hurts Wall Street",
+        "url": "https://www.theage.com.au/business/markets/asx-eyes-flat-start-as-tech-slump-hurts-wall-street-20220110-p59mzd.html",
+        "url_mobile": "https://amp.theage.com.au/business/markets/asx-eyes-flat-start-as-tech-slump-hurts-wall-street-20220110-p59mzd.html"
+      },
+      {
+        "domain": "wncw.org",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wncw.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wncw.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "hellenicshippingnews.com",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Take Five : Earnings , yields and COVID - 19 | Hellenic Shipping News Worldwide",
+        "url": "https://www.hellenicshippingnews.com/take-five-earnings-yields-and-covid-19/",
+        "url_mobile": "https://www.hellenicshippingnews.com/take-five-earnings-yields-and-covid-19/amp/"
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/09/17/52723649-0-image-a-2_1641750370789.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "California allows hospitals to force COVID - positive employees to work",
+        "url": "https://www.dailymail.co.uk/news/article-10384101/California-allows-hospitals-force-COVID-positive-employees-work-amid-brutal-staffing-shortage.html",
+        "url_mobile": "https://www.dailymail.co.uk/news/article-10384101/amp/California-allows-hospitals-force-COVID-positive-employees-work-amid-brutal-staffing-shortage.html"
+      },
+      {
+        "domain": "afr.com",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.1634%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/cfef31714e10d2454bbeb13f88b25425e6eb1018",
+        "sourcecountry": "Australia",
+        "title": "EV fast - charging company Tritium set for US Nasdaq listing",
+        "url": "https://www.afr.com/companies/energy/ev-fast-charging-company-tritium-set-for-us-nasdaq-listing-20220107-p59mio",
+        "url_mobile": ""
+      },
+      {
+        "domain": "whbl.com",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2499/files/2020/07/ron-johnson.jpg",
+        "sourcecountry": "United States",
+        "title": "Republican US Senator Ron Johnson Officially Announces Bid for Third Term",
+        "url": "https://whbl.com/2022/01/09/republican-us-senator-ron-johnson-officially-announces-bid-for-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "klcc.org",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.klcc.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.klcc.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "whbl.com",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://whbl.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hellenicshippingnews.com",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Hawkish Fed gives value stocks a second wind | Hellenic Shipping News Worldwide",
+        "url": "https://www.hellenicshippingnews.com/hawkish-fed-gives-value-stocks-a-second-wind/",
+        "url_mobile": "https://www.hellenicshippingnews.com/hawkish-fed-gives-value-stocks-a-second-wind/amp/"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "https://menafn.com/updates/pr/",
+        "sourcecountry": "Qatar",
+        "title": "Hansa Biopharma provides business update including certain k ... ",
+        "url": "https://menafn.com/1103510527/Hansa-Biopharma-provides-business-update-including-certain-key-financials",
+        "url_mobile": ""
+      },
+      {
+        "domain": "790business.com",
+        "language": "English",
+        "seendate": "20220109T201500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson says he will run for reelection",
+        "url": "https://www.790business.com/news/wisconsin-sen-ron-johnson-says-he-will-run-for-re-election/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "Vaccine Maker Emergent Sees 2022 Sales Decline Matching Estimate",
+        "url": "https://www.bnnbloomberg.ca/vaccine-maker-emergent-sees-2022-sales-decline-matching-estimate-1.1705186",
+        "url_mobile": "https://www.bnnbloomberg.ca/vaccine-maker-emergent-sees-2022-sales-decline-matching-estimate-1.1705186.amp.html"
+      },
+      {
+        "domain": "journaltimes.com",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/b/fa/bfaaa74e-949f-5e9b-81ed-3f131584d550/61db1bb429d4b.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson makes it official : he will run for third term despite pledge not to",
+        "url": "https://journaltimes.com/news/state-and-regional/govt-and-politics/sen-ron-johnson-makes-it-official-he-will-run-for-third-term-despite-pledge-not/article_bfaaa74e-949f-5e9b-81ed-3f131584d550.html",
+        "url_mobile": "https://journaltimes.com/news/state-and-regional/govt-and-politics/sen-ron-johnson-makes-it-official-he-will-run-for-third-term-despite-pledge-not/article_bfaaa74e-949f-5e9b-81ed-3f131584d550.amp.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Top Democratic candidates respond to Ron Johnson third senatorial bid",
+        "url": "https://www.msn.com/en-us/news/politics/top-democratic-candidates-respond-to-ron-johnson-s-third-senatorial-bid/ar-AASAUv0",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEI08093_M.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term By Reuters",
+        "url": "https://www.investing.com/news/world-news/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term-2734058",
+        "url_mobile": "https://m.investing.com/news/world-news/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term-2734058?ampMode=1"
+      },
+      {
+        "domain": "oann.com",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "https://dzm0ugdauank9.cloudfront.net/wp-content/uploads/2022/01/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_0_USA-SENATE-JOHNSON_1.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://www.oann.com/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wprl.org",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wprl.org/post/wisconsin-republican-sen-ron-johnson-running-reelection",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kaok.com",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson says he will run for reelection",
+        "url": "https://www.kaok.com/news/wisconsin-sen-ron-johnson-says-he-will-run-for-re-election/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wesa.fm",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wesa.fm/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": ""
+      },
+      {
+        "domain": "iowapublicradio.org",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.iowapublicradio.org/news-from-npr/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.iowapublicradio.org/news-from-npr/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "watoday.com.au",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.2925%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_404%2C$y_0/t_crop_custom/q_86%2Cf_auto/t_watoday_no_label_no_age_social_wm/3f485b64c5b51b137d8c325304051c90257d7b50",
+        "sourcecountry": "Australia",
+        "title": "ASX eyes flat start as tech slump hurts Wall Street",
+        "url": "https://www.watoday.com.au/business/markets/asx-eyes-flat-start-as-tech-slump-hurts-wall-street-20220110-p59mzd.html",
+        "url_mobile": "https://amp.watoday.com.au/business/markets/asx-eyes-flat-start-as-tech-slump-hurts-wall-street-20220110-p59mzd.html"
+      },
+      {
+        "domain": "localnews8.com",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "https://localnews8.b-cdn.net/2022/01/hypatia-h_169e74f50c4c55d4d1fa6a940a25b3cd-h_1715b6e737f95177d961f2134c662c5b-300-860x573.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson says he will run for reelection",
+        "url": "https://localnews8.com/politics/cnn-us-politics/2022/01/09/wisconsin-sen-ron-johnson-says-he-will-run-for-re-election/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kwit.org",
+        "language": "English",
+        "seendate": "20220109T200000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kwit.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kwit.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "duke.fm",
+        "language": "English",
+        "seendate": "20220109T194500Z",
+        "socialimage": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2499/files/2020/07/ron-johnson.jpg",
+        "sourcecountry": "United States",
+        "title": "Republican US Senator Ron Johnson Officially Announces Bid for Third Term",
+        "url": "https://duke.fm/2022/01/09/republican-us-senator-ron-johnson-officially-announces-bid-for-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wlsam.com",
+        "language": "English",
+        "seendate": "20220109T194500Z",
+        "socialimage": "https://express-images.franklymedia.com/6616/sites/353/2017/09/29114551/wlsam_opengraph-general_1200x630_01.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson says he will run for reelection",
+        "url": "https://www.wlsam.com/news/wisconsin-sen-ron-johnson-says-he-will-run-for-re-election/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220109T194500Z",
+        "socialimage": "https://forextv.com/wp-content/uploads/Exagen-Inc-1-4.png",
+        "sourcecountry": "United States",
+        "title": "Exagen Inc . and Queen Mary University of London Announce Exclusive License and Collaboration to Develop Novel Patented Molecular Signatures for Rheumatoid Arthritis Biologic Therapeutic Selection",
+        "url": "https://forextv.com/top-news/exagen-inc-and-queen-mary-university-of-london-announce-exclusive-license-and-collaboration-to-develop-novel-patented-molecular-signatures-for-rheumatoid-arthritis-biologic-therapeutic-selection/",
+        "url_mobile": "https://forextv.com/top-news/exagen-inc-and-queen-mary-university-of-london-announce-exclusive-license-and-collaboration-to-develop-novel-patented-molecular-signatures-for-rheumatoid-arthritis-biologic-therapeutic-selection/amp/"
+      },
+      {
+        "domain": "capeandislands.org",
+        "language": "English",
+        "seendate": "20220109T194500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.capeandislands.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.capeandislands.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "wskg.org",
+        "language": "English",
+        "seendate": "20220109T194500Z",
+        "socialimage": "https://wskg.org/wp-content/uploads/2022/01/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b-1170x877.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://wskg.org/npr_story_post/wisconsin-republican-sen-ron-johnson-is-running-for-reelection/",
+        "url_mobile": "https://wskg.org/npr_story_post/wisconsin-republican-sen-ron-johnson-is-running-for-reelection/amp/"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220109T194500Z",
+        "socialimage": "https://images.barrons.com/im-411989/social",
+        "sourcecountry": "United States",
+        "title": "Latest Covid Wave Likely Peaking on East Coast , Gottlieb Says",
+        "url": "https://www.marketwatch.com/articles/latest-covid-wave-likely-peaking-on-east-coast-gottlieb-says-51641754465",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wabx.net",
+        "language": "English",
+        "seendate": "20220109T194500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://wabx.net/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketbeat.com",
+        "language": "English",
+        "seendate": "20220109T194500Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Short Interest in Enel Chile S . A . ( NYSE : ENIC ) Decreases By 19 . 4 % ",
+        "url": "https://www.marketbeat.com/instant-alerts/nyse-enic-options-data-report-2022-01/",
+        "url_mobile": "https://www.marketbeat.com/instant-alerts/nyse-enic-options-data-report-2022-01/amp/"
+      },
+      {
+        "domain": "gazette.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/2/18/2185c32d-578a-5119-a3df-66c65b205abc/61db2a6fd82ee.image.jpg?crop=800%2C420%2C0%2C56",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://gazette.com/news/us-world/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/article_dc08a196-cd1c-528b-af76-6244d1094021.html",
+        "url_mobile": "https://gazette.com/news/us-world/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/article_dc08a196-cd1c-528b-af76-6244d1094021.amp.html"
+      },
+      {
+        "domain": "theweek.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://mediacloud.theweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608358649/GettyImages-465795294.jpg",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson will seek a 3rd term",
+        "url": "https://theweek.com/2022-election/1008777/sen-ron-johnson-will-seek-a-3rd-term",
+        "url_mobile": "https://theweek.com/2022-election/1008777/sen-ron-johnson-will-seek-a-3rd-term?amp"
+      },
+      {
+        "domain": "abcnews.go.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://s.abcnews.com/images/Politics/ron-johnson-file-ap-jef-220109_1641750759517_hpMain_16x9_992.jpg",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson announces run for reelection amid controversy over vaccine statements",
+        "url": "https://abcnews.go.com/Politics/sen-ron-johnson-announces-run-reelection-amid-controversy/story?id=82164184",
+        "url_mobile": "https://abcnews.go.com/amp/Politics/sen-ron-johnson-announces-run-reelection-amid-controversy/story?id=82164184"
+      },
+      {
+        "domain": "whyy.org",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://whyy.org/wp-content/uploads/2022/01/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b-e1641754201724.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://whyy.org/npr_story_post/wisconsin-republican-sen-ron-johnson-is-running-for-reelection/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/Hjrvss2hQvKUF5ibLA2aqg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/9da0b7c0-7090-11ec-b7b6-dba152794c9f",
+        "sourcecountry": "United States",
+        "title": "Consumer price index , bank earnings : What to know this week",
+        "url": "https://finance.yahoo.com/news/consumer-price-index-bank-earnings-what-to-know-this-week-164559716.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/consumer-price-index-bank-earnings-what-to-know-this-week-164559716.html"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/09/D_1d061image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Markets Week Ahead : Dow Jones , Nasdaq 100 , US Dollar , Gold , ... ",
+        "url": "https://menafn.com/1103510544/Markets-Week-Ahead-Dow-Jones-Nasdaq-100-US-Dollar-Gold-CPI-Powell-Hearing&source=24",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyexcelsior.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://www.dailyexcelsior.com/wp-content/uploads/2018/08/dailyexcelsior.jpg",
+        "sourcecountry": "India",
+        "title": "Obama honours late Senate leader as man  who got things done  - Jammu Kashmir Latest News | Tourism",
+        "url": "https://www.dailyexcelsior.com/obama-honours-late-senate-leader-as-man-who-got-things-done/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wisn.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/johnson-1-0124-1641740568.jpg?crop=1.00xw:1.00xh;0,0",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson officially announces reelection campaign",
+        "url": "https://www.wisn.com/article/wisconsin-sen-ron-johnson-officially-announces-reelection-campaign/38704036",
+        "url_mobile": "https://www.wisn.com/amp/article/wisconsin-sen-ron-johnson-officially-announces-reelection-campaign/38704036"
+      },
+      {
+        "domain": "katcountry989.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/09/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://katcountry989.com/2022/01/09/wisconsin-senator-and-trump-ally-ron-johnson-to-seek-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2021/03/06/EpochTimes_510A0092-2-1200x800.jpg",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson Reveals Why He Running for Reelection After Suggesting He Wouldnt",
+        "url": "https://www.theepochtimes.com/sen-ron-johnson-reveals-why-hes-running-for-reelection-after-suggesting-he-wouldnt_4202084.html",
+        "url_mobile": "https://www.theepochtimes.com/sen-ron-johnson-reveals-why-hes-running-for-reelection-after-suggesting-he-wouldnt_4202084.html/amp"
+      },
+      {
+        "domain": "kvpr.org",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kvpr.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kvpr.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/09/D_1d061image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Markets Week Ahead : Dow Jones , Nasdaq 100 , US Dollar , Gold , ... ",
+        "url": "https://menafn.com/1103510544/Markets-Week-Ahead-Dow-Jones-Nasdaq-100-US-Dollar-Gold-CPI-Powell-Hearing&source=26",
+        "url_mobile": ""
+      },
+      {
+        "domain": "business-standard.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/11/full/1639220151-3157.jpg",
+        "sourcecountry": "India",
+        "title": "Crypto bloodbath : Bitcoin ETF goes from boom to bust after record US debut",
+        "url": "https://www.business-standard.com/article/international/crypto-bloodbath-bitcoin-etf-goes-from-boom-to-bust-after-record-us-debut-122011000005_1.html",
+        "url_mobile": "https://wap.business-standard.com/article-amp/international/crypto-bloodbath-bitcoin-etf-goes-from-boom-to-bust-after-record-us-debut-122011000005_1.html"
+      },
+      {
+        "domain": "kten.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/21999115_G.jpg?lastEditedDate=1641723192000",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson says he will run for reelection",
+        "url": "https://www.kten.com/story/45611574/wisconsin-sen-ron-johnson-says-he-will-run-for-reelection",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://img.zonebourse.com/reuters/2022-01/2022-01-09T182802Z_1_LYNXMPEI08093_RTROPTP_3_USA-SENATE-JOHNSON.JPG",
+        "sourcecountry": "",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://www.marketscreener.com/quote/index/S-P-500-4985/news/Wisconsin-Senator-and-Trump-ally-Ron-Johnson-to-seek-third-term-37501525/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/index/S-P-500-4985/news/Wisconsin-Senator-and-Trump-ally-Ron-Johnson-to-seek-third-term-37501525/"
+      },
+      {
+        "domain": "kbia.org",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kbia.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kbia.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "wxpr.org",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wxpr.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wxpr.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/ac4a4108-bb0d-409d-bfe2-8cf29e31d9c3?size=1",
+        "sourcecountry": "United States",
+        "title": "Exagen Inc . and Queen Mary University of London Announce",
+        "url": "https://www.globenewswire.com/news-release/2022/01/09/2363488/0/en/Exagen-Inc-and-Queen-Mary-University-of-London-Announce-Exclusive-License-and-Collaboration-to-Develop-Novel-Patented-Molecular-Signatures-for-Rheumatoid-Arthritis-Biologic-Therape.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+        "sourcecountry": "",
+        "title": "Exagen Inc . and Queen Mary University of London Announce Exclusive License and Collaboration to Develop Novel Patented Molecular Signatures for Rheumatoid Arthritis Biologic Therapeutic Selection",
+        "url": "https://www.marketscreener.com/quote/stock/EXAGEN-INC-66027098/news/Exagen-Inc-and-Queen-Mary-University-of-London-Announce-Exclusive-License-and-Collaboration-to-Deve-37501506/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/EXAGEN-INC-66027098/news/Exagen-Inc-and-Queen-Mary-University-of-London-Announce-Exclusive-License-and-Collaboration-to-Deve-37501506/"
+      },
+      {
+        "domain": "wesm913.org",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wesm913.org/post/wisconsin-republican-sen-ron-johnson-running-reelection",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jewishpress.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://www.jewishpress.com/wp-content/uploads/2013/10/American-Jews-100413.jpg",
+        "sourcecountry": "Israel",
+        "title": "The Complicated History of Jews in America | The Jewish Press - JewishPress . com | Gatestone Institute | 8 Shevat 5782 \u2013 January 9 , 2022",
+        "url": "https://www.jewishpress.com/indepth/opinions/the-complicated-history-of-jews-in-america/2022/01/09/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "sourcecountry": "",
+        "title": "Wall St Week Ahead - Hawkish Fed gives value stocks a second wind",
+        "url": "https://www.marketscreener.com/news/latest/Wall-St-Week-Ahead-Hawkish-Fed-gives-value-stocks-a-second-wind--37501362/",
+        "url_mobile": "https://www.marketscreener.com/amp/news/latest/Wall-St-Week-Ahead-Hawkish-Fed-gives-value-stocks-a-second-wind--37501362/"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61db1883968482d2b8034eac%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "The 4 Lowest P / E Stocks Among The Dow 30 Components",
+        "url": "https://www.forbes.com/sites/johnnavin/2022/01/09/the-4-lowest-pe-stocks-among-the-dow-30-components/",
+        "url_mobile": "https://www.forbes.com/sites/johnnavin/2022/01/09/the-4-lowest-pe-stocks-among-the-dow-30-components/amp/"
+      },
+      {
+        "domain": "wmot.org",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wmot.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wmot.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "kmuw.org",
+        "language": "English",
+        "seendate": "20220109T193000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kmuw.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kmuw.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "rgj.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2022/01/08/USAT/494690d1-a180-4f53-8129-3474f68033b2-AP_Harry_Reid_Memorial.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Biden , Obama honor former Sen . Harry Reid at Las Vegas memorial",
+        "url": "https://www.rgj.com/story/news/politics/2022/01/08/biden-obama-former-sen-harry-reid-memorial/9103692002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660550/video-sharing-vlogging-streaming-getty.jpeg",
+        "sourcecountry": "United States",
+        "title": "That Rumble You Heard Was CF Acquisition Corp . VI Soaring 10 % in December",
+        "url": "https://www.fool.com/investing/2022/01/09/that-rumble-you-heard-was-cf-acquisition-corp-vi-s/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wbaa.org",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wbaa.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chippewa.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/chippewa.com/content/tncms/assets/v3/editorial/4/72/472a0164-8479-595a-a19d-f97e482c5f51/61db1bbbc8809.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson makes it official : he will run for third term despite pledge not to",
+        "url": "https://chippewa.com/news/state-and-regional/sen-ron-johnson-makes-it-official-he-will-run-for-third-term-despite-pledge-not/article_472a0164-8479-595a-a19d-f97e482c5f51.html",
+        "url_mobile": "https://chippewa.com/news/state-and-regional/sen-ron-johnson-makes-it-official-he-will-run-for-third-term-despite-pledge-not/article_472a0164-8479-595a-a19d-f97e482c5f51.amp.html"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660553/child-computer-tablet-pc-roblox-getty.jpeg",
+        "sourcecountry": "United States",
+        "title": "Why Roblox Rolled Over for an 18 % Loss in December",
+        "url": "https://www.fool.com/investing/2022/01/09/why-roblox-rolled-over-for-an-18-loss-in-december/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wdiy.org",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wdiy.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wdiy.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659803/young-scientist_eQKpLgv.jpg",
+        "sourcecountry": "United States",
+        "title": "My 3 Top Biopharma Stock Picks for 2022",
+        "url": "https://www.fool.com/investing/2022/01/09/my-3-top-biopharma-stock-picks-for-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61db0f5b0e1ca3db42034eaa%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "Stocks This Week : Buy CVS Health Corporation And Lennar Corporation",
+        "url": "https://www.forbes.com/sites/greatspeculations/2022/01/09/stocks-this-week-buy-cvs-health-corporation-and-lennar-corporation/",
+        "url_mobile": "https://www.forbes.com/sites/greatspeculations/2022/01/09/stocks-this-week-buy-cvs-health-corporation-and-lennar-corporation/amp/"
+      },
+      {
+        "domain": "newser.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://img2-azrcdn.newser.com/image/1392907-12-20220109112529.jpeg",
+        "sourcecountry": "United States",
+        "title": "Another GOP Senator Says Hell Postpone Retirement",
+        "url": "https://www.newser.com/story/315446/ron-johnson-announces-he-wants-a-third-term.html",
+        "url_mobile": "https://amp.newser.com/story/315446/ron-johnson-announces-he-wants-a-third-term.html"
+      },
+      {
+        "domain": "wxxinews.org",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wxxinews.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wxxinews.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "wclk.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wclk.com/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wclk.com/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660526/0x0-cybertruck_06.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Tesla Shares Jumped 50 % Last Year",
+        "url": "https://www.fool.com/investing/2022/01/09/why-tesla-shares-jumped-50-last-year/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kvnf.org",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kvnf.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kvnf.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "northcountrypublicradio.org",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg?s=6",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.northcountrypublicradio.org/news/npr/1071391935/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2019/07/oil1600h.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Undervalued Energy Stocks to Buy as Oil Approaches $80",
+        "url": "https://investorplace.com/2022/01/3-undervalued-energy-stocks-to-buy-as-oil-approaches-80/",
+        "url_mobile": "https://investorplace.com/2022/01/3-undervalued-energy-stocks-to-buy-as-oil-approaches-80/amp/"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson announces reelection bid amid controversy over vaccine statements",
+        "url": "http://www.msn.com/en-us/news/politics/sen-ron-johnson-announces-reelection-bid-amid-controversy-over-vaccine-statements/ar-AASB7Zk",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660548/polestar-ev-electric-source-polestar.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Gores Guggenheim Stalled Out With a 13 % Drop in December",
+        "url": "https://www.fool.com/investing/2022/01/09/why-gores-guggenheim-stalled-out-with-a-13-drop-in/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+        "sourcecountry": "",
+        "title": "Alnylam Announces Preliminary * Fourth Quarter and Full Year 2021 Global Net Product Revenues and Provides Additional Updates",
+        "url": "https://www.marketscreener.com/quote/stock/ALNYLAM-PHARMACEUTICALS-8322/news/Alnylam-Announces-Preliminary-Fourth-Quarter-and-Full-Year-2021-Global-Net-Product-Revenues-and-Pro-37501514/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/ALNYLAM-PHARMACEUTICALS-8322/news/Alnylam-Announces-Preliminary-Fourth-Quarter-and-Full-Year-2021-Global-Net-Product-Revenues-and-Pro-37501514/"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/09/D_1d061image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Markets Week Ahead : Dow Jones , Nasdaq 100 , US Dollar , Gold , ... ",
+        "url": "https://menafn.com/1103510544/Markets-Week-Ahead-Dow-Jones-Nasdaq-100-US-Dollar-Gold-CPI-Powell-Hearing&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220109T191500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660536/sherwin-williams.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Sherwin - William Shares Soared 43 % Higher in 2021",
+        "url": "https://www.fool.com/investing/2022/01/09/why-sherwin-williams-shares-soared-43-higher-in-de/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "delmarvapublicmedia.org",
+        "language": "English",
+        "seendate": "20220109T190000Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.delmarvapublicmedia.org/post/wisconsin-republican-sen-ron-johnson-running-reelection",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.wfsu.org",
+        "language": "English",
+        "seendate": "20220109T190000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://news.wfsu.org/all-npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://news.wfsu.org/all-npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220109T190000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/IJDYy1zftZwGf6iN3azDRg--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/21dfa27b1397d745220d938d9855c4b3",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Senator and Trump ally Ron Johnson to seek third term",
+        "url": "https://news.yahoo.com/wisconsin-senator-trump-ally-ron-182802468.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/wisconsin-senator-trump-ally-ron-182802468.html"
+      },
+      {
+        "domain": "sputniknews.com",
+        "language": "English",
+        "seendate": "20220109T190000Z",
+        "socialimage": "https://cdnn1.img.sputniknews.com/images/sharing/article/eng/1092137277.jpg",
+        "sourcecountry": "Russia",
+        "title": "Sputnik Kazakhstan Journo Points to Main Error in West Media Coverage of Situation in Her Country",
+        "url": "https://sputniknews.com/20220109/sputnik-kazakhstan-journo-points-to-main-error-in-wests-media-coverage-of-situation-in-her-country-1092137277.html",
+        "url_mobile": "https://sputniknews.com/amp/20220109/sputnik-kazakhstan-journo-points-to-main-error-in-wests-media-coverage-of-situation-in-her-country-1092137277.html"
+      },
+      {
+        "domain": "marketbeat.com",
+        "language": "English",
+        "seendate": "20220109T190000Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "First Trust NASDAQ Clean Edge Green Energy Index Fund ( NASDAQ : QCLN ) Sees Large Drop in Short Interest",
+        "url": "https://www.marketbeat.com/instant-alerts/nasdaq-qcln-options-data-report-2022-01/",
+        "url_mobile": "https://www.marketbeat.com/instant-alerts/nasdaq-qcln-options-data-report-2022-01/amp/"
+      },
+      {
+        "domain": "wmac-am.com",
+        "language": "English",
+        "seendate": "20220109T190000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson says he will run for reelection",
+        "url": "https://www.wmac-am.com/news/wisconsin-sen-ron-johnson-says-he-will-run-for-re-election/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvnn.com",
+        "language": "English",
+        "seendate": "20220109T190000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson says he will run for reelection",
+        "url": "https://www.wvnn.com/news/wisconsin-sen-ron-johnson-says-he-will-run-for-re-election/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kgou.org",
+        "language": "English",
+        "seendate": "20220109T190000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kgou.org/politics-and-government/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kgou.org/politics-and-government/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "wmac-am.com",
+        "language": "English",
+        "seendate": "20220109T190000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Big banks are booming . Now here come earnings",
+        "url": "https://www.wmac-am.com/news/big-banks-are-booming-now-here-come-earnings/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "talkingpointsmemo.com",
+        "language": "English",
+        "seendate": "20220109T190000Z",
+        "socialimage": "https://tpmsite-f8c0.kxcdn.com/wp-content/uploads/2020/11/GettyImages-1229491946-804x536.jpg",
+        "sourcecountry": "United States",
+        "title": "Raffensperger Rips Trump - Endorsed Challenger",
+        "url": "https://talkingpointsmemo.com/news/raffensperger-trump-endorsed-challenger-hice",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wrkf.org",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wrkf.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wrkf.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "khaleejtimes.com",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "https://image.khaleejtimes.com?uuid=65b67a47-7e7c-4a0c-9315-146a5c6b17b3&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84441&x=0&y=0.0778",
+        "sourcecountry": "United Arab Emirates",
+        "title": "Female leaders are just leaders ; theyre not  girlbosse - News",
+        "url": "https://www.khaleejtimes.com/opinion/female-leaders-are-just-leaders-theyre-not-girlbosses",
+        "url_mobile": "https://www.khaleejtimes.com/opinion/female-leaders-are-just-leaders-theyre-not-girlbosses?amp=1"
+      },
+      {
+        "domain": "news.wsiu.org",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://news.wsiu.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://news.wsiu.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "israelnationalnews.com",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "https://a7.org/pictures/1051/1051837.jpg",
+        "sourcecountry": "Israel",
+        "title": "Taking Advantage of the Covid - 19 Crisis",
+        "url": "https://www.israelnationalnews.com/news/320133",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kawc.org",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kawc.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kawc.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "wfnc640am.com",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Big banks are booming . Now here come earnings",
+        "url": "https://www.wfnc640am.com/news/big-banks-are-booming-now-here-come-earnings/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "asiaasset.com",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Unlisted buyout giants are getting fewer | Asia Asset Management",
+        "url": "https://www.asiaasset.com/post/25527-pe-blog-7-jan-0107",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kedm.org",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kedm.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kedm.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "PSERS own consultant finds the fund board has been poorly led and suffers from a lack of trust",
+        "url": "https://www.msn.com/en-us/news/politics/psers-s-own-consultant-finds-the-fund-s-board-has-been-poorly-led-and-suffers-from-a-lack-of-trust/ar-AASAZ7J",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wfnc640am.com",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson says he will run for reelection",
+        "url": "https://www.wfnc640am.com/news/wisconsin-sen-ron-johnson-says-he-will-run-for-re-election/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "therealdeal.com",
+        "language": "English",
+        "seendate": "20220109T184500Z",
+        "socialimage": "https://therealdeal.com/wp-content/uploads/2022/01/Featured-Supply-Chain-Woes-2022.jpg",
+        "sourcecountry": "United States",
+        "title": "Supply - chain woes slow new - home construction , raise prices to record high",
+        "url": "https://therealdeal.com/2022/01/09/supply-chain-woes-slow-new-home-construction-raise-prices-to-record-high/",
+        "url_mobile": "https://therealdeal.com/2022/01/09/supply-chain-woes-slow-new-home-construction-raise-prices-to-record-high/amp/"
+      },
+      {
+        "domain": "lacrossetribune.com",
+        "language": "English",
+        "seendate": "20220109T183000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/lacrossetribune.com/content/tncms/assets/v3/editorial/b/04/b043df04-1fba-55a5-89df-b8f2517740cd/61db1ba039977.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson makes it official : he will run for third term despite pledge not to",
+        "url": "https://lacrossetribune.com/news/state-and-regional/govt-and-politics/sen-ron-johnson-makes-it-official-he-will-run-for-third-term-despite-pledge-not/article_b043df04-1fba-55a5-89df-b8f2517740cd.html",
+        "url_mobile": "https://lacrossetribune.com/news/state-and-regional/govt-and-politics/sen-ron-johnson-makes-it-official-he-will-run-for-third-term-despite-pledge-not/article_b043df04-1fba-55a5-89df-b8f2517740cd.amp.html"
+      },
+      {
+        "domain": "upr.org",
+        "language": "English",
+        "seendate": "20220109T183000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.upr.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.upr.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "wncy.com",
+        "language": "English",
+        "seendate": "20220109T183000Z",
+        "socialimage": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2499/files/2020/07/ron-johnson.jpg",
+        "sourcecountry": "United States",
+        "title": "Republican US Senator Ron Johnson Officially Announces Bid for Third Term",
+        "url": "https://wncy.com/2022/01/09/republican-us-senator-ron-johnson-officially-announces-bid-for-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kunc.org",
+        "language": "English",
+        "seendate": "20220109T183000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kunc.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kunc.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "afr.com",
+        "language": "English",
+        "seendate": "20220109T183000Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/d62f853871756e58afe79a470fcfcc1e13d0fd72",
+        "sourcecountry": "Australia",
+        "title": "ASX to open flat as rate , earnings clouds roll in",
+        "url": "https://www.afr.com/markets/equity-markets/asx-to-open-flat-as-rate-earnings-clouds-roll-in-20220108-p59mrc",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kalw.org",
+        "language": "English",
+        "seendate": "20220109T183000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kalw.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kalw.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "english.newsnationtv.com",
+        "language": "English",
+        "seendate": "20220109T183000Z",
+        "socialimage": "https://media5.newsnationtv.com/images/2019/10/16/sensex2009-192.jpg",
+        "sourcecountry": "",
+        "title": "Closing Bell : Sensex Jumps 93 Points To End At 38 , 599 , Nifty Also Up By 43",
+        "url": "https://english.newsnationtv.com/states/uttar-pradesh/aam-adami-parti-arvind-kejriwal-sanjay-singh-241103.html",
+        "url_mobile": "https://english.newsnationtv.com/amp/business/news/closing-bell-sensex-jumps-93-points-to-end-at-38599-nifty-also-up-by-43-241103.html"
+      },
+      {
+        "domain": "industrialit.com.au",
+        "language": "English",
+        "seendate": "20220109T183000Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Italy Voluntary Carbon Offsets Market \u2013 Industrial IT",
+        "url": "https://industrialit.com.au/tag/italy-voluntary-carbon-offsets-market/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "x1071.com",
+        "language": "English",
+        "seendate": "20220109T183000Z",
+        "socialimage": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/08/j/c/senator-ron-johnson-635x360.jpeg",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson officially announces re - election campaign",
+        "url": "https://www.x1071.com/2022/01/09/sen-ron-johnson-officially-announces-re-election-campaign/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "krcu.org",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.krcu.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.krcu.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "usatoday.com",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2021/06/28/PMJS/897a24c3-4c4d-4909-8076-18e23dd7bff7-MJS_Johnson_1.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson will run for third term",
+        "url": "https://www.usatoday.com/story/news/politics/2022/01/09/wisconsin-sen-ron-johnson-run-third-term/9149649002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "postcrescent.com",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2021/06/28/PMJS/897a24c3-4c4d-4909-8076-18e23dd7bff7-MJS_Johnson_1.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Republican U . S . Sen . Ron Johnson announces run for re - election",
+        "url": "https://www.postcrescent.com/story/news/politics/elections/2022/01/09/republican-u-s-sen-ron-johnson-announces-run-re-election/8797338002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kclu.org",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kclu.org/politics/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.kclu.org/politics/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "usatoday.com",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2021/11/09/USAT/bf4dec44-7bb3-43d2-8ef8-a20989c7434a-USATSI_17005813.jpg?auto=webp&crop=4653,2617,x0,y0&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "10 questions and predictions heading into 2022 MLB season",
+        "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2022/01/09/mlb-2022-predictions-questions-lockout-rule-changes-carlos-correa/9143514002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kulr8.com",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/custom/image/48a16c4c-47ac-11ea-bc4e-9faae589508d.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Exagen Inc . and Queen Mary University of London Announce Exclusive License and Collaboration to ... ",
+        "url": "https://www.kulr8.com/news/money/exagen-inc-and-queen-mary-university-of-london-announce-exclusive-license-and-collaboration-to/article_cf91e7b1-e4fd-5651-8916-4dd49a441ca4.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "industrialit.com.au",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Hydroelectric Power Generation Market Size 2022 - 2028 Industry Share , Growth Analysis , Regional Demand , Key Manufacturers \u2013 Voith , andRITZ HYDRO , General Electric , China Three Gorges Corporation , Alfa Laval \u2013 Industrial IT",
+        "url": "https://industrialit.com.au/hydroelectric-power-generation-market-size-2022-2028-industry-share-growth-analysis-regional-demand-key-manufacturers-voith-andritz-hydro-general-electric-china-three-gorges-corporation-alfa/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "943jackfm.com",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2499/files/2020/07/ron-johnson.jpg",
+        "sourcecountry": "United States",
+        "title": "Republican US Senator Ron Johnson Officially Announces Bid for Third Term",
+        "url": "https://943jackfm.com/2022/01/09/republican-us-senator-ron-johnson-officially-announces-bid-for-third-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mynspr.org",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.mynspr.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.mynspr.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "wrvo.org",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wrvo.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wrvo.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "mtpr.org",
+        "language": "English",
+        "seendate": "20220109T181500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.mtpr.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.mtpr.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hansa Biopharma provides business update including certain key financials",
+        "url": "https://www.prnewswire.com:443/news-releases/hansa-biopharma-provides-business-update-including-certain-key-financials-301456756.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/d4/7d4b56f1-1cb9-5c17-8509-7d39d875497b/61dae37829af2.image.jpg?crop=700%2C368%2C0%2C47",
+        "sourcecountry": "United States",
+        "title": "5 Investing Tips to Start 2022 Off Right",
+        "url": "https://www.stltoday.com/business/investment/personal-finance/5-investing-tips-to-start-2022-off-right/article_7a21ae01-4222-5e6a-9b41-848c6655497c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cracked.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "5 Screwed - Up Operations America Pulled Overseas",
+        "url": "https://www.cracked.com/article_32326_5-screwed-up-operations-america-pulled-overseas.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A TOP RANKED LAW FIRM , Encourages Baidu Inc . Investors with Losses to Secure Counsel Before Important February 14 Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-a-top-ranked-law-firm-encourages-baidu-inc-investors-with-losses-to-secure-counsel-before-important-february-14-deadline-in-securities-class-action--bidu-301456676.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wboi.org",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wboi.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wboi.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "dailypress.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://www.dailypress.com/resizer/SXM9k7vuQSp3TDgYQy1KN7GtNx8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QTZQ3BLIK5FYPFBJTO4EYRPJVE.jpg",
+        "sourcecountry": "United States",
+        "title": "Editorial : Youngkin toxic pick - Daily Press",
+        "url": "http://www.dailypress.com/opinion/vp-ed-editorial-youngkin-wheeler-0109-20220108-2acaybzw3rbjlaczpydixjiuiu-story.html",
+        "url_mobile": "https://www.dailypress.com/opinion/vp-ed-editorial-youngkin-wheeler-0109-20220108-2acaybzw3rbjlaczpydixjiuiu-story.html?outputType=amp"
+      },
+      {
+        "domain": "health.wusf.usf.edu",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://health.wusf.usf.edu/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://health.wusf.usf.edu/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "news.prairiepublic.org",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://news.prairiepublic.org/news-from-npr/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://news.prairiepublic.org/news-from-npr/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "kanw.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.kanw.com/post/wisconsin-republican-sen-ron-johnson-running-reelection",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/7b/d7b8e86f-efa9-55c1-9526-3013624cc618/61dac74868da9.image.jpg?crop=700%2C368%2C0%2C61",
+        "sourcecountry": "United States",
+        "title": "Worried Inflation Will Wreck Your Retirement ? Here What to Do",
+        "url": "https://www.stltoday.com/business/investment/personal-finance/worried-inflation-will-wreck-your-retirement-heres-what-to-do/article_fa0fd139-be93-54b8-be12-d2a72454d6ac.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , LEADING INVESTOR COUNSEL , Encourages Berkeley Lights , Inc . Investors with Losses to Secure Counsel Before Important February 7 Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-leading-investor-counsel-encourages-berkeley-lights-inc-investors-with-losses-to-secure-counsel-before-important-february-7-deadline-in-securities-class-action--bli-301456673.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A TOP RANKED LAW FIRM , Encourages Organogenesis Holdings Inc . Investors to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-a-top-ranked-law-firm-encourages-organogenesis-holdings-inc-investors-to-secure-counsel-before-important-deadline-in-securities-class-action--orgo-301456674.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "interlochenpublicradio.org",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.interlochenpublicradio.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TOP RANKED INVESTOR COUNSEL , Encourages Revance Therapeutics , Inc . Investors to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-top-ranked-investor-counsel-encourages-revance-therapeutics-inc-investors-to-secure-counsel-before-important-deadline-in-securities-class-action--rvnc-301456596.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/94/f9492fd6-261f-50e7-9ec8-4421225b7117/61dac747f127e.image.jpg?crop=700%2C368%2C0%2C38",
+        "sourcecountry": "United States",
+        "title": "The 5 Smartest Ways to Spend Your 2022 Tax Refund",
+        "url": "https://www.stltoday.com/business/investment/personal-finance/the-5-smartest-ways-to-spend-your-2022-tax-refund/article_fc61906d-7afe-57a2-a252-cf17941da7ce.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wjcw.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Sen . Ron Johnson says he will run for reelection",
+        "url": "https://www.wjcw.com/news/wisconsin-sen-ron-johnson-says-he-will-run-for-re-election/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/9c/79c7876b-9458-50a6-8d37-9d55f8473e05/61dae377df5bb.image.jpg?crop=700%2C368%2C0%2C49",
+        "sourcecountry": "United States",
+        "title": "You Dont Need to Be a Stock - Picking Expert to Become a Millionaire",
+        "url": "https://www.stltoday.com/business/investment/personal-finance/you-dont-need-to-be-a-stock-picking-expert-to-become-a-millionaire/article_c59b6cee-bf2f-5396-8bd0-5d3fd3b0b115.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "therealdeal.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://therealdeal.com/wp-content/uploads/2022/01/Featured-Jon-Landau-Florida-Keys.jpg",
+        "sourcecountry": "United States",
+        "title": "  Avatar  Producer Jon Landau Lists Florida Keys Home for Nearly $14M",
+        "url": "https://therealdeal.com/2022/01/09/avatar-producer-jon-landau-lists-florida-keys-home-for-nearly-14m/",
+        "url_mobile": "https://therealdeal.com/2022/01/09/avatar-producer-jon-landau-lists-florida-keys-home-for-nearly-14m/amp/"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TRUSTED INVESTOR COUNSEL , Encourages Exicure , Inc . Investors to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-trusted-investor-counsel-encourages-exicure-inc-investors-to-secure-counsel-before-important-deadline-in-securities-class-action--xcur-301456675.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyvoice.com",
+        "language": "English",
+        "seendate": "20220109T180000Z",
+        "socialimage": "https://daily-voice-res.cloudinary.com/image/upload/c_limit,e_sharpen,f_auto,q_auto:eco,w_640/shelves-g997b1974f_1920_khptmj.jpg",
+        "sourcecountry": "United States",
+        "title": "COVID - 19 : Worker Shortages Amid Omicron Wave Spark Concerns Of Food Outages At Grocery Stores",
+        "url": "https://dailyvoice.com/new-york/orangetown/business/covid-19-worker-shortages-amid-omicron-wave-spark-concerns-of-food-outages-at-grocery-stores/823544/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "larouchepub.com",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "EIR LEAD EDITORIAL FOR SUNDAY , JANUARY 9 , 2021",
+        "url": "https://larouchepub.com/pr/2022/20220109_lead-editorial.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "americanfreepress.net",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Trilats Maintain Press Stranglehold ; TC Meetings Confirmed \u2013 American Free Press",
+        "url": "https://americanfreepress.net/trilats-maintain-press-stranglehold-tc-meetings-confirmed/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "americanfreepress.net",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "What Businesses Will Thrive in the Age of Coronavirus ? \u2013 American Free Press",
+        "url": "https://americanfreepress.net/what-businesses-will-thrive-in-the-age-of-coronavirus/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tribune.net.ph",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://tribune.net.ph/wp-content/uploads/2022/01/2d5ea40dd4714fb2bdb5ebec8f1118ce_18.jpeg",
+        "sourcecountry": "Philippines",
+        "title": "Iran allegedly smuggling weapons to Yemen",
+        "url": "https://tribune.net.ph/index.php/2022/01/10/iran-allegedly-smuggling-weapons-to-yemen/",
+        "url_mobile": "https://tribune.net.ph/index.php/2022/01/10/iran-allegedly-smuggling-weapons-to-yemen/amp/"
+      },
+      {
+        "domain": "dailyvoice.com",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://daily-voice-res.cloudinary.com/image/upload/c_limit,e_sharpen,f_auto,q_auto:eco,w_640/shelves-g997b1974f_1920_khptmj.jpg",
+        "sourcecountry": "United States",
+        "title": "COVID - 19 : Worker Shortages Amid Omicron Wave Spark Concerns Of Food Outages At Grocery Stores",
+        "url": "https://dailyvoice.com/new-york/northrockland/business/covid-19-worker-shortages-amid-omicron-wave-spark-concerns-of-food-outages-at-grocery-stores/823544/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Citrix Shareholder Notice",
+        "url": "https://apnews.com/press-release/newmediawire/coronavirus-pandemic-business-health-feff21e9d9a2ea768f48e4700774331b",
+        "url_mobile": ""
+      },
+      {
+        "domain": "christianpost.com",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/64/246404.jpg",
+        "sourcecountry": "United States",
+        "title": "India removes foreign - funding ban for Mother Teresa charity",
+        "url": "https://www.christianpost.com:443/news/india-removes-foreign-funding-ban-for-mother-teresa-charity.html",
+        "url_mobile": "https://www.christianpost.com/amp/india-removes-foreign-funding-ban-for-mother-teresa-charity.html"
+      },
+      {
+        "domain": "christianpost.com",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/64/246404.jpg",
+        "sourcecountry": "United States",
+        "title": "India removes foreign - funding ban for Mother Teresa charity",
+        "url": "https://www.christianpost.com/news/india-removes-foreign-funding-ban-for-mother-teresa-charity.html",
+        "url_mobile": "https://www.christianpost.com/amp/india-removes-foreign-funding-ban-for-mother-teresa-charity.html"
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Sunday Collum : 2021 Year In Review , Part 2 - Heart Of Darkness & The Rise Of Centralized Healthcare",
+        "url": "https://www.zerohedge.com/geopolitical/sunday-collum-2021-year-review-part-2-heart-darkness-rise-centralized-healthcare",
+        "url_mobile": ""
+      },
+      {
+        "domain": "northernpublicradio.org",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.northernpublicradio.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.northernpublicradio.org/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "ibtimes.co.in",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://data1.ibtimes.co.in/en/full/768663/unvaccinated-citigroup-workers-may-lose-jobs-by-month-end.jpg",
+        "sourcecountry": "India",
+        "title": "Unvaccinated Citigroup workers may lose jobs by month end",
+        "url": "https://www.ibtimes.co.in/unvaccinated-citigroup-workers-told-get-jabbed-before-jan-14-lose-jobs-by-month-end-details-844576",
+        "url_mobile": "https://amp.ibtimes.co.in/unvaccinated-citigroup-workers-told-get-jabbed-before-jan-14-lose-jobs-by-month-end-details-844576"
+      },
+      {
+        "domain": "publicradiotulsa.org",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.publicradiotulsa.org/npr-national-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.publicradiotulsa.org/npr-national-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "wshu.org",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/07/ap_21341819915536-59efe293ff82bf18894cd87fb338e4305b0c023b.jpg",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://www.wshu.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection",
+        "url_mobile": "https://www.wshu.org/npr-news/2022-01-09/wisconsin-republican-sen-ron-johnson-is-running-for-reelection?_amp=true"
+      },
+      {
+        "domain": "farmpolicynews.illinois.edu",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Omicron Disrupts Supermarket Supply Chains \u2022 Farm Policy News",
+        "url": "https://farmpolicynews.illinois.edu/2022/01/omicron-disrupts-supermarket-supply-chains/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nytimes.com",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://static01.nyt.com/images/2022/01/09/multimedia/09virus-briefing-india-elections-01/09virus-briefing-india-elections-01-facebookJumbo.jpg",
+        "sourcecountry": "United States",
+        "title": "Covid Live Updates : Mass Vaccination Sites in U . S . Are Returning",
+        "url": "https://www.nytimes.com/live/2022/01/09/world/omicron-covid-vaccine-tests/india-bans-election-rallies-for-a-week-as-virus-cases-soar",
+        "url_mobile": ""
+      },
+      {
+        "domain": "knpr.org",
+        "language": "English",
+        "seendate": "20220109T174500Z",
+        "socialimage": "https://knpr.org/sites/default/files/public/styles/detail_large/public/images/npr-story/1071435117_152178474.jpg?itok=-OaDs0UA",
+        "sourcecountry": "United States",
+        "title": "Wisconsin Republican Sen . Ron Johnson is running for reelection",
+        "url": "https://knpr.org/npr/2022-01/wisconsin-republican-sen-ron-johnson-running-reelection",
+        "url_mobile": ""
+      }
+    ]
+  }
+}

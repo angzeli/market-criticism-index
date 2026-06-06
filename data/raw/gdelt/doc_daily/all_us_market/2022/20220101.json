@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-01",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659239/senior-couple-outside_SLSlpf4.jpg",
+        "sourcecountry": "United States",
+        "title": "Will a 2022 Bear Market Delay Your Retirement ? ",
+        "url": "https://www.fool.com/retirement/2022/01/01/will-a-2022-bear-market-delay-your-retirement/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "timesrepublican.com",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "https://d14e0irai0gcaa.cloudfront.net/www.timesrepublican.com/images/2016/11/02181533/fblike.jpg",
+        "sourcecountry": "United States",
+        "title": "Chief justice : Judges must better avoid financial conflicts | News , Sports , Jobs",
+        "url": "http://www.timesrepublican.com/wire/?category=5181&ID=154752",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wrvo.org",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wrvo.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.wrvo.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659292/people-discussing-a-sales-report.jpg",
+        "sourcecountry": "United States",
+        "title": "2 Cheap Growth Stocks to Buy for 2022",
+        "url": "https://www.fool.com/investing/2022/01/01/2-cheap-growth-stocks-to-buy-for-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wror.com",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "https://wror.com/wp-content/uploads/sites/18/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://wror.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "aspenpublicradio.org",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.aspenpublicradio.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "capradio.org",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314-cc1a1bf0803cbc276d38a6d5f05e640bc8e880ae.jpg?s=6",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.capradio.org/news/npr/story?storyid=1069647633",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NATIONALLY RANKED ROSEN LAW FIRM Encourages iQIYI , Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/nationally-ranked-rosen-law-firm-encourages-iqiyi-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action--iq-301452001.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wcbe.org",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wcbe.org/post/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "itbusinessnet.com",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The ODP Corporation Announces Sale of Its CompuCom Subsidiary in Transaction Valued up to $305 Million",
+        "url": "http://itbusinessnet.com/2022/01/the-odp-corporation-announces-sale-of-its-compucom-subsidiary-in-transaction-valued-up-to-305-million/",
+        "url_mobile": "http://itbusinessnet.com/2022/01/the-odp-corporation-announces-sale-of-its-compucom-subsidiary-in-transaction-valued-up-to-305-million/amp/"
+      },
+      {
+        "domain": "klif.com",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Chief Justice Roberts Aims to Improve Judicial Ethics",
+        "url": "https://www.klif.com/news/chief-justice-roberts-aims-to-improve-judicial-ethics/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659523/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-buy-or-pass-template-46.png",
+        "sourcecountry": "United States",
+        "title": "Making Money With NFTs Without Owning One",
+        "url": "https://www.fool.com/investing/2022/01/01/making-money-with-nfts-without-owning-one/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T000000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659158/shiba-inu-shib-dogecoin-doge-cryptocurrency-blockchain-invest-token-dog-getty.jpg",
+        "sourcecountry": "United States",
+        "title": "Up 49 , 000 , 000 % in 2021 : Is Shiba Inu Still a Buy ? ",
+        "url": "https://www.fool.com/investing/2022/01/01/up-49000000-in-2021-is-shiba-inu-still-a-buy/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizpacreview.com",
+        "language": "English",
+        "seendate": "20220101T234500Z",
+        "socialimage": "https://www.bizpacreview.com/wp-content/uploads/2021/09/RF-Getty-police.jpg",
+        "sourcecountry": "United States",
+        "title": "3 dead , 7 wounded during first few hours of new year in Philadelphia",
+        "url": "https://www.bizpacreview.com/2022/01/01/3-dead-7-wounded-during-first-few-hours-of-new-year-in-philadelphia-1183087/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "inman.com",
+        "language": "English",
+        "seendate": "20220101T234500Z",
+        "socialimage": "https://webassets.inman.com/wp-content/uploads/2021/12/2022_Compass-1024x454.jpg",
+        "sourcecountry": "United States",
+        "title": "In 2022 , Compass Is All About Playing  The Long Game  ",
+        "url": "https://www.inman.com/2021/12/27/in-2022-compass-is-all-about-playing-the-long-game/",
+        "url_mobile": "https://www.inman.com/2021/12/27/in-2022-compass-is-all-about-playing-the-long-game/amp/"
+      },
+      {
+        "domain": "newsweek.com",
+        "language": "English",
+        "seendate": "20220101T234500Z",
+        "socialimage": "https://d.newsweek.com/en/full/1961399/biden-v-trump.jpg",
+        "sourcecountry": "United States",
+        "title": "Biden Starts 2022 Trailing Trump by Average of Nearly 5 Points in 2024 Election Polls",
+        "url": "https://www.newsweek.com/biden-starts-2022-trailing-trump-average-nearly-5-points-2024-election-polls-1664829",
+        "url_mobile": "https://www.newsweek.com/biden-starts-2022-trailing-trump-average-nearly-5-points-2024-election-polls-1664829?amp=1"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220101T234500Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/405ec490-b904-4a5e-85a7-710cdebe280d?size=1",
+        "sourcecountry": "United States",
+        "title": "Investor Deadline Alert : Kessler Topaz Meltzer & Check , LLP",
+        "url": "https://www.globenewswire.com/news-release/2022/01/01/2359794/0/en/Investor-Deadline-Alert-Kessler-Topaz-Meltzer-Check-LLP-Reminds-Investors-of-Securities-Fraud-Class-Action-Lawsuit-Filed-Against-of-Organogenesis-Holdings-Inc-ORGO.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mtpr.org",
+        "language": "English",
+        "seendate": "20220101T234500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.mtpr.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.mtpr.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "newser.com",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "https://img1-azrcdn.newser.com/image/1391918-12-20220101153211.jpeg",
+        "sourcecountry": "United States",
+        "title": "Roberts : Courts Dont Need Ethics Help From Congress",
+        "url": "https://www.newser.com/story/315157/roberts-courts-dont-need-ethics-help-from-congress.html",
+        "url_mobile": "https://amp.newser.com/story/315157/roberts-courts-dont-need-ethics-help-from-congress.html"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , NATIONAL TRIAL LAWYERS , Encourages Berkeley Lights , Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-national-trial-lawyers-encourages-berkeley-lights-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action--bli-301452214.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "weaa.org",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.weaa.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.weaa.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "wgowam.com",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Chief Justice Roberts Aims to Improve Judicial Ethics",
+        "url": "https://www.wgowam.com/news/chief-justice-roberts-aims-to-improve-judicial-ethics/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "swvatoday.com",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/swvatoday.com/content/tncms/assets/v3/editorial/3/fa/3fa25b97-03c5-5f03-a7d6-6572bfbd09a5/61c24e948fd56.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Facebook became Meta \u2013 and the company dangerous behavior came into focus in 2021 : 4 essential reads",
+        "url": "https://swvatoday.com/lifestyles/technology/article_3fa25b97-03c5-5f03-a7d6-6572bfbd09a5.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Chief Justice Roberts Aims to Improve Judicial Ethics",
+        "url": "https://www.kmaj1440.com/news/chief-justice-roberts-aims-to-improve-judicial-ethics/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kcbx.org",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kcbx.org/npr-top-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kcbx.org/npr-top-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "gnnliberia.com",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "",
+        "sourcecountry": "Liberia",
+        "title": "Supreme Court Roberts Says Judges Must be Ethical After Over 100 Caught Violating Rule \u2013 Global News Network",
+        "url": "http://gnnliberia.com/2022/01/01/supreme-courts-roberts-says-judges-must-be-ethical-after-over-100-caught-violating-rule/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyprogress.com",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/f/f0/ff0ae803-f1ab-57b6-88d7-2e74980f95dd/61c24ea57b503.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Facebook became Meta \u2013 and the company dangerous behavior came into focus in 2021 : 4 essential reads",
+        "url": "https://dailyprogress.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_ff0ae803-f1ab-57b6-88d7-2e74980f95dd.html",
+        "url_mobile": "https://dailyprogress.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_ff0ae803-f1ab-57b6-88d7-2e74980f95dd.amp.html"
+      },
+      {
+        "domain": "news.wjct.org",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://news.wjct.org/national-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://news.wjct.org/national-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "wmal.com",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "https://express-images.franklymedia.com/6616/sites/238/2021/09/07103456/WMAL-FM.png",
+        "sourcecountry": "United States",
+        "title": "Chief Justice Roberts Aims to Improve Judicial Ethics",
+        "url": "https://www.wmal.com/news/chief-justice-roberts-aims-to-improve-judicial-ethics/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ualrpublicradio.org",
+        "language": "English",
+        "seendate": "20220101T233000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.ualrpublicradio.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.ualrpublicradio.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "cnn.com",
+        "language": "English",
+        "seendate": "20220101T230000Z",
+        "socialimage": "https://cdn.cnn.com/cnnnext/dam/assets/220101143926-blackberry-phone-file-2010-super-tease.jpg",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones will stop working January 4",
+        "url": "https://www.cnn.com/2022/01/01/tech/blackberry-end-of-life/",
+        "url_mobile": "https://amp.cnn.com/cnn/2022/01/01/tech/blackberry-end-of-life/index.html"
+      },
+      {
+        "domain": "ksmu.org",
+        "language": "English",
+        "seendate": "20220101T230000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.ksmu.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.ksmu.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "kenw.org",
+        "language": "English",
+        "seendate": "20220101T230000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kenw.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kenw.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "delmarvapublicmedia.org",
+        "language": "English",
+        "seendate": "20220101T230000Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.delmarvapublicmedia.org/post/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apr.org",
+        "language": "English",
+        "seendate": "20220101T230000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.apr.org/science-health/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.apr.org/science-health/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "wcsufm.org",
+        "language": "English",
+        "seendate": "20220101T230000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wcsufm.org/latest-from-npr/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.wcsufm.org/latest-from-npr/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "kuaf.com",
+        "language": "English",
+        "seendate": "20220101T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kuaf.com/post/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kion546.com",
+        "language": "English",
+        "seendate": "20220101T230000Z",
+        "socialimage": "https://kion546.b-cdn.net/2022/01/Blackberry-860x484.jpg",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones will stop working January 4 \u2013 KION546",
+        "url": "https://kion546.com/news/local-news/top-stories/2022/01/01/classic-blackberry-phones-will-stop-working-january-4-2/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "997wtn.com",
+        "language": "English",
+        "seendate": "20220101T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Chief Justice Roberts Aims to Improve Judicial Ethics",
+        "url": "https://www.997wtn.com/news/chief-justice-roberts-aims-to-improve-judicial-ethics/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kccu.org",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kccu.org/u-s/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kccu.org/u-s/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "foxnews.com",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/12/TS2021-Numeral-Arrival_03-scaled-1.jpg",
+        "sourcecountry": "United States",
+        "title": "Wall Street Journal editorial savages media false narratives from 2021",
+        "url": "https://www.foxnews.com/media/wall-street-journal-editorial-savages-media-false-narratives-2021",
+        "url_mobile": "https://www.foxnews.com/media/wall-street-journal-editorial-savages-media-false-narratives-2021.amp"
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/07/apple-stock-price-prediction.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Should you buy Apple stock as it approaches the $3T market cap ? ",
+        "url": "https://invezz.com/news/2022/01/01/should-you-buy-apple-stock-as-it-approaches-the-3t-market-cap/",
+        "url_mobile": "https://invezz.com/news/2022/01/01/should-you-buy-apple-stock-as-it-approaches-the-3t-market-cap/?amp"
+      },
+      {
+        "domain": "stamfordadvocate.com",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/34/67/21876161/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Meet the Elite Team of Superforecasters Who Have Turned Future - Gazing Into a Science",
+        "url": "https://www.stamfordadvocate.com/business/article/Meet-the-Elite-Team-of-Superforecasters-Who-Have-16741671.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ketr.org",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.ketr.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.ketr.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/01/22/52449331-0-image-a-7_1641075142205.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Robert Maxwell biographer TOM BOWER met socialite when she was 12",
+        "url": "https://www.dailymail.co.uk/news/article-10361267/Robert-Maxwells-biographer-TOM-BOWER-met-socialite-12-cowed-father.html",
+        "url_mobile": "https://www.dailymail.co.uk/news/article-10361267/amp/Robert-Maxwells-biographer-TOM-BOWER-met-socialite-12-cowed-father.html"
+      },
+      {
+        "domain": "omaha.com",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/b/a6/ba618d5c-f1c1-5d4e-8cb4-62aec70ae1d6/61c24eb7cde9a.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Facebook became Meta \u2013 and the company dangerous behavior came into focus in 2021 : 4 essential reads",
+        "url": "https://omaha.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_ba618d5c-f1c1-5d4e-8cb4-62aec70ae1d6.html",
+        "url_mobile": "https://omaha.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_ba618d5c-f1c1-5d4e-8cb4-62aec70ae1d6.amp.html"
+      },
+      {
+        "domain": "wemu.org",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wemu.org/post/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kasu.org",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kasu.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kasu.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "billingsgazette.com",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/5/52/55234c8a-fdfd-503c-bb30-85dae99b3499/61c24ed40c4f8.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Facebook became Meta \u2013 and the company dangerous behavior came into focus in 2021 : 4 essential reads",
+        "url": "https://billingsgazette.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_55234c8a-fdfd-503c-bb30-85dae99b3499.html",
+        "url_mobile": "https://billingsgazette.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_55234c8a-fdfd-503c-bb30-85dae99b3499.amp.html"
+      },
+      {
+        "domain": "wknofm.org",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wknofm.org/npr-news-on-novel-coronavirus/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.wknofm.org/npr-news-on-novel-coronavirus/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/09/102138729-s.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Is it time to invest in FuelCell stock as shares bounce back from post - earnings decline ? ",
+        "url": "https://invezz.com/news/2022/01/01/is-it-time-to-invest-in-fuelcell-stock-as-shares-bounce-back-from-post-earnings-decline/",
+        "url_mobile": "https://invezz.com/news/2022/01/01/is-it-time-to-invest-in-fuelcell-stock-as-shares-bounce-back-from-post-earnings-decline/?amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones will stop working January 4",
+        "url": "http://www.msn.com/en-us/lifestyle/shopping/classic-blackberry-phones-will-stop-working-january-4/ar-AASlr18",
+        "url_mobile": ""
+      },
+      {
+        "domain": "neonnettle.com",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://neonnettle.com/news/images/teslbot-musk.jpg",
+        "sourcecountry": "United States",
+        "title": "Elon Musk : Tesla Bots Could Become Companions with  Unique  Personalities",
+        "url": "https://neonnettle.com/news/17907-elon-musk-tesla-bots-could-become-companions-with-unique-personalities",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wbaa.org",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wbaa.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wutc.org",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wutc.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.wutc.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220101T224500Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1701956!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/buildings-in-the-manhattan-skyline-in-new-york-u-s-on-thursday-june-17-2021-new-york-state-s-pandemic-mandates-were-lifted-last-week-after-70-of-the-adult-population-has-now-been-given-at-least-one-dose-of-a-coronavirus-vaccine-photographer-victor-j-blue-bloomberg.jpg",
+        "sourcecountry": "Canada",
+        "title": "Companies Funding Acquisitions to Drive Bond Sales This Month",
+        "url": "https://www.bnnbloomberg.ca/companies-funding-acquisitions-to-drive-bond-sales-this-month-1.1701955",
+        "url_mobile": "https://www.bnnbloomberg.ca/companies-funding-acquisitions-to-drive-bond-sales-this-month-1.1701955.amp.html"
+      },
+      {
+        "domain": "kwit.org",
+        "language": "English",
+        "seendate": "20220101T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How schools are preparing to reopen as COVID - 19 rages on",
+        "url": "https://www.kwit.org/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on",
+        "url_mobile": "https://www.kwit.org/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on?_amp=true"
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220101T213000Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/41.jpg",
+        "sourcecountry": "",
+        "title": "This Is A Time To Build A Position In Ozon Holdings PLC ( NASDAQ : OZON ) ",
+        "url": "https://marketingsentinel.com/2022/01/01/this-is-a-time-to-build-a-position-in-ozon-holdings-plc-nasdaq-ozon/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bdnews24.com",
+        "language": "English",
+        "seendate": "20220101T213000Z",
+        "socialimage": "https://d30fl32nd2baj9.cloudfront.net/media/2022/01/01/salary-negotiation-010122-01-smr.jpg/BINARY/salary-negotiation-010122-01-smr.jpg",
+        "sourcecountry": "Bangladesh",
+        "title": "What do you think you should be paid ? ",
+        "url": "https://bdnews24.com/business/2022/01/01/what-do-you-think-you-should-be-paid",
+        "url_mobile": "https://m.bdnews24.com/amp/en/detail/business/1993263"
+      },
+      {
+        "domain": "wesm913.org",
+        "language": "English",
+        "seendate": "20220101T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wesm913.org/post/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wfdd.org",
+        "language": "English",
+        "seendate": "20220101T213000Z",
+        "socialimage": "https://wfdd-live.s3.amazonaws.com/styles/story-full/s3/images/story/US-COVID-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins-1069647925-1641064510.jpg?itok=mfObQgKU",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wfdd.org/story/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220101T213000Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/50.jpg",
+        "sourcecountry": "",
+        "title": "Is China Liberal Education Holdings Limited ( NASDAQ : CLEU ) Worth A Patient Look At Current Prices ? ",
+        "url": "https://marketingsentinel.com/2022/01/01/is-china-liberal-education-holdings-limited-nasdaqcleu-worth-a-patient-look-at-current-prices/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ksut.org",
+        "language": "English",
+        "seendate": "20220101T210000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.ksut.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.ksut.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "wuky.org",
+        "language": "English",
+        "seendate": "20220101T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How schools are preparing to reopen as COVID - 19 rages on",
+        "url": "https://www.wuky.org/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on",
+        "url_mobile": "https://www.wuky.org/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on?_amp=true"
+      },
+      {
+        "domain": "delawarepublic.org",
+        "language": "English",
+        "seendate": "20220101T210000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.delawarepublic.org/npr-headlines/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.delawarepublic.org/npr-headlines/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "knpr.org",
+        "language": "English",
+        "seendate": "20220101T210000Z",
+        "socialimage": "https://knpr.org/sites/default/files/public/styles/detail_large/public/images/npr-story/1069647925_1033124186.jpg?itok=A-rC97q7",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://knpr.org/npr/2022-01/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kios.org",
+        "language": "English",
+        "seendate": "20220101T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kios.org/post/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kpcw.org",
+        "language": "English",
+        "seendate": "20220101T210000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kpcw.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kpcw.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "spokanepublicradio.org",
+        "language": "English",
+        "seendate": "20220101T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.spokanepublicradio.org/post/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvasfm.org",
+        "language": "English",
+        "seendate": "20220101T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wvasfm.org/post/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kunr.org",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kunr.org/u-s-headlines/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kunr.org/u-s-headlines/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , GLOBALLY RESPECTED INVESTOR COUNSEL , Encourages Baidu Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com/news-releases/rosen-globally-respected-investor-counsel-encourages-baidu-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action--bidu-301452202.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gulf-times.com",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "https://img.gulf-times.com/Content/Upload/Slider/120221214112426045133.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Bitcoin ends its bang of a 2021 with a December whimper",
+        "url": "https://www.gulf-times.com/story/707251/Bitcoin-ends-its-bang-of-a-2021-with-a-December-wh",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wkms.org",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wkms.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.wkms.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "kgou.org",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kgou.org/health/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kgou.org/health/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "kvpr.org",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kvpr.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kvpr.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "kunr.org",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2018/03/26/mary-louise-kelly_vert-0b5ef749359959a608685a870918c984226ebe0c.jpeg",
+        "sourcecountry": "United States",
+        "title": "Mary Louise Kelly",
+        "url": "https://www.kunr.org/people/mary-louise-kelly",
+        "url_mobile": ""
+      },
+      {
+        "domain": "whqr.org",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.whqr.org/national/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TRUSTED NATIONAL TRIAL COUNSEL , Encourages Peloton Interactive , Inc . Investors to Secure Counsel Before Important January 18 Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com/news-releases/rosen-trusted-national-trial-counsel-encourages-peloton-interactive-inc-investors-to-secure-counsel-before-important-january-18-deadline-in-securities-class-action--pton-301451984.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TOP RANKED GLOBAL INVESTOR COUNSEL , Encourages StoneCo Ltd . Investors with Losses to Secure Counsel Before Important January 18 Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com/news-releases/rosen-top-ranked-global-investor-counsel-encourages-stoneco-ltd-investors-with-losses-to-secure-counsel-before-important-january-18-deadline-in-securities-class-action--stne-301452203.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , NATIONAL INVESTOR COUNSEL , Encourages Organogenesis Holdings Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com/news-releases/rosen-national-investor-counsel-encourages-organogenesis-holdings-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action--orgo-301452004.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , LEADING TRIAL ATTORNEYS , Encourages Exicure , Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com/news-releases/rosen-leading-trial-attorneys-encourages-exicure-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action--xcur-301452205.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "knau.org",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.knau.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.knau.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "news.wfsu.org",
+        "language": "English",
+        "seendate": "20220101T204500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://news.wfsu.org/all-npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://news.wfsu.org/all-npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "kazu.org",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kazu.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kazu.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "richmond.com",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/bc/abcd1bf0-9090-5f0e-b0f1-24ae7b64a8fb/61c24ea877071.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Facebook became Meta \u2013 and the company dangerous behavior came into focus in 2021 : 4 essential reads",
+        "url": "https://richmond.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_abcd1bf0-9090-5f0e-b0f1-24ae7b64a8fb.html",
+        "url_mobile": "https://richmond.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_abcd1bf0-9090-5f0e-b0f1-24ae7b64a8fb.amp.html"
+      },
+      {
+        "domain": "pnj.com",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "https://www.gannett-cdn.com/-mm-/8dd3c787d246ba10f44cbe8873960179f535d8e8/c=0-516-3534-2504/local/-/media/2017/07/14/Pensacola/B9328468625Z.1_20170714130651_000_G23J0IFM9.1-0.jpg?auto=webp&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Quint Studer : New Year resolution for 2022 :  Drop the Rock  ",
+        "url": "https://www.pnj.com/story/money/business/2022/01/01/quint-studer-new-years-resolution-2022-drop-rock/9011844002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Food and Shelter . Thanks Fed ! \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/food-and-shelter-thanks-fed/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "AT & T and Verizon may have to delay 5G deployments another two weeks over airline safety fears",
+        "url": "https://www.msn.com/en-us/money/technology/at-26t-and-verizon-may-have-to-delay-5g-deployments-another-two-weeks-over-airline-safety-fears/ar-AASleFS",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Market Extra : The S & P 500 beat both Dow , and Nasdaq in 2021 by the widest margin in 24 years . Here what history says happens in 2022 . ",
+        "url": "https://forextv.com/market-news/market-extra-the-sp-500-beat-both-dow-and-nasdaq-in-2021-by-the-widest-margin-in-24-years-heres-what-history-says-happens-in-2022/",
+        "url_mobile": "https://forextv.com/market-news/market-extra-the-sp-500-beat-both-dow-and-nasdaq-in-2021-by-the-widest-margin-in-24-years-heres-what-history-says-happens-in-2022/amp/"
+      },
+      {
+        "domain": "kawc.org",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kawc.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kawc.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "axios.com",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "https://images.axios.com/ZdK4Sh1jUnBUoCvqpemf7-YzB4g=/0x208:4535x2759/1366x768/2022/01/01/1641050773451.jpg",
+        "sourcecountry": "United States",
+        "title": "Chief Justice John Roberts pushes back on outside efforts to reform courts",
+        "url": "https://www.axios.com/chief-justice-stresses-judicial-independence-6165dca0-85ef-474f-b41a-da9fa77f7bd7.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The biggest mistake Dotcom paper millionaires made was exercising their options in one tax year and selling them in another . \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/the-biggest-mistake-dotcom-paper-millionaires-made-was-exercising-their-options-in-one-tax-year-and-selling-them-in-another/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "https://images.barrons.com/im-455334/social",
+        "sourcecountry": "United States",
+        "title": "Cruise Operators Are Sailing On Despite Omicron",
+        "url": "https://www.marketwatch.com/articles/cruise-operators-are-sailing-despite-omicron-the-stocks-are-holding-up-51641067397",
+        "url_mobile": ""
+      },
+      {
+        "domain": "qctimes.com",
+        "language": "English",
+        "seendate": "20220101T203000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/1/45/145053dd-6082-546f-a5b8-bf75bb927743/61c24e72721b5.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Facebook became Meta \u2013 and the company dangerous behavior came into focus in 2021 : 4 essential reads",
+        "url": "https://qctimes.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_145053dd-6082-546f-a5b8-bf75bb927743.html",
+        "url_mobile": "https://qctimes.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_145053dd-6082-546f-a5b8-bf75bb927743.amp.html"
+      },
+      {
+        "domain": "wjrz.com",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://wjrz.com/wp-content/uploads/sites/28/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://wjrz.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "postbulletin.com",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://fcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com/postbulletin/binary/Boomer Grandpa_binary_5040728.jpg",
+        "sourcecountry": "United States",
+        "title": "The spy who loved Hallmark movies",
+        "url": "https://www.postbulletin.com/community/the-spy-who-loved-hallmark-movies",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kvnf.org",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kvnf.org/covid-19/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kvnf.org/covid-19/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "kacu.org",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kacu.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kacu.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "northernpublicradio.org",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.northernpublicradio.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.northernpublicradio.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "kclu.org",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kclu.org/healthcare/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kclu.org/healthcare/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "sunny943.com",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://sunny943.com/wp-content/uploads/sites/52/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://sunny943.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "radio.wpsu.org",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://radio.wpsu.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://radio.wpsu.org/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "rawstory.com",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://www.rawstory.com/media-library/image.jpg?id=28690332",
+        "sourcecountry": "United States",
+        "title": "Wall Street ends tumultuous year near record highs",
+        "url": "https://www.rawstory.com/wall-street-ends-tumultuous-year-near-record-highs/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "rawstory.com",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://www.rawstory.com/media-library/image.jpg?id=28689044",
+        "sourcecountry": "United States",
+        "title": "Chief Justice Roberts says judges need  rigorou training on stock - trading rules",
+        "url": "https://www.rawstory.com/u-s-chief-justice-says-judges-need-rigorous-training-on-stock-trading-rules/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bpr.org",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.bpr.org/post/us-covid-cases-continue-skyrocket-and-disruptions-abound-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "journalstar.com",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/f/32/f328db9f-02e9-51c0-8856-f140f9508e5c/61c24efc61587.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Facebook became Meta \u2013 and the company dangerous behavior came into focus in 2021 : 4 essential reads",
+        "url": "https://journalstar.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_f328db9f-02e9-51c0-8856-f140f9508e5c.html",
+        "url_mobile": "https://journalstar.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_f328db9f-02e9-51c0-8856-f140f9508e5c.amp.html"
+      },
+      {
+        "domain": "christianpost.com",
+        "language": "English",
+        "seendate": "20220101T201500Z",
+        "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/62/246259.jpg",
+        "sourcecountry": "United States",
+        "title": "Churches using big data to target new members",
+        "url": "https://www.christianpost.com:443/us/churches-using-big-data-to-target-new-members.html",
+        "url_mobile": "https://www.christianpost.com/amp/churches-using-big-data-to-target-new-members.html"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , LEADING TRIAL ATTORNEYS , Encourages Exicure , Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-leading-trial-attorneys-encourages-exicure-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action--xcur-301452205.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/Xq3pA7DIK4pBWpZL1wa2Sw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/uu/api/res/1.2/BFr4Wsst7KawaVzeU4QXSA--~B/aD0yMzM0O3c9MzExMjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/ffe068ca831d3c253bfe8683fd54c2ab",
+        "sourcecountry": "United States",
+        "title": "Trump - appointed FDIC chair will resign after battle with Democratic bank regulators",
+        "url": "https://news.yahoo.com/trump-appointed-fdic-chair-resign-185203983.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/trump-appointed-fdic-chair-resign-185203983.html"
+      },
+      {
+        "domain": "k1047.com",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "https://k1047.com/wp-content/uploads/sites/49/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://k1047.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2022/01/106993537-1640303010027-Eric_LeVine_CellarTracker.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "An App Beloved by Wine Geeks Grew During the Pandemic . The Founder Explains What Next",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/3093917/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/3093917/?amp"
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Abiomed , Inc . ( NASDAQ : ABMD ) Shares Sold by Bbva united states ",
+        "url": "https://etfdailynews.com/news/abiomed-inc-nasdaqabmd-shares-sold-by-bbva-usa/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Deutsche Bank AG Has $140 . 52 Million Stock Position in Citrix Systems , Inc . ( NASDAQ : CTXS ) ",
+        "url": "https://etfdailynews.com/news/deutsche-bank-ag-has-140-52-million-stock-position-in-citrix-systems-inc-nasdaqctxs/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "https://images.mktw.net/im-460586/social",
+        "sourcecountry": "United States",
+        "title": "The S & P 500 beat both Dow , and Nasdaq in 2021 by the widest margin in 24 years . Here what history says happens in 2022 . ",
+        "url": "https://www.marketwatch.com/story/the-s-p-500-beat-both-dow-and-nasdaq-in-2021-by-the-widest-margin-in-24-years-heres-what-history-says-happens-next-year-11641064618",
+        "url_mobile": "https://www.marketwatch.com/amp/story/the-s-p-500-beat-both-dow-and-nasdaq-in-2021-by-the-widest-margin-in-24-years-heres-what-history-says-happens-next-year-11641064618"
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Financial Comparison : Quotient Technology ( QUOT ) & Its Peers",
+        "url": "https://etfdailynews.com/news/financial-comparison-quotient-technology-quot-its-peers/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "npr.org",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_wide-343923b494f95dc6aad21da0a21ea1824a7d90ce.jpg?s=1400",
+        "sourcecountry": "United States",
+        "title": "COVID cases continue to skyrocket and travel disruptions abound as 2022 begins : Coronavirus Updates : NPR",
+        "url": "https://www.npr.org/sections/coronavirus-live-updates/2022/01/01/1069647633/covid-us-travel-flights-canceled-colleges",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TRUSTED NATIONAL TRIAL COUNSEL , Encourages Peloton Interactive , Inc . Investors to Secure Counsel Before Important January 18 Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-trusted-national-trial-counsel-encourages-peloton-interactive-inc-investors-to-secure-counsel-before-important-january-18-deadline-in-securities-class-action--pton-301451984.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kunc.org",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kunc.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kunc.org/npr-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "wfae.org",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wfae.org/united-states-world/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.wfae.org/united-states-world/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220101T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TOP RANKED GLOBAL INVESTOR COUNSEL , Encourages StoneCo Ltd . Investors with Losses to Secure Counsel Before Important January 18 Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-top-ranked-global-investor-counsel-encourages-stoneco-ltd-investors-with-losses-to-secure-counsel-before-important-january-18-deadline-in-securities-class-action--stne-301452203.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/01/D_8e44bimage_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "New Variant Greets New Year : Top Trade Q1 2022",
+        "url": "https://menafn.com/1103473051/New-Variant-Greets-New-Year-Top-Trade-Q1-2022&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "iowapublicradio.org",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.iowapublicradio.org/news-from-npr/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.iowapublicradio.org/news-from-npr/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/01/GT_c1c5cimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Qatar - Bitcoin ends its bang of a 2021 with a December whim ... ",
+        "url": "https://menafn.com/1103473053/Qatar-Bitcoin-ends-its-bang-of-a-2021-with-a-December-whimper&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Trump appointee resigns as FDIC chairman following clash with Democratic colleagues",
+        "url": "https://www.msn.com/en-us/news/politics/trump-appointee-resigns-as-fdic-chair-following-clash-with-democratic-colleagues/ar-AASl7VC",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wusfnews.wusf.usf.edu",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://wusfnews.wusf.usf.edu/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kpbs.org",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kpbs.org/news/national/2022/01/01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/01/GT_c1c5cimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Qatar - Bitcoin ends its bang of a 2021 with a December whim ... ",
+        "url": "https://menafn.com/1103473053/Qatar-Bitcoin-ends-its-bang-of-a-2021-with-a-December-whimper&source=26",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hpcwire.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "AMD and Xilinx Provide Update Regarding Expected Timing of Acquisition Close",
+        "url": "https://www.hpcwire.com/off-the-wire/amd-and-xilinx-provide-update-regarding-expected-timing-of-acquisition-close/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gazettextra.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/gazettextra.com/content/tncms/assets/v3/editorial/7/aa/7aaf9cce-f366-59f9-ba25-161400d749eb/5a78945e73120.image.jpg?crop=1000%2C525%2C0%2C92",
+        "sourcecountry": "United States",
+        "title": "City of Janesville declares winter weather emergency starting Saturday evening",
+        "url": "https://www.gazettextra.com/news/local/city-of-janesville-declares-winter-weather-emergency-starting-saturday-evening/article_52d02222-6b1c-11ec-b1f7-7fd404dfa766.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://media.nbclosangeles.com/2022/01/106993537-1640303010027-Eric_LeVine_CellarTracker.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "An App Beloved by Wine Geeks Grew During the Pandemic . The Founder Explains What Next",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/2789277/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/2789277/?amp"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/01/D_8e44bimage_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "New Variant Greets New Year : Top Trade Q1 2022",
+        "url": "https://menafn.com/1103473051/New-Variant-Greets-New-Year-Top-Trade-Q1-2022&source=26",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nwitimes.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/a9/6a96fb37-1fe0-5479-8221-92f18f643f59/61c24f32746ea.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Facebook became Meta \u2013 and the company dangerous behavior came into focus in 2021 : 4 essential reads",
+        "url": "https://www.nwitimes.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_6a96fb37-1fe0-5479-8221-92f18f643f59.html",
+        "url_mobile": "https://www.nwitimes.com/lifestyles/technology/facebook-became-meta-and-the-companys-dangerous-behavior-came-into-focus-in-2021-4-essential/article_6a96fb37-1fe0-5479-8221-92f18f643f59.amp.html"
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://media.nbcmiami.com/2022/01/106993537-1640303010027-Eric_LeVine_CellarTracker.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "An App Beloved by Wine Geeks Grew During the Pandemic . The Founder Explains What Next",
+        "url": "https://www.nbcmiami.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/2652495/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/2652495/?amp"
+      },
+      {
+        "domain": "kosu.org",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kosu.org/u-s-news/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kalw.org",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.kalw.org/coronavirus/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.kalw.org/coronavirus/2022-01-01/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220101T194500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/01/GT_c1c5cimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Qatar - Bitcoin ends its bang of a 2021 with a December whim ... ",
+        "url": "https://menafn.com/1103473053/Qatar-Bitcoin-ends-its-bang-of-a-2021-with-a-December-whimper&source=21",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wjbr.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "https://wjbr.com/wp-content/uploads/sites/84/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://wjbr.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "freerepublic.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Latest Articles",
+        "url": "https://freerepublic.com/tag/*/index?more=4025930",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659297/gettyimages-1320686132.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Growth Stocks Poised for a Bull Run in 2022",
+        "url": "https://www.fool.com/investing/2022/01/01/3-growth-stocks-poised-for-a-bull-run-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "towleroad.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "https://www.towleroad.com/wp-content/uploads/2022/01/472957-origin_1.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . Chief Justice Says Judges Need  rigorou Training On Stock - trading Rules",
+        "url": "https://www.towleroad.com/2022/01/u-s-chief-justice-says-judges-need-rigorous-training-on-stock-trading-rules/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2022/01/106993537-1640303010027-Eric_LeVine_CellarTracker.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "An App Beloved by Wine Geeks Grew During the Pandemic . The Founder Explains What Next",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/2682495/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/2682495/?amp"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659314/gettyimages-1321334275.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Red - Hot Growth Stocks to Buy in 2022 and Beyond",
+        "url": "https://www.fool.com/investing/2022/01/01/3-red-hot-growth-stocks-to-buy-in-2022-and-beyond/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659506/top-stocks-for-2022.jpg",
+        "sourcecountry": "United States",
+        "title": "2 Top Growth Stocks to Buy for 2022 | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/01/2-top-growth-stocks-to-buy-for-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcsandiego.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "https://media.nbcsandiego.com/2022/01/106993537-1640303010027-Eric_LeVine_CellarTracker.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "An App Beloved by Wine Geeks Grew During the Pandemic . The Founder Explains What Next",
+        "url": "https://www.nbcsandiego.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/2828956/",
+        "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/2828956/?amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "AT & T and Verizon may have to delay 5G deployments another two weeks over airline safety fears",
+        "url": "https://www.msn.com/en-us/money/technology/at-t-and-verizon-may-have-to-delay-5g-deployments-another-two-weeks-over-airline-safety-fears/ar-AASleF6",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658675/a-person-pointing-to-a-chart-showing-an-up-arrow-towards-2022.jpg",
+        "sourcecountry": "United States",
+        "title": "If I Could Buy Only 1 Stock in 2022 , This Would Be It",
+        "url": "https://www.fool.com/investing/2022/01/01/if-i-could-buy-only-1-stock-in-2022-this-would-be/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kiss951.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "https://kiss951.com/wp-content/uploads/sites/48/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://kiss951.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "unionleader.com",
+        "language": "English",
+        "seendate": "20220101T190000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/8/42/8428edfb-0a6a-5d5f-8bed-902ec6bd52f7/61d0643dd97b6.image.jpg?crop=1007%2C529%2C0%2C490",
+        "sourcecountry": "United States",
+        "title": "How do you make a 44 - year - old animatronic rodent appeal to today kids ? ",
+        "url": "https://www.unionleader.com/nh/nh/arts_and_ent/how-do-you-make-a-44-year-old-animatronic-rodent-appeal-to-todays-kids/article_729b2d0c-198c-5729-a7c3-d6c4db052527.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mynspr.org",
+        "language": "English",
+        "seendate": "20220101T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How schools are preparing to reopen as COVID - 19 rages on",
+        "url": "https://www.mynspr.org/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on",
+        "url_mobile": "https://www.mynspr.org/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on?_amp=true"
+      },
+      {
+        "domain": "nbcdfw.com",
+        "language": "English",
+        "seendate": "20220101T184500Z",
+        "socialimage": "https://media.nbcdfw.com/2022/01/106993537-1640303010027-Eric_LeVine_CellarTracker.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "An App Beloved by Wine Geeks Grew During the Pandemic . The Founder Explains What Next",
+        "url": "https://www.nbcdfw.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/2849825/",
+        "url_mobile": "https://www.nbcdfw.com/news/business/money-report/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/2849825/?amp"
+      },
+      {
+        "domain": "bdnews24.com",
+        "language": "English",
+        "seendate": "20220101T184500Z",
+        "socialimage": "https://d30fl32nd2baj9.cloudfront.net/media/2022/01/02/memory-chamber-010122-01-smr.jpg/BINARY/memory-chamber-010122-01-smr.jpg",
+        "sourcecountry": "Bangladesh",
+        "title": "An exhibit meant to showcase Kurdish suffering provoked a furore instead",
+        "url": "https://bdnews24.com/world/europe/2022/01/02/an-exhibit-meant-to-showcase-kurdish-suffering-provoked-a-furore-instead",
+        "url_mobile": "https://m.bdnews24.com/amp/en/detail/world/1993293"
+      },
+      {
+        "domain": "github.com",
+        "language": "English",
+        "seendate": "20220101T184500Z",
+        "socialimage": "https://repository-images.githubusercontent.com/118858739/dc0ee080-6ab8-11e9-8b5e-e448b8fe667c",
+        "sourcecountry": "United States",
+        "title": "GitHub - dwmkerr / hacker - laws : \ud83d\udcbb\ud83d\udcd6 Laws , Theories , Principles and Patterns that developers will find useful . # hackerlaws",
+        "url": "https://github.com/dwmkerr/hacker-laws",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220101T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , GLOBALLY RESPECTED INVESTOR COUNSEL , Encourages Baidu Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-globally-respected-investor-counsel-encourages-baidu-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action--bidu-301452202.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220101T183000Z",
+        "socialimage": "",
+        "sourcecountry": "Taiwan",
+        "title": "Asian shares mixed with scant trading on New Year Eve",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2022/01/02/2003770557",
+        "url_mobile": ""
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220101T183000Z",
+        "socialimage": "https://www.taipeitimes.com/images/2022/01/02/p10-220102-9999.jpg",
+        "sourcecountry": "Taiwan",
+        "title": "Wall Street ends year near record highs",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2022/01/02/2003770552",
+        "url_mobile": ""
+      },
+      {
+        "domain": "995qyk.com",
+        "language": "English",
+        "seendate": "20220101T183000Z",
+        "socialimage": "https://995qyk.com/wp-content/uploads/sites/80/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://995qyk.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220101T183000Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/52.jpg",
+        "sourcecountry": "",
+        "title": "China Xiangtai Food Co . Ltd . ( NASDAQ : PLIN ) Has Decreased By 43 . 61 Percent This Year . Is It A Better Buy Than Others ? ",
+        "url": "https://marketingsentinel.com/2022/01/01/china-xiangtai-food-co-ltd-nasdaq-plin-has-decreased-by-43-61-percent-this-year-is-it-a-better-buy-than-others/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "freerepublic.com",
+        "language": "English",
+        "seendate": "20220101T181500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Latest Articles",
+        "url": "https://freerepublic.com/tag/*/index?more=4025919",
+        "url_mobile": ""
+      },
+      {
+        "domain": "montreal.ctvnews.ca",
+        "language": "English",
+        "seendate": "20220101T181500Z",
+        "socialimage": "https://www.ctvnews.ca/polopoly_fs/1.5287228.1611892609!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+        "sourcecountry": "Canada",
+        "title": "Quebec investors should temper their expectations in 2022 : analysts",
+        "url": "https://montreal.ctvnews.ca/quebec-investors-should-temper-their-expectations-in-2022-analysts-1.5725145",
+        "url_mobile": "https://beta.ctvnews.ca/local/montreal/2022/1/1/1_5725145.html"
+      },
+      {
+        "domain": "vpm.org",
+        "language": "English",
+        "seendate": "20220101T181500Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "How schools are preparing to reopen as COVID - 19 rages on",
+        "url": "https://vpm.org/articles/npr/1069611002/how-schools-are-preparing-to-reopen-as-covid-19-rages-on",
+        "url_mobile": ""
+      },
+      {
+        "domain": "city-sentinel.com",
+        "language": "English",
+        "seendate": "20220101T181500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/city-sentinel.com/content/tncms/assets/v3/editorial/b/b5/bb5f0510-6b17-11ec-82b2-db80444844b5/61d073dad9171.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end 2021 on a weak note , still notch big yearly gain",
+        "url": "https://www.city-sentinel.com/townnews/finance/stocks-end-2021-on-a-weak-note-still-notch-big-yearly-gain/article_8ecb59f4-6b17-11ec-a7a3-f39c95f8f208.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "rollingstone.com",
+        "language": "English",
+        "seendate": "20220101T181500Z",
+        "socialimage": "https://www.rollingstone.com/wp-content/uploads/2021/12/AP337969140071c_.jpg",
+        "sourcecountry": "United States",
+        "title": "The Business Plot Against FDR and America You Never Heard About",
+        "url": "https://www.rollingstone.com/politics/politics-features/coup-jan6-fdr-new-deal-business-plot-1276709/",
+        "url_mobile": "https://www.rollingstone.com/politics/politics-features/coup-jan6-fdr-new-deal-business-plot-1276709/amp/"
+      },
+      {
+        "domain": "nbcnews.com",
+        "language": "English",
+        "seendate": "20220101T181500Z",
+        "socialimage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211229-general-motors-electric-hummer-production-line-se-517p-84f05f.jpg",
+        "sourcecountry": "United States",
+        "title": "What ahead for the auto industry in 2022 ? ",
+        "url": "https://www.nbcnews.com/business/autos/going-change-auto-industry-2022-rcna10350",
+        "url_mobile": "https://www.nbcnews.com/news/amp/rcna10350"
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220101T180000Z",
+        "socialimage": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V3RPMCTKQMI6ZE4Q5LRED5GIWE.jpg",
+        "sourcecountry": "United States",
+        "title": "Trump FDIC appointee resigns following clash with Democratic colleagues",
+        "url": "https://www.washingtonpost.com/business/2022/01/01/trump-appointee-resigns-fdic/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "limaohio.com",
+        "language": "English",
+        "seendate": "20220101T180000Z",
+        "socialimage": "https://d31029zd06w0t6.cloudfront.net/wp-content/uploads/sites/54/2022/01/web1_TS-FOREVER21-JCPENNEY-DMT.jpg",
+        "sourcecountry": "United States",
+        "title": "What Forever 21 doing inside J . C . Penney ? ",
+        "url": "https://www.limaohio.com/features/lifestyle/491536/whats-forever-21-doing-inside-j-c-penney",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220101T180000Z",
+        "socialimage": "https://www.morningstar.com/assets/img/marketwatch.dad5abb.png",
+        "sourcecountry": "China",
+        "title": "Bitcoin computational power may double and make the market more secure in 2022",
+        "url": "https://www.morningstar.com/news/marketwatch/20220101104/bitcoins-computational-power-may-double-and-make-the-market-more-secure-in-2022",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gillettenewsrecord.com",
+        "language": "English",
+        "seendate": "20220101T180000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/gillettenewsrecord.com/content/tncms/assets/v3/editorial/1/ac/1ac6d048-5321-592f-a758-9c53bb0c9b52/61ce1be116483.image.jpg?crop=365%2C365%2C73%2C0",
+        "sourcecountry": "United States",
+        "title": "Final goodbye : Recalling influential people who died in 2021",
+        "url": "https://www.gillettenewsrecord.com/news/national_world/article_c20430d8-8e91-51cb-8101-fba1100da7f4.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220101T174500Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/11/where-to-buy-peloton-stock-dip.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Is Peloton stock a buy as it formed a bullish divergence pattern ? ",
+        "url": "https://invezz.com/news/2022/01/01/is-peloton-stock-a-buy-as-it-formed-a-bullish-divergence-pattern/",
+        "url_mobile": "https://invezz.com/news/2022/01/01/is-peloton-stock-a-buy-as-it-formed-a-bullish-divergence-pattern/?amp"
+      },
+      {
+        "domain": "kasu.org",
+        "language": "English",
+        "seendate": "20220101T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How schools are preparing to reopen as COVID - 19 rages on",
+        "url": "https://www.kasu.org/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on",
+        "url_mobile": "https://www.kasu.org/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on?_amp=true"
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220101T174500Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2021-12/Silver.jpg?itok=I_y0H8Lk",
+        "sourcecountry": "United States",
+        "title": "How To Survive The Mega Collapse Of 2022",
+        "url": "https://www.zerohedge.com/markets/how-survive-mega-collapse-2022",
+        "url_mobile": ""
+      },
+      {
+        "domain": "health.wusf.usf.edu",
+        "language": "English",
+        "seendate": "20220101T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How schools are preparing to reopen as COVID - 19 rages on",
+        "url": "https://health.wusf.usf.edu/npr-health/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on",
+        "url_mobile": "https://health.wusf.usf.edu/npr-health/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on?_amp=true"
+      },
+      {
+        "domain": "cointelegraph.com",
+        "language": "English",
+        "seendate": "20220101T174500Z",
+        "socialimage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvOGMxYThlYzktNWM5ZS00ZTdjLTlhNzQtNDA0NmJlYzcxYmQwLmpwZw==.jpg",
+        "sourcecountry": "China",
+        "title": "The year for Bitcoin A 2021 roundup of the flagship crypto",
+        "url": "https://cointelegraph.com/news/the-year-for-bitcoin-a-2021-roundup-of-the-flagship-crypto",
+        "url_mobile": "https://cointelegraph.com/news/the-year-for-bitcoin-a-2021-roundup-of-the-flagship-crypto/amp"
+      },
+      {
+        "domain": "emarketer.com",
+        "language": "English",
+        "seendate": "20220101T173000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Amazon makes a bet on department stores",
+        "url": "https://www.emarketer.com/content/amazons-bet-on-department-stores",
+        "url_mobile": ""
+      },
+      {
+        "domain": "politico.com",
+        "language": "English",
+        "seendate": "20220101T173000Z",
+        "socialimage": "https://static.politico.com/ec/10/74a6ebed4cb09d094f8e56a6af1d/220101-lincoln-memorial-ap-1160.jpg",
+        "sourcecountry": "United States",
+        "title": "POLITICO Playbook : Welcome to 2022",
+        "url": "https://www.politico.com/newsletters/playbook/2022/01/01/welcome-to-2022-495558",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220101T173000Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/46.jpg",
+        "sourcecountry": "",
+        "title": "ACV Auctions Inc . ( NASDAQ : ACVA ): Can A Stock Be Down - 39 . 71 % YTD , And Still Be A Loser",
+        "url": "https://marketingsentinel.com/2022/01/01/acv-auctions-inc-nasdaq-acva-can-a-stock-be-down-39-71-ytd-and-still-be-a-loser/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220101T173000Z",
+        "socialimage": "https://images.barrons.com/im-451836/social",
+        "sourcecountry": "United States",
+        "title": "XPeng , NIO , Li Auto Report Big December Deliveries . That Good For Tesla . ",
+        "url": "https://www.marketwatch.com/articles/xpeng-nio-li-auto-report-big-december-deliveries-thats-good-for-tesla-51641056522",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hd983.com",
+        "language": "English",
+        "seendate": "20220101T173000Z",
+        "socialimage": "https://hd983.com/wp-content/uploads/sites/37/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://hd983.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "lmtonline.com",
+        "language": "English",
+        "seendate": "20220101T173000Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/34/71/21876289/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "The Plot Against American Democracy That Isnt Taught in Schools",
+        "url": "https://www.lmtonline.com/entertainment/article/The-Plot-Against-American-Democracy-That-Isn-t-16741914.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220101T173000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "An app beloved by wine geeks grew during the pandemic . The founder explains what next",
+        "url": "https://www.msn.com/en-us/money/companies/an-app-beloved-by-wine-geeks-grew-during-the-pandemic-the-founder-explains-whats-next/ar-AASlbml",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220101T173000Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/34/71/21876289/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "The Plot Against American Democracy That Isnt Taught in Schools",
+        "url": "https://www.chron.com/entertainment/article/The-Plot-Against-American-Democracy-That-Isn-t-16741914.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wmtram.com",
+        "language": "English",
+        "seendate": "20220101T171500Z",
+        "socialimage": "https://wmtram.com/wp-content/uploads/sites/12/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://wmtram.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220101T171500Z",
+        "socialimage": "https://ml-eu.globenewswire.com/media/MjQ3Y2U3MDUtODlkMC00MTI0LWJhNDgtNmZjYTBiNzY1YzYyLTEwMjI5OTk=/tiny/Eolus-Vind-AB.png",
+        "sourcecountry": "Germany",
+        "title": "Eolus Vind AB : Eolus to sell its first stand alone battery storage project in the United States to Aypa",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54874993-eolus-vind-ab-eolus-to-sell-its-first-stand-alone-battery-storage-project-in-the-united-states-to-aypa-399.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220101T171500Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2021/05/25/john-roberts-1200x800.jpg",
+        "sourcecountry": "United States",
+        "title": "Supreme Court Roberts Says Judges Must be Ethical After Over 100 Caught Violating Rule",
+        "url": "https://www.theepochtimes.com/supreme-courts-roberts-says-judges-must-be-ethical-after-over-100-caught-violating-rule_4188383.html",
+        "url_mobile": "https://www.theepochtimes.com/supreme-courts-roberts-says-judges-must-be-ethical-after-over-100-caught-violating-rule_4188383.html/amp"
+      },
+      {
+        "domain": "businesswire.com",
+        "language": "English",
+        "seendate": "20220101T171500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Satellogic Announces Development of High - Throughput Manufacturing Plant in the Netherlands",
+        "url": "https://www.businesswire.com/news/home/20211228005057/en/Satellogic-Announces-Development-of-High-Throughput-Manufacturing-Plant-in-the-Netherlands",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659506/top-stocks-for-2022.jpg",
+        "sourcecountry": "United States",
+        "title": "2 Top Growth Stocks to Buy for 2022 | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/01/2-top-growth-stocks-to-buy-for-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kxly.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/01/x/t/45245cced28cc022d657978dc30430840653d1bd.jpg",
+        "sourcecountry": "United States",
+        "title": "Better Buy for 2022 : Growth Stocks , Value Stocks , or Cryptocurrency",
+        "url": "https://www.kxly.com/i/better-buy-for-2022-growth-stocks-value-stocks-or-cryptocurrency/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "arabnews.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://www.arabnews.com/sites/default/files/main-image/2022/01/01/2993166-319167711.jpg",
+        "sourcecountry": "Saudi Arabia",
+        "title": "Global stocks end 2021 with losses after a strong year",
+        "url": "https://www.arabnews.com/node/1996391/business-economy",
+        "url_mobile": "https://www.arabnews.com/node/1996391/amp"
+      },
+      {
+        "domain": "marconews.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2021/12/31/USAT/c6f30382-3723-4503-993d-ed207cf94113-AP21363572103065.jpg?auto=webp&crop=2164,1218,x0,y109&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "COVID - 19 news : US surpasses 2 million cases in one week for first time",
+        "url": "https://www.marconews.com/story/news/health/2021/12/31/covid-omicron-us-cases-updates/9059897002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.ca",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "Why Nuvei Stock Tanked 33 % in December | The Motley Fool Canada",
+        "url": "https://www.fool.ca/2022/01/01/why-nuvei-stock-tanked-33-in-december/",
+        "url_mobile": "https://www.fool.ca/2022/01/01/why-nuvei-stock-tanked-33-in-december/amp/"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659430/stock-fluctuation.jpg",
+        "sourcecountry": "United States",
+        "title": "Why a Company Performance Doesnt Always Translate in Its Stock",
+        "url": "https://www.fool.com/investing/2022/01/01/why-a-companys-performance-doesnt-always-translate/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "b1039.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://b1039.com/wp-content/uploads/sites/59/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://b1039.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659424/retail-department-stores-kohls-kss.jpg",
+        "sourcecountry": "United States",
+        "title": "1 Retail Stock Warren Buffett Would Love for 2022",
+        "url": "https://www.fool.com/investing/2022/01/01/1-retail-stock-warren-buffett-would-love-for-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kxly.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/01/y/o/463acb3144c282981de61494f746e0706a1bfcc0.jpg",
+        "sourcecountry": "United States",
+        "title": "This Could Be the Best Place to Invest Your Money in 2022",
+        "url": "https://www.kxly.com/i/this-could-be-the-best-place-to-invest-your-money-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "timesnews.net",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/c/b1/cb1e676b-c0f2-5b39-bbc9-1d65b6b28312/61cdfb541cdb4.image.jpg?crop=1706%2C896%2C0%2C159",
+        "sourcecountry": "United States",
+        "title": "Final goodbye : Recalling influential people who died in 2021",
+        "url": "https://www.timesnews.net/news/nation-world/final-goodbye-recalling-influential-people-who-died-in-2021/article_57a9572d-27e7-59df-8b8d-d295d3c2ba4d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659068/a-person-picks-up-a-prescription-at-a-pharmacy.jpg",
+        "sourcecountry": "United States",
+        "title": "These 3 Stocks Just Hiked Their Dividends : Should You Buy Them ? ",
+        "url": "https://www.fool.com/investing/2022/01/01/these-3-stocks-just-hiked-their-dividends-should-y/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659523/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-buy-or-pass-template-46.png",
+        "sourcecountry": "United States",
+        "title": "Making Money With NFTs Without Owning One",
+        "url": "https://www.fool.com/investing/2022/01/01/making-money-with-nfts-without-owning-one/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://d1i4t8bqe7zgj6.cloudfront.net/12-20-2019/t_2c71f60707e54d52bf0ef7aa5d7c84a5_name_cover_online_scaled.jpg",
+        "sourcecountry": "United States",
+        "title": "The ideas , trends and questions that well be talking about for the next 12 months",
+        "url": "https://www.washingtonpost.com/outlook/2019/12/26/year-preview/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "savingadvice.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://c6h8w2u6.stackpathcdn.com/wp-content/uploads/2021/12/d654506b-9108-4827-b564-bddacdcf49e5-scaled.jpg",
+        "sourcecountry": "United States",
+        "title": "Weekly Wrap : Millennials Move Market As Investments Expand And Seniors Face Double Edged Sword",
+        "url": "https://www.savingadvice.com/articles/2022/01/01/1091396_weekly-wrap-millennials-move-market-as-investments-expand-and-seniors-face-double-edged-sword.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T170000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658675/a-person-pointing-to-a-chart-showing-an-up-arrow-towards-2022.jpg",
+        "sourcecountry": "United States",
+        "title": "If I Could Buy Only 1 Stock in 2022 , This Would Be It",
+        "url": "https://www.fool.com/investing/2022/01/01/if-i-could-buy-only-1-stock-in-2022-this-would-be/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Marathon Digital Holdings , Inc . ( NASDAQ : MARA ) Holdings Trimmed by Financial Advocates Investment Management",
+        "url": "https://etfdailynews.com/news/marathon-digital-holdings-inc-nasdaqmara-holdings-trimmed-by-financial-advocates-investment-management/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Brookstone Capital Management Purchases 980 Shares of Amazon . com , Inc . ( NASDAQ : AMZN ) ",
+        "url": "https://etfdailynews.com/news/brookstone-capital-management-purchases-980-shares-of-amazon-com-inc-nasdaqamzn/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "myq105.com",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "https://myq105.com/wp-content/uploads/sites/79/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://myq105.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thehindubusinessline.com",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "https://www.thehindubusinessline.com/portfolio/mutual-funds/iv2dk9/article38088443.ece/ALTERNATES/LANDSCAPE_615/PO02USstock",
+        "sourcecountry": "India",
+        "title": "How did Nasdaq focussed funds perform in 2021 ? - The Hindu BusinessLine",
+        "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/how-did-nasdaq-focussed-funds-perform-in-2021/article38088446.ece",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Analyzing iFresh ( IFMK ) and Its Competitors",
+        "url": "https://etfdailynews.com/news/analyzing-ifresh-ifmk-and-its-competitors/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Shell Asset Management Co . Sells 13 , 784 Shares of BioMarin Pharmaceutical Inc . ( NASDAQ : BMRN ) ",
+        "url": "https://etfdailynews.com/news/shell-asset-management-co-sells-13784-shares-of-biomarin-pharmaceutical-inc-nasdaqbmrn/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "961theeagle.com",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "https://townsquare.media/site/11/files/2021/10/attachment-ralph-ravi-kayden-mR1CIDduGLc-unsplash.jpg?&zc=1&s=0&a=t&q=89",
+        "sourcecountry": "United States",
+        "title": "These are the 9 Most Wealthy Zip Codes in New York State [ List ] ",
+        "url": "https://961theeagle.com/9-wealthiest-zip-codes-new-york/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Financial Advocates Investment Management Invests $440 , 000 in Autodesk , Inc . ( NASDAQ : ADSK ) ",
+        "url": "https://etfdailynews.com/news/financial-advocates-investment-management-invests-440000-in-autodesk-inc-nasdaqadsk/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Peloton Interactive , Inc . ( NASDAQ : PTON ) Shares Bought by Mitsubishi UFJ Kokusai Asset Management Co . Ltd . ",
+        "url": "https://etfdailynews.com/news/peloton-interactive-inc-nasdaqpton-shares-bought-by-mitsubishi-ufj-kokusai-asset-management-co-ltd/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "redriverradio.org",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How schools are preparing to reopen as COVID - 19 rages on",
+        "url": "https://www.redriverradio.org/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on",
+        "url_mobile": "https://www.redriverradio.org/2022-01-01/how-schools-are-preparing-to-reopen-as-covid-19-rages-on?_amp=true"
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T164500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "GDS Holdings Limited ( NASDAQ : GDS ) Shares Sold by Shell Asset Management Co . ",
+        "url": "https://etfdailynews.com/news/gds-holdings-limited-nasdaqgds-shares-sold-by-shell-asset-management-co/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pressrepublican.com",
+        "language": "English",
+        "seendate": "20220101T163000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/pressrepublican.com/content/tncms/assets/v3/editorial/b/d3/bd36e452-6ac2-11ec-a012-9fe5c7efbd0d/61cfe4f53cbaa.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Chief justice : Judges must better avoid financial conflicts",
+        "url": "https://www.pressrepublican.com/news/chief-justice-judges-must-better-avoid-financial-conflicts/article_942bbec0-6ac2-11ec-ba9a-ffee30564162.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stuff.co.nz",
+        "language": "English",
+        "seendate": "20220101T163000Z",
+        "socialimage": "https://resources.stuff.co.nz/content/dam/images/4/y/q/p/k/3/image.related.StuffLandscapeSixteenByNine.1420x800.4ywfst.png/1640217150977.jpg",
+        "sourcecountry": "New Zealand",
+        "title": "Property hogs the headlines but shares are the quiet achievers",
+        "url": "https://www.stuff.co.nz/opinion/300485117/property-hogs-the-headlines-but-shares-are-the-quiet-achievers",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketingsentinel.com",
+        "language": "English",
+        "seendate": "20220101T163000Z",
+        "socialimage": "https://marketingsentinel.com/wp-content/uploads/2020/04/41.jpg",
+        "sourcecountry": "",
+        "title": "After The Stock Fell - 3 . 60 % Over The Week , Is Forte Biosciences Inc . ( NASDAQ : FBRX ) Still A Buy ? ",
+        "url": "https://marketingsentinel.com/2022/01/01/after-the-stock-fell-3-60-over-the-week-is-forte-biosciences-inc-nasdaq-fbrx-still-a-buy/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stuff.co.nz",
+        "language": "English",
+        "seendate": "20220101T163000Z",
+        "socialimage": "https://resources.stuff.co.nz/content/dam/images/4/y/o/m/p/n/image.related.StuffLandscapeSixteenByNine.1420x800.23trzb.png/1640833251386.jpg",
+        "sourcecountry": "New Zealand",
+        "title": "What beginner investors need to know about sharemarket volatility , and how to prepare for a downturn",
+        "url": "https://www.stuff.co.nz/business/money/127360487/what-beginner-investors-need-to-know-about-sharemarket-volatility-and-how-to-prepare-for-a-downturn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220101T163000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/tJ4IySp6wyYwd_kKKEgSrQ--~B/aD01MjA7dz03NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/6588cde20aeef1a473327e3bf823006e",
+        "sourcecountry": "United States",
+        "title": "Best Performing Sector ETFs Of The Year",
+        "url": "https://finance.yahoo.com/news/best-performing-sector-etfs-021500432.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/best-performing-sector-etfs-021500432.html"
+      },
+      {
+        "domain": "foxbusiness.com",
+        "language": "English",
+        "seendate": "20220101T163000Z",
+        "socialimage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/08/0/0/Gas-prices-up-3.jpg?ve=1&tl=1",
+        "sourcecountry": "United States",
+        "title": "Inflation tailwind drives S & P top stocks for 2021",
+        "url": "https://www.foxbusiness.com/markets/inflation-oil-energy-stocks-2021-2022-yearend-outlook",
+        "url_mobile": "https://www.foxbusiness.com/markets/inflation-oil-energy-stocks-2021-2022-yearend-outlook.amp"
+      },
+      {
+        "domain": "morningjournalnews.com",
+        "language": "English",
+        "seendate": "20220101T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Chief justice : Judges must better avoid financial conflicts | News , Sports , Jobs",
+        "url": "http://www.morningjournalnews.com/wire/?category=5266&ID=154752",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ruthfullyyours.com",
+        "language": "English",
+        "seendate": "20220101T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "U . S . Brings a Pea - Shooter to a Gunfight With China BY David P . Goldman",
+        "url": "http://www.ruthfullyyours.com/2022/01/01/u-s-brings-a-pea-shooter-to-a-gunfight-with-china-by-david-p-goldman/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ruthfullyyours.com",
+        "language": "English",
+        "seendate": "20220101T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Is a Pushback Against Soft Despotism Coming in 2022 ? Bruce Thornton \u00a0 The ruling elite are not going to surrender power without a fight . ",
+        "url": "http://www.ruthfullyyours.com/2022/01/01/is-a-pushback-against-soft-despotism-coming-in-2022-bruce-thornton-the-ruling-elite-are-not-going-to-surrender-power-without-a-fight/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "telegraph.co.uk",
+        "language": "English",
+        "seendate": "20220101T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Interest rates will rise and markets may fall , but robust growth looms in 2022",
+        "url": "https://www.telegraph.co.uk/business/2022/01/01/interest-rates-will-rise-markets-may-fall-robust-growth-looms/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "christianpost.com",
+        "language": "English",
+        "seendate": "20220101T160000Z",
+        "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/63/246309.jpg",
+        "sourcecountry": "United States",
+        "title": "  Miracle  no one killed as Colorado fire destroys over 500 homes",
+        "url": "https://www.christianpost.com:443/news/miracle-no-one-killed-as-colorado-fire-destroys-over-500-homes.html",
+        "url_mobile": "https://www.christianpost.com/amp/miracle-no-one-killed-as-colorado-fire-destroys-over-500-homes.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220101T160000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bitcoin computational power may double and make the market more secure in 2022",
+        "url": "https://www.msn.com/en-us/money/markets/bitcoin-s-computational-power-may-double-and-make-the-market-more-secure-in-2022/ar-AAShS5u",
+        "url_mobile": ""
+      },
+      {
+        "domain": "presstv.ir",
+        "language": "English",
+        "seendate": "20220101T160000Z",
+        "socialimage": "",
+        "sourcecountry": "Iran",
+        "title": "US Supreme Court chief justice calls for judicial independence",
+        "url": "https://www.presstv.ir/Detail/2022/01/01/673840/US-Supreme-Court-chief-justice-calls-for-judicial-independence",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theguardian.com",
+        "language": "English",
+        "seendate": "20220101T160000Z",
+        "socialimage": "https://i.guim.co.uk/img/media/349cec26273f8d589fd354435cde7b868eebdfa1/883_215_1747_1048/master/1747.jpg?&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=66762304730a60bd4340cbc98210263c",
+        "sourcecountry": "United Kingdom",
+        "title": "Jamie Dornan right , comfort TV is causing our attention spans to desert us | Rebecca Nicholson",
+        "url": "https://www.theguardian.com/commentisfree/2022/jan/01/jamie-dornan-right-comfort-viewing-attention-spans",
+        "url_mobile": "https://amp.theguardian.com/commentisfree/2022/jan/01/jamie-dornan-right-comfort-viewing-attention-spans"
+      },
+      {
+        "domain": "unionleader.com",
+        "language": "English",
+        "seendate": "20220101T160000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/8/42/8428edfb-0a6a-5d5f-8bed-902ec6bd52f7/61d0643dd97b6.image.jpg?crop=1007%2C529%2C0%2C490",
+        "sourcecountry": "United States",
+        "title": "How do you make a 44 - year - old animatronic rodent appeal to today kids ? ",
+        "url": "https://www.unionleader.com/nh/arts_and_ent/how-do-you-make-a-44-year-old-animatronic-rodent-appeal-to-todays-kids/article_729b2d0c-198c-5729-a7c3-d6c4db052527.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T153000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659146/gettyimages-1317277259.jpg",
+        "sourcecountry": "United States",
+        "title": "2 Stocks That Could Thrive With Rising Inflation",
+        "url": "https://www.fool.com/investing/2022/01/01/2-stocks-that-could-thrive-with-rising-inflation/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "techstory.in",
+        "language": "English",
+        "seendate": "20220101T153000Z",
+        "socialimage": "https://techstory.in/wp-content/uploads/2021/12/93293b7fe2312f2dde0e76145267c026.jpg",
+        "sourcecountry": "India",
+        "title": "71 years of securities exchange information uncovers financial backers might be cheerful in the New Year",
+        "url": "https://techstory.in/71-years-of-securities-exchange-information-uncovers-financial-backers-might-be-cheerful-in-the-new-year/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "omaha.com",
+        "language": "English",
+        "seendate": "20220101T153000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "How Should Investors Analyze a Stock All - Time High ? ",
+        "url": "https://omaha.com/business/investment/personal-finance/how-should-investors-analyze-a-stocks-all-time-high/article_ceee3a95-8a51-5147-bdfb-5aa83b71f90c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "techstory.in",
+        "language": "English",
+        "seendate": "20220101T153000Z",
+        "socialimage": "https://techstory.in/wp-content/uploads/2022/01/100519986-nyse-goldman-sachs-trader-getty.1910x1000_original.jpg",
+        "sourcecountry": "India",
+        "title": "Goldman Sachs has just become bullish on these 5 growth companies for 2022 . ",
+        "url": "https://techstory.in/goldman-sachs-has-just-become-bullish-on-these-5-growth-companies-for-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businessinsider.in",
+        "language": "English",
+        "seendate": "20220101T151500Z",
+        "socialimage": "https://www.businessinsider.in/photo/81605082/warren-buffetts-annual-salary-has-been-100000-for-40-years-heres-a-look-at-the-billionaire-investors-unique-compensation-.jpg?imgsize=400929",
+        "sourcecountry": "India",
+        "title": "Warren Buffett annual salary has been $100 , 000 for 40 years . Here a look at the billionaire investor unique compensation . ",
+        "url": "https://www.businessinsider.in/stock-market/news/warren-buffetts-annual-salary-has-been-100000-for-40-years-heres-a-look-at-the-billionaire-investors-unique-compensation-/articleshow/81605082.cms",
+        "url_mobile": "https://www.businessinsider.in/stock-market/news/warren-buffetts-annual-salary-has-been-100000-for-40-years-heres-a-look-at-the-billionaire-investors-unique-compensation-/amp_articleshow/81605082.cms"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220101T151500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Facebook ( Meta ) Stock : Safety , Privacy , and What to Watch in 2022",
+        "url": "https://www.msn.com/en-us/money/companies/facebook-meta-stock-safety-privacy-and-what-to-watch-in-2022/ar-AASkYV2",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220101T151500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Treasurer of the State of North Carolina Buys 7 , 969 Shares of Citrix Systems , Inc . ( NASDAQ : CTXS ) ",
+        "url": "https://etfdailynews.com/news/treasurer-of-the-state-of-north-carolina-buys-7969-shares-of-citrix-systems-inc-nasdaqctxs/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659268/gettyimages-1198032017.jpg",
+        "sourcecountry": "United States",
+        "title": "4 Red Flags for Weibo Future | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/01/4-red-flags-for-weibos-future/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "omaha.com",
+        "language": "English",
+        "seendate": "20220101T150000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/c1/9c1cdde2-eb70-550e-b0a1-0510cb60ccf6/61d053dfdac5f.image.jpg?crop=700%2C368%2C0%2C49",
+        "sourcecountry": "United States",
+        "title": "Better Buy for 2022 : Growth Stocks , Value Stocks , or Cryptocurrency",
+        "url": "https://omaha.com/business/investment/personal-finance/better-buy-for-2022-growth-stocks-value-stocks-or-cryptocurrency/article_bc15995c-10b2-5693-9c11-f72e7b2f80c2.html",
+        "url_mobile": "https://omaha.com/business/investment/personal-finance/better-buy-for-2022-growth-stocks-value-stocks-or-cryptocurrency/article_bc15995c-10b2-5693-9c11-f72e7b2f80c2.amp.html"
+      },
+      {
+        "domain": "globaltimes.cn",
+        "language": "English",
+        "seendate": "20220101T150000Z",
+        "socialimage": "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-12-05/29d14d20-728e-4271-9dda-49307f0ff6b4.jpeg",
+        "sourcecountry": "China",
+        "title": "US Democracy ? Refer to what Bernie Sanders said",
+        "url": "https://www.globaltimes.cn/page/202112/1241181.shtml",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gadsdentimes.com",
+        "language": "English",
+        "seendate": "20220101T150000Z",
+        "socialimage": "https://www.gannett-cdn.com/presto/2020/08/20/NTGT/f9e9dbd1-59c5-4894-bd37-a82c50bfc3b3-FLOYD_FOR_PRESTO.jpg?auto=webp&crop=741,417,x0,y302&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Progressives a threat to future of U . S . ",
+        "url": "https://www.gadsdentimes.com/story/opinion/columns/2022/01/01/progressives-threat-future-u-s/8996693002/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220101T150000Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cd1219f8bf0ba0ac55465f%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "Retire On These 22 Dividend Stocks In 2022",
+        "url": "https://www.forbes.com/sites/brettowens/2022/01/01/retire-on-these-22-dividend-stocks-in-2022/",
+        "url_mobile": "https://www.forbes.com/sites/brettowens/2022/01/01/retire-on-these-22-dividend-stocks-in-2022/amp/"
+      },
+      {
+        "domain": "npr.org",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+        "sourcecountry": "United States",
+        "title": "How schools are preparing to reopen as COVID - 19 rages on",
+        "url": "https://www.npr.org/2022/01/01/1069611002/how-schools-are-preparing-to-reopen-as-covid-19-rages-on",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658826/a-woman-paying-at-a-cashier-with-another-woman-standing-next-to-her.jpg",
+        "sourcecountry": "United States",
+        "title": "This Stock Could Be a Surprise Growth Pick in 2022",
+        "url": "https://www.fool.com/investing/2022/01/01/this-stock-could-be-a-surprise-growth-pick-in-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658890/smiling-man-at-laptop_gettyimages-491647452.jpg",
+        "sourcecountry": "United States",
+        "title": "This Could Be the Best Place to Invest Your Money in 2022",
+        "url": "https://www.fool.com/investing/2022/01/01/this-could-be-the-best-place-to-invest-your-money/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659179/a-person-with-a-serious-expression-staring-at-a-laptop_gettyimages-833210686.jpg",
+        "sourcecountry": "United States",
+        "title": "If Youre an Emotional Investor , Here What You Need to Do",
+        "url": "https://www.fool.com/investing/2022/01/01/if-youre-an-emotional-investor-heres-what-you-need/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659268/gettyimages-1198032017.jpg",
+        "sourcecountry": "United States",
+        "title": "4 Red Flags for Weibo Future | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/01/4-red-flags-for-weibos-future/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659409/stock-graph-high.jpg",
+        "sourcecountry": "United States",
+        "title": "How Should Investors Analyze a Stock All - Time High ? ",
+        "url": "https://www.fool.com/investing/2022/01/01/how-should-investors-analyze-a-stocks-all-time-hig/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659146/gettyimages-1317277259.jpg",
+        "sourcecountry": "United States",
+        "title": "2 Stocks That Could Thrive With Rising Inflation",
+        "url": "https://www.fool.com/investing/2022/01/01/2-stocks-that-could-thrive-with-rising-inflation/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659444/gettyimages-613241502.jpg",
+        "sourcecountry": "United States",
+        "title": "Is It Too Late to Buy Shopify Stock ? ",
+        "url": "https://www.fool.com/investing/2022/01/01/is-it-too-late-to-buy-shopify-stock/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659314/gettyimages-1321334275.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Red - Hot Growth Stocks to Buy in 2022 and Beyond",
+        "url": "https://www.fool.com/investing/2022/01/01/3-red-hot-growth-stocks-to-buy-in-2022-and-beyond/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658315/a-rocket-launching-from-a-persons-hand.jpg",
+        "sourcecountry": "United States",
+        "title": "2 Breakout Growth Stocks You Can Buy and Hold for the Next Decade",
+        "url": "https://www.fool.com/investing/2022/01/01/2-breakout-growth-stocks-can-buy-and-hold-decade/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "christianpost.com",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/63/246309.jpg",
+        "sourcecountry": "United States",
+        "title": "  Miracle  no one killed as Colorado fire destroys over 500 homes",
+        "url": "https://www.christianpost.com/news/miracle-no-one-killed-as-colorado-fire-destroys-over-500-homes.html",
+        "url_mobile": "https://www.christianpost.com/amp/miracle-no-one-killed-as-colorado-fire-destroys-over-500-homes.html"
+      },
+      {
+        "domain": "businessinsider.com.au",
+        "language": "English",
+        "seendate": "20220101T144500Z",
+        "socialimage": "https://i.insider.com/5f3e4d4dcdf25a001e84e5b1?format=jpeg",
+        "sourcecountry": "Australia",
+        "title": "Warren Buffett annual salary has been $100 , 000 for 40 years . Here a look at the billionaire investor unique compensation . ",
+        "url": "https://www.businessinsider.com.au/warren-buffett-berkshire-hathaway-annual-salary-compensation-40-years-2021-3",
+        "url_mobile": "https://www.businessinsider.com.au/warren-buffett-berkshire-hathaway-annual-salary-compensation-40-years-2021-3/amp"
+      }
+    ]
+  }
+}

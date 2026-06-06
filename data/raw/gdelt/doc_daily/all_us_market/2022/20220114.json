@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-14",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "laosnews.net",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks have mixed day Friday as yields rise , dollar corrects",
+        "url": "https://www.laosnews.net/news/272175242/us-stocks-have-mixed-day-friday-as-yields-rise-dollar-corrects",
+        "url_mobile": ""
+      },
+      {
+        "domain": "phoenixherald.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.phoenixherald.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sandiegosun.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.sandiegosun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "entertainment.inquirer.net",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://entertainment.inquirer.net/files/2020/09/20200909-Netflix--620x356.jpg",
+        "sourcecountry": "Philippines",
+        "title": "Netflix raises monthly subscription prices in U . S ., Canada",
+        "url": "https://entertainment.inquirer.net/433795/netflix-raises-monthly-subscription-prices-in-u-s-canada",
+        "url_mobile": "https://entertainment.inquirer.net/433795/netflix-raises-monthly-subscription-prices-in-u-s-canada/amp"
+      },
+      {
+        "domain": "iberkshires.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://www.iberkshires.com/images/fb_default_im2.jpg",
+        "sourcecountry": "United States",
+        "title": " @ theMarket : Beware the Hikes of March",
+        "url": "https://www.iberkshires.com/blog/4239/theMarketBewaretheHikesofMarch.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "phoenixherald.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Western Acquisition Ventures Corp . Announces Closing of $115 Million Initial Public Offering , Including Full Exercise of Underwriter Over - Allotment Option",
+        "url": "https://www.phoenixherald.com/news/272175337/western-acquisition-ventures-corp-announces-closing-of-115-million-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option",
+        "url_mobile": ""
+      },
+      {
+        "domain": "magicvalley.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/assets/v3/editorial/b/f5/bf5bfa53-b2c9-54a1-917d-237ee57d2c88/61e1e4610bca2.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "5 Best Crypto Exchanges for 2022",
+        "url": "https://magicvalley.com/business/investment/personal-finance/5-best-crypto-exchanges-for-2022/article_f9ab048a-714f-526a-b81b-698fa03dad73.html",
+        "url_mobile": "https://magicvalley.com/business/investment/personal-finance/5-best-crypto-exchanges-for-2022/article_f9ab048a-714f-526a-b81b-698fa03dad73.amp.html"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e1edf355e07e26b48ec5f9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D283%26cropY2%3D1971",
+        "sourcecountry": "United States",
+        "title": "Denmark Latest Country To Join U . S .- Led Diplomatic Boycott Of Beijing Olympics",
+        "url": "https://www.forbes.com/sites/lisakim/2022/01/14/denmark-latest-country-to-join-us-led-diplomatic-boycott-of-beijing-olympics/",
+        "url_mobile": "https://www.forbes.com/sites/lisakim/2022/01/14/denmark-latest-country-to-join-us-led-diplomatic-boycott-of-beijing-olympics/amp/"
+      },
+      {
+        "domain": "chronicle.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "http://chronicle-brightspot.s3.amazonaws.com/d7/06/edc0a92048c3bc7cc16927d91f14/vasquezopms-011422.jpg",
+        "sourcecountry": "United States",
+        "title": "Online Program Management Firms Are Thriving . And These Democrats Want Answers . ",
+        "url": "https://www.chronicle.com/article/online-program-management-firms-are-thriving-and-these-democrats-want-answers",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bruneinews.net",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "U . S . stocks have mixed day Friday as yields rise , dollar corrects",
+        "url": "https://www.bruneinews.net/news/272175242/us-stocks-have-mixed-day-friday-as-yields-rise-dollar-corrects",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wallstreet-online.de",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://assets.wallstreet-online.de/_media/size_645/.",
+        "sourcecountry": "Germany",
+        "title": "Equity Bancshares , Inc . Will Announce Fourth Quarter 2021 Results on January 26 , 2022",
+        "url": "https://www.wallstreet-online.de/nachricht/14911667-equity-bancshares-inc-announce-fourth-quarter-2021-results-on-january-26-2022",
+        "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/14911667-equity-bancshares-inc-announce-fourth-quarter-2021-results-on-january-26-2022"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://images.barrons.com/im-468473/social",
+        "sourcecountry": "United States",
+        "title": "Satellite TV Cant Be Saved With a DirecTV - Dish Merger",
+        "url": "https://www.marketwatch.com/articles/satellite-tv-dish-directv-51642202789",
+        "url_mobile": ""
+      },
+      {
+        "domain": "phoenixherald.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Avinger Announces Closing of $7 . 6 Million Registered Direct Offering",
+        "url": "https://www.phoenixherald.com/news/272175120/avinger-announces-closing-of-76-million-registered-direct-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "phoenixherald.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Pure Cycle Corporation Welcomes Ms . Wanda Abel to its Board of Directors",
+        "url": "https://www.phoenixherald.com/news/272174964/pure-cycle-corporation-welcomes-ms-wanda-abel-to-its-board-of-directors",
+        "url_mobile": ""
+      },
+      {
+        "domain": "phoenixherald.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "New to The Street Announces 8 Interviews for This Week TV Broadcast , Episode # 290 , on NEWSMAX January 16 , 2022 , 10 - 11 AM ET",
+        "url": "https://www.phoenixherald.com/news/272174949/new-to-the-street-announces-8-interviews-for-this-weeks-tv-broadcast-episode-290-on-max-january-16-2022-10-11-am-et",
+        "url_mobile": ""
+      },
+      {
+        "domain": "naturalnews.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/01/Coronavirus-Covid-19-Booster-Vaccine-Vials.jpg",
+        "sourcecountry": "United States",
+        "title": "EU , WHO both warn that covid  booster  shots are dangerous",
+        "url": "https://www.naturalnews.com/2022-01-14-eu-who-warn-covid-booster-shots-dangerous.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/13/V_7f63dimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Tech Stocks Get Crushed Again , Fed Ready To Hike In March",
+        "url": "https://menafn.com/1103537716/Tech-Stocks-Get-Crushed-Again-Fed-Ready-To-Hike-In-March&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.webindia123.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "",
+        "sourcecountry": "India",
+        "title": "Can - Am Off - Road Continues Global Racing Dominance with Fifth Consecutive Win at the Dakar Rally - PRN India News",
+        "url": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1230705&cat=PR%20News%20Wire",
+        "url_mobile": ""
+      },
+      {
+        "domain": "vancouversun.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2021/03/afp_1qs5w5.jpg",
+        "sourcecountry": "Canada",
+        "title": "Netflix raises monthly subscription prices in U . S ., Canada",
+        "url": "https://vancouversun.com/pmn/entertainment-pmn/netflix-raises-monthly-subscription-prices-in-u-s-canada-2/wcm/d3feeb0e-9432-434e-a57e-de43bb052b8b",
+        "url_mobile": "https://vancouversun.com/pmn/entertainment-pmn/netflix-raises-monthly-subscription-prices-in-u-s-canada-2/wcm/d3feeb0e-9432-434e-a57e-de43bb052b8b/amp/"
+      },
+      {
+        "domain": "afghanistannews.net",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "U . S . stocks have mixed day Friday as yields rise , dollar corrects",
+        "url": "https://www.afghanistannews.net/news/272175242/us-stocks-have-mixed-day-friday-as-yields-rise-dollar-corrects",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ctmirror.org",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://dfcby4322olzt.cloudfront.net/wp-content/uploads/2022/01/IMG_4627.jpg",
+        "sourcecountry": "United States",
+        "title": "Facing a potential primary , Larson formalizes his reelection status",
+        "url": "https://ctmirror.org/2022/01/14/facing-a-potential-primary-larson-formalizes-his-reelection-status/",
+        "url_mobile": "https://ctmirror.org/2022/01/14/facing-a-potential-primary-larson-formalizes-his-reelection-status/amp/"
+      },
+      {
+        "domain": "phoenixherald.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Lemelson Capital Management Reports Preliminary FYE 2021 Results",
+        "url": "https://www.phoenixherald.com/news/272173152/lemelson-capital-management-reports-preliminary-fye-2021-results",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/192da1d1-643f-4eee-b850-dde5b9f2b00f?size=1",
+        "sourcecountry": "United States",
+        "title": "INVESTOR ALERT : Kirby McInerney LLP Reminds Investors That",
+        "url": "https://www.globenewswire.com/news-release/2022/01/14/2367422/0/en/INVESTOR-ALERT-Kirby-McInerney-LLP-Reminds-Investors-That-a-Securities-Class-Action-Lawsuit-Has-Been-Filed-on-Behalf-of-Revance-Therapeutics-Inc-RVNC-Investors-and-Encourages-Inves.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "massachusettssun.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.massachusettssun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "phoenixherald.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hillstream BioPharma Announces Closing of Initial Public Offering",
+        "url": "https://www.phoenixherald.com/news/272175121/hillstream-biopharma-announces-closing-of-initial-public-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "europesun.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Russia",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.europesun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "phoenixherald.com",
+        "language": "English",
+        "seendate": "20220115T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Professional Holding Corp . To Announce Fourth - Quarter and Annual 2021 Results",
+        "url": "https://www.phoenixherald.com/news/272175230/professional-holding-corp-to-announce-fourth-quarter-and-annual-2021-results",
+        "url_mobile": ""
+      },
+      {
+        "domain": "clevelandstar.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Pure Cycle Corporation Welcomes Ms . Wanda Abel to its Board of Directors",
+        "url": "https://www.clevelandstar.com/news/272174964/pure-cycle-corporation-welcomes-ms-wanda-abel-to-its-board-of-directors",
+        "url_mobile": ""
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "U . S . Fed officials signal March rate hike as inflation surges to almost 40 - year high - Xinhua",
+        "url": "http://www.xinhuanet.com/english/20220115/09d97572a2b844d3a566cb28bdb3a62e/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-brp-inc-aktie-intraklein-frankfurt.png",
+        "sourcecountry": "Germany",
+        "title": "BRP Inc .: Can - Am Off - Road Continues Global Racing Dominance with Fifth Consecutive Win at the Dakar Rally",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54981876-brp-inc-can-am-off-road-continues-global-racing-dominance-with-fifth-consecutive-win-at-the-dakar-rally-008.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://media.breitbart.com/media/2020/10/GettyImages-490009808-640x335.jpg",
+        "sourcecountry": "United States",
+        "title": "China Trade Surplus Hits Annual Record in 2021 Saw Double - Digit Growth in Exports Every Month",
+        "url": "https://www.breitbart.com/asia/2022/01/14/chinas-trade-surplus-hits-annual-record-in-2021-saw-double-digit-growth-in-exports-every-month/",
+        "url_mobile": "https://www.breitbart.com/asia/2022/01/14/chinas-trade-surplus-hits-annual-record-in-2021-saw-double-digit-growth-in-exports-every-month/amp/"
+      },
+      {
+        "domain": "clevelandstar.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Western Acquisition Ventures Corp . Announces Closing of $115 Million Initial Public Offering , Including Full Exercise of Underwriter Over - Allotment Option",
+        "url": "https://www.clevelandstar.com/news/272175337/western-acquisition-ventures-corp-announces-closing-of-115-million-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option",
+        "url_mobile": ""
+      },
+      {
+        "domain": "freerepublic.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Getting the Jab and Doing Your Job",
+        "url": "https://freerepublic.com/focus/f-bloggers/4029588/posts",
+        "url_mobile": ""
+      },
+      {
+        "domain": "caribbeanherald.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.caribbeanherald.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "clevelandstar.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Avinger Announces Closing of $7 . 6 Million Registered Direct Offering",
+        "url": "https://www.clevelandstar.com/news/272175120/avinger-announces-closing-of-76-million-registered-direct-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660622/oil-refinery-2.jpg",
+        "sourcecountry": "United States",
+        "title": "2 Top Oil Stocks to Buy in January | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/11/3-top-oil-stocks-to-buy-in-january/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nashvilleherald.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hillstream BioPharma Announces Closing of Initial Public Offering",
+        "url": "https://www.nashvilleherald.com/news/272175121/hillstream-biopharma-announces-closing-of-initial-public-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "U . S . Fed officials signal March rate hike as inflation surges to almost 40 - year high - Xinhua",
+        "url": "http://www.xinhuanet.com/english/northamerica/20220115/a2c8c829837145b6b7875742638011bf/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "justjared.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://cdn.justjared.com/wp-content/uploads/headlines/2022/01/ashton-kutcher-mila-kunis-sell-house-hidden-hills.jpg",
+        "sourcecountry": "United States",
+        "title": "Ashton Kutcher & Mila Kunis Sell Stunning Beverly Hills House for $10 Million \u2013 See Photos from Inside ! | Ashton Kutcher , Mila Kunis , Real Estate",
+        "url": "https://www.justjared.com/2022/01/14/ashton-kutcher-mila-kunis-sell-stunning-beverly-hills-house-for-10-million-see-photos-from-inside/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hellenicshippingnews.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "U . S . Consumer Sentiment Waned in Early January on Omicron , Inflation Fears | Hellenic Shipping News Worldwide",
+        "url": "https://www.hellenicshippingnews.com/u-s-consumer-sentiment-waned-in-early-january-on-omicron-inflation-fears/",
+        "url_mobile": "https://www.hellenicshippingnews.com/u-s-consumer-sentiment-waned-in-early-january-on-omicron-inflation-fears/amp/"
+      },
+      {
+        "domain": "clevelandstar.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Professional Holding Corp . To Announce Fourth - Quarter and Annual 2021 Results",
+        "url": "https://www.clevelandstar.com/news/272175230/professional-holding-corp-to-announce-fourth-quarter-and-annual-2021-results",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pakistantelegraph.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Pakistan",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.pakistantelegraph.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "clevelandstar.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.clevelandstar.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nashvilleherald.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Professional Holding Corp . To Announce Fourth - Quarter and Annual 2021 Results",
+        "url": "https://www.nashvilleherald.com/news/272175230/professional-holding-corp-to-announce-fourth-quarter-and-annual-2021-results",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pakistantelegraph.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Pakistan",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.pakistantelegraph.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "reflector.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/9/ce/9ce14991-fdb2-5fce-88f4-9fc76207ed28/61e0f63b6e8b6.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://www.reflector.com/news/national/stocks-end-mostly-higher-but-still-log-another-losing-week/article_8de6c2e1-3fe8-5df4-b96f-3d01ff5fdf1a.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nashvilleherald.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.nashvilleherald.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "erienewsnow.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/22031635_G.jpg?lastEditedDate=1642176028000",
+        "sourcecountry": "United States",
+        "title": "Dow falls as big banks get pummeled",
+        "url": "https://www.erienewsnow.com/story/45656686/dow-falls-as-big-banks-get-pummeled",
+        "url_mobile": ""
+      },
+      {
+        "domain": "freerepublic.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "2 more cruise lines cancel soon - to - depart sailings amid omicron surge",
+        "url": "https://freerepublic.com/focus/f-chat/4029581/posts",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nashvilleherald.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Avinger Announces Closing of $7 . 6 Million Registered Direct Offering",
+        "url": "https://www.nashvilleherald.com/news/272175120/avinger-announces-closing-of-76-million-registered-direct-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "israelherald.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Israel",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.israelherald.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thestreet.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "5 Tech Things to Make Your Life Easier",
+        "url": "https://www.thestreet.com/technology/5-tech-things-to-make-your-life-easier",
+        "url_mobile": "https://www.thestreet.com/.amp/technology/5-tech-things-to-make-your-life-easier"
+      },
+      {
+        "domain": "nashvilleherald.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Pure Cycle Corporation Welcomes Ms . Wanda Abel to its Board of Directors",
+        "url": "https://www.nashvilleherald.com/news/272174964/pure-cycle-corporation-welcomes-ms-wanda-abel-to-its-board-of-directors",
+        "url_mobile": ""
+      },
+      {
+        "domain": "clevelandstar.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "New to The Street Announces 8 Interviews for This Week TV Broadcast , Episode # 290 , on NEWSMAX January 16 , 2022 , 10 - 11 AM ET",
+        "url": "https://www.clevelandstar.com/news/272174949/new-to-the-street-announces-8-interviews-for-this-weeks-tv-broadcast-episode-290-on-max-january-16-2022-10-11-am-et",
+        "url_mobile": ""
+      },
+      {
+        "domain": "clevelandstar.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hillstream BioPharma Announces Closing of Initial Public Offering",
+        "url": "https://www.clevelandstar.com/news/272175121/hillstream-biopharma-announces-closing-of-initial-public-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Entangled sponsors ,  Pharma Bro  ",
+        "url": "https://www.chron.com/business/article/Business-Highlights-Entangled-sponsors-Pharma-16776933.php",
+        "url_mobile": "https://www.chron.com/business/amp/Business-Highlights-Entangled-sponsors-Pharma-16776933.php"
+      },
+      {
+        "domain": "elle.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/elle-child-tax-credit-lead-1642183195.jpg?crop=1.00xw:0.780xh;0,0.127xh",
+        "sourcecountry": "United States",
+        "title": "The Expanded Child Tax Credit Is Ending , and Families Will Suffer",
+        "url": "https://www.elle.com/culture/career-politics/a38760023/expanded-child-tax-credit-ends-pandemic-women-families/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "lmtonline.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/47/37/21919709/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Jonah Hill Says Leonardo DiCaprio Forced Him to Watch  The Mandalorian , but  I Didnt Give a F  ",
+        "url": "https://www.lmtonline.com/entertainment/article/Jonah-Hill-Says-Leonardo-DiCaprio-Forced-Him-to-16776896.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "russiaherald.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Russia",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.russiaherald.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nashvilleherald.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "New to The Street Announces 8 Interviews for This Week TV Broadcast , Episode # 290 , on NEWSMAX January 16 , 2022 , 10 - 11 AM ET",
+        "url": "https://www.nashvilleherald.com/news/272174949/new-to-the-street-announces-8-interviews-for-this-weeks-tv-broadcast-episode-290-on-max-january-16-2022-10-11-am-et",
+        "url_mobile": ""
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "U . S . stocks end mixed as bank shares lag - Xinhua",
+        "url": "http://www.xinhuanet.com/english/northamerica/20220115/496d67c0dab04c668b118181b62f777b/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "klcc.org",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-1_custom-c95cc44ca55453e032d8800f0db9d2739c9189d8.jpg",
+        "sourcecountry": "United States",
+        "title": "Cultural critic Terry Teachout is remembered as  unafraid of being human in public  ",
+        "url": "https://www.klcc.org/npr-music/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public",
+        "url_mobile": "https://www.klcc.org/npr-music/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public?_amp=true"
+      },
+      {
+        "domain": "sierraleonetimes.com",
+        "language": "English",
+        "seendate": "20220114T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Sierra Leone",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.sierraleonetimes.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theusnews.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Avinger Announces Closing of $7 . 6 Million Registered Direct Offering",
+        "url": "https://www.theusnews.com/news/272175120/avinger-announces-closing-of-76-million-registered-direct-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tvnewscheck.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://media.tvnewscheck.com/wp/content/uploads/Stock_Exchange_graph.jpg",
+        "sourcecountry": "United States",
+        "title": "Dow Falls 202 , Nasdaq Finishes Up 87",
+        "url": "https://tvnewscheck.com/top-news/business/article/dow-falls-202-nasdaq-finishes-up-87/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "srilankasource.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Sri Lanka",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.srilankasource.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "floridastatesman.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.floridastatesman.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "myheraldreview.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/myheraldreview.com/content/tncms/custom/image/5de3b48c-b05c-11e7-99b7-db39ff5c3a7d.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "David Brooks : America is falling apart at the seams",
+        "url": "https://www.myheraldreview.com/news/willcox/opinion/commentary/david-brooks-america-is-falling-apart-at-the-seams/article_00c792e8-7586-11ec-bead-731cbacc2bd2.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/hell%20teaser%202.jpg?itok=Ys4CiMSh",
+        "sourcecountry": "United States",
+        "title": "One Bank Sees A Stagflationary Hellscape For Markets In 2022 : Here How To Trade It",
+        "url": "https://www.zerohedge.com/markets/one-bank-sees-stagflationary-hellscape-markets-2022-heres-how-trade-it",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theusnews.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.theusnews.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hillstream BioPharma Announces Closing of Initial Public Offering",
+        "url": "https://www.newjerseytelegraph.com/news/272175121/hillstream-biopharma-announces-closing-of-initial-public-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Western Acquisition Ventures Corp . Announces Closing of $115 Million Initial Public Offering , Including Full Exercise of Underwriter Over - Allotment Option",
+        "url": "https://www.newjerseytelegraph.com/news/272175337/western-acquisition-ventures-corp-announces-closing-of-115-million-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks end mixed as bank shares lag",
+        "url": "https://www.bignewsnetwork.com/news/272175338/us-stocks-end-mixed-as-bank-shares-lag",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Professional Holding Corp . To Announce Fourth - Quarter and Annual 2021 Results",
+        "url": "https://www.newjerseytelegraph.com/news/272175230/professional-holding-corp-to-announce-fourth-quarter-and-annual-2021-results",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theusnews.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hillstream BioPharma Announces Closing of Initial Public Offering",
+        "url": "https://www.theusnews.com/news/272175121/hillstream-biopharma-announces-closing-of-initial-public-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "China SXT Pharmaceuticals , Inc . Announces Proposed Underwritten Public Offering of Ordinary Shares and Pre - Funded Warrants to Purchase Ordinary Shares",
+        "url": "https://apnews.com/press-release/globe-newswire/business-health-china-traditional-chinese-medicine-6cf6676cc77b994b98a06a6dd2b14196",
+        "url_mobile": ""
+      },
+      {
+        "domain": "medpagetoday.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://assets.medpagetoday.net/media/images/96xxx/96703.jpg",
+        "sourcecountry": "United States",
+        "title": "When COVID Pushes Other Conditions Past the  Tipping Point  ",
+        "url": "https://www.medpagetoday.com/special-reports/exclusives/96703",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kten.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/22031635_G.jpg?lastEditedDate=1642176028000",
+        "sourcecountry": "United States",
+        "title": "Dow falls as big banks get pummeled",
+        "url": "https://www.kten.com/story/45656686/dow-falls-as-big-banks-get-pummeled",
+        "url_mobile": ""
+      },
+      {
+        "domain": "malaysiasun.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.malaysiasun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "omaha.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/79/d79b9515-43cb-5d3b-a2f5-1b56ca61cdfa/61e1f61d70a83.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://omaha.com/lifestyles/technology/stocks-end-mostly-higher-but-still-log-another-losing-week/article_bc2f3468-d2e4-5bd1-a209-af30813f5c99.html",
+        "url_mobile": "https://omaha.com/lifestyles/technology/stocks-end-mostly-higher-but-still-log-another-losing-week/article_bc2f3468-d2e4-5bd1-a209-af30813f5c99.amp.html"
+      },
+      {
+        "domain": "bitcoinmagazine.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How We Reach Hyperbitcoinization - Bitcoin Magazine : Bitcoin News , Articles , Charts , and Guides",
+        "url": "https://bitcoinmagazine.com/culture/how-we-reach-hyperbitcoinization",
+        "url_mobile": "https://bitcoinmagazine.com/.amp/culture/how-we-reach-hyperbitcoinization"
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://fns1.de/g/fb.png",
+        "sourcecountry": "Germany",
+        "title": "Western Acquisition Ventures Corp . Announces Closing of $115 Million Initial Public Offering , Including Full Exercise of Underwriter Over - Allotment Option",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54981744-western-acquisition-ventures-corp-announces-closing-of-dollar-115-million-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-200.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ici.radio-canada.ca",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/frances-haugen-facebook-parlement-grande-bretagne.JPG",
+        "sourcecountry": "Canada",
+        "title": "Canada could lead a coalition to force change at Facebook , says whistleblower Frances Haugen",
+        "url": "https://ici.radio-canada.ca/rci/en/news/1854466/canada-could-lead-a-coalition-to-force-change-at-facebook-says-whistleblower-frances-haugen",
+        "url_mobile": "/amp/1854466/canada-could-lead-a-coalition-to-force-change-at-facebook-says-whistleblower-frances-haugen"
+      },
+      {
+        "domain": "theusnews.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Pure Cycle Corporation Welcomes Ms . Wanda Abel to its Board of Directors",
+        "url": "https://www.theusnews.com/news/272174964/pure-cycle-corporation-welcomes-ms-wanda-abel-to-its-board-of-directors",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theusnews.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Professional Holding Corp . To Announce Fourth - Quarter and Annual 2021 Results",
+        "url": "https://www.theusnews.com/news/272175230/professional-holding-corp-to-announce-fourth-quarter-and-annual-2021-results",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theusnews.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Western Acquisition Ventures Corp . Announces Closing of $115 Million Initial Public Offering , Including Full Exercise of Underwriter Over - Allotment Option",
+        "url": "https://www.theusnews.com/news/272175337/western-acquisition-ventures-corp-announces-closing-of-115-million-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option",
+        "url_mobile": ""
+      },
+      {
+        "domain": "oklahomacitysun.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.oklahomacitysun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Pet food in short supply as pandemic - related shortages impact Connecticut",
+        "url": "https://www.chron.com/news/article/Pet-food-in-short-supply-as-pandemic-related-16773221.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "orlandosentinel.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://www.orlandosentinel.com/resizer/XLd2vGGKgaFk-AQiUs9a8jG1B-M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X3LMDXTE6F6H5WKWSJEYSS654M.jpg",
+        "sourcecountry": "United States",
+        "title": "Bank profits soared in 2021 , but inflation is front of mind",
+        "url": "http://www.orlandosentinel.com/business/ct-biz--20220114-xeue2k4qcrbavivdokgb4kd2je-story.html",
+        "url_mobile": "https://www.orlandosentinel.com/business/ct-biz--20220114-xeue2k4qcrbavivdokgb4kd2je-story.html?outputType=amp"
+      },
+      {
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.newjerseytelegraph.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thailandnews.net",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Thailand",
+        "title": "U . S . stocks have mixed day Friday as yields rise , dollar corrects",
+        "url": "https://www.thailandnews.net/news/272175242/us-stocks-have-mixed-day-friday-as-yields-rise-dollar-corrects",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.wsiu.org",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-1_custom-c95cc44ca55453e032d8800f0db9d2739c9189d8.jpg",
+        "sourcecountry": "United States",
+        "title": "Cultural critic Terry Teachout is remembered as  unafraid of being human in public  ",
+        "url": "https://news.wsiu.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public",
+        "url_mobile": "https://news.wsiu.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public?_amp=true"
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://www.startribune.com/stocks-end-mostly-higher-but-still-log-another-losing-week/600135748/",
+        "url_mobile": "https://m.startribune.com/stocks-end-mostly-higher-but-still-log-another-losing-week/600135748/"
+      },
+      {
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Avinger Announces Closing of $7 . 6 Million Registered Direct Offering",
+        "url": "https://www.newjerseytelegraph.com/news/272175120/avinger-announces-closing-of-76-million-registered-direct-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "aspendailynews.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/aspendailynews.com/content/tncms/custom/image/50acd222-91f5-11e9-aea3-9b4d2e149062.jpg?crop=628%2C628%2C286%2C0",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://www.aspendailynews.com/associated_press/stocks-end-mostly-higher-but-still-log-another-losing-week/article_febf800d-bc59-5801-b41c-f9c721d74403.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "omaha.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/48/548ba148-ecf2-52bf-b39a-b0e6a3bb99dc/61e1e49ae5828.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "5 Best Crypto Exchanges for 2022",
+        "url": "https://omaha.com/business/investment/personal-finance/5-best-crypto-exchanges-for-2022/article_923308b3-65e3-510c-a0d7-80c5a2191de1.html",
+        "url_mobile": "https://omaha.com/business/investment/personal-finance/5-best-crypto-exchanges-for-2022/article_923308b3-65e3-510c-a0d7-80c5a2191de1.amp.html"
+      },
+      {
+        "domain": "ottumwacourier.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/ottumwacourier.com/content/tncms/assets/v3/editorial/f/2b/f2b6a4e8-0948-59e2-aa0c-379706d1fdb9/61e0f5d2ab6f5.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://www.ottumwacourier.com/news/national_news/stocks-end-mostly-higher-but-still-log-another-losing-week/article_e4072a40-0bb8-5f7e-9fa6-8ffa36cf5fbe.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theusnews.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "New to The Street Announces 8 Interviews for This Week TV Broadcast , Episode # 290 , on NEWSMAX January 16 , 2022 , 10 - 11 AM ET",
+        "url": "https://www.theusnews.com/news/272174949/new-to-the-street-announces-8-interviews-for-this-weeks-tv-broadcast-episode-290-on-max-january-16-2022-10-11-am-et",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thestar.com.my",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://apicms.thestar.com.my/uploads/images/2022/01/15/1445081.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Citigroup results show restructuring has its costs",
+        "url": "https://www.thestar.com.my/business/business-news/2022/01/15/citigroup-results-show-restructuring-has-its-costs",
+        "url_mobile": ""
+      },
+      {
+        "domain": "proactiveinvestors.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2022_01/1200z630_1642183630_shutterstock_233539639.jpg",
+        "sourcecountry": "United States",
+        "title": "US stocks close mixed on struggling bank stocks and lower retail sales",
+        "url": "https://www.proactiveinvestors.com/companies/news/971206/us-stocks-close-mixed-on-struggling-bank-stocks-and-lower-retail-sales-971206.html",
+        "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/971206"
+      },
+      {
+        "domain": "oklahomacitysun.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "United States",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.oklahomacitysun.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thailandnews.net",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Thailand",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.thailandnews.net/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "srilankasource.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Sri Lanka",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.srilankasource.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Western Acquisition Ventures Corp . Announces Closing of $115 Million Initial Public Offering , Including Full Exercise of Underwriter Over - Allotment Option",
+        "url": "https://www.bignewsnetwork.com/news/272175337/western-acquisition-ventures-corp-announces-closing-of-115-million-initial-public-offering-including-full-exercise-of-underwriters-over-allotment-option",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/14/ZPW_b4d96image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Artists International Management announces the 2022 Little R ... ",
+        "url": "https://menafn.com/1103540520/Artists-International-Management-announces-the-2022-Little-River-Band-Tour&source=29",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cincinnatisun.com",
+        "language": "English",
+        "seendate": "20220114T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.cincinnatisun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "brazilsun.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Brazil",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.brazilsun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ctvnews.ca",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2021/2/1/markets-1-5290460-1627382873437.jpg",
+        "sourcecountry": "Canada",
+        "title": "S & P / TSX composite rebounds from weak morning start to snap two - week skid",
+        "url": "https://www.ctvnews.ca/business/s-p-tsx-composite-rebounds-from-weak-morning-start-to-snap-two-week-skid-1.5739862",
+        "url_mobile": "https://beta.ctvnews.ca/national/business/2022/1/14/1_5739862.amp.html"
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Closes Lower on Disappointing Bank Results",
+        "url": "https://www.kmaj1440.com/news/dow-closes-lower-on-disappointing-bank-results/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bostonstar.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "New to The Street Announces 8 Interviews for This Week TV Broadcast , Episode # 290 , on NEWSMAX January 16 , 2022 , 10 - 11 AM ET",
+        "url": "https://www.bostonstar.com/news/272174949/new-to-the-street-announces-8-interviews-for-this-weeks-tv-broadcast-episode-290-on-max-january-16-2022-10-11-am-et",
+        "url_mobile": ""
+      },
+      {
+        "domain": "haitisun.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.haitisun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bostonstar.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Avinger Announces Closing of $7 . 6 Million Registered Direct Offering",
+        "url": "https://www.bostonstar.com/news/272175120/avinger-announces-closing-of-76-million-registered-direct-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thestar.com.my",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://apicms.thestar.com.my/uploads/images/2022/01/15/1445078.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Early holiday shopping hammers US retail sales",
+        "url": "https://www.thestar.com.my/business/business-news/2022/01/15/early-holiday-shopping-hammers-us-retail-sales",
+        "url_mobile": ""
+      },
+      {
+        "domain": "infowars.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://api-assets.infowars.com/2022/01/CashInflationGetty11422.jpg",
+        "sourcecountry": "United States",
+        "title": "The Uniparty Cant Solve Inflation . Here How Populists Can",
+        "url": "https://www.infowars.com/posts/the-uniparty-cant-solve-inflation-heres-how-populists-can/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bostonstar.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Professional Holding Corp . To Announce Fourth - Quarter and Annual 2021 Results",
+        "url": "https://www.bostonstar.com/news/272175230/professional-holding-corp-to-announce-fourth-quarter-and-annual-2021-results",
+        "url_mobile": ""
+      },
+      {
+        "domain": "brazilsun.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Brazil",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.brazilsun.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cacm.acm.org",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How Game Theory Changed Poker",
+        "url": "https://cacm.acm.org/news/257857-how-game-theory-changed-poker/fulltext",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bostonstar.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.bostonstar.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bostonstar.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Pure Cycle Corporation Welcomes Ms . Wanda Abel to its Board of Directors",
+        "url": "https://www.bostonstar.com/news/272174964/pure-cycle-corporation-welcomes-ms-wanda-abel-to-its-board-of-directors",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kxly.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/01/a/f/ddaeb68b0217207344e698bda3a3fe8217de49c1.jpg",
+        "sourcecountry": "United States",
+        "title": "5 Best Crypto Exchanges for 2022",
+        "url": "https://www.kxly.com/i/5-best-crypto-exchanges-for-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bostonstar.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hillstream BioPharma Announces Closing of Initial Public Offering",
+        "url": "https://www.bostonstar.com/news/272175121/hillstream-biopharma-announces-closing-of-initial-public-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "montreal.ctvnews.ca",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://www.ctvnews.ca/polopoly_fs/1.5740638.1642190931!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+        "sourcecountry": "Canada",
+        "title": "Opinion : Haiti pillars are women and essential to its bright future",
+        "url": "https://montreal.ctvnews.ca/opinion-haiti-s-pillars-are-women-and-essential-to-its-bright-future-1.5740725",
+        "url_mobile": "https://beta.ctvnews.ca/local/montreal/2022/1/14/1_5740725.html"
+      },
+      {
+        "domain": "sfgate.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Entangled sponsors ,  Pharma Bro  ",
+        "url": "https://www.sfgate.com/business/article/Business-Highlights-Entangled-sponsors-Pharma-16776933.php",
+        "url_mobile": "https://www.sfgate.com/business/amp/Business-Highlights-Entangled-sponsors-Pharma-16776933.php"
+      },
+      {
+        "domain": "wtma.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Closes Lower on Disappointing Bank Results",
+        "url": "https://www.wtma.com/news/dow-closes-lower-on-disappointing-bank-results/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "haitisun.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "United States",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.haitisun.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "americanmilitarynews.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Report : Team united states warns athletes to leave phones behind to avoid China spying during Olympics",
+        "url": "https://americanmilitarynews.com/2022/01/report-team-usa-warns-athletes-to-leave-phones-behind-to-avoid-china-spying-during-olympics/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "aei.org",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://www.aei.org/wp-content/uploads/2021/11/Orrell-11-19-walking.jpg",
+        "sourcecountry": "United States",
+        "title": "Unreasonable Covid restrictions may violate university - student contracts | American Enterprise Institute",
+        "url": "https://www.aei.org/op-eds/unreasonable-covid-restrictions-may-violate-university-student-contracts/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "klif.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Closes Lower on Disappointing Bank Results",
+        "url": "https://www.klif.com/news/dow-closes-lower-on-disappointing-bank-results/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "taiwansun.com",
+        "language": "English",
+        "seendate": "20220114T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "China",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.taiwansun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/istockphoto-671302928-612x612.jpg?itok=q5P1a2bL",
+        "sourcecountry": "United States",
+        "title": "Nasdaq Extends Worst Start To A Year Since 2009 As Fed Sends Rate - Hike Odds Soaring",
+        "url": "https://www.zerohedge.com/markets/nasdaq-extends-worst-start-year-2009-fed-sends-rate-hike-odds-soaring",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/champagne%20celebration%20bankers.jpg?itok=cPPYMPYK",
+        "sourcecountry": "United States",
+        "title": "Goldman Partners To Be Rewarded With Millions In One - Time Bonuses",
+        "url": "https://www.zerohedge.com/markets/goldman-partners-be-rewarded-millions-one-time-bonuses",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "New to The Street Announces 8 Interviews for This Week TV Broadcast , Episode # 290 , on NEWSMAX January 16 , 2022 , 10 - 11 AM ET",
+        "url": "https://www.memphissun.com/news/272174949/new-to-the-street-announces-8-interviews-for-this-weeks-tv-broadcast-episode-290-on-max-january-16-2022-10-11-am-et",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wxpr.org",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-1_custom-c95cc44ca55453e032d8800f0db9d2739c9189d8.jpg",
+        "sourcecountry": "United States",
+        "title": "Cultural critic Terry Teachout is remembered as  unafraid of being human in public  ",
+        "url": "https://www.wxpr.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public",
+        "url_mobile": "https://www.wxpr.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public?_amp=true"
+      },
+      {
+        "domain": "politico.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://static.politico.com/7f/9f/b2b739fd4f1893408b44e3fdceab/ap601192167125.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . has intel about possible Russian false - flag op",
+        "url": "https://www.politico.com/newsletters/national-security-daily/2022/01/14/us-has-intel-about-possible-russian-false-flag-op-495739",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fxstreet.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/AUDUSD/stack-of-australian-dollar-29363314_Large.jpg",
+        "sourcecountry": "China",
+        "title": "AUD / USD Weekly Forecast : Chinese data likely to set the tone next week",
+        "url": "https://www.fxstreet.com/analysis/aud-usd-weekly-forecast-chinese-data-likely-to-set-the-tone-next-week-202201141558",
+        "url_mobile": "https://www.fxstreet.com/amp/analysis/aud-usd-weekly-forecast-chinese-data-likely-to-set-the-tone-next-week-202201141558"
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Pure Cycle Corporation Welcomes Ms . Wanda Abel to its Board of Directors",
+        "url": "https://www.memphissun.com/news/272174964/pure-cycle-corporation-welcomes-ms-wanda-abel-to-its-board-of-directors",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Closes Lower on Disappointing Bank Results",
+        "url": "https://www.kmjnow.com/news/dow-closes-lower-on-disappointing-bank-results/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "980waav.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Closes Lower on Disappointing Bank Results",
+        "url": "https://www.980waav.com/news/dow-closes-lower-on-disappointing-bank-results/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chroniclejournal.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/chroniclejournal.com/content/tncms/custom/image/f8bc5194-1803-11e8-b880-a3843e00524a.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "S & P / TSX composite rebounds from weak morning start to snap two - week skid",
+        "url": "https://www.chroniclejournal.com/business/national_business/s-p-tsx-composite-rebounds-from-weak-morning-start-to-snap-two-week-skid/article_554c3035-6737-58e7-b8e6-4033b31681da.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hillstream BioPharma Announces Closing of Initial Public Offering",
+        "url": "https://www.memphissun.com/news/272175121/hillstream-biopharma-announces-closing-of-initial-public-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stagwell ( STGW ) to Present at the Sidoti Winter SmallCap Virtual Conference",
+        "url": "https://www.prnewswire.com/news-releases/stagwell-stgw-to-present-at-the-sidoti-winter-smallcap-virtual-conference-301461490.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1707951!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/the-department-of-justice-building-in-washington-d-c-u-s-on-thursday-nov-18-2021-the-house-budget-chair-this-week-said-that-he-urged-the-house-speaker-and-other-party-leaders-to-act-quickly-to-raise-the-federal-debt-ceiling-after-the-treasury-said-a-default-is-possible-after-dec-15.jpg",
+        "sourcecountry": "Canada",
+        "title": "MIT Professor Case Over China Poised to Be Dropped by U . S . ",
+        "url": "https://www.bnnbloomberg.ca/mit-professor-s-case-over-china-poised-to-be-dropped-by-u-s-1.1707950",
+        "url_mobile": "https://www.bnnbloomberg.ca/mit-professor-s-case-over-china-poised-to-be-dropped-by-u-s-1.1707950.amp.html"
+      },
+      {
+        "domain": "hastingstribune.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/hastingstribune.com/content/tncms/custom/image/7b43d562-eeac-11e4-8a7b-970670abfcb2.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "David M . Shribman : Biden sends Sleepy Joe to the sidelines",
+        "url": "https://www.hastingstribune.com/david-m-shribman-biden-sends-sleepy-joe-to-the-sidelines/article_e86cbfac-7576-11ec-9d7e-57a7f284b69d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "1490wosh.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Closes Lower on Disappointing Bank Results",
+        "url": "https://www.1490wosh.com/news/dow-closes-lower-on-disappointing-bank-results/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Schmitt Announces Second Quarter Fiscal 2022 Operating Results",
+        "url": "https://www.prnewswire.com/news-releases/schmitt-announces-second-quarter-fiscal-2022-operating-results-301461486.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "crowdfundinsider.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/Bull-Art-Miami.jpeg",
+        "sourcecountry": "United Kingdom",
+        "title": "Historical Volatility , Technical Patterns , On - chain Activity Indicate that Macro Bitcoin ( BTC ) Bull Run Isnt Over : Report",
+        "url": "https://www.crowdfundinsider.com/2022/01/185544-historical-volatility-technical-patterns-on-chain-activity-indicate-that-macro-bitcoin-btc-bull-run-isnt-over-report/",
+        "url_mobile": "https://www.crowdfundinsider.com/2022/01/185544-historical-volatility-technical-patterns-on-chain-activity-indicate-that-macro-bitcoin-btc-bull-run-isnt-over-report/amp/"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/6a00274b-2919-48d2-bb84-e9968402a2fc?size=1",
+        "sourcecountry": "United States",
+        "title": "China SXT Pharmaceuticals , Inc . Announces Proposed",
+        "url": "https://www.globenewswire.com/news-release/2022/01/14/2367411/0/en/China-SXT-Pharmaceuticals-Inc-Announces-Proposed-Underwritten-Public-Offering-of-Ordinary-Shares-and-Pre-Funded-Warrants-to-Purchase-Ordinary-Shares.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1707945!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/p-nbsp-nbsp-nbsp-p.png",
+        "sourcecountry": "Canada",
+        "title": "Tech Stocks Stumble to Worst Start Since 2016 on Rate - Hike Fears",
+        "url": "https://www.bnnbloomberg.ca/tech-stocks-stumble-to-worst-start-since-2016-on-rate-hike-fears-1.1707944",
+        "url_mobile": "https://www.bnnbloomberg.ca/tech-stocks-stumble-to-worst-start-since-2016-on-rate-hike-fears-1.1707944.amp.html"
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.memphissun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://images.barrons.com/im-467826/social",
+        "sourcecountry": "United States",
+        "title": "Take - Two Stock Looks Cheap After Zynga Deal",
+        "url": "https://www.marketwatch.com/articles/take-two-stock-ttwo-zynga-deal-51642196276",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Avinger Announces Closing of $7 . 6 Million Registered Direct Offering",
+        "url": "https://www.memphissun.com/news/272175120/avinger-announces-closing-of-76-million-registered-direct-offering",
+        "url_mobile": ""
+      },
+      {
+        "domain": "worldlearning.org",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://www.worldlearning.org/wp-content/uploads/2022/01/ATIES_AR_1.jpg",
+        "sourcecountry": "United States",
+        "title": "Exchange Alumni Use Augmented Reality to Uplift History Marginalized Voices",
+        "url": "https://www.worldlearning.org/story/exchange-alumni-use-augmented-reality-to-uplift-historys-marginalized-voices/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fxstreet.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://editorial.fxstreet.com/images/Markets/Equities/display-panel-of-daily-stock-market-59908972_Large.jpg",
+        "sourcecountry": "China",
+        "title": "Week Ahead on Wall Street ( SPY ) ( QQQ ): Hawks swoop on bulls as nervous investors seek shelter",
+        "url": "https://www.fxstreet.com/analysis/week-ahead-on-wall-street-spy-qqq-hawks-swoop-on-bulls-as-nervous-investors-seek-shelter-202201141846",
+        "url_mobile": "https://www.fxstreet.com/amp/analysis/week-ahead-on-wall-street-spy-qqq-hawks-swoop-on-bulls-as-nervous-investors-seek-shelter-202201141846"
+      },
+      {
+        "domain": "crowdfundinsider.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://www.crowdfundinsider.com/wp-content/uploads/2017/09/Knightscope-2.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Knightscope , Raising Capital on StartEngine , Scheduled to Close Crowdfunding Today , NASDAQ Listing Later this Month",
+        "url": "https://www.crowdfundinsider.com/2022/01/185579-knightscope-raising-capital-on-startengine-scheduled-to-close-crowdfunding-today/",
+        "url_mobile": "https://www.crowdfundinsider.com/2022/01/185579-knightscope-raising-capital-on-startengine-scheduled-to-close-crowdfunding-today/amp/"
+      },
+      {
+        "domain": "wutc.org",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-1_custom-c95cc44ca55453e032d8800f0db9d2739c9189d8.jpg",
+        "sourcecountry": "United States",
+        "title": "Cultural critic Terry Teachout is remembered as  unafraid of being human in public  ",
+        "url": "https://www.wutc.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public",
+        "url_mobile": "https://www.wutc.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public?_amp=true"
+      },
+      {
+        "domain": "fxstreet.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://editorial.fxstreet.com/images/Markets/Commodities/Metals/Gold/safe-investment-gm147322399-17568598_Large.jpg",
+        "sourcecountry": "China",
+        "title": "Gold Weekly Forecast : Bulls to take action with a break above $1 , 830",
+        "url": "https://www.fxstreet.com/analysis/gold-weekly-forecast-bulls-to-take-action-with-a-break-above-1-830-202201141510",
+        "url_mobile": "https://www.fxstreet.com/amp/analysis/gold-weekly-forecast-bulls-to-take-action-with-a-break-above-1-830-202201141510"
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Schmitt Announces Second Quarter Fiscal 2022 Operating Results",
+        "url": "https://apnews.com/press-release/pr-newswire/business-portland-5db1ece82e68ffd2acfe9e0c757cafb0",
+        "url_mobile": ""
+      },
+      {
+        "domain": "isp.netscape.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Prosecutors recommend dropping charges against MIT professor",
+        "url": "https://isp.netscape.com/news/story/0001/20220114/24f283c5311a3f3d2779ccd3f96cbdd3",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fxstreet.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/America/globe-north-america-gm478059108-67114715_Large.jpg",
+        "sourcecountry": "China",
+        "title": "Weekly economic and financial commentary",
+        "url": "https://www.fxstreet.com/analysis/weekly-economic-and-financial-commentary-202201141935",
+        "url_mobile": "https://www.fxstreet.com/amp/analysis/weekly-economic-and-financial-commentary-202201141935"
+      },
+      {
+        "domain": "thestar.com.my",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://apicms.thestar.com.my/uploads/images/2022/01/15/1445067.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "GLOBAL MARKETS - Stocks stumble , yields jump on rates outlook",
+        "url": "https://www.thestar.com.my/business/business-news/2022/01/15/global-markets-stocks-stumble-yields-jump-on-rates-outlook",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Professional Holding Corp . To Announce Fourth - Quarter and Annual 2021 Results",
+        "url": "https://www.memphissun.com/news/272175230/professional-holding-corp-to-announce-fourth-quarter-and-annual-2021-results",
+        "url_mobile": ""
+      },
+      {
+        "domain": "japanherald.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "Japan",
+        "title": "U . S . dollar rebounds following 3 - day losing streak",
+        "url": "https://www.japanherald.com/news/272175141/us-dollar-rebounds-following-3-day-losing-streak",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/Joe-Biden-Cheesy-Smile-On-His-Fake-White-House-Set-Public-Domain.jpg?itok=EViLqj6C",
+        "sourcecountry": "United States",
+        "title": "11 Reasons Why This Was Joe Biden Worst Week Ever",
+        "url": "https://www.zerohedge.com/political/11-reasons-why-was-joe-bidens-worst-week-ever",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "S & P / TSX composite rebounds from weak morning start to snap two - week skid",
+        "url": "https://www.msn.com/en-ca/news/canada/s-ptsx-composite-rebounds-from-weak-morning-start-to-snap-two-week-skid/ar-AASMXYI",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "SMART - TD and BLET rail unions initiate steps to strike BNSF properties over new  Hi - Viz  attendance policy punishing sick rail workers during the pandemic",
+        "url": "https://www.prnewswire.com/news-releases/smart-td-and-blet-rail-unions-initiate-steps-to-strike-bnsf-properties-over-new-hi-viz-attendance-policy-punishing-sick-rail-workers-during-the-pandemic-301461481.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wupe.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://townsquare.media/site/918/files/2020/01/Martin-Luther-King-Jr..jpg?&zc=1&s=0&a=t&q=89",
+        "sourcecountry": "United States",
+        "title": "The Berkshires Pay Tribute To Martin Luther King In 2022",
+        "url": "https://wupe.com/the-berkshires-pay-tribute-to-martin-luther-king-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "isp.netscape.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bank profits soared in 2021 , but inflation is front of mind - Netscape Money & Business",
+        "url": "https://isp.netscape.com/pf/story/0001/20220114/4f054e142677582925e32d017c048c9c",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability Bald eagle comeback impacted by lead poison",
+        "url": "https://www.msn.com/en-us/news/us/equilibrium-sustainability-%e2%80%94-bald-eagle-comeback-impacted-by-lead-poison/ar-AASNq6w",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow falls as big banks get pummeled",
+        "url": "https://www.kmjnow.com/news/stocks-sink-as-big-banks-get-pummeled/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "politico.com",
+        "language": "English",
+        "seendate": "20220114T230000Z",
+        "socialimage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+        "sourcecountry": "United States",
+        "title": "FEC does  a small , good thing  ",
+        "url": "https://www.politico.com/newsletters/politico-influence/2022/01/14/fec-does-a-small-good-thing-799891",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "502 : The ARK Transparency ETF CTRU |  The Switch  With ARK Invest",
+        "url": "https://www.etftrends.com/disruptive-technology-channel/502-the-ark-transparency-etf-ctru-the-switch-with-ark-invest/",
+        "url_mobile": "https://www.etftrends.com/disruptive-technology-channel/502-the-ark-transparency-etf-ctru-the-switch-with-ark-invest/amp/"
+      },
+      {
+        "domain": "newsradio1029.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Closes Lower on Disappointing Bank Results",
+        "url": "https://www.newsradio1029.com/news/dow-closes-lower-on-disappointing-bank-results/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Schmitt Announces Second Quarter Fiscal 2022 Operating Results",
+        "url": "https://www.prnewswire.com:443/news-releases/schmitt-announces-second-quarter-fiscal-2022-operating-results-301461486.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "iowapublicradio.org",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-1_custom-c95cc44ca55453e032d8800f0db9d2739c9189d8.jpg",
+        "sourcecountry": "United States",
+        "title": "Cultural critic Terry Teachout is remembered as  unafraid of being human in public  ",
+        "url": "https://www.iowapublicradio.org/news-from-npr/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public",
+        "url_mobile": "https://www.iowapublicradio.org/news-from-npr/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public?_amp=true"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Looking-at-the-Nasdaq-ETFs-as-a-Contrarian-Play.jpg",
+        "sourcecountry": "China",
+        "title": "Looking at the Nasdaq ETFs as a Contrarian Play",
+        "url": "https://www.etftrends.com/nasdaq-portfolio-solutions-channel/looking-at-the-nasdaq-etfs-as-a-contrarian-play/",
+        "url_mobile": "https://www.etftrends.com/nasdaq-portfolio-solutions-channel/looking-at-the-nasdaq-etfs-as-a-contrarian-play/amp/"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Online-Retail-Struts-Its-Stuff-in-Holiday-Season.jpg",
+        "sourcecountry": "China",
+        "title": "Online Retail Struts Its Stuff in Holiday Season",
+        "url": "https://www.etftrends.com/future-etfs-channel/online-retail-struts-its-stuff-in-holiday-season/",
+        "url_mobile": "https://www.etftrends.com/future-etfs-channel/online-retail-struts-its-stuff-in-holiday-season/amp/"
+      },
+      {
+        "domain": "nigeriasun.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Nigeria",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.nigeriasun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "caledonianrecord.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/custom/image/21dbc8f2-4a49-11e9-a309-27858e1837d1.jpg?crop=686%2C686%2C257%2C0",
+        "sourcecountry": "United States",
+        "title": "Geoffrey Norman : Interesting Times",
+        "url": "https://www.caledonianrecord.com/opinion/columns/geoffrey-norman-interesting-times/article_f7038708-c628-5c7b-9018-334d4f995a00.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "couriernews.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/couriernews.com/content/tncms/custom/image/b21f3e0c-b390-11e9-a989-d727c4d02d97.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://www.couriernews.com/news/business/stocks-end-mostly-higher-but-still-log-another-losing-week/article_41a96427-b32d-561c-b369-513c639279fe.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailysignal.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://www.dailysignal.com/wp-content/uploads/220113_NYDA-scaled.jpg",
+        "sourcecountry": "United States",
+        "title": "New York District Attorney Calls for End to Prosecuting Serious Crimes",
+        "url": "https://www.dailysignal.com/2022/01/14/new-york-district-attorney-calls-for-end-to-prosecuting-serious-crimes-its-every-criminals-lucky-day-in-gotham/",
+        "url_mobile": "https://www.dailysignal.com/2022/01/14/new-york-district-attorney-calls-for-end-to-prosecuting-serious-crimes-its-every-criminals-lucky-day-in-gotham/amp/"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/RSP-Rakes-in-Nearly-1-Billion-in-First-Weeks-Of-2022.jpg",
+        "sourcecountry": "China",
+        "title": "RSP Rakes in Nearly $1 Billion in First Weeks Of 2022",
+        "url": "https://www.etftrends.com/portfolio-strategies-channel/rsp-rakes-in-nearly-1-billion-in-first-weeks-of-2022/",
+        "url_mobile": "https://www.etftrends.com/portfolio-strategies-channel/rsp-rakes-in-nearly-1-billion-in-first-weeks-of-2022/amp/"
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Wall Street finishes mixed , Dow drops 202 points , Nasdaq gains 87",
+        "url": "https://www.bignewsnetwork.com/news/272175242/wall-street-finishes-mixed-dow-drops-202-points-nasdaq-gains-87",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theindependent.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/theindependent.com/content/tncms/assets/v3/editorial/b/d2/bd2e4e31-0bd5-5bee-9175-413a2b275942/61e1f5f987caf.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://theindependent.com/lifestyles/technology/stocks-end-mostly-higher-but-still-log-another-losing-week/article_0a15b197-69e9-5404-b370-62cac32a3fa0.html",
+        "url_mobile": "https://theindependent.com/lifestyles/technology/stocks-end-mostly-higher-but-still-log-another-losing-week/article_0a15b197-69e9-5404-b370-62cac32a3fa0.amp.html"
+      },
+      {
+        "domain": "wftw.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Closes Lower on Disappointing Bank Results",
+        "url": "https://www.wftw.com/news/dow-closes-lower-on-disappointing-bank-results/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "After Another Great Year for Stocks , Peril Lingers \u2026 Bond Market Forecasts Bad News \u2026 Retail Sales Slide Sharply \u2026 1970s Wall Street Dr . Doom , Blasts Powell on Inflation \u2026 \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/after-another-great-year-for-stocks-peril-lingers-bond-market-forecasts-bad-news-retail-sales-slide-sharply-1970s-wall-street-dr-doom-blasts-powell-on-inflation/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "krro.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "  The Matrix  co - producer Village Roadshow considering strategic options \u2013 WSJ",
+        "url": "https://krro.com/2022/01/14/the-matrix-co-producer-village-roadshow-considering-strategic-options-wsj/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/14/20/52942371-0-image-a-70_1642190516714.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Blackrock becomes first public money manager to oversee $10tn",
+        "url": "https://www.dailymail.co.uk/money/markets/article-10404127/Blackrock-public-money-manager-oversee-10tn.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/ESG-ETFs-Could-Be-Great-for-Your-Core-Investment-Portfolio.jpg",
+        "sourcecountry": "China",
+        "title": "ESG ETFs Could Be Great for Your Core Investment Portfolio",
+        "url": "https://www.etftrends.com/esg-channel/esg-etfs-could-be-great-for-your-core-investment-portfolio/",
+        "url_mobile": "https://www.etftrends.com/esg-channel/esg-etfs-could-be-great-for-your-core-investment-portfolio/amp/"
+      },
+      {
+        "domain": "comingsoon.net",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://www.comingsoon.net/assets/uploads/2022/01/superbad-e1642190212421.jpg",
+        "sourcecountry": "United States",
+        "title": "Jonah Hill Wants To Do Superbad 2 When He 80 Years Old",
+        "url": "https://www.comingsoon.net/movies/news/1208075-jonah-hill-superbad-2",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability Bald eagle comeback impacted by lead poison",
+        "url": "https://www.msn.com/en-us/news/us/equilibriumsustainability-bald-eagle-comeback-impacted-by-lead-poison/ar-AASNq6w",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afghanistansun.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.afghanistansun.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wmac-am.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow falls as big banks get pummeled",
+        "url": "https://www.wmac-am.com/news/stocks-sink-as-big-banks-get-pummeled/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "joplinglobe.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/53/c533aeee-d236-54ac-8370-22a071c83c05/61e0f42b959f9.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://www.joplinglobe.com/region/national_business/stocks-end-mostly-higher-but-still-log-another-losing-week/article_7575c901-078b-5bc2-b52e-2ab93a013f3d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-professional-holding-corp-aktie-intraklein-nasdaq.png",
+        "sourcecountry": "Germany",
+        "title": "Professional Holding Corp . To Announce Fourth - Quarter and Annual 2021 Results",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54981580-professional-holding-corp-to-announce-fourth-quarter-and-annual-2021-results-200.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "argentinastar.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Argentina",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.argentinastar.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "Greece",
+        "title": "ForexLive Americas FX news wrap : Big miss on December US retail sales",
+        "url": "https://www.forexlive.com/news/forexlive-americas-fx-news-wrap-big-miss-on-december-us-retail-sales-20220114/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Condo Sells for $190 Million ; Billionaire Doubles Money in 2 Years \u2026 \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/ny-condo-sells-for-190-million-billionaire-doubles-money-in-2-years/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afghanistansun.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.afghanistansun.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kkoh.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Closes Lower on Disappointing Bank Results",
+        "url": "https://www.kkoh.com/news/dow-closes-lower-on-disappointing-bank-results/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "azbigmedia.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://azbigmedia.com/wp-content/uploads/2020/07/COVID-19-learning.jpg",
+        "sourcecountry": "United States",
+        "title": "Ducey announces additional steps to keep students in the classroom",
+        "url": "https://azbigmedia.com/business/ducey-announces-additional-steps-to-keep-students-in-the-classroom/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "madison.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/f/4d/f4d336b2-71cd-52b2-97a8-a71564850aa6/61e1f5f2d982f.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://madison.com/lifestyles/technology/stocks-end-mostly-higher-but-still-log-another-losing-week/article_1317186c-bcfe-591e-a9bf-561816c5ab38.html",
+        "url_mobile": "https://madison.com/lifestyles/technology/stocks-end-mostly-higher-but-still-log-another-losing-week/article_1317186c-bcfe-591e-a9bf-561816c5ab38.amp.html"
+      },
+      {
+        "domain": "richmond.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/d7/ad730cd7-a0eb-5010-9d49-001c652f9b9a/61e1f642498c9.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://richmond.com/lifestyles/technology/stocks-end-mostly-higher-but-still-log-another-losing-week/article_4e7e5801-a9f0-5ddc-a6e2-722a0f3d6c59.html",
+        "url_mobile": "https://richmond.com/lifestyles/technology/stocks-end-mostly-higher-but-still-log-another-losing-week/article_4e7e5801-a9f0-5ddc-a6e2-722a0f3d6c59.amp.html"
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "Greece",
+        "title": "Rising yields no obstacle for the risk trade today",
+        "url": "https://www.forexlive.com/news/rising-yields-no-obstacle-for-the-risk-trade-today-20220114/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "philippinetimes.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "Philippines",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.philippinetimes.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "All the available data shows that congestion and bottleneck problems are worsening getting into 2022 \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/all-the-available-data-shows-that-congestion-and-bottleneck-problems-are-worsening-getting-into-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stagwell ( STGW ) to Present at the Sidoti Winter SmallCap Virtual Conference",
+        "url": "https://www.prnewswire.com:443/news-releases/stagwell-stgw-to-present-at-the-sidoti-winter-smallcap-virtual-conference-301461490.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "standard-journal.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/standard-journal.com/content/tncms/custom/image/7f5828ce-7eb5-11e7-ac1f-ef4d7cb46739.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://www.standard-journal.com/news/news_ap/article_5d4e9e6f-7536-53fb-99f2-44558d7caa63.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://ml-eu.globenewswire.com/Resource/Download/337dbf86-1049-43e5-afc4-85b27dd3c4ed?size=1",
+        "sourcecountry": "United States",
+        "title": "SkiStar divestment of its stake in Austrian ski resort",
+        "url": "https://www.globenewswire.com/news-release/2022/01/14/2367199/0/en/SkiStar-s-divestment-of-its-stake-in-Austrian-ski-resort-St-Johann-in-Tirol-completed.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Crypto-Stocks-Could-Make-Fintech-ETF-Fabulous-Again.jpg",
+        "sourcecountry": "China",
+        "title": "Crypto Stocks Could Make Fintech ETF Fabulous Again",
+        "url": "https://www.etftrends.com/disruptive-technology-channel/crypto-stocks-could-make-fintech-etf-fabulous-again/",
+        "url_mobile": "https://www.etftrends.com/disruptive-technology-channel/crypto-stocks-could-make-fintech-etf-fabulous-again/amp/"
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/14/20/52942923-0-image-a-82_1642191553668.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "As tech giants battle to win subscribers , which one will you back ? ",
+        "url": "https://www.dailymail.co.uk/money/investing/article-10403933/As-tech-giants-battle-win-subscribers-one-back.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "seekingalpha.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1316669671/medium_image_1316669671.jpg",
+        "sourcecountry": "United States",
+        "title": "Weekly oil supply / demand roundup - crude up ~$2 . 5 from last Friday close",
+        "url": "https://seekingalpha.com/news/3788430-weekly-oil-supplydemand-roundup-crude-up-53-from-last-fridays-close",
+        "url_mobile": "https://seekingalpha.com/amp/news/3788430-weekly-oil-supplydemand-roundup-crude-up-53-from-last-fridays-close"
+      },
+      {
+        "domain": "texasguardian.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "United States",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.texasguardian.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "couriernews.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/couriernews.com/content/tncms/assets/v3/editorial/9/7d/97d85e6e-7d8d-5c78-b56e-a54867347d2f/61e1f2a99d4ef.image.jpg?crop=341%2C341%2C85%2C0",
+        "sourcecountry": "United States",
+        "title": "Indexes end mostly higher , but still log another losing week",
+        "url": "https://www.couriernews.com/indexes-end-mostly-higher-but-still-log-another-losing-week/article_fd3658d1-88c8-5f1b-bf7b-15e31d6ed9c7.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ktvz.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://ktvz.b-cdn.net/2022/01/hypatia-h_8d85ba1c02a238e923d2e6acaa8a9304-h_d24e8aea155c9eb5440689fa1681d261-300-860x573.jpg",
+        "sourcecountry": "United States",
+        "title": "Dow falls as big banks get pummeled",
+        "url": "https://ktvz.com/money/cnn-business-consumer/2022/01/14/blackrock-now-manages-more-than-10-trillion-in-assets-3/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nigeriasun.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Nigeria",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.nigeriasun.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Advisors-Expect-Energy-to-Be-a-Top-Theme-in-2022.jpg",
+        "sourcecountry": "China",
+        "title": "Advisors Expect Energy to Be a Top Theme in 2022",
+        "url": "https://www.etftrends.com/energy-infrastructure-channel/advisors-expect-energy-to-be-a-top-theme-in-2022/",
+        "url_mobile": "https://www.etftrends.com/energy-infrastructure-channel/advisors-expect-energy-to-be-a-top-theme-in-2022/amp/"
+      },
+      {
+        "domain": "wclk.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-1_custom-c95cc44ca55453e032d8800f0db9d2739c9189d8.jpg",
+        "sourcecountry": "United States",
+        "title": "Cultural critic Terry Teachout is remembered as  unafraid of being human in public  ",
+        "url": "https://www.wclk.com/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public",
+        "url_mobile": "https://www.wclk.com/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public?_amp=true"
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "",
+        "sourcecountry": "Greece",
+        "title": "S & P and Nasdaq index close at session highs . Major indices down for the week . ",
+        "url": "https://www.forexlive.com/news/sp-and-nasdaq-index-close-at-session-highsmajor-indices-down-for-the-week-20220114/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "womenshealthmag.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/katy-perry-performs-onstage-during-katy-perry-play-las-news-photo-1642188006.jpg?crop=1.00xw:0.752xh;0,0.0529xh",
+        "sourcecountry": "United States",
+        "title": "Katy Perry , 37 , Is All Strong Arms In New Topless Instagram Photo",
+        "url": "https://www.womenshealthmag.com/fitness/a38771094/katy-perry-arms-abs-topless-instagram-photo/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketpulse.com",
+        "language": "English",
+        "seendate": "20220114T224500Z",
+        "socialimage": "https://www.marketpulse.com/wp-content/uploads/2021/04/AdobeStock_260203732-1.jpeg",
+        "sourcecountry": "United States",
+        "title": "Commodity and Cryptos : Oil rallies , gold pares weekly gain , Musk pumps up Dogecoin - MarketPulse",
+        "url": "https://www.marketpulse.com/20220114/commodity-cryptos-oil-rallies-gold-pares-weekly-gain-musk-pumps-dogecoin/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "halifax.citynews.ca",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://www.vmcdn.ca/f/files/halifaxtoday/images/miscellaneous-feature-photos/jordan-parker-netflix/netflix_2000x1333.jpg;w=1200;h=800;mode=crop",
+        "sourcecountry": "",
+        "title": "An underrated gangster tale and a Ben Affleck tour - de - force : This week best and biggest on Netflix",
+        "url": "https://halifax.citynews.ca/local-news/an-underrated-gangster-tale-and-a-ben-affleck-tour-de-force-this-weeks-best-and-biggest-on-netflix-4947764",
+        "url_mobile": "https://halifax.citynews.ca/amp/local-news/an-underrated-gangster-tale-and-a-ben-affleck-tour-de-force-this-weeks-best-and-biggest-on-netflix-4947764"
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://media.bizj.us/view/img/12179504/nikola-tre-bev*1200xx1280-720-0-0.jpg",
+        "sourcecountry": "United States",
+        "title": "Nikola ( NKLA ) gets key California incentive approval as it lines up more buyers",
+        "url": "https://www.bizjournals.com/phoenix/news/2022/01/14/nikola-key-california-incentive-approval.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kenw.org",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-1_custom-c95cc44ca55453e032d8800f0db9d2739c9189d8.jpg",
+        "sourcecountry": "United States",
+        "title": "Cultural critic Terry Teachout is remembered as  unafraid of being human in public  ",
+        "url": "https://www.kenw.org/npr-news/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public",
+        "url_mobile": "https://www.kenw.org/npr-news/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public?_amp=true"
+      },
+      {
+        "domain": "sanantoniopost.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "United States",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.sanantoniopost.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2021/01/GettyImages-1210559798-e1610658319651.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Prosecutors Recommend Dropping Charges Against MIT Professor Over China Ties",
+        "url": "https://www.nbcconnecticut.com/news/national-international/prosecutors-recommend-dropping-charges-against-mit-professor-over-china-ties/2691145/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/national-international/prosecutors-recommend-dropping-charges-against-mit-professor-over-china-ties/2691145/?amp"
+      },
+      {
+        "domain": "newzealandstar.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "New Zealand",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.newzealandstar.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wiredprnews.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://i-invdn-com.investing.com/news/LYNXMPEC9G1B8_L.jpg",
+        "sourcecountry": "United States",
+        "title": "Netflix raises monthly subscription prices in the US and Canada by Reuters",
+        "url": "https://www.wiredprnews.com/netflix-raises-monthly-subscription-prices-in-the-us-and-canada-by-reuters/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newzealandstar.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642197792698.jpg",
+        "sourcecountry": "New Zealand",
+        "title": "Volatile day on Wall Street , Dow loses more than two hundred points",
+        "url": "https://www.newzealandstar.com/news/272175242/volatile-day-on-wall-street-dow-loses-more-than-two-hundred-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://www.morningstar.com/assets/img/dow-jones.51166f0.png",
+        "sourcecountry": "China",
+        "title": "Applied Materials on Track for Record High Close Data Talk",
+        "url": "https://www.morningstar.com/news/dow-jones/202201148815/applied-materials-on-track-for-record-high-close-data-talk",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "How major US stock indexes fared Friday",
+        "url": "https://www.chron.com/business/article/How-major-US-stock-indexes-fared-Friday-16776680.php",
+        "url_mobile": "https://www.chron.com/business/amp/How-major-US-stock-indexes-fared-Friday-16776680.php"
+      },
+      {
+        "domain": "markets.businessinsider.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "5 Stocks to Watch That Institutions Are Buying Right Now",
+        "url": "https://markets.businessinsider.com/news/stocks/5-stocks-to-watch-that-institutions-are-buying-right-now-1031104253",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "SMART - TD and BLET rail unions initiate steps to strike BNSF properties over new  Hi - Viz  attendance policy punishing sick rail workers during the pandemic",
+        "url": "https://www.prnewswire.com:443/news-releases/smart-td-and-blet-rail-unions-initiate-steps-to-strike-bnsf-properties-over-new-hi-viz-attendance-policy-punishing-sick-rail-workers-during-the-pandemic-301461481.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wmot.org",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-1_custom-c95cc44ca55453e032d8800f0db9d2739c9189d8.jpg",
+        "sourcecountry": "United States",
+        "title": "Cultural critic Terry Teachout is remembered as  unafraid of being human in public  ",
+        "url": "https://www.wmot.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public",
+        "url_mobile": "https://www.wmot.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public?_amp=true"
+      },
+      {
+        "domain": "newser.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://img2-azrcdn.newser.com/image/1393725-12-20220114152057.jpeg",
+        "sourcecountry": "United States",
+        "title": "Market 2022 Streak : 2 Losing Weeks",
+        "url": "https://www.newser.com/story/315687/markets-2022-streak-2-losing-weeks.html",
+        "url_mobile": "https://amp.newser.com/story/315687/markets-2022-streak-2-losing-weeks.html"
+      },
+      {
+        "domain": "fbherald.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/5e06dd4e-3beb-11ec-89e8-ebe74271bae8.jpg?crop=539%2C539%2C450%2C0",
+        "sourcecountry": "United States",
+        "title": "Indexes end mostly higher , but still log another losing week",
+        "url": "https://www.fbherald.com/news/indexes-end-mostly-higher-but-still-log-another-losing-week/article_0834586d-fa29-5255-bbee-cc3e479025a5.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtontimes.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Experts say more Americans will face debt , credit card delinquency this year",
+        "url": "https://www.washingtontimes.com:443/news/2022/jan/14/experts-say-more-americans-will-face-debt-credit-c/",
+        "url_mobile": "https://amp.washingtontimes.com/news/2022/jan/14/experts-say-more-americans-will-face-debt-credit-c/"
+      },
+      {
+        "domain": "kwit.org",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-1_custom-c95cc44ca55453e032d8800f0db9d2739c9189d8.jpg",
+        "sourcecountry": "United States",
+        "title": "Cultural critic Terry Teachout is remembered as  unafraid of being human in public  ",
+        "url": "https://www.kwit.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public",
+        "url_mobile": "https://www.kwit.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public?_amp=true"
+      },
+      {
+        "domain": "reformer.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/reformer.com/content/tncms/assets/v3/editorial/7/d9/7d9d5218-1ddb-5abe-bcf0-b4ca10c31fcc/61e0f67152f72.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end mostly higher , but still log another losing week",
+        "url": "https://www.reformer.com/ap/national/stocks-end-mostly-higher-but-still-log-another-losing-week/article_cd3bfb19-9ba8-52d0-9294-5d7bc015556e.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow ends lower with losses led by JPMorgan as the blue - chip index , S & P 500 book second week of losses",
+        "url": "https://www.msn.com/en-us/money/markets/dow-ends-lower-with-losses-led-by-jpmorgan-as-the-blue-chip-index-sandp-500-book-second-week-of-losses/ar-AASMkH3",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://www.morningstar.com/assets/img/dow-jones.51166f0.png",
+        "sourcecountry": "China",
+        "title": "Monster Beverage on Pace for Largest Percent Decrease Since April 2020 Data Talk",
+        "url": "https://www.morningstar.com/news/dow-jones/202201148058/monster-beverage-on-pace-for-largest-percent-decrease-since-april-2020-data-talk",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220114T223000Z",
+        "socialimage": "https://im.morningstar.com/content/CMSImages/18924.jpg",
+        "sourcecountry": "China",
+        "title": "Sustainable Index Funds Produce Strong Gains in 2021",
+        "url": "https://www.morningstar.com/articles/1074881/sustainable-index-funds-produce-strong-gains-in-2021",
+        "url_mobile": ""
+      },
+      {
+        "domain": "siliconangle.com",
+        "language": "English",
+        "seendate": "20220114T221500Z",
+        "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/IMG_3819-800x533-1.jpg",
+        "sourcecountry": "United States",
+        "title": "Multistate lawsuit accuses Google of misleading publishers and advertisers",
+        "url": "https://siliconangle.com/2022/01/14/multistate-lawsuit-accuses-google-misleading-publishers-advertisers/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tvovermind.com",
+        "language": "English",
+        "seendate": "20220114T221500Z",
+        "socialimage": "https://tvovermind.com/wp-content/uploads/2022/01/Stand-and-Deliver.jpg",
+        "sourcecountry": "United States",
+        "title": "The 10 Best Movies About Math",
+        "url": "https://tvovermind.com/the-10-best-movies-about-math/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gilead.com",
+        "language": "English",
+        "seendate": "20220114T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Gilead Statement on Zydelig\u00ae U . S . Indication for Follicular Lymphoma and Small Lymphocytic Leukemia",
+        "url": "https://www.gilead.com/news-and-press/company-statements/gilead-statement-on-zydelig-us-indication-for-follicular-lymphoma-and-small-lymphocytic-leukemia",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220114T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Principal Street Partners LLC Raises Holdings in Gilead Sciences , Inc . ( NASDAQ : GILD ) ",
+        "url": "https://etfdailynews.com/news/principal-street-partners-llc-raises-holdings-in-gilead-sciences-inc-nasdaqgild/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220114T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Novavax Still Has Not Received an FDA EUA as the Market Waits",
+        "url": "https://www.msn.com/en-us/money/topstocks/novavax-still-has-not-received-an-fda-eua-as-the-market-waits/ar-AASN6Uy",
+        "url_mobile": ""
+      },
+      {
+        "domain": "southcarolinapublicradio.org",
+        "language": "English",
+        "seendate": "20220114T221500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/14/terryteachout-1_custom-c95cc44ca55453e032d8800f0db9d2739c9189d8.jpg",
+        "sourcecountry": "United States",
+        "title": "Cultural critic Terry Teachout is remembered as  unafraid of being human in public  ",
+        "url": "https://www.southcarolinapublicradio.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public",
+        "url_mobile": "https://www.southcarolinapublicradio.org/2022-01-14/cultural-critic-terry-teachout-is-remembered-as-unafraid-of-being-human-in-public?_amp=true"
+      },
+      {
+        "domain": "bloombergquint.com",
+        "language": "English",
+        "seendate": "20220114T221500Z",
+        "socialimage": "",
+        "sourcecountry": "India",
+        "title": "Stock Strategists See More Gains for Europe , With Bears Scarce",
+        "url": "https://www.bloombergquint.com/markets/stock-strategists-see-more-records-for-europe-with-bears-scarce",
+        "url_mobile": "/amp/markets/stock-strategists-see-more-records-for-europe-with-bears-scarce"
+      },
+      {
+        "domain": "malaysiasun.com",
+        "language": "English",
+        "seendate": "20220114T221500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642183961.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Assets of world largest investment manager hit record $10trn",
+        "url": "https://www.malaysiasun.com/news/272173749/assets-of-worlds-largest-investment-manager-hit-record-10trn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "financialbuzz.com",
+        "language": "English",
+        "seendate": "20220114T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Virgin Orbit Reports Successful Deployment of 7 Customer Satellites via LauncherOne Rocket",
+        "url": "https://www.financialbuzz.com/virgin-orbit-reports-successful-deployment-of-7-customer-satellites-via-launcherone-rocket/",
+        "url_mobile": ""
+      }
+    ]
+  }
+}

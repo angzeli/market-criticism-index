@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-07",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "wvlkam.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Whiplashed Wall Street Struggles With Mixed Payrolls Data",
+        "url": "https://www.wvlkam.com/news/whiplashed-wall-street-struggles-with-mixed-payrolls-data/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "katcountry989.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/07/2022-01-07T220012Z_1_LYNXMPEI060T9_RTROPTP_3_BANK-OF-AMERICA-RESULTS.JPG",
+        "sourcecountry": "United States",
+        "title": "Bank of America to increase bonus pool for employees \u2013 Bloomberg News",
+        "url": "https://katcountry989.com/2022/01/07/bank-of-america-to-increase-bonus-pool-for-employees-bloomberg-news/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tnledger.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The Nashville Ledger",
+        "url": "http://www.tnledger.com/editorial/Article.aspx?id=149240",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/07/B_13e01image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Exscientia Gains on Joint Project with Sanofi",
+        "url": "https://menafn.com/1103504333/Exscientia-Gains-on-Joint-Project-with-Sanofi&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "consumerelectronicsnet.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Newegg Annual Eggie Awards Celebrate the Contributions of its Top Partners in 2021 \u2013 Consumer Electronics Net",
+        "url": "http://www.consumerelectronicsnet.com/neweggs-annual-eggie-awards-celebrate-the-contributions-of-its-top-partners-in-2021/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "europesun.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "Russia",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.europesun.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2017/08/solar-stocks-ipsize.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Solar Stocks Set to Shine Brightest in 2022",
+        "url": "https://investorplace.com/2022/01/3-solar-stocks-set-to-shine-brightest-in-2022/",
+        "url_mobile": "https://investorplace.com/2022/01/3-solar-stocks-set-to-shine-brightest-in-2022/amp/"
+      },
+      {
+        "domain": "oskaloosa.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/oskaloosa.com/content/tncms/custom/image/30e3fcfe-c453-11e5-be2f-572c420cd125.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "How major US stock indexes fared Friday",
+        "url": "https://www.oskaloosa.com/news/national_news/how-major-us-stock-indexes-fared-friday/article_725c7780-4501-5f5d-b677-302fc980f393.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvlkam.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bank of America to Increase Bonus Pool for Employees",
+        "url": "https://www.wvlkam.com/news/bank-of-america-to-increase-bonus-pool-for-employees/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "edgelittlerock.iheart.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://edgelittlerock.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "oskaloosa.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/oskaloosa.com/content/tncms/custom/image/30e3fcfe-c453-11e5-be2f-572c420cd125.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.oskaloosa.com/news/national_news/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_586610b9-6c8b-5e28-b3ee-eb132faa73a4.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "consumerelectronicsnet.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Everspin to Participate in the 24th Annual Needham Virtual Growth Conference \u2013 Consumer Electronics Net",
+        "url": "http://www.consumerelectronicsnet.com/everspin-to-participate-in-the-24th-annual-needham-virtual-growth-conference/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "russiaherald.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "Russia",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.russiaherald.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "richmond.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/custom/image/722ee48c-99eb-11e9-915f-20677ce06c14.jpg",
+        "sourcecountry": "United States",
+        "title": "Salena Zito column : America outdoor awakening , thanks to MeatEater approach to the movement",
+        "url": "https://richmond.com/opinion/columnists/salena-zito-column-americas-outdoor-awakening-thanks-to-meateaters-approach-to-the-movement/article_2ac74ae6-43fe-5e53-90bd-df05a1ee63c3.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvlkam.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Reddit Tapping Goldman Sachs , Morgan Stanley for $15B IPO",
+        "url": "https://www.wvlkam.com/news/reddit-tapping-goldman-sachs-morgan-stanley-for-15b-ipo/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nationalmortgagenews.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://source-media-brightspot.s3.amazonaws.com/b9/83/495240d34457a995d7262c871bdd/starter-homes.jpg",
+        "sourcecountry": "United States",
+        "title": "Wall Street is using firms like Zillow to eat up starter homes",
+        "url": "https://www.nationalmortgagenews.com/articles/wall-street-is-using-firms-like-zillow-to-eat-up-starter-homes",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvnn.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "  Sloppy  wording this week ? Ted Cruz actually called the Capitol assault a terrorist attack at least 17 previous times",
+        "url": "https://www.wvnn.com/news/sloppy-wording-this-week-ted-cruz-actually-called-the-capitol-assault-a-terrorist-attack-at-least-17-previous-times/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "rockymounttelegram.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/rockymounttelegram.com/content/tncms/assets/v3/editorial/b/56/b56399ec-f992-58ab-8f27-577f510e7eaa/61d7cdfc558bb.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.rockymounttelegram.com/news/national/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_41ec0917-f4f3-5420-97b3-f6ec8f59ee23.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gulf-times.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://img.gulf-times.com/Content/Upload/Slider/120227235024989229590.jpg",
+        "sourcecountry": "Qatar",
+        "title": "The power and poison of MMT",
+        "url": "https://www.gulf-times.com/story/707586/The-power-and-poison-of-MMT",
+        "url_mobile": ""
+      },
+      {
+        "domain": "effinghamdailynews.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/effinghamdailynews.com/content/tncms/assets/v3/editorial/d/d0/dd0ae4ff-e84c-572f-b8e3-677ab296fdcd/61d8cb2477756.image.jpg?crop=417%2C417%2C0%2C101",
+        "sourcecountry": "United States",
+        "title": "Experts believe 2022 markets will be defined by moderation , less COVID impact",
+        "url": "https://www.effinghamdailynews.com/news/experts-believe-2022-markets-will-be-defined-by-moderation-less-covid-impact/article_31203ece-7f74-59e4-8fdd-27421ab65b7a.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "learningenglish.voanews.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://gdb.voanews.com/C4759F9B-8D2F-4700-BE40-E75F6A59F722_cx23_cy9_cw70_w1200_r1.jpg",
+        "sourcecountry": "United States",
+        "title": "Will Theranos Case Change Silicon Valley Culture ? ",
+        "url": "https://learningenglish.voanews.com/a/will-theranos-case-change-silicon-valley-s-culture-/6382789.html",
+        "url_mobile": "https://learningenglish.voanews.com/amp/will-theranos-case-change-silicon-valley-s-culture-/6382789.html"
+      },
+      {
+        "domain": "wvlkam.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Closes First Week of 2022 with Declines on US Rate - Hike Worries",
+        "url": "https://www.wvlkam.com/news/wall-st-closes-first-week-of-2022-with-declines-on-us-rate-hike-worries/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jamaicantimes.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "Jamaica",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.jamaicantimes.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Benessere Capital Acquisition Corp . Announces Shareholder Approval of Extension of Deadline to Complete Business Combination",
+        "url": "https://www.memphissun.com/news/272125405/benessere-capital-acquisition-corp-announces-shareholder-approval-of-extension-of-deadline-to-complete-business-combination",
+        "url_mobile": ""
+      },
+      {
+        "domain": "consumerelectronicsnet.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Airgain\u00ae and Cloudleaf Announce Partnership \u2013 Consumer Electronics Net",
+        "url": "http://www.consumerelectronicsnet.com/airgain-and-cloudleaf-announce-partnership/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://images.mktw.net/im-220105/social",
+        "sourcecountry": "United States",
+        "title": "Marathon Oil Corp . stock rises Friday , outperforms market",
+        "url": "https://www.marketwatch.com/story/marathon-oil-corp-stock-rises-friday-outperforms-market-01641593444-3f127f1ff53b",
+        "url_mobile": "https://www.marketwatch.com/amp/story/marathon-oil-corp-stock-rises-friday-outperforms-market-01641593444-3f127f1ff53b"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/07/NC_da540image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "HIVE Blockchain Announces Filing of Prospectus Supplement an ... ",
+        "url": "https://menafn.com/1103505699/HIVE-Blockchain-Announces-Filing-of-Prospectus-Supplement-and-Automatic-Exercise-of-Special-Warrants&source=24",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.memphissun.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "katcountry989.com",
+        "language": "English",
+        "seendate": "20220108T000000Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/07/2022-01-07T221505Z_1_LYNXMPEI060TQ_RTROPTP_3_TD-RESULTS.JPG",
+        "sourcecountry": "United States",
+        "title": "Toronto market posts weekly decline as Fed spooks investors",
+        "url": "https://katcountry989.com/2022/01/07/toronto-market-posts-weekly-decline-as-fed-spooks-investors/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659357/gettyimages-1158477852.jpg",
+        "sourcecountry": "United States",
+        "title": "1 Top E - Commerce Stock to Buy Right Now",
+        "url": "https://www.fool.com/investing/2022/01/07/1-top-e-commerce-stock-to-buy-right-now/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://media.bizj.us/view/img/12066209/robinhood-rings-nasdaq-opening-bell*1200xx1350-759-0-78.jpg",
+        "sourcecountry": "United States",
+        "title": "Robinhood latest executive hire seen as getting a  spare CEO  - Silicon Valley Business Journal",
+        "url": "https://www.bizjournals.com/sanjose/news/2022/01/07/robinhood-s-latest-executive-hire-seen-as-getting.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wgowam.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Closes First Week of 2022 with Declines on US Rate - Hike Worries",
+        "url": "https://www.wgowam.com/news/wall-st-closes-first-week-of-2022-with-declines-on-us-rate-hike-worries/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "antigojournal.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/antigojournal.com/content/tncms/assets/v3/editorial/d/13/d13ebc1e-a02a-5702-8e0d-782887e511a8/61d7cd020defd.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.antigojournal.com/news/national/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_cb22680b-931a-5693-9e1f-fd548ec13f58.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cbsnews.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/10/01/c5e63049-aa8b-41d3-bab0-1441cf05f2ea/thumbnail/1200x630/164f84f89d580d985a64b2c210bc32c3/ethereum-gettyimages-1235570383.jpg",
+        "sourcecountry": "United States",
+        "title": "What 2022 may have in store for the cryptocurrency investor",
+        "url": "https://www.cbsnews.com/news/crypto-2022-bitcoin-predictions-investor-returns/",
+        "url_mobile": "https://www.cbsnews.com/amp/news/crypto-2022-bitcoin-predictions-investor-returns/"
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Frontdoor Publishes First Sustainability Report , Reinforcing the Company Commitment to ESG",
+        "url": "https://apnews.com/press-release/business-wire/technology-environment-7cad773322f1440d9a4623503eeb5fc6",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wmac-am.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "  Sloppy  wording this week ? Ted Cruz actually called the Capitol assault a terrorist attack at least 17 previous times",
+        "url": "https://www.wmac-am.com/news/sloppy-wording-this-week-ted-cruz-actually-called-the-capitol-assault-a-terrorist-attack-at-least-17-previous-times/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "krdo.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://krdo.b-cdn.net/2022/01/hypatia-h_6f81ee365e1451ca138ac8f710f719b6-h_3bcbaa41c222eb2fc7b0a73abdcf8219-300-860x574.jpg",
+        "sourcecountry": "United States",
+        "title": "  Sloppy  wording this week ? Ted Cruz actually called the Capitol assault a terrorist attack at least 17 previous times",
+        "url": "https://krdo.com/politics/cnn-us-politics/2022/01/07/sloppy-wording-this-week-ted-cruz-actually-called-the-capitol-assault-a-terrorist-attack-at-least-17-previous-times/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hngnews.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/hngnews.com/content/tncms/assets/v3/editorial/8/73/873e41d3-166d-5988-b9a5-78a5ab6d282f/61d856e3b71a2.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks wobble following mixed jobs data as tech sinks again",
+        "url": "https://www.hngnews.com/nation_world/article_a7d44e13-d9b4-53a3-8089-c4f33add7c62.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ktvz.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://ktvz.b-cdn.net/2022/01/hypatia-h_33698f28b5f6a7d607e6a55c7aaa12bb-h_20ea405acd18af213402f176636796f4-300-860x573.jpg",
+        "sourcecountry": "United States",
+        "title": "Confused about America job market ? Dont worry : Economists are , too",
+        "url": "https://ktvz.com/money/cnn-business-consumer/2022/01/07/confused-about-americas-job-market-dont-worry-economists-are-too/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wgowam.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bank of America to Increase Bonus Pool for Employees",
+        "url": "https://www.wgowam.com/news/bank-of-america-to-increase-bonus-pool-for-employees/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "rocketerie.iheart.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://rocketerie.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/?pname=www.rocket101.com&sc=dnsredirect",
+        "url_mobile": ""
+      },
+      {
+        "domain": "postandcourier.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/2/73/27339c84-4690-5f56-bf79-7bc6bd9262b6/61d89ae2dfa52.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Wall St . 1st week of 2022 ends lower ; 2 , 000 NC jobs lost to warehouse fire",
+        "url": "https://www.postandcourier.com/wall-st-s-1st-week-of-2022-ends-lower-2-000-nc-jobs-lost-to/article_a4b49492-6fef-11ec-a9cb-1312d31f97f7.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "lonestar925.iheart.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://lonestar925.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newsradio1029.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bank of America to Increase Bonus Pool for Employees",
+        "url": "https://www.newsradio1029.com/news/bank-of-america-to-increase-bonus-pool-for-employees/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newsradio1029.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Reddit Tapping Goldman Sachs , Morgan Stanley for $15B IPO",
+        "url": "https://www.newsradio1029.com/news/reddit-tapping-goldman-sachs-morgan-stanley-for-15b-ipo/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sydneysun.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "Australia",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.sydneysun.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wgowam.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Whiplashed Wall Street Struggles With Mixed Payrolls Data",
+        "url": "https://www.wgowam.com/news/whiplashed-wall-street-struggles-with-mixed-payrolls-data/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newsradio1029.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Whiplashed Wall Street Struggles With Mixed Payrolls Data",
+        "url": "https://www.newsradio1029.com/news/whiplashed-wall-street-struggles-with-mixed-payrolls-data/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "crainsnewyork.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://s3-prod.crainsnewyork.com/styles/800x600/s3/Screen%20Shot%202020-09-30%20at%202.01.37%20PM.png",
+        "sourcecountry": "United States",
+        "title": "These 5 former Manhattan hotels have new uses since pandemic began",
+        "url": "https://www.crainsnewyork.com/commercial-real-estate/these-5-former-manhattan-hotels-have-new-uses-pandemic-began",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "UBS Group Trims Bed Bath & Beyond ( NASDAQ : BBBY ) Target Price to $13 . 00",
+        "url": "https://etfdailynews.com/news/ubs-group-trims-bed-bath-beyond-nasdaqbbby-target-price-to-13-00/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1704681!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-resident-waits-inside-a-tent-for-a-covid-19-test-in-mexico-city-mexico-on-thursday-jan-6-2022-mexico-s-covid-19-cases-soared-past-15-000-for-the-first-time-since-september-as-the-omicron-variant-spread-but-the-country-s-stockpile-of-unused-vaccines-stood-near-50-million-and-jabs-slowed-to-a-crawl-over-the-holiday-season.jpg",
+        "sourcecountry": "Canada",
+        "title": "Citi to Fire Unvaccinated ; N . Y . Sets Booster Plan : Virus Update",
+        "url": "https://www.bnnbloomberg.ca/citi-to-fire-unvaccinated-n-y-sets-booster-plan-virus-update-1.1704680",
+        "url_mobile": "https://www.bnnbloomberg.ca/citi-to-fire-unvaccinated-n-y-sets-booster-plan-virus-update-1.1704680.amp.html"
+      },
+      {
+        "domain": "wgowam.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Reddit Tapping Goldman Sachs , Morgan Stanley for $15B IPO",
+        "url": "https://www.wgowam.com/news/reddit-tapping-goldman-sachs-morgan-stanley-for-15b-ipo/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news-gazette.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/custom/image/3d3bfbd4-3cf5-11ec-9461-574a9d514a20.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "How major US stock indexes fared Friday",
+        "url": "https://www.news-gazette.com/news/nation-world/how-major-us-stock-indexes-fared-friday/article_a543cc5d-466a-5869-802e-f141b8c8641c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "philippinetimes.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "Philippines",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.philippinetimes.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "malaysiasun.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.malaysiasun.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news-gazette.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/custom/image/e462f33a-3c65-11ec-b3f1-2f038a8f66b4.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.news-gazette.com/coronavirus/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_46be5808-3fea-5093-a3df-899b065a1bc3.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "streetinsider.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Premier Financial Corp . Announces Appointment of Nikki Lanier , JD to Its Board of Directors",
+        "url": "https://www.streetinsider.com/Business+Wire/Premier+Financial+Corp.+Announces+Appointment+of+Nikki+Lanier,+JD+to+Its+Board+of+Directors/19436382.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wkdq.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://townsquare.media/site/71/files/2022/01/attachment-GettyImages-634597358.jpg?&zc=1&s=0&a=t&q=89",
+        "sourcecountry": "United States",
+        "title": "Dont Fall For This Coca - Cola Scam in Evansville ( or Anywhere ) ",
+        "url": "https://wkdq.com/dont-fall-for-this-coca-cola-scam/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TNS Business Budget for Friday , Jan . 7 , 2022",
+        "url": "https://www.msn.com/en-us/news/world/tns-business-budget-for-friday-jan-7-2022/ar-AASxDdM",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kjkj.iheart.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://kjkj.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Northern Trust ( NASDAQ : NTRS ) Lifted to  Neutral  at The Goldman Sachs Group",
+        "url": "https://etfdailynews.com/news/northern-trust-nasdaqntrs-lifted-to-neutral-at-the-goldman-sachs-group/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "Greece",
+        "title": "Forexlive Americas FX news wrap : Wage surprise pushes 10 - year yields above the May high",
+        "url": "https://www.forexlive.com/news/forexlive-americas-fx-news-wrap-wage-surprise-pushes-10-year-yields-above-the-may-high-20220107/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "1013thebrew.iheart.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://1013thebrew.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "BioNTech SE ( NASDAQ : BNTX ) Shares Purchased by Raymond James Financial Services Advisors Inc . ",
+        "url": "https://etfdailynews.com/news/biontech-se-nasdaqbntx-shares-purchased-by-raymond-james-financial-services-advisors-inc/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/rpRULIgoZVqacrXYKOStuw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzM-/https://s.yimg.com/uu/api/res/1.2/r1crMp7_JmEPNWKoBeX4aQ--~B/aD04ODA7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/the_hill_articles_341/d8b0bd13dcd58b95cfdad82ec86d7080",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability Reaching for the stars",
+        "url": "https://news.yahoo.com/equilibrium-sustainability-reaching-stars-222432541.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/equilibrium-sustainability-reaching-stars-222432541.html"
+      },
+      {
+        "domain": "newsradio1029.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Closes First Week of 2022 with Declines on US Rate - Hike Worries",
+        "url": "https://www.newsradio1029.com/news/wall-st-closes-first-week-of-2022-with-declines-on-us-rate-hike-worries/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220107T234500Z",
+        "socialimage": "",
+        "sourcecountry": "Greece",
+        "title": "US stocks close lower . NASDAQ and S & P close lower for the fourth consecutive day",
+        "url": "https://www.forexlive.com/news/us-stocks-close-lower-nasdaq-and-sp-close-lower-for-the-fourth-consecutive-day-20220107/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "us.acrofan.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "http://us.acrofan.com/img/noImg.jpg",
+        "sourcecountry": "South Korea",
+        "title": "Qiming Venture Partners Announces Annual Promotions",
+        "url": "https://us.acrofan.com/detail.php?number=596907",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "NRx Pharmaceuticals to Announce New Details for Planned Investigational BriLife\u2122 COVID - 19 Vaccine",
+        "url": "https://apnews.com/press-release/globe-newswire/coronavirus-pandemic-business-health-middle-east-clinical-trials-50544a0d7b7296f4e3335c3b053bf78c",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://media.bizj.us/view/img/11033497/gettyimages-950542278*1200xx6000-3375-0-313.jpg",
+        "sourcecountry": "United States",
+        "title": "North Carolina surging number of tech jobs has officials eyeing future workforce",
+        "url": "https://www.bizjournals.com/charlotte/news/2022/01/07/nc-tech-jobs-cooper-cyberstart-america.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Closes First Week of 2022 with Declines on US Rate - Hike Worries",
+        "url": "https://www.kmaj1440.com/news/wall-st-closes-first-week-of-2022-with-declines-on-us-rate-hike-worries/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "saltlakecitysun.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.saltlakecitysun.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcsandiego.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://media.nbcsandiego.com/2022/01/106908839-1625841333182-gettyimages-1324238815-wellsfargo12021bt.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "What We Are Watching Next Week , Including Wells Fargo Earnings",
+        "url": "https://www.nbcsandiego.com/news/business/money-report/what-we-are-watching-next-week-including-wells-fargo-earnings/2833861/",
+        "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/what-we-are-watching-next-week-including-wells-fargo-earnings/2833861/?amp"
+      },
+      {
+        "domain": "saltlakecitysun.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "CORRECTION : December 2021 Operational Update",
+        "url": "https://www.saltlakecitysun.com/news/272123735/correction-december-2021-operational-update",
+        "url_mobile": ""
+      },
+      {
+        "domain": "adelaidenow.com.au",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://content.api.news/v3/images/bin/4d48b0a2d8b1629b1c94cf5d433ef219",
+        "sourcecountry": "Australia",
+        "title": "Inside Prince Harry , Meghan Markle finances , Montecito mansion for sale",
+        "url": "https://www.adelaidenow.com.au/entertainment/celebrity/meghan-and-harry-selling-house-amid-huge-spending-spree/news-story/5ec45e90390185341d59c164397ade83?nk=59e89a3315d65db4f1dd831c6f7e557f-1641597383",
+        "url_mobile": "https://www.adelaidenow.com.au/entertainment/celebrity/meghan-and-harry-selling-house-amid-huge-spending-spree/news-story/5ec45e90390185341d59c164397ade83?amp"
+      },
+      {
+        "domain": "singaporestar.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "Singapore",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.singaporestar.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wjbc.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://express-images.franklymedia.com/6616/sites/389/2018/10/10111513/WJBC-AM.jpg",
+        "sourcecountry": "United States",
+        "title": "  Sloppy  wording this week ? Ted Cruz actually called the Capitol assault a terrorist attack at least 17 previous times",
+        "url": "https://www.wjbc.com/news/sloppy-wording-this-week-ted-cruz-actually-called-the-capitol-assault-a-terrorist-attack-at-least-17-previous-times/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bank of America to Increase Bonus Pool for Employees",
+        "url": "https://www.kmaj1440.com/news/bank-of-america-to-increase-bonus-pool-for-employees/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "aljazeera.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://www.aljazeera.com/wp-content/uploads/2022/01/382670712.jpg",
+        "sourcecountry": "United States",
+        "title": "Microsoft and Alphabet see worst week since start of pandemic",
+        "url": "https://www.aljazeera.com/economy/2022/1/7/microsoft-and-alphabet-see-worst-week-since-start-of-pandemic",
+        "url_mobile": "https://www.aljazeera.com/amp/economy/2022/1/7/microsoft-and-alphabet-see-worst-week-since-start-of-pandemic"
+      },
+      {
+        "domain": "argentinastar.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "Argentina",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.argentinastar.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "africaleader.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "South Africa",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.africaleader.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "borneobulletin.com.bn",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://borneobulletin.com.bn/wp-content/uploads/2022/01/P14-B_08012022.jpg",
+        "sourcecountry": "Brunei",
+        "title": "World shares turn lower after tech - led decline on Wall Street",
+        "url": "https://borneobulletin.com.bn/world-shares-turn-lower-after-tech-led-decline-on-wall-street/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Whiplashed Wall Street Struggles With Mixed Payrolls Data",
+        "url": "https://www.kmaj1440.com/news/whiplashed-wall-street-struggles-with-mixed-payrolls-data/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "postandcourier.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/2/73/27339c84-4690-5f56-bf79-7bc6bd9262b6/61d89ae2dfa52.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Wall St . 1st week of 2022 ends lower ; 2 , 000 NC jobs lost to warehouse fire",
+        "url": "https://www.postandcourier.com/business/wall-st-s-1st-week-of-2022-ends-lower-2-000-nc-jobs-lost-to/article_a4b49492-6fef-11ec-a9cb-1312d31f97f7.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "goskagit.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/3/77/377659b4-0380-5262-bdce-aa9292756156/61d7cca221db1.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.goskagit.com/news/nation/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_d82b759c-5cfe-5d81-bac4-f83b1253496b.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thesouthern.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/1/16/1166c9c6-9750-50e4-b91f-a6a2e20f4e3c/61d89c3a9b3e0.preview.jpg?crop=1792%2C941%2C0%2C107",
+        "sourcecountry": "United States",
+        "title": "Carbondale city employee vaccination rate increases to 98 % after mandate",
+        "url": "https://thesouthern.com/news/local/carbondale-city-employee-vaccination-rate-increases-to-98-after-mandate/article_1166c9c6-9750-50e4-b91f-a6a2e20f4e3c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ottumwacourier.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/ottumwacourier.com/content/tncms/assets/v3/editorial/2/0f/20fb0342-6a9f-5952-af15-3b6d5d7c46a6/61d7ccb9217e5.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.ottumwacourier.com/news/national_news/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_31eb8425-56f5-513e-9bc6-3f8ca99f5c14.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chicagobusiness.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://s3-prod.chicagobusiness.com/styles/800x600/s3/CTU_editorial.jpg",
+        "sourcecountry": "United States",
+        "title": "Chicago Schools teacher standoff reveals mismanagement at all levels : Crain Editorial",
+        "url": "https://www.chicagobusiness.com/opinion/chicago-schools-teacher-standoff-reveals-mismanagement-all-levels-crains-editorial",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wtvbam.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/07/2022-01-07T220012Z_1_LYNXMPEI060T9_RTROPTP_3_BANK-OF-AMERICA-RESULTS.JPG",
+        "sourcecountry": "United States",
+        "title": "Bank of America to increase bonus pool for employees \u2013 Bloomberg News",
+        "url": "https://wtvbam.com/2022/01/07/bank-of-america-to-increase-bonus-pool-for-employees-bloomberg-news/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "saltlakecitysun.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Benessere Capital Acquisition Corp . Announces Shareholder Approval of Extension of Deadline to Complete Business Combination",
+        "url": "https://www.saltlakecitysun.com/news/272125405/benessere-capital-acquisition-corp-announces-shareholder-approval-of-extension-of-deadline-to-complete-business-combination",
+        "url_mobile": ""
+      },
+      {
+        "domain": "931themountain.iheart.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://931themountain.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Reddit Tapping Goldman Sachs , Morgan Stanley for $15B IPO",
+        "url": "https://www.kmaj1440.com/news/reddit-tapping-goldman-sachs-morgan-stanley-for-15b-ipo/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "whats-on-netflix.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://www.whats-on-netflix.com/wp-content/uploads/2022/01/whats-new-on-netflix-canada-this-week-january-7th-2022.jpeg",
+        "sourcecountry": "",
+        "title": "What New on Netflix Canada This Week : January 7th , 2022",
+        "url": "https://www.whats-on-netflix.com/whats-new/ca/whats-new-on-netflix-canada-this-week-january-7th-2022/",
+        "url_mobile": "https://www.whats-on-netflix.com/whats-new/ca/whats-new-on-netflix-canada-this-week-january-7th-2022/amp/"
+      },
+      {
+        "domain": "1059thex.iheart.com",
+        "language": "English",
+        "seendate": "20220107T233000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://1059thex.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "greensburgdailynews.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/greensburgdailynews.com/content/tncms/custom/image/0441c36e-bdf2-11e5-a5df-bb2003ff1eb0.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.greensburgdailynews.com/news/nation_world/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_648bb672-d4e3-5257-a80f-ff8d45632a7b.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "japanherald.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "",
+        "sourcecountry": "Japan",
+        "title": "U . S . dollar skids after disappointing jobs report",
+        "url": "https://www.japanherald.com/news/272125162/us-dollar-skids-after-disappointing-jobs-report",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sanantoniopost.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.sanantoniopost.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://media.nbclosangeles.com/2022/01/106908839-1625841333182-gettyimages-1324238815-wellsfargo12021bt.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "What We Are Watching Next Week , Including Wells Fargo Earnings",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/what-we-are-watching-next-week-including-wells-fargo-earnings/2793437/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/what-we-are-watching-next-week-including-wells-fargo-earnings/2793437/?amp"
+      },
+      {
+        "domain": "middleeastmonitor.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://i2.wp.com/www.middleeastmonitor.com/wp-content/uploads/2021/05/GettyImages-1189027354-scaled-e1621764403250.jpg",
+        "sourcecountry": "Israel",
+        "title": "Turkey drones diplomacy in Africa",
+        "url": "https://www.middleeastmonitor.com/20220107-turkeys-drones-diplomacy-in-africa/",
+        "url_mobile": "https://www.middleeastmonitor.com/20220107-turkeys-drones-diplomacy-in-africa/amp/"
+      },
+      {
+        "domain": "newsweek.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://d.newsweek.com/en/full/1965368/donald-trump-jan-6-watched-cable-news.jpg",
+        "sourcecountry": "United States",
+        "title": "Trump Spent Jan . 6 Anniversary Watching Cable News and Fuming",
+        "url": "https://www.newsweek.com/trump-spent-jan-6-anniversary-watching-cable-news-fuming-1667077",
+        "url_mobile": "https://www.newsweek.com/trump-spent-jan-6-anniversary-watching-cable-news-fuming-1667077?amp=1"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/07/PN_47783image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "LEVEL ONE BANCORP INVESTOR ALERT BY THE FORMER ATTORNEY GENE ... ",
+        "url": "https://menafn.com/1103505538/LEVEL-ONE-BANCORP-INVESTOR-ALERT-BY-THE-FORMER-ATTORNEY-GENERAL-OF-LOUISIANA-Kahn-Swick-Foti-LLC-Investigates-Adequacy-of-Price-and-Process-in-Proposed-Sale-of-Level-One-Bancorp-Inc-LEVL&source=29",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tennesseedaily.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.tennesseedaily.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jdsupra.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15392_0504.jpg",
+        "sourcecountry": "United States",
+        "title": "Fed Minutes Suggest Hawkish Turn , Rattle Markets | Robins Kaplan LLP",
+        "url": "https://www.jdsupra.com/legalnews/fed-minutes-suggest-hawkish-turn-rattle-7749569/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kvia.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://kvia.b-cdn.net/2021/06/kvia-860x484.jpg",
+        "sourcecountry": "United States",
+        "title": "  Sloppy  wording this week ? Ted Cruz actually called the Capitol assault a terrorist attack at least 17 previous times",
+        "url": "https://kvia.com/news/2022/01/07/sloppy-wording-this-week-ted-cruz-actually-called-the-capitol-assault-a-terrorist-attack-at-least-17-previous-times/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://images.barrons.com/im-463566/social",
+        "sourcecountry": "United States",
+        "title": "Biogen Alzheimer Drug Aduhelm Has Another Shot at Success",
+        "url": "https://www.marketwatch.com/articles/biogen-alzheimers-drug-aduhelm-51641587825",
+        "url_mobile": ""
+      },
+      {
+        "domain": "vulture.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://pyxis.nymag.com/v1/imgs/cb2/4a9/617a7f2caf91c561ac513a666b375da5dd-15-speed-podcast-lede.1x.rsocial.w1200.jpg",
+        "sourcecountry": "United States",
+        "title": "Cow Comedy , Phone Sex , and More New Podcasts Worth Trying",
+        "url": "https://www.vulture.com/2022/01/best-new-podcasts-operator-2022.html",
+        "url_mobile": "https://www.vulture.com/amp/2022/01/best-new-podcasts-operator-2022.html"
+      },
+      {
+        "domain": "1051rocks.iheart.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://1051rocks.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tag : You \u2013 NBC Los Angeles",
+        "url": "https://www.nbclosangeles.com/tag/you/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2022/01/insider-buying.jpg",
+        "sourcecountry": "United States",
+        "title": "5 Stocks Insiders Are Buying Right Now : F , CRCT , CHWY , ASAN , OGEN",
+        "url": "https://investorplace.com/5-stocks-insiders-are-buying-right-now-insider-buying-stocks/",
+        "url_mobile": "https://investorplace.com/5-stocks-insiders-are-buying-right-now-insider-buying-stocks/amp/"
+      },
+      {
+        "domain": "957bigfm.iheart.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://957bigfm.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-benessere-capital-acquisition-corp-aktie-intraklein-nasdaq.png",
+        "sourcecountry": "Germany",
+        "title": "Benessere Capital Acquisition Corp . Announces Shareholder Approval of Extension of Deadline to Complete Business Combination",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54923177-benessere-capital-acquisition-corp-announces-shareholder-approval-of-extension-of-deadline-to-complete-business-combination-200.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60edb85805bb1a95e811813d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3724%26cropY1%3D0%26cropY2%3D2094",
+        "sourcecountry": "United States",
+        "title": "Why Pixar  Turning Red  Is Skipping Theaters For A Disney+ Premiere",
+        "url": "https://www.forbes.com/sites/scottmendelson/2022/01/07/why-pixars-turning-red-is-skipping-theaters-for-a-disney-premiere/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jdsupra.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16025_3556.jpg",
+        "sourcecountry": "United States",
+        "title": "Technology Trends : Sustainability Is  In  for 2022 and Beyond | Morgan Lewis - Tech & Sourcing",
+        "url": "https://www.jdsupra.com/legalnews/technology-trends-sustainability-is-in-6335700/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "citizensjournal.us",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://www.citizensjournal.us/wp-content/uploads/2021/06/Hospital_emegency_room_ER_night_illuminated_sign.jpeg",
+        "sourcecountry": "United States",
+        "title": "Hospitals Are Getting Away With Ignoring Price Transparency Rules , Experts Say",
+        "url": "https://www.citizensjournal.us/hospitals-are-getting-away-with-ignoring-price-transparency-rules-experts-say/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-hive-blockchain-technologies-ltd-aktie-intraklein-tradegate.png",
+        "sourcecountry": "Germany",
+        "title": "HIVE Blockchain Technologies Ltd .: HIVE Blockchain Announces Filing of Prospectus Supplement and Automatic Exercise of Special Warrants",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54923258-hive-blockchain-technologies-ltd-hive-blockchain-announces-filing-of-prospectus-supplement-and-automatic-exercise-of-special-warrants-296.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tennesseedaily.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Benessere Capital Acquisition Corp . Announces Shareholder Approval of Extension of Deadline to Complete Business Combination",
+        "url": "https://www.tennesseedaily.com/news/272125405/benessere-capital-acquisition-corp-announces-shareholder-approval-of-extension-of-deadline-to-complete-business-combination",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tennesseedaily.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "CORRECTION : December 2021 Operational Update",
+        "url": "https://www.tennesseedaily.com/news/272123735/correction-december-2021-operational-update",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jdsupra.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_4342.jpg",
+        "sourcecountry": "United States",
+        "title": "Accelerate ESG - December 2021 | Akin Gump Strauss Hauer & Feld LLP",
+        "url": "https://www.jdsupra.com/legalnews/accelerate-esg-december-2021-8869078/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fnarena.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "KAZIA THERAPEUTICS TO PRESENT AT HC WAINWRIGHT BIOCONNECT CONFERENCE",
+        "url": "https://www.fnarena.com/index.php/2022/01/08/kazia-therapeutics-to-present-at-hc-wainwright-bioconnect-conference/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pyx106.iheart.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says | PYX 106",
+        "url": "https://pyx106.iheart.com/featured/ken-dashow/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660462/big-red-arrow-going-down-over-a-stock-chart.jpg",
+        "sourcecountry": "United States",
+        "title": "Why MercadoLibre Stock Crashed Today",
+        "url": "https://www.fool.com/investing/2022/01/07/why-mercadolibre-stock-crashed-today/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220107T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "COVID testing FAQ : How accurate are at - home tests ? Where to find one in Minn .? ",
+        "url": "https://www.msn.com/en-us/health/medical/covid-testing-faq-how-accurate-are-at-home-tests-where-to-find-one-in-minn/ar-AASy2Il",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tesla Stock Is Closer Than Ever to Its  Mega  Semi Truck Catalyst",
+        "url": "https://www.msn.com/en-us/money/topstocks/tesla-stock-is-closer-than-ever-to-its-mega-semi-truck-catalyst/ar-AASy02u",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wftw.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "  Sloppy  wording this week ? Ted Cruz actually called the Capitol assault a terrorist attack at least 17 previous times",
+        "url": "https://www.wftw.com/news/sloppy-wording-this-week-ted-cruz-actually-called-the-capitol-assault-a-terrorist-attack-at-least-17-previous-times/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bloombergquint.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://gumlet.assettype.com/bloombergquint%2F2022-01%2Faf192693-6d6c-4d46-a23d-fffbab7daf96%2F371026788.jpg?rect=0%2C0%2C4000%2C2100&auto=format%2Ccompress&ogImage=true",
+        "sourcecountry": "India",
+        "title": "Citigroup Confronts Vaccine Holdouts In No Jab , No Job Mandate",
+        "url": "https://www.bloombergquint.com/business/citigroup-confronts-vaccine-holdouts-in-no-jab-no-job-mandate",
+        "url_mobile": "/amp/business/citigroup-confronts-vaccine-holdouts-in-no-jab-no-job-mandate"
+      },
+      {
+        "domain": "wftw.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Whiplashed Wall Street Struggles With Mixed Payrolls Data",
+        "url": "https://www.wftw.com/news/whiplashed-wall-street-struggles-with-mixed-payrolls-data/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "1037thefox.iheart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://1037thefox.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kegl.iheart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://kegl.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcdfw.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://media.nbcdfw.com/2022/01/106908839-1625841333182-gettyimages-1324238815-wellsfargo12021bt.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "What We Are Watching Next Week , Including Wells Fargo Earnings",
+        "url": "https://www.nbcdfw.com/news/business/money-report/what-we-are-watching-next-week-including-wells-fargo-earnings/2854403/",
+        "url_mobile": "https://www.nbcdfw.com/news/business/money-report/what-we-are-watching-next-week-including-wells-fargo-earnings/2854403/?amp"
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://media.bizj.us/view/img/11508500/ben-horowitz-5-101819*1200xx2162-1218-1517-1045.jpg",
+        "sourcecountry": "United States",
+        "title": "Andreessen Horowitz raises $9 billion for three new funds - Silicon Valley Business Journal",
+        "url": "https://www.bizjournals.com/sanjose/news/2022/01/07/a16z-starts-new-year-with-huge-9b-fundraise.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://media.bizj.us/view/img/11509565/scott-pat*1200xx2048-1152-0-156.jpg",
+        "sourcecountry": "United States",
+        "title": "Allworth Financial beefs up board as part of national expansion - Sacramento Business Journal",
+        "url": "https://www.bizjournals.com/sacramento/news/2022/01/07/allworth-financial-nationwide-expansion.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Amazon reduces COVID - 19 isolation period for US workers",
+        "url": "http://www.msn.com/en-us/news/technology/amazon-reduces-covid-19-isolation-period-for-us-workers/ar-AASxYhG",
+        "url_mobile": ""
+      },
+      {
+        "domain": "calcuttanews.net",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "India",
+        "title": "U . S . stocks record minor losses as greenback undergoes correction",
+        "url": "https://www.calcuttanews.net/news/272125334/us-stocks-record-minor-losses-as-greenback-undergoes-correction",
+        "url_mobile": ""
+      },
+      {
+        "domain": "1073rocks.iheart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://1073rocks.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "massachusettssun.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.massachusettssun.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Unemployment sinks , Biden challenge",
+        "url": "https://www.chron.com/business/article/Business-Highlights-Unemployment-sinks-Biden-s-16758304.php",
+        "url_mobile": "https://www.chron.com/business/amp/Business-Highlights-Unemployment-sinks-Biden-s-16758304.php"
+      },
+      {
+        "domain": "wbig.iheart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://wbig.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "rock101fm.iheart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://rock101fm.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kfmqrock1061.iheart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://kfmqrock1061.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sandiegosun.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.sandiegosun.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtontimes.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The miscommunication of science by way of politics",
+        "url": "https://www.washingtontimes.com:443/news/2022/jan/7/the-miscommunication-of-science-by-way-of-politics/",
+        "url_mobile": "https://amp.washingtontimes.com/news/2022/jan/7/the-miscommunication-of-science-by-way-of-politics/"
+      },
+      {
+        "domain": "montanarightnow.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/custom/image/347183ea-f8d1-11e8-a049-9f298fbbb0bf.png?crop=112%2C112%2C144%2C0",
+        "sourcecountry": "",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.montanarightnow.com/national_news/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_a53a1b94-4983-5f95-bbbc-ad1bfea24460.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Shareholder Action Notice : The Schall Law Firm Encourages Investors in Marathon Digital Holdings , Inc . with Losses of $100 , 000 to Contact the Firm",
+        "url": "https://apnews.com/press-release/newmediawire/technology-business-shareholder-rights-7f53ccf1dc309446f9de27333d95451a",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Unemployment sinks , Biden challenge",
+        "url": "https://apnews.com/article/coronavirus-pandemic-joe-biden-business-health-economy-4866c581d516d841667fef7dae4b2a74",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wftw.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Closes First Week of 2022 with Declines on US Rate - Hike Worries",
+        "url": "https://www.wftw.com/news/wall-st-closes-first-week-of-2022-with-declines-on-us-rate-hike-worries/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gulfnews.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://imagevars.gulfnews.com/2019/01/08/190108_Amazon_resources1_16a3106c1ad_medium.jpg",
+        "sourcecountry": "United Arab Emirates",
+        "title": "COVID - 19 : Amazon shortens isolation , paid leave for US workers",
+        "url": "https://gulfnews.com/business/retail/covid-19-amazon-shortens-isolation-paid-leave-for-us-workers-1.1641593117871",
+        "url_mobile": "https://gulfnews.com/amp/business/retail/covid-19-amazon-shortens-isolation-paid-leave-for-us-workers-1.1641593117871"
+      },
+      {
+        "domain": "businesswire.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Gamida Cell Announces Data to be Presented at 2022 Transplantation & Cellular Therapy Meetings of ASTCT and CIBMTR Tandem Meetings",
+        "url": "https://www.businesswire.com/news/home/20220107005455/en/Gamida-Cell-Announces-Data-to-be-Presented-at-2022-Transplantation-Cellular-Therapy-Meetings-of-ASTCT-and-CIBMTR-Tandem-Meetings",
+        "url_mobile": ""
+      },
+      {
+        "domain": "101kgb.iheart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://101kgb.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sfchronicle.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://www.sfchronicle.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Unemployment sinks , Biden challenge",
+        "url": "https://www.sfchronicle.com/business/article/Business-Highlights-Unemployment-sinks-Biden-s-16758304.php",
+        "url_mobile": "https://www.sfchronicle.com/business/amp/Business-Highlights-Unemployment-sinks-Biden-s-16758304.php"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1704672!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/a-trader-wears-2022-glasses-while-working-on-the-floor-of-the-new-york-stock-exchange-on-dec-31-2021.png",
+        "sourcecountry": "Canada",
+        "title": "Wall Street Hails the Great Stock Rotation ( Just Like Last Year ) ",
+        "url": "https://www.bnnbloomberg.ca/wall-street-hails-the-great-stock-rotation-just-like-last-year-1.1704671",
+        "url_mobile": "https://www.bnnbloomberg.ca/wall-street-hails-the-great-stock-rotation-just-like-last-year-1.1704671.amp.html"
+      },
+      {
+        "domain": "joplinglobe.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/f/fb/ffbfe78a-7528-502d-9a7a-b302703e9ec1/61d7ccf75e96f.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.joplinglobe.com/region/national_business/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_fdd96e24-0eec-5647-940b-a24f7f2e82e0.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability Reaching for the stars",
+        "url": "http://www.msn.com/en-us/news/politics/equilibrium-sustainability-reaching-for-the-stars/ar-AASxVdP",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wibafm.iheart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://wibafm.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Lot of beating ... | Zero Hedge",
+        "url": "https://www.zerohedge.com/the-market-ear/hugepain",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thedailytimes.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/2/45/24542379-c5ea-534f-8a75-09b1ebbbab5c/61d7ccf42b380.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.thedailytimes.com/news/nation_world/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_9aad200f-d236-5f1f-b1fc-0640a95247a3.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://media.breitbart.com/media/2021/09/coronavirus-response-joe-biden-640x335.jpg",
+        "sourcecountry": "United States",
+        "title": "Establishment Media Avoid Blaming Biden for Shoddy Jobs Report",
+        "url": "https://www.breitbart.com/politics/2022/01/07/establishment-media-avoid-blaming-biden-shoddy-jobs-report/",
+        "url_mobile": "https://www.breitbart.com/the-media/2022/01/07/establishment-media-avoid-blaming-biden-shoddy-jobs-report/amp/"
+      },
+      {
+        "domain": "wrdu.iheart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://wrdu.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investegate.co.uk",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Investegate |Millicom International Cellula Announcements | Millicom International Cellula : CFO change at Millicom",
+        "url": "https://www.investegate.co.uk/millicom-international-cellula/gnw/cfo-change-at-millicom---tigo/20220107211749H7963/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "TLIS CLASS ACTION NOTICE : Glancy Prongay & Murray LLP Files Securities Lawsuit Against Talis Biomedical Corporation",
+        "url": "https://apnews.com/press-release/business-wire/business-lawsuits-california-los-angeles-united-states-ea574f02c32948b7965a18c080bc1d3a",
+        "url_mobile": ""
+      },
+      {
+        "domain": "homenewshere.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/homenewshere.com/content/tncms/assets/v3/editorial/9/15/9150cf82-4d4d-501b-a4ad-53901bd0af77/618d107a841c1.image.jpg?crop=1720%2C903%2C288%2C0",
+        "sourcecountry": "United States",
+        "title": "Stealth BioTherapetuics Receives Nasdaq Notifications Regarding Minimum Bid And Market Value Requirements",
+        "url": "http://homenewshere.com/news/state/article_b1071227-62dd-5d4e-8556-2c9962ece95b.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tucsonpost.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.tucsonpost.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "1053thefox.iheart.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://1053thefox.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nymag.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://pyxis.nymag.com/v1/imgs/42a/aa1/8f447f002ac37b67932ed31a0d2050a456-jane-fraser.1x.rsocial.w1200.jpg",
+        "sourcecountry": "United States",
+        "title": "Citi Savvy Slow - Roll of the Return to Office",
+        "url": "https://nymag.com/intelligencer/2022/01/citis-savvy-slow-roll-of-the-return-to-office.html",
+        "url_mobile": "https://nymag.com/intelligencer/amp/2022/01/citis-savvy-slow-roll-of-the-return-to-office.html"
+      },
+      {
+        "domain": "wftw.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Reddit Tapping Goldman Sachs , Morgan Stanley for $15B IPO",
+        "url": "https://www.wftw.com/news/reddit-tapping-goldman-sachs-morgan-stanley-for-15b-ipo/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "myanmarnews.net",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "Myanmar",
+        "title": "U . S . stocks record minor losses as greenback undergoes correction",
+        "url": "https://www.myanmarnews.net/news/272125334/us-stocks-record-minor-losses-as-greenback-undergoes-correction",
+        "url_mobile": ""
+      },
+      {
+        "domain": "qz.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://cms.qz.com/wp-content/uploads/2022/01/2021-01-27T205546Z_987993003_RC2KGL956SLR_RTRMADP_3_GAMESTOP-HOT-e1641569226599.jpg?quality=75&strip=all&crop=1",
+        "sourcecountry": "United States",
+        "title": "GameStop wants to sell you NFTs Quartz",
+        "url": "https://qz.com/2110487/gamestop-wants-to-sell-you-nfts-2/",
+        "url_mobile": "https://qz.com/2110487/gamestop-wants-to-sell-you-nfts-2/amp/"
+      },
+      {
+        "domain": "naturalnews.com",
+        "language": "English",
+        "seendate": "20220107T230000Z",
+        "socialimage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/01/zombie-passport.jpg",
+        "sourcecountry": "United States",
+        "title": "We are now witnessing the early signs of the dreaded vaccine zombie apocalypse : Raging  mask Karens , personality changes , violent behavior and animalistic lower brain stem lunacy",
+        "url": "https://www.naturalnews.com/2022-01-07-now-witnessing-early-signs-vaccine-zombie-apocalypse-mask-karens-personality-changes.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "politico.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://static.politico.com/da/6a/441bba5447cebafb2abdbb3c1cbe/ap21347342128382.jpg",
+        "sourcecountry": "United States",
+        "title": "No military option for Ukraine ahead of key talks",
+        "url": "https://www.politico.com/newsletters/national-security-daily/2022/01/07/no-military-option-for-ukraine-ahead-of-key-talks-495647",
+        "url_mobile": ""
+      },
+      {
+        "domain": "1077thefox.iheart.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://1077thefox.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "997thefox.iheart.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://997thefox.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stephen Hurst Resigns from MindMed Board of Directors",
+        "url": "https://www.prnewswire.com/news-releases/stephen-hurst-resigns-from-mindmed-board-of-directors-301456563.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "moneysense.ca",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://www.moneysense.ca/wp-content/uploads/2021/12/MSOTM-jan-9-2022.jpeg",
+        "sourcecountry": "Canada",
+        "title": "Making sense of the markets this week : January 9",
+        "url": "https://www.moneysense.ca/save/investing/making-sense-of-the-markets-this-week-january-9/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kbgo.iheart.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://kbgo.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ipwatchdog.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://www.ipwatchdog.com/wp-content/uploads/2022/01/Colby-800-600-2.jpg",
+        "sourcecountry": "United States",
+        "title": "Other Barks & Bites for Friday , January 7 : ITC Rules Google Audio Players Infringe Sonos Patents , China Bans Most Exclusive Music Licensing Agreements , French Data Regulators Issue Record Fine Against Google",
+        "url": "https://www.ipwatchdog.com/2022/01/07/barks-bites-friday-january-7-itc-rules-google-audio-players-infringe-sonos-patents-china-bans-exclusive-music-licensing-agreements-french-data-regulators-issue-record-fine/id=142605/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jg-tc.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/jg-tc.com/content/tncms/assets/v3/editorial/f/9e/f9e74d5a-47d6-57bb-ae68-889b3e4fd111/61d883789e441.image.jpg?crop=1024%2C538%2C0%2C72",
+        "sourcecountry": "United States",
+        "title": "WHAT OTHERS ARE SAYING : Chicago must take hold of its uncertain future",
+        "url": "https://jg-tc.com/opinion/editorial/what-others-are-saying-chicago-must-take-hold-of-its-uncertain-future/article_f2aeab34-936b-5365-86bb-8439f82dc43a.html",
+        "url_mobile": "https://jg-tc.com/opinion/editorial/what-others-are-saying-chicago-must-take-hold-of-its-uncertain-future/article_f2aeab34-936b-5365-86bb-8439f82dc43a.amp.html"
+      },
+      {
+        "domain": "sfgate.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Unemployment sinks , Biden challenge",
+        "url": "https://www.sfgate.com/business/article/Business-Highlights-Unemployment-sinks-Biden-s-16758304.php",
+        "url_mobile": "https://www.sfgate.com/business/amp/Business-Highlights-Unemployment-sinks-Biden-s-16758304.php"
+      },
+      {
+        "domain": "995thefox.iheart.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says | 99 . 5 The Fox",
+        "url": "https://995thefox.iheart.com/featured/ken-dashow/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660441/airport-lounge-source-getty.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Airline Stocks Were Up Today | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/07/why-airline-stocks-were-up-today/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kugn.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "  Sloppy  wording this week ? Ted Cruz actually called the Capitol assault a terrorist attack at least 17 previous times",
+        "url": "https://www.kugn.com/news/sloppy-wording-this-week-ted-cruz-actually-called-the-capitol-assault-a-terrorist-attack-at-least-17-previous-times/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Luokung Announces Receipt of Nasdaq Notification Regarding Minimum Bid Price Deficiency",
+        "url": "https://www.prnewswire.com/news-releases/luokung-announces-receipt-of-nasdaq-notification-regarding-minimum-bid-price-deficiency-301456367.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businesswire.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TLIS CLASS ACTION NOTICE : Glancy Prongay & Murray LLP Files Securities Lawsuit Against Talis Biomedical Corporation",
+        "url": "https://www.businesswire.com/news/home/20220107005520/en/TLIS-CLASS-ACTION-NOTICE-Glancy-Prongay-Murray-LLP-Files-Securities-Lawsuit-Against-Talis-Biomedical-Corporation",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/2022-01-07_12-00-43.jpg?itok=f-NZkD1O",
+        "sourcecountry": "United States",
+        "title": "Nasdaq 100 Suffers Worst Start To Year Since 2000 ; Rates & Risk - Parity Routed",
+        "url": "https://www.zerohedge.com/markets/nasdaq-100-suffers-worst-start-year-2000-rates-risk-parity-routed",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Triterras Appoints New Independent Auditor",
+        "url": "https://apnews.com/press-release/globe-newswire/business-2a79f8d7c481262ca6f2bc7e2b462ee6",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Labor Department data dents U . S . stocks , Dow Jones drops 5 points",
+        "url": "https://www.bignewsnetwork.com/news/272125334/labor-department-data-dents-us-stocks-dow-jones-drops-5-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2021/12/106986520-16389844572021-12-08t171751z_1625252098_rc2ear9qg6hx_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Inflation , Rising Rates and the Federal Reserve Could Whip Stocks Around in the Week Ahead",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/inflation-rising-rates-and-the-federal-reserve-could-whip-stocks-around-in-the-week-ahead/3100723/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/inflation-rising-rates-and-the-federal-reserve-could-whip-stocks-around-in-the-week-ahead/3100723/?amp"
+      },
+      {
+        "domain": "safehaven.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://d2t794khe5w43b.cloudfront.net/article/718x300/08b78c757cf8fc7a83ac9bf87e609624.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Major Bearish Catalysts For The U . S . Economy In 2022",
+        "url": "https://safehaven.com/markets/economy/3-Major-Bearish-Catalysts-For-The-US-Economy-In-2022.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wheb.iheart.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://wheb.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "londonmercury.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.londonmercury.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2022/01/106908839-1625841333182-gettyimages-1324238815-wellsfargo12021bt.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "What We Are Watching Next Week , Including Wells Fargo Earnings",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/what-we-are-watching-next-week-including-wells-fargo-earnings/3100809/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/what-we-are-watching-next-week-including-wells-fargo-earnings/3100809/?amp"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/07/B_b9f37image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "U . S . Heralds Producer Prices , Retail Sales Next Week",
+        "url": "https://menafn.com/1103505442/US-Heralds-Producer-Prices-Retail-Sales-Next-Week&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "933fmthewolf.iheart.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://933fmthewolf.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "1067theeagle.iheart.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://1067theeagle.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks fall following soft jobs data",
+        "url": "https://www.bignewsnetwork.com/news/272125402/us-stocks-fall-following-soft-jobs-data",
+        "url_mobile": ""
+      },
+      {
+        "domain": "abcnews.go.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How major US stock indexes fared Friday",
+        "url": "https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-friday-82141954",
+        "url_mobile": "https://abcnews.go.com/amp/Business/wireStory/major-us-stock-indexes-fared-friday-82141954"
+      },
+      {
+        "domain": "wtak.iheart.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://wtak.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/citi.jpg?itok=qM8VrfQ0",
+        "sourcecountry": "United States",
+        "title": "Citi To Fire All Unvaxxd Unless They Comply With Mandate By Jan 14",
+        "url": "https://www.zerohedge.com/markets/citigroup-faces-backlash-after-announcing-wall-streets-first-vaccination-mandate",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220107T224500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d8abd738be4cecf2b66374%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3399%26cropY1%3D0%26cropY2%3D1913",
+        "sourcecountry": "United States",
+        "title": "Amazon Shortens Paid Leave For U . S . Workers With Covid After CDC Changes Guidance",
+        "url": "https://www.forbes.com/sites/lisakim/2022/01/07/amazon-shortens-paid-leave-for-us-workers-with-covid-after-cdc-changes-guidance/",
+        "url_mobile": "https://www.forbes.com/sites/lisakim/2022/01/07/amazon-shortens-paid-leave-for-us-workers-with-covid-after-cdc-changes-guidance/amp/"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/This-Managed-Futures-Fund-Moved-Swiftly-to-Add-Bitcoin-Futures.jpg",
+        "sourcecountry": "China",
+        "title": "This Managed Futures Fund Moved Swiftly to Add Bitcoin Futures",
+        "url": "https://www.etftrends.com/model-portfolio-channel/this-managed-futures-fund-moved-swiftly-to-add-bitcoin-futures/",
+        "url_mobile": "https://www.etftrends.com/model-portfolio-channel/this-managed-futures-fund-moved-swiftly-to-add-bitcoin-futures/amp/"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660386/smart-home.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Latch Stock Fell 26 % in 2021 | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/07/why-latch-stock-fell-26-in-2021/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bondbuyer.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://source-media-brightspot.s3.amazonaws.com/b5/a9/a2efaa094861868c2236c9e604c4/bb-011022-mun.jpeg",
+        "sourcecountry": "United States",
+        "title": "Muni yields climb double digit bps in first week of 2022",
+        "url": "https://www.bondbuyer.com/news/muni-yields-climb-double-digits-to-end-first-week-of-2022",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "S & P 500 posts worst start to a year since 2016",
+        "url": "https://www.bnnbloomberg.ca/s-p-500-posts-worst-start-to-a-year-since-2016-1.1704189",
+        "url_mobile": "https://www.bnnbloomberg.ca/s-p-500-posts-worst-start-to-a-year-since-2016-1.1704189.amp.html"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660428/marijuana-leaf-formed-from-100-bills.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Canopy , Sundial , and Tilray Stocks Just Popped",
+        "url": "https://www.fool.com/investing/2022/01/07/why-canopy-sundial-and-tilray-stocks-just-popped/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660424/red-arrow-going-down-crosses-a-green-arrow-going-up.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Tesla , Rivian , and Lucid Stocks Are All Over the Map Today",
+        "url": "https://www.fool.com/investing/2022/01/07/tesla-rivian-and-lucid-are-all-over-the-map-today/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newstalk1030.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "  Sloppy  wording this week ? Ted Cruz actually called the Capitol assault a terrorist attack at least 17 previous times",
+        "url": "https://www.newstalk1030.com/news/sloppy-wording-this-week-ted-cruz-actually-called-the-capitol-assault-a-terrorist-attack-at-least-17-previous-times/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "z93hv.iheart.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://z93hv.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/66YXWDTQAUI6ZMPCAU45VD2EKE.jpg",
+        "sourcecountry": "United States",
+        "title": "The Most Important Number of the Week Is $10 Trillion",
+        "url": "https://www.washingtonpost.com/business/the-most-important-number-of-the-week-is-10-trillion/2022/01/07/fb34e91e-7005-11ec-b1e2-0539da8f4451_story.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stevefmvirginia.iheart.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://i.iheart.com/v3/re/new_assets/61d87c62c764a07bdc84f904?ops=gravity(%22north%22),fit(740,416),quality(65)",
+        "sourcecountry": "United States",
+        "title": "Izzy Stradlin & GNR  Couldnt Meet Eye To Eye  On Reunion , Slash Says",
+        "url": "https://stevefmvirginia.iheart.com/content/2022-01-07-izzy-stradlin-gnr-couldnt-meet-eye-to-eye-on-reunion-slash-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Pharma-Could-Be-Place-to-Be-for-Healthcare-Winners-Value.jpg",
+        "sourcecountry": "China",
+        "title": "Pharma Could Be Place to Be for Healthcare Winners , Value",
+        "url": "https://www.etftrends.com/tactical-allocation-channel/pharma-could-be-place-to-be-for-healthcare-winners-value/",
+        "url_mobile": "https://www.etftrends.com/tactical-allocation-channel/pharma-could-be-place-to-be-for-healthcare-winners-value/amp/"
+      },
+      {
+        "domain": "cincinnatisun.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.cincinnatisun.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kkoh.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Closes First Week of 2022 with Declines on US Rate - Hike Worries",
+        "url": "https://www.kkoh.com/news/wall-st-closes-first-week-of-2022-with-declines-on-us-rate-hike-worries/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "financial-planning.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://source-media-brightspot.s3.amazonaws.com/1f/d8/d98370cf4164bb5a16b24f0be303/citibank-branch.jpg",
+        "sourcecountry": "United States",
+        "title": "No jab , no job : Citigroup prepares to terminate unvaccinated employees",
+        "url": "https://www.financial-planning.com/articles/no-jab-no-job-citigroup-prepares-to-terminate-unvaccinated-employees",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afghanistannews.net",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "U . S . stocks record minor losses as greenback undergoes correction",
+        "url": "https://www.afghanistannews.net/news/272125334/us-stocks-record-minor-losses-as-greenback-undergoes-correction",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://fns1.de/g/fb.png",
+        "sourcecountry": "Germany",
+        "title": "U . S . Stocks Close Mostly Lower Following Monthly Jobs Report",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54922927-u-s-stocks-close-mostly-lower-following-monthly-jobs-report-020.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Russia-ETFs-Under-Pressure-on-Increasing-Military-Presence-Along-Borders.jpg",
+        "sourcecountry": "China",
+        "title": "Russia ETFs Under Pressure on Increasing Military Presence Along Borders",
+        "url": "https://www.etftrends.com/russia-etfs-under-pressure-on-increasing-military-presence-along-borders/",
+        "url_mobile": "https://www.etftrends.com/russia-etfs-under-pressure-on-increasing-military-presence-along-borders/amp/"
+      },
+      {
+        "domain": "hawaiitelegraph.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "CORRECTION : December 2021 Operational Update",
+        "url": "https://www.hawaiitelegraph.com/news/272123735/correction-december-2021-operational-update",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660414/person-betting-on-sports-online.jpg",
+        "sourcecountry": "United States",
+        "title": "Why DraftKings Stock Jumped 8 . 4 % Today",
+        "url": "https://www.fool.com/investing/2022/01/07/why-draftkings-stock-jumped-84-today/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kkoh.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Reddit Tapping Goldman Sachs , Morgan Stanley for $15B IPO",
+        "url": "https://www.kkoh.com/news/reddit-tapping-goldman-sachs-morgan-stanley-for-15b-ipo/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-advance-united-holdings-inc-aktie-intraday-tradegate.png",
+        "sourcecountry": "Germany",
+        "title": "Advance United Holdings Inc .: Wall Street Analyzer Reports on Advance United Marketplace and a Unique Approach to the Junior Mining Space",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54923116-advance-united-holdings-inc-wall-street-analyzer-reports-on-advance-united-marketplace-and-a-unique-approach-to-the-junior-mining-space-296.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "swoknews.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.swoknews.com/ap/business/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_72439528-f117-590a-b8d1-630c8cf5774c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gobankingrates.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://cdn.gobankingrates.com/wp-content/uploads/2016/01/banks_open_on_martin_luther_king_jr._day_2016.jpg",
+        "sourcecountry": "United States",
+        "title": "Is the Stock Market Open on MLK Day ? ",
+        "url": "https://www.gobankingrates.com/investing/stocks/stock-market-open-on-mlk-day/",
+        "url_mobile": "https://www.gobankingrates.com/investing/stocks/stock-market-open-on-mlk-day/amp/"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1704643!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/larry-summers-former-u-s-treasury-secretary-speaks-during-an-economic-club-of-new-york-event-in-new-york-u-s-on-wednesday-may-16-2018-summers-discussed-government-budget-and-public-investment-photographer-mark-kauzlarich-bloomberg.png",
+        "sourcecountry": "Canada",
+        "title": "Larry Summers Says Fed and Markets Are Too Sanguine on Anti - Inflation Steps",
+        "url": "https://www.bnnbloomberg.ca/larry-summers-says-fed-and-markets-are-too-sanguine-on-anti-inflation-steps-1.1704642",
+        "url_mobile": "https://www.bnnbloomberg.ca/larry-summers-says-fed-and-markets-are-too-sanguine-on-anti-inflation-steps-1.1704642.amp.html"
+      },
+      {
+        "domain": "newsroom.ucla.edu",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://newsroom.ucla.edu/media/sites/173/images/social-image.jpg",
+        "sourcecountry": "United States",
+        "title": "UCLA in the News January 7 , 2022",
+        "url": "https://newsroom.ucla.edu/in-the-news/ucla-in-the-news-january-7-2022",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Bank-ETFs-Started-2022-on-the-Right-Foot.jpg",
+        "sourcecountry": "China",
+        "title": "Bank ETFs Started 2022 on the Right Foot",
+        "url": "https://www.etftrends.com/bank-etfs-started-2022-on-the-right-foot/",
+        "url_mobile": "https://www.etftrends.com/bank-etfs-started-2022-on-the-right-foot/amp/"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://images.mktw.net/im-220105/social",
+        "sourcecountry": "United States",
+        "title": "Alaska Air Group Inc . stock rises Friday , outperforms market",
+        "url": "https://www.marketwatch.com/story/alaska-air-group-inc-stock-rises-friday-outperforms-market-01641591315-690a1940d162",
+        "url_mobile": "https://www.marketwatch.com/amp/story/alaska-air-group-inc-stock-rises-friday-outperforms-market-01641591315-690a1940d162"
+      },
+      {
+        "domain": "postregister.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/6/08/608400e5-4a47-5c9b-ac2b-ccaf5840835b/61d7ccfea4cae.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.postregister.com/news/national/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_bd8a69c0-1b5d-53c1-94a8-257d668e0ac0.html",
+        "url_mobile": "https://www.postregister.com/news/national/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_bd8a69c0-1b5d-53c1-94a8-257d668e0ac0.amp.html"
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2021/12/Use-This-ETF-for-Dogs-of-the-Dow-Exposure.jpg",
+        "sourcecountry": "China",
+        "title": "Quarterly Review \u2013 Q4 2021 : Market Continues to Climb the  Wall of Worry  ",
+        "url": "https://www.etftrends.com/etf-strategist-channel/quarterly-review-q4-2021-market-continues-to-climb-the-wall-of-worry/",
+        "url_mobile": "https://www.etftrends.com/etf-strategist-channel/quarterly-review-q4-2021-market-continues-to-climb-the-wall-of-worry/amp/"
+      },
+      {
+        "domain": "hawaiitelegraph.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.hawaiitelegraph.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660409/chalkboard-drawing-of-stock-chart-arrow-going-up-being-erased-and-pointing-back-down.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Nvidia Stock Dropped Back Today | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/07/why-nvidia-stock-dropped-back-today/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2021/12/106986520-16389844572021-12-08t171751z_1625252098_rc2ear9qg6hx_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Inflation , Rising Rates and the Federal Reserve Could Whip Stocks Around in the Week Ahead",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/inflation-rising-rates-and-the-federal-reserve-could-whip-stocks-around-in-the-week-ahead/2686821/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/inflation-rising-rates-and-the-federal-reserve-could-whip-stocks-around-in-the-week-ahead/2686821/?amp"
+      },
+      {
+        "domain": "newyorkstatesman.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.newyorkstatesman.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "933thedrive.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/07/2022-01-07T205425Z_1_LYNXMPEI060S7_RTROPTP_3_REDDIT-IPO.JPG",
+        "sourcecountry": "United States",
+        "title": "Reddit tapping Goldman Sachs , Morgan Stanley for IPO \u2013 Bloomberg News",
+        "url": "https://www.933thedrive.com/2022/01/07/reddit-tapping-goldman-sachs-morgan-stanley-for-ipo-bloomberg-news/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mesabitribune.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/mesabitribune.com/content/tncms/assets/v3/editorial/f/80/f802daec-73ee-55cf-b26b-43a431b3a302/61b0a1f9b018c.image.jpg?crop=1286%2C675%2C707%2C0",
+        "sourcecountry": "",
+        "title": "BIO - TECHNE ANNOUNCES UPDATED PRESENTATION TIME AT THE J . P . MORGAN HEALTHCARE CONFERENCE",
+        "url": "https://www.mesabitribune.com/around_the_web/news/bio-techne-announces-updated-presentation-time-at-the-j-p-morgan-healthcare-conference/article_502fa9e5-a506-5602-b05a-c01cc35a8ea5.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Tesla-Stock-Still-Sparks-Debate-but-Betting-Against-Isnt-Easy.jpg",
+        "sourcecountry": "China",
+        "title": "Tesla Stock Still Sparks Debate , but Betting Against Isnt Easy",
+        "url": "https://www.etftrends.com/disruptive-technology-channel/tesla-stock-still-sparks-debate-but-betting-against-isnt-easy/",
+        "url_mobile": "https://www.etftrends.com/disruptive-technology-channel/tesla-stock-still-sparks-debate-but-betting-against-isnt-easy/amp/"
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/fMlwYuub48x6E6Tu4v11Sg--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/2390e9778a27de2ae59b87e011be37bb",
+        "sourcecountry": "United States",
+        "title": "Luokung Announces Receipt of Nasdaq Notification Regarding Minimum Bid Price Deficiency",
+        "url": "https://finance.yahoo.com/news/luokung-announces-receipt-nasdaq-notification-220000458.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/luokung-announces-receipt-nasdaq-notification-220000458.html"
+      },
+      {
+        "domain": "therealdeal.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://therealdeal.com/wp-content/uploads/2022/01/ft-Chaos-at-the-Chatsworth-Co-op-says-HFZ-plundered-reserves.jpg",
+        "sourcecountry": "United States",
+        "title": "Chaos at the Chatsworth : Co - op Says HFZ Plundered Reserves",
+        "url": "https://therealdeal.com/2022/01/07/chaos-at-the-chatsworth-co-op-says-hfz-plundered-reserves/",
+        "url_mobile": "https://therealdeal.com/2022/01/07/chaos-at-the-chatsworth-co-op-says-hfz-plundered-reserves/amp/"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659944/gettyimages-1317797291.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Beaten - Down Growth Stocks to Buy Right Now",
+        "url": "https://www.fool.com/investing/2022/01/07/3-beaten-down-growth-stocks-to-buy-right-now/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newyorktelegraph.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.newyorktelegraph.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/Value-ETFs-Gain-After-December-Jobs-Data.jpg",
+        "sourcecountry": "China",
+        "title": "Value ETFs Gain After December Jobs Data",
+        "url": "https://www.etftrends.com/core-strategies-channel/value-etfs-gain-after-december-jobs-data/",
+        "url_mobile": "https://www.etftrends.com/core-strategies-channel/value-etfs-gain-after-december-jobs-data/amp/"
+      },
+      {
+        "domain": "gobankingrates.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://cdn.gobankingrates.com/wp-content/uploads/2022/01/shutterstock_editorial_11786798b-2.jpg",
+        "sourcecountry": "United States",
+        "title": "GameStop Solidifies NFT Platform Plans Should You Buy the Stock ? ",
+        "url": "https://www.gobankingrates.com/investing/crypto/gamestop-solidifies-nft-platform-plans-should-you-buy-stock/",
+        "url_mobile": "https://www.gobankingrates.com/investing/crypto/gamestop-solidifies-nft-platform-plans-should-you-buy-stock/amp/"
+      },
+      {
+        "domain": "wfmz.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/45/545e00b0-38fc-5a5b-8350-9711d324846e/61d7cd6b2f0d0.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end lower after mixed jobs data as tech sinks again",
+        "url": "https://www.wfmz.com/news/ap/ap-business/stocks-end-lower-after-mixed-jobs-data-as-tech-sinks-again/article_5684f326-7fc2-5d23-b099-3f066ead84b8.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2022/01/U.S.-Stock-ETFs-Mixed-as-Investors-Rotate-Positions.jpg",
+        "sourcecountry": "China",
+        "title": "Charts : The Footprints of the Flow of Money",
+        "url": "https://www.etftrends.com/etf-strategist-channel/charts-the-footprints-of-the-flow-of-money/",
+        "url_mobile": "https://www.etftrends.com/etf-strategist-channel/charts-the-footprints-of-the-flow-of-money/amp/"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660192/drink-beer.jpg",
+        "sourcecountry": "United States",
+        "title": "Constellation Brands Earnings : 3 Takeaways",
+        "url": "https://www.fool.com/investing/2022/01/07/constellation-brands-earnings-3-takeaways/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "US Cannabis Sales Hit $37 . 4B In 2021 : What Can We Expect This Year ? ",
+        "url": "https://www.msn.com/en-us/money/markets/us-cannabis-sales-hit-374b-in-2021-what-can-we-expect-this-year/ar-AASxUMf",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659344/gettyimages-1130771130.jpg",
+        "sourcecountry": "United States",
+        "title": "Should MercadoLibre Investors Be Worried About These Key Risks ? ",
+        "url": "https://www.fool.com/investing/2022/01/07/should-mercadolibre-investors-be-worried-about-the/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Citigroup to fire unvaccinated employees this month",
+        "url": "http://www.msn.com/en-us/news/us/citigroup-to-fire-unvaccinated-employees-this-month/ar-AASy4qt",
+        "url_mobile": ""
+      },
+      {
+        "domain": "933thedrive.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/07/2022-01-07T210314Z_1_LYNXMPEI060SF_RTROPTP_3_AMAZON-COM-HEALTHCARE-HILTON-WRLDWIDE.JPG",
+        "sourcecountry": "United States",
+        "title": "Amazon shortens COVID isolation , paid leave for U . S . workers",
+        "url": "https://www.933thedrive.com/2022/01/07/amazon-shortens-covid-isolation-paid-leave-for-u-s-workers/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "batonrougepost.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641592177078.jpg",
+        "sourcecountry": "United States",
+        "title": "Mixed unemployment report sees Wall Street dip Friday",
+        "url": "https://www.batonrougepost.com/news/272125334/mixed-unemployment-report-sees-wall-street-dip-friday",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kkoh.com",
+        "language": "English",
+        "seendate": "20220107T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Whiplashed Wall Street Struggles With Mixed Payrolls Data",
+        "url": "https://www.kkoh.com/news/whiplashed-wall-street-struggles-with-mixed-payrolls-data/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220107T221500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : U . S . battles COVID - 19 on multiple fronts - Xinhua",
+        "url": "http://www.xinhuanet.com/english/20220108/1499fbccf80245d6a35c4026438f2b37/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "itnewsonline.com",
+        "language": "English",
+        "seendate": "20220107T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Navita Next - Gen GaN IC Powers OPPO Reno7 Pro  League of Legend \u2122 Limited - Edition 50W  Cookie  Fast Charger",
+        "url": "http://www.itnewsonline.com/PRNewswire/Navitas-Next-Gen-GaN-IC-Powers-OPPOs-Reno7-Pro-League-of-Legends-Limited-Edition-50W-Cookie-Fast-Charger/810132",
+        "url_mobile": ""
+      }
+    ]
+  }
+}

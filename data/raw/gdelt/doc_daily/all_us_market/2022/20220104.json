@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-04",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d4d68b12930c2ce1554665%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "A Virtual Presentation Lesson From The Dallas Cowboys",
+        "url": "https://www.forbes.com/sites/jerryweissman/2022/01/04/a-virtual-presentation-lesson-from-the-dallas-cowboys/",
+        "url_mobile": "https://www.forbes.com/sites/jerryweissman/2022/01/04/a-virtual-presentation-lesson-from-the-dallas-cowboys/amp/"
+      },
+      {
+        "domain": "dailytelegraph.com.au",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Business News | Daily Telegraph",
+        "url": "https://www.dailytelegraph.com.au/business?nk=079e00eeb1c3b082cbdc7957d5331d59-1641340016",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chinadigitaltimes.net",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Hong Kong : Citizen News Closes , Monuments Disappear , Speech Prosecutions Continue",
+        "url": "https://chinadigitaltimes.net/2022/01/hong-kong-citizen-news-closes-monuments-disappear-speech-prosecutions-continue/",
+        "url_mobile": "https://chinadigitaltimes.net/2022/01/hong-kong-citizen-news-closes-monuments-disappear-speech-prosecutions-continue/amp/"
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AFEH4JQQONH4PFSMKOXVN2HX2U.jpg",
+        "sourcecountry": "United States",
+        "title": "Opinion | What the Elizabeth Holmes jury got right",
+        "url": "https://www.washingtonpost.com/opinions/2022/01/04/elizabeth-holmes-theranos-guilty-prison/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jg-tc.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/jg-tc.com/content/tncms/assets/v3/editorial/5/d5/5d58dd2e-8a52-582f-af43-6bab9e84a524/61d49ce5f0937.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "WHAT OTHERS ARE SAYING : Judge discussion is an issue more complex than expected",
+        "url": "https://jg-tc.com/opinion/editorial/what-others-are-saying-judge-discussion-is-an-issue-more-complex-than-expected/article_f1448994-2652-5f2c-919a-21afda7a74f0.html",
+        "url_mobile": "https://jg-tc.com/opinion/editorial/what-others-are-saying-judge-discussion-is-an-issue-more-complex-than-expected/article_f1448994-2652-5f2c-919a-21afda7a74f0.amp.html"
+      },
+      {
+        "domain": "londonmercury.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.londonmercury.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability  Western  diet puts pinch on black bears",
+        "url": "https://www.msn.com/en-us/news/politics/equilibrium-sustainability-western-diet-puts-pinch-on-black-bears/ar-AASqU6W",
+        "url_mobile": ""
+      },
+      {
+        "domain": "360dx.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "BTIG Initiates Coverage of Kidney Disease Diagnostics Firm Renalytix With Buy Rating",
+        "url": "https://www.360dx.com/infectious-disease/btig-initiates-coverage-kidney-disease-diagnostics-firm-renalytix-buy-rating",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Monthly Recap ( January 4 , 2022 ) ",
+        "url": "https://www.forbes.com/newsletters/sss/2022/01/04/monthly-recap-january-4-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Holmes saga , 2021 auto sales",
+        "url": "https://apnews.com/db2baab4a7d75fe0aca99a400b94ec4f",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wfnc640am.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NYC Mayor Eric Adams to big banks : We need you back in the office",
+        "url": "https://www.wfnc640am.com/news/nyc-mayor-eric-adams-to-big-banks-we-need-you-back-in-the-office/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "comstocksmag.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "https://www.comstocksmag.com/sites/main/files/imagecache/medium/main-images/shutterstock_1927129472.png",
+        "sourcecountry": "United States",
+        "title": "Remote Work Is Here to Stay | Comstock magazine",
+        "url": "https://www.comstocksmag.com/longreads/remote-work-here-stay",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220105T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Japan stocks set for higher start ; Dow sails to another record close overnight",
+        "url": "https://www.msn.com/en-us/money/markets/japan-stocks-set-for-higher-start-dow-sails-to-another-record-close-overnight/ar-AASqNxX",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kitchener.citynews.ca",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "S & P / TSX composite starts 2022 higher as energy , financials climb on Omicron hopes",
+        "url": "https://kitchener.citynews.ca/national-business/sptsx-composite-starts-2022-higher-as-energy-financials-climb-on-omicron-hopes-4921338",
+        "url_mobile": ""
+      },
+      {
+        "domain": "980waav.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Posts Closing Record High for 2nd Day , Boosted by Banks",
+        "url": "https://www.980waav.com/news/dow-posts-closing-record-high-for-2nd-day-boosted-by-banks/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Atomera to Present at the 24th Annual Needham Virtual Growth Conference",
+        "url": "https://www.memphissun.com/news/272101456/atomera-to-present-at-the-24th-annual-needham-virtual-growth-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "californiatelegraph.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Atomera to Present at the 24th Annual Needham Virtual Growth Conference",
+        "url": "https://www.californiatelegraph.com/news/272101456/atomera-to-present-at-the-24th-annual-needham-virtual-growth-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wgowam.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "BlackRock , AmEx Extend Hybrid Work Plans as Omicron Spreads across U . S . ",
+        "url": "https://www.wgowam.com/news/blackrock-amex-extend-hybrid-work-plans-as-omicron-spreads-across-u-s/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The Made in China Plan Is Back , and It Better - The Washington Post",
+        "url": "https://www.washingtonpost.com/business/energy/the-made-in-china-plan-is-back-and-its-better/2022/01/04/de46c85e-6db2-11ec-b1e2-0539da8f4451_story.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/04/D_9ab75image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Q1 2022 Top Trade Opportunities",
+        "url": "https://menafn.com/1103488110/Q1-2022-Top-Trade-Opportunities&source=26",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/04/D_9ab75image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Q1 2022 Top Trade Opportunities",
+        "url": "https://menafn.com/1103488110/Q1-2022-Top-Trade-Opportunities&source=24",
+        "url_mobile": ""
+      },
+      {
+        "domain": "triblive.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://assets-varnish.triblive.com/2022/01/4610475_web1_4610475-b9f31c7ec1864b66a0f4922bd3180863.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks turn mixed ahead of economic reports and earnings",
+        "url": "https://triblive.com/news/wire-stories/u-s-stocks-turn-mixed-ahead-of-economic-reports-and-earnings/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://media.bizj.us/view/img/11684467/texas-instruments-dsc1916*1200xx3013-1695-0-157.jpg",
+        "sourcecountry": "United States",
+        "title": "TI new tech helps driver - assistance systems with blind spots , corners amid auto efforts",
+        "url": "https://www.bizjournals.com/dallas/news/2022/01/04/texas-instruments-driver-assistance.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://media.bizj.us/view/img/11932323/arcimoto-purchase*1200xx1280-721-0-169.jpg",
+        "sourcecountry": "United States",
+        "title": "Arcimoto ( Nasdaq : FUV ) files S - 3 for up to $300 million - Portland Business Journal",
+        "url": "https://www.bizjournals.com/portland/news/2022/01/04/arcimoto-300m-shelf-registration.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Holmes saga , 2021 auto sales",
+        "url": "https://www.washingtonpost.com/business/business-highlights-holmes-saga-2021-auto-sales/2022/01/04/f33d4332-6dad-11ec-b1e2-0539da8f4451_story.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyfx.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://a.c-dn.net/b/199kbq/headline_data5.JPG",
+        "sourcecountry": "China",
+        "title": "Q1 2022 Top Trade Opportunities",
+        "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/01/04/Q1-2022-Top-Trade-Opportunities.html",
+        "url_mobile": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/01/04/Q1-2022-Top-Trade-Opportunities.html/amp"
+      },
+      {
+        "domain": "fbherald.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/5e06dd4e-3beb-11ec-89e8-ebe74271bae8.jpg?crop=539%2C539%2C450%2C0",
+        "sourcecountry": "United States",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.fbherald.com/news/will-elizabeth-holmes-conviction-sober-up-silicon-valley/article_c64812e8-706d-534a-9017-a8d83bff30d8.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stocknews.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://stocknews.com/wp-content/uploads/2021/10/gprk-tgs-vist-ae-scaled.jpg",
+        "sourcecountry": "",
+        "title": "LWLG : 3 Best Performing Nasdaq Stocks of 2021",
+        "url": "https://stocknews.com/news/lwlg-aehr-dxlg-3-best-performing-nasdaq-stocks-of-2021/",
+        "url_mobile": "https://stocknews.com/single-snippet-page/amp/"
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://www.startribune.com/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/600132466/",
+        "url_mobile": "https://m.startribune.com/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/600132466/"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/04/D_9ab75image_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Q1 2022 Top Trade Opportunities",
+        "url": "https://menafn.com/1103488110/Q1-2022-Top-Trade-Opportunities&source=25",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/04/D_08acdimage_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Dow Jones Shines but ARKK Flops as Divergence Between Value ... ",
+        "url": "https://menafn.com/1103488111/Dow-Jones-Shines-but-ARKK-Flops-as-Divergence-Between-Value-Growth-Widens&source=26",
+        "url_mobile": ""
+      },
+      {
+        "domain": "flyingmag.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://flyingmag.sfo3.digitaloceanspaces.com/flyingma/wp-content/uploads/2022/01/04141210/Huangpu2.jpg",
+        "sourcecountry": "United States",
+        "title": "China EHang Launches  5G Intelligent  eVTOL Center",
+        "url": "https://www.flyingmag.com/ehang-5g-intelligent-evtol-hub/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "arabnews.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://www.arabnews.com/sites/default/files/main-image/2022/01/05/2998791-94763163.jpg",
+        "sourcecountry": "Saudi Arabia",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.arabnews.com/node/1998381/business-economy",
+        "url_mobile": "https://www.arabnews.com/node/1998381/amp"
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Moderna to Present at the Goldman Sachs 14th Annual Healthcare CEOs Unscripted Conference",
+        "url": "https://www.memphissun.com/news/272101433/moderna-to-present-at-the-goldman-sachs-14th-annual-healthcare-ceos-unscripted-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.memphissun.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "inman.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://webassets.inman.com/wp-content/uploads/2022/01/daniel_hero-38-1024x576.png",
+        "sourcecountry": "United States",
+        "title": "Crypto Billionaire Closes 2021 With Purchase Of LA Estate For $133M",
+        "url": "https://www.inman.com/2022/01/04/crypto-billionaire-closes-2021-with-purchase-of-la-estate-for-133m/",
+        "url_mobile": "https://www.inman.com/2022/01/04/crypto-billionaire-closes-2021-with-purchase-of-la-estate-for-133m/amp/"
+      },
+      {
+        "domain": "tucson.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/9/84/98473ca3-5e8d-5235-8926-88d5477bb1f1/61d46bba6ad2d.image.jpg?crop=1763%2C992%2C0%2C91",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://tucson.com/lifestyles/technology/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_2512caf7-17b9-541e-a08b-1984cfdc4527.html",
+        "url_mobile": "https://tucson.com/lifestyles/technology/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_2512caf7-17b9-541e-a08b-1984cfdc4527.amp.html"
+      },
+      {
+        "domain": "fbherald.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/5e06dd4e-3beb-11ec-89e8-ebe74271bae8.jpg?crop=539%2C539%2C450%2C0",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://www.fbherald.com/news/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_adbd1f46-c2c1-5a02-82f8-31aea12e2cfc.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kake.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/21976875_G.jpg?lastEditedDate=1641286564000",
+        "sourcecountry": "United States",
+        "title": "Apple warp - speed journey to $3 trillion",
+        "url": "https://www.kake.com/story/45576390/apples-warp-speed-journey-to-3-trillion",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Endo Launches First Generic Version of CUVPOSA\u00ae ( glycopyrrolate ) Oral Solution",
+        "url": "https://www.prnewswire.com:443/news-releases/endo-launches-first-generic-version-of-cuvposa-glycopyrrolate-oral-solution-301454073.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "inman.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://webassets.inman.com/wp-content/uploads/2020/10/Untitled-design-2020-10-15T123130.580-1024x576.jpg",
+        "sourcecountry": "United States",
+        "title": "WeWork Co - Founder Adam Neumann Pivots To Residential Real Estate",
+        "url": "https://www.inman.com/2022/01/04/wework-founder-adam-neumann-pivots-to-residential-real-estate/",
+        "url_mobile": "https://www.inman.com/2022/01/04/wework-founder-adam-neumann-pivots-to-residential-real-estate/amp/"
+      },
+      {
+        "domain": "tucsonpost.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.tucsonpost.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thecentersquare.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/f/3e/f3e50bec-103d-11e9-ad0b-871d00876dca/5c2f8a2eb4631.image.jpg?crop=1000%2C525%2C0%2C51",
+        "sourcecountry": "",
+        "title": "Study : Michigan ranked # 6 nationwide for outbound migration",
+        "url": "https://www.thecentersquare.com/michigan/study-michigan-ranked-6-nationwide-for-outbound-migration/article_a1637b38-6d8c-11ec-b76f-8337d1cb8768.html",
+        "url_mobile": "https://www.thecentersquare.com/michigan/study-michigan-ranked-6-nationwide-for-outbound-migration/article_a1637b38-6d8c-11ec-b76f-8337d1cb8768.amp.html"
+      },
+      {
+        "domain": "dbtnews.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Jowell Global Ltd . [ JWEL ] is - 59 . 21 % lower this YTD . Is it still time to buy ? ",
+        "url": "https://dbtnews.com/2022/01/04/jowell-global-ltd-jwel-is-59-21-lower-this-ytd-is-it-still-time-to-buy/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "TNS Business Budget for Tuesday , Jan . 4 , 2022",
+        "url": "https://www.msn.com/en-us/money/other/tns-business-budget-for-tuesday-jan-4-2022/ar-AASqnFI",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://media.nbclosangeles.com/2022/01/106995864-1641229663155-atrad.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After the Dow Notches a Record Close",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-flat-after-the-dow-notches-a-record-close/2791038/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-flat-after-the-dow-notches-a-record-close/2791038/?amp"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/04/D_08acdimage_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Dow Jones Shines but ARKK Flops as Divergence Between Value ... ",
+        "url": "https://menafn.com/1103488111/Dow-Jones-Shines-but-ARKK-Flops-as-Divergence-Between-Value-Growth-Widens&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "qz.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://cms.qz.com/wp-content/uploads/2015/06/crystal-pepsi-soda-healthy-natural-coca-cola-2.jpg?quality=75&strip=all&crop=1",
+        "sourcecountry": "United States",
+        "title": "Remember Crystal Pepsi ? Nineties nostalgia is likely bringing it back",
+        "url": "https://qz.com/425701/remember-crystal-pepsi-nineties-nostalgia-is-likely-bringing-it-back/",
+        "url_mobile": "https://qz.com/425701/remember-crystal-pepsi-nineties-nostalgia-is-likely-bringing-it-back/amp/"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability  Western  diet puts pinch on black bears",
+        "url": "https://www.msn.com/en-us/news/world/equilibriumsustainability-western-diet-puts-pinch-on-black-bears/ar-AASqU6W",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/04/D_08acdimage_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Dow Jones Shines but ARKK Flops as Divergence Between Value ... ",
+        "url": "https://menafn.com/1103488111/Dow-Jones-Shines-but-ARKK-Flops-as-Divergence-Between-Value-Growth-Widens&source=24",
+        "url_mobile": ""
+      },
+      {
+        "domain": "californiatelegraph.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Moderna to Present at the Goldman Sachs 14th Annual Healthcare CEOs Unscripted Conference",
+        "url": "https://www.californiatelegraph.com/news/272101433/moderna-to-present-at-the-goldman-sachs-14th-annual-healthcare-ceos-unscripted-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/bIDJ5zM0drAXEgG6FQFhqw--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/bc86359dcb774f6de3ef1fa6d82c460e",
+        "sourcecountry": "United States",
+        "title": "Asian Stocks Look Steady After U . S . Tech Selloff : Markets Wrap",
+        "url": "https://finance.yahoo.com/news/asian-stocks-look-steady-u-213914199.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/asian-stocks-look-steady-u-213914199.html"
+      },
+      {
+        "domain": "wgowam.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Posts Closing Record High for 2nd Day , Boosted by Banks",
+        "url": "https://www.wgowam.com/news/dow-posts-closing-record-high-for-2nd-day-boosted-by-banks/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcsandiego.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://media.nbcsandiego.com/2022/01/106995864-1641229663155-atrad.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After the Dow Notches a Record Close",
+        "url": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-are-flat-after-the-dow-notches-a-record-close/2830978/",
+        "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/stock-futures-are-flat-after-the-dow-notches-a-record-close/2830978/?amp"
+      },
+      {
+        "domain": "dailyfx.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://a.c-dn.net/b/2IH9Td/headline_NYSE_10.JPG",
+        "sourcecountry": "China",
+        "title": "Dow Jones Shines but ARKK Flops as Divergence Between Value & Growth Widens",
+        "url": "https://www.dailyfx.com/forex/fundamental/article/fundamentals_vs_technicals/2022/01/04/Dow-Jones-Shines-but-ARKK-Flops-as-Divergence-Between-Value-Growth-Widens.html",
+        "url_mobile": "https://www.dailyfx.com/forex/fundamental/article/fundamentals_vs_technicals/2022/01/04/Dow-Jones-Shines-but-ARKK-Flops-as-Divergence-Between-Value-Growth-Widens.html/amp"
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/zgpejtcY5BLK0osH5HmFHQ--~B/aD0zMTc7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/0ff4d2aebf47e607e342b795b86f59c9",
+        "sourcecountry": "United States",
+        "title": "Quantum - Si Signs Lease for New Headquarters in New Haven",
+        "url": "https://finance.yahoo.com/news/quantum-si-signs-lease-headquarters-130000540.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/quantum-si-signs-lease-headquarters-130000540.html"
+      },
+      {
+        "domain": "californiatelegraph.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.californiatelegraph.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://media.nbclosangeles.com/2022/01/106996537-1641320431375-Floating_Beyond_Bucket.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "KFC to Launch Plant - Based Fried Chicken Made With Beyond Meat Nationwide",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/kfc-to-launch-meatless-fried-chicken-made-with-beyond-meat-nationwide/2790995/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/kfc-to-launch-meatless-fried-chicken-made-with-beyond-meat-nationwide/2790995/?amp"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "SHAREHOLDER ALERT : Pomerantz Law Firm Investigates",
+        "url": "https://www.globenewswire.com/news-release/2022/01/04/2361260/0/en/SHAREHOLDER-ALERT-Pomerantz-Law-Firm-Investigates-Claims-On-Behalf-of-Investors-of-Reata-Pharmaceuticals-Inc-RETA.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "moneyweb.co.za",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://www.moneyweb.co.za/wp-content/uploads/2022/01/382506780-1024x682.jpg",
+        "sourcecountry": "South Africa",
+        "title": "Elizabeth Holmes \u2013 the fallen Silicon Valley star",
+        "url": "https://www.moneyweb.co.za/news/international/elizabeth-holmes-the-fallen-silicon-valley-star/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "womensagenda.com.au",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://womensagenda.com.au/wp-content/uploads/2022/01/Holmes_Cheung.jpg",
+        "sourcecountry": "Australia",
+        "title": "Elizabeth Holmes guilty : Now Erika Cheung has the advice we should hear",
+        "url": "https://womensagenda.com.au/latest/elizabeth-holmes-guilty-now-erika-cheung-is-the-name-we-should-know-with-the-advice-we-should-hear/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chinanationalnews.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "China",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.chinanationalnews.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "energycentral.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Fossil Fuel Financing Under Pressure As Wall Street Caves To ESG Demands",
+        "url": "https://energycentral.com/c/ec/fossil-fuel-financing-under-pressure-wall-street-caves-esg-demands",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659904/generic-upward-stock-move-getty.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Shares of Bank of America Are Up Today",
+        "url": "https://www.fool.com/investing/2022/01/04/why-shares-of-bank-of-america-are-up-today/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "980waav.com",
+        "language": "English",
+        "seendate": "20220104T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "BlackRock , AmEx Extend Hybrid Work Plans as Omicron Spreads across U . S . ",
+        "url": "https://www.980waav.com/news/blackrock-amex-extend-hybrid-work-plans-as-omicron-spreads-across-u-s/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://images.barrons.com/im-461983/social",
+        "sourcecountry": "United States",
+        "title": "Qualcomm CEO Cristiano Amon Sees Growing Opportunities in Cars , VR , PCs and IoT",
+        "url": "https://www.marketwatch.com/articles/qualcomm-stock-qcom-ceo-cristiano-amon-51641337325",
+        "url_mobile": ""
+      },
+      {
+        "domain": "saltlakecitysun.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Moderna to Present at the Goldman Sachs 14th Annual Healthcare CEOs Unscripted Conference",
+        "url": "https://www.saltlakecitysun.com/news/272101433/moderna-to-present-at-the-goldman-sachs-14th-annual-healthcare-ceos-unscripted-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cfodive.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://www.cfodive.com/user_media/cache/3b/9b/3b9bdb0ef0846ef9ebe864405f92871f.jpg",
+        "sourcecountry": "",
+        "title": "5 CFO trends to watch in 2022",
+        "url": "https://www.cfodive.com/news/5-cfo-trends-to-watch-2022/611608/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://images.barrons.com/im-400258/social",
+        "sourcecountry": "United States",
+        "title": "Tesla and Moderna Stock Started 2022 Differently What History Says Happens Next",
+        "url": "https://www.marketwatch.com/articles/tesla-moderna-stocks-historical-performance-51641315965",
+        "url_mobile": ""
+      },
+      {
+        "domain": "khaleejtimes.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://image.khaleejtimes.com?uuid=54a584a8-5607-5eb0-b2e8-f33933b1ac3e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.92025&x=1.0E-5&y=0.0409",
+        "sourcecountry": "United Arab Emirates",
+        "title": "Mubadala claims  2021 Fund of the Year  award",
+        "url": "https://www.khaleejtimes.com/business/mubadala-claims-2021-fund-of-the-year-award",
+        "url_mobile": "https://www.khaleejtimes.com/business/mubadala-claims-2021-fund-of-the-year-award?amp=1"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://images.barrons.com/im-421084/social",
+        "sourcecountry": "United States",
+        "title": "Walmart , Kroger Hike Prices for At - Home Covid Tests",
+        "url": "https://www.marketwatch.com/articles/walmart-kroger-at-home-covid-test-prices-51641335205",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/d00ef506-8a60-4ead-8cf0-3754191b99af?size=1",
+        "sourcecountry": "United States",
+        "title": "MYR Group Acquires Powerline Plus Companies",
+        "url": "https://www.globenewswire.com/news-release/2022/01/04/2361234/0/en/MYR-Group-Acquires-Powerline-Plus-Companies.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "saltlakecitysun.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.saltlakecitysun.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/04/22/52551515-0-image-a-68_1641336528771.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "How DID Elizabeth Holmes fool them all ? writes TOM LEONARD",
+        "url": "https://www.dailymail.co.uk/news/article-10369509/How-DID-Elizabeth-Holmes-fool-writes-TOM-LEONARD.html",
+        "url_mobile": "https://www.dailymail.co.uk/news/article-10369509/amp/How-DID-Elizabeth-Holmes-fool-writes-TOM-LEONARD.html"
+      },
+      {
+        "domain": "goodmenproject.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://goodmenproject.com/wp-content/uploads/2022/01/shutterstock_534464629.jpg",
+        "sourcecountry": "United States",
+        "title": "Yes , You Can Beat the Market",
+        "url": "https://goodmenproject.com/featured-content/yes-you-can-beat-the-market-kpkn/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thestreet.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Evergrande Ordered to Tear Down Buildings In Island Dispute",
+        "url": "https://www.thestreet.com/personal-finance/real-estate/evergrande-ordered-to-tear-down-buildings-in-island-dispute",
+        "url_mobile": "https://www.thestreet.com/.amp/personal-finance/real-estate/evergrande-ordered-to-tear-down-buildings-in-island-dispute"
+      },
+      {
+        "domain": "stlouisstar.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Moderna to Present at the Goldman Sachs 14th Annual Healthcare CEOs Unscripted Conference",
+        "url": "https://www.stlouisstar.com/news/272101433/moderna-to-present-at-the-goldman-sachs-14th-annual-healthcare-ceos-unscripted-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "irishsun.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "Ireland",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.irishsun.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wdrb.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/f/3a/f3ae76f0-6cd7-11ec-bd2f-c3a23a4cdc61/61d363987af10.image.jpg?crop=1000%2C525%2C0%2C71",
+        "sourcecountry": "United States",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.wdrb.com/news/national/will-elizabeth-holmes-conviction-sober-up-silicon-valley/article_64edceb9-66fe-5ce5-9149-a95e6ffd69a0.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "freightwaves.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://s29755.pcdn.co/wp-content/uploads/2022/01/WTTNL010422.jpg.optimal.jpg",
+        "sourcecountry": "United States",
+        "title": "Same ship , different day",
+        "url": "https://www.freightwaves.com/news/same-ship-different-day",
+        "url_mobile": "https://www.freightwaves.com/news/same-ship-different-day/amp"
+      },
+      {
+        "domain": "abqjournal.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://d21yqjvcoayho7.cloudfront.net/wp-content/uploads/2022/01/04/BC-US-Theranos-Founder-Fraud-Trial-IMG.jpg",
+        "sourcecountry": "United States",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.abqjournal.com/2458692/will-elizabeth-holmes-conviction-sober-up-silicon-valley.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stlouisstar.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Atomera to Present at the 24th Annual Needham Virtual Growth Conference",
+        "url": "https://www.stlouisstar.com/news/272101456/atomera-to-present-at-the-24th-annual-needham-virtual-growth-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://images.barrons.com/im-461549/social",
+        "sourcecountry": "United States",
+        "title": "Labor Demand Seems to Have Cooled , Even Before Omicron . Here What That Means . ",
+        "url": "https://www.marketwatch.com/articles/labor-demand-cooled-even-before-omicron-51641315506",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "",
+        "sourcecountry": "Greece",
+        "title": "ForexLive Americas FX news wrap : ISM manufacturing misses but prices come down",
+        "url": "https://www.forexlive.com/news/forexlive-americas-fx-news-wrap-ism-manufacturing-misses-but-prices-come-down-20220104/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cp24.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://www.cp24.com/polopoly_fs/1.4260451.1547866458!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+        "sourcecountry": "Canada",
+        "title": "S & P / TSX composite starts 2022 higher as energy , financials climb on Omicron hopes",
+        "url": "https://www.cp24.com/news/s-p-tsx-composite-starts-2022-higher-as-energy-financials-climb-on-omicron-hopes-1.5727587",
+        "url_mobile": "https://beta.cp24.com/news/2022/1/4/1_5727587.html"
+      },
+      {
+        "domain": "dallassun.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.dallassun.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "saltlakecitysun.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Atomera to Present at the 24th Annual Needham Virtual Growth Conference",
+        "url": "https://www.saltlakecitysun.com/news/272101456/atomera-to-present-at-the-24th-annual-needham-virtual-growth-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "texasguardian.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.texasguardian.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ruthfullyyours.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "On Utopian Thinking An essay by Stephen Rittenberg , M . D . and Herbert M . Wyman , M . D . ",
+        "url": "http://www.ruthfullyyours.com/2022/01/04/on-utopian-thinking-an-essay-by-stephen-rittenberg-m-d-and-herbert-m-wyman-m-d/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "realmoney.thestreet.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/b51db08a-a024-11ea-84ce-bbf881d00adc.jpg",
+        "sourcecountry": "United States",
+        "title": "No Dancing Around It : The Market in a Heavy Rotation",
+        "url": "https://realmoney.thestreet.com/investing/stocks/heavy-rotation-15875221",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dallassun.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Moderna to Present at the Goldman Sachs 14th Annual Healthcare CEOs Unscripted Conference",
+        "url": "https://www.dallassun.com/news/272101433/moderna-to-present-at-the-goldman-sachs-14th-annual-healthcare-ceos-unscripted-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stlouisstar.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.stlouisstar.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "greensboro.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/greensboro.com/content/tncms/assets/v3/editorial/9/cc/9cc2a344-7cfc-5412-a529-9ccc49f7bb56/61d4c47a0810f.preview.jpg?crop=1804%2C947%2C0%2C100",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones stop working as company ends support for them",
+        "url": "https://greensboro.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_9cc2a344-7cfc-5412-a529-9ccc49f7bb56.html",
+        "url_mobile": "https://greensboro.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_9cc2a344-7cfc-5412-a529-9ccc49f7bb56.amp.html"
+      },
+      {
+        "domain": "halifax.citynews.ca",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "S & P / TSX composite starts 2022 higher as energy , financials climb on Omicron hopes",
+        "url": "https://halifax.citynews.ca/national-business/sptsx-composite-starts-2022-higher-as-energy-financials-climb-on-omicron-hopes-4921338",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dallassun.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Atomera to Present at the 24th Annual Needham Virtual Growth Conference",
+        "url": "https://www.dallassun.com/news/272101456/atomera-to-present-at-the-24th-annual-needham-virtual-growth-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "philippinetimes.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "Philippines",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.philippinetimes.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "oann.com",
+        "language": "English",
+        "seendate": "20220104T233000Z",
+        "socialimage": "https://dzm0ugdauank9.cloudfront.net/wp-content/uploads/2022/01/2022-01-04T143825Z_3_LYNXMPEI030E5_RTROPTP_0_USA-STOCKS_1.jpg",
+        "sourcecountry": "United States",
+        "title": "Dow posts closing record high for 2nd day , boosted by banks",
+        "url": "https://www.oann.com/financials-power-sp-500-dow-to-record-peaks-ford-shines/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "caledonianrecord.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/8/8a/88aa3601-e6ea-5bad-abe7-00b10428f143/61d3aab50ff95.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.caledonianrecord.com/news/national/will-elizabeth-holmes-conviction-sober-up-silicon-valley/article_f6dc4dd2-3571-5438-acd9-46e7d3d9fb94.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/09/93824845-s.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "MillerKnoll reports weaker - than - expected results for Q2",
+        "url": "https://invezz.com/news/2022/01/04/millerknoll-reports-weaker-than-expected-results-for-q2/",
+        "url_mobile": "https://invezz.com/news/2022/01/04/millerknoll-reports-weaker-than-expected-results-for-q2/?amp"
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/12/applied-uv-thailand-e1638384594630.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "AVROBIO down 30 % as it reprioritizes pipeline programs",
+        "url": "https://invezz.com/news/2022/01/04/avrobio-down-30-as-it-reprioritizes-pipeline-programs/",
+        "url_mobile": "https://invezz.com/news/2022/01/04/avrobio-down-30-as-it-reprioritizes-pipeline-programs/?amp"
+      },
+      {
+        "domain": "ktep.org",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "After his son suicide and the Jan . 6 attack , Rep . Jamie Raskin is not giving up",
+        "url": "https://www.ktep.org/post/after-his-sons-suicide-and-jan-6-attack-rep-jamie-raskin-not-giving",
+        "url_mobile": ""
+      },
+      {
+        "domain": "casino.org",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://www.casino.org/news/wp-content/uploads/2022/01/slots.png",
+        "sourcecountry": "United States",
+        "title": "Craig - Hallum analyst Ryan Sigdahl Trims Targets On Six Gaming Stocks",
+        "url": "https://www.casino.org/news/craig-hallum-analyst-ryan-sigdahl-trims-targets-on-six-gaming-stocks/",
+        "url_mobile": "https://www.casino.org/news/craig-hallum-analyst-ryan-sigdahl-trims-targets-on-six-gaming-stocks/amp/"
+      },
+      {
+        "domain": "kearneyhub.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/kearneyhub.com/content/tncms/assets/v3/editorial/4/4b/44b70d14-bb15-5128-9595-0d4ebe1122e9/61d4c47a41688.preview.jpg?crop=1804%2C947%2C0%2C100",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones stop working as company ends support for them",
+        "url": "https://kearneyhub.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_44b70d14-bb15-5128-9595-0d4ebe1122e9.html",
+        "url_mobile": "https://kearneyhub.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_44b70d14-bb15-5128-9595-0d4ebe1122e9.amp.html"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d4c9b4c6eb9fdd32299dfc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D202%26cropY2%3D2452",
+        "sourcecountry": "United States",
+        "title": "Golden Globes Set To Go On Without Celebrity Attendance Or Red Carpet",
+        "url": "https://www.forbes.com/sites/kimberleespeakman/2022/01/04/golden-globes-set-to-go-on-without-celebrity-presenters-or-red-carpet/",
+        "url_mobile": "https://www.forbes.com/sites/kimberleespeakman/2022/01/04/golden-globes-set-to-go-on-without-celebrity-presenters-or-red-carpet/amp/"
+      },
+      {
+        "domain": "wired.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://media.wired.com/photos/61bcf6273ef995c8db31880e/191:100/w_1280,c_limit/The-Creepy-TikTok-Algorithm-Doesn%E2%80%99t-Know-You.jpg",
+        "sourcecountry": "United States",
+        "title": "The Creepy TikTok Algorithm Doesnt Know You",
+        "url": "https://www.wired.com/story/tiktok-algorithm-mental-health-psychology/",
+        "url_mobile": "https://www.wired.com/story/tiktok-algorithm-mental-health-psychology/amp"
+      },
+      {
+        "domain": "fnarena.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "IMTE to divest its Lamination Glass operation in China",
+        "url": "https://www.fnarena.com/index.php/2022/01/05/imte-to-divest-its-lamination-glass-operation-in-china/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/09/133568664-s1.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Here why the  biotech  space could outperform in 2022",
+        "url": "https://invezz.com/news/2022/01/04/heres-why-biotech-could-outperform-in-2022/",
+        "url_mobile": "https://invezz.com/news/2022/01/04/heres-why-biotech-could-outperform-in-2022/?amp"
+      },
+      {
+        "domain": "idahopress.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/9/d0/9d01df1b-9004-5e7e-a612-3a2b7bf0f6d7/61d3ae586208e.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.idahopress.com/news/national/will-elizabeth-holmes-conviction-sober-up-silicon-valley/article_d68cff08-d8fd-518e-8a67-27f216e68c44.html",
+        "url_mobile": "https://www.idahopress.com/news/national/will-elizabeth-holmes-conviction-sober-up-silicon-valley/article_d68cff08-d8fd-518e-8a67-27f216e68c44.amp.html"
+      },
+      {
+        "domain": "tvnewscheck.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://media.tvnewscheck.com/wp/content/uploads/2020/08/Stock_market_SP_500.jpg",
+        "sourcecountry": "United States",
+        "title": "Dow Gains 215 , Nasdaq Finishes Down 210",
+        "url": "https://tvnewscheck.com/top-news/business/article/dow-gains-215-nasdaq-finishes-down-210/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "malaysiasun.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.malaysiasun.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "torontotelegraph.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "Canada",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.torontotelegraph.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kvor.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "BlackRock , AmEx Extend Hybrid Work Plans as Omicron Spreads across U . S . ",
+        "url": "https://www.kvor.com/news/blackrock-amex-extend-hybrid-work-plans-as-omicron-spreads-across-u-s/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "heraldbulletin.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/heraldbulletin.com/content/tncms/assets/v3/editorial/e/49/e49c7e99-3ea1-5d9a-86da-0f91b661e505/61d3ae1c0780c.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.heraldbulletin.com/news/nation_world/will-elizabeth-holmes-conviction-sober-up-silicon-valley/article_46d4a72e-b73d-5086-b196-bcce68273fda.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyvoice.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://daily-voice-res.cloudinary.com/image/upload/c_limit,e_sharpen,f_auto,q_auto:eco,w_640/Screen_Shot_2019-07-01_at_9.40.52_AM_yolhad.jpg",
+        "sourcecountry": "United States",
+        "title": "Ivanka Trump , Don Jr . Subpoenaed In NY AG Probe",
+        "url": "https://dailyvoice.com/new-york/harrison/politics/ivanka-trump-don-jr-subpoenaed-in-ny-ag-probe/823101/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "baltimorestar.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.baltimorestar.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "baltimorestar.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Moderna to Present at the Goldman Sachs 14th Annual Healthcare CEOs Unscripted Conference",
+        "url": "https://www.baltimorestar.com/news/272101433/moderna-to-present-at-the-goldman-sachs-14th-annual-healthcare-ceos-unscripted-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thestreet.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Will Electric Cars Be A Knockout Punch For Detroit ? ",
+        "url": "https://www.thestreet.com/lifestyle/cars/will-electric-cars-be-a-knockout-punch-for-detroit",
+        "url_mobile": "https://www.thestreet.com/.amp/lifestyle/cars/will-electric-cars-be-a-knockout-punch-for-detroit"
+      },
+      {
+        "domain": "casino.org",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://www.casino.org/news/wp-content/uploads/2022/01/20141031_SUN_SteveWynn_0169_t653.jpg",
+        "sourcecountry": "United States",
+        "title": "Steve Wynn Saga Continues , Nevada Seeks to Further Disgrace Tycoon",
+        "url": "https://www.casino.org/news/steve-wynn-saga-continues-nevada-seek-penalize-billionaire/",
+        "url_mobile": "https://www.casino.org/news/steve-wynn-saga-continues-nevada-seek-penalize-billionaire/amp/"
+      },
+      {
+        "domain": "fxstreet.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://editorial.fxstreet.com/images/Markets/Currencies/Crosses/NZDJPY/forex-new-zealand-and-japanese-currency-pair-with-calculator-4683855_Large.jpg",
+        "sourcecountry": "China",
+        "title": "NZD / JPY Price Analysis : Tuesday rally closes to the double - bottom target at 80 . 00",
+        "url": "https://www.fxstreet.com/news/nzd-jpy-price-analysis-tuesdays-rally-closes-to-the-double-bottom-target-at-8000-202201042244",
+        "url_mobile": "https://www.fxstreet.com/amp/news/nzd-jpy-price-analysis-tuesdays-rally-closes-to-the-double-bottom-target-at-8000-202201042244"
+      },
+      {
+        "domain": "bdtonline.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/bdtonline.com/content/tncms/assets/v3/editorial/b/6d/b6d1134d-3246-5933-bc43-5f9ad4cb8efe/61d3d55fd5109.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://www.bdtonline.com/news/nation_world/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_ac8b691a-6685-5e32-a3d9-c63e171e4de7.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "baltimorestar.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Atomera to Present at the 24th Annual Needham Virtual Growth Conference",
+        "url": "https://www.baltimorestar.com/news/272101456/atomera-to-present-at-the-24th-annual-needham-virtual-growth-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bdtonline.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/bdtonline.com/content/tncms/custom/image/eb1e85e6-05b9-11e7-b62c-6b1accec9988.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Public Storage Announces Pricing of 4 . 100 % Cumulative Preferred Shares of Beneficial Interest , Series S",
+        "url": "https://www.bdtonline.com/news/nation_world/public-storage-announces-pricing-of-4-100-cumulative-preferred-shares-of-beneficial-interest-series-s/article_7ffe5199-628b-5224-8378-c3b6364460f2.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wiscnews.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/f/12/f12d9084-c111-5b3d-b09c-5f24a5a937a2/61d4c47c1b26a.preview.jpg?crop=1804%2C947%2C0%2C100",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones stop working as company ends support for them",
+        "url": "https://www.wiscnews.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_f12d9084-c111-5b3d-b09c-5f24a5a937a2.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kvor.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Posts Closing Record High for 2nd Day , Boosted by Banks",
+        "url": "https://www.kvor.com/news/dow-posts-closing-record-high-for-2nd-day-boosted-by-banks/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "benningtonbanner.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/benningtonbanner.com/content/tncms/assets/v3/editorial/8/4b/84b35fbd-3cdd-5153-b68b-e35fe4656dd7/61d3d5a5dc99b.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://www.benningtonbanner.com/ap/national/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_2d71be00-3a5f-5bb9-aae4-b8c9c1dd76f2.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nwitimes.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/82/182d9825-9be0-5eee-a85c-176d989c461c/61d4c47b05886.preview.jpg?crop=1804%2C947%2C0%2C100",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones stop working as company ends support for them",
+        "url": "https://www.nwitimes.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_182d9825-9be0-5eee-a85c-176d989c461c.html",
+        "url_mobile": "https://www.nwitimes.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_182d9825-9be0-5eee-a85c-176d989c461c.amp.html"
+      },
+      {
+        "domain": "ca.news.yahoo.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/8uEZmsLgMlMcwDqb3SWQsQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/xtlWpTiif1n7E8OsMFzzsg--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/aeef41a106373742ad73faacba96ff9a",
+        "sourcecountry": "United States",
+        "title": "Adam Neumann Next Act After WeWork Includes Apartment Rentals",
+        "url": "https://ca.news.yahoo.com/adam-neumann-next-act-wework-222116415.html",
+        "url_mobile": "https://ca.news.yahoo.com/amphtml/adam-neumann-next-act-wework-222116415.html"
+      },
+      {
+        "domain": "montanarightnow.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/custom/image/347183ea-f8d1-11e8-a049-9f298fbbb0bf.png?crop=112%2C112%2C144%2C0",
+        "sourcecountry": "",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.montanarightnow.com/national_news/will-elizabeth-holmes-conviction-sober-up-silicon-valley/article_64bf11a4-2192-50be-8df6-655cd50687f1.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220104T231500Z",
+        "socialimage": "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Holmes saga , 2021 auto sales",
+        "url": "https://apnews.com/article/coronavirus-pandemic-elizabeth-holmes-business-health-crime-db2baab4a7d75fe0aca99a400b94ec4f",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyprogress.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/a/2c/a2cf804a-11c3-5cc5-a9c9-bdd8eb02e3a4/61d4c479bf7af.preview.jpg?crop=1804%2C947%2C0%2C100",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones stop working as company ends support for them",
+        "url": "https://dailyprogress.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_a2cf804a-11c3-5cc5-a9c9-bdd8eb02e3a4.html",
+        "url_mobile": "https://dailyprogress.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_a2cf804a-11c3-5cc5-a9c9-bdd8eb02e3a4.amp.html"
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Holmes saga , 2021 auto sales",
+        "url": "https://www.chron.com/business/article/Business-Highlights-Holmes-saga-2021-auto-sales-16749523.php",
+        "url_mobile": "https://www.chron.com/business/amp/Business-Highlights-Holmes-saga-2021-auto-sales-16749523.php"
+      },
+      {
+        "domain": "sfgate.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Holmes saga , 2021 auto sales",
+        "url": "https://www.sfgate.com/business/article/Business-Highlights-Holmes-saga-2021-auto-sales-16749523.php",
+        "url_mobile": "https://www.sfgate.com/business/amp/Business-Highlights-Holmes-saga-2021-auto-sales-16749523.php"
+      },
+      {
+        "domain": "nbcwashington.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tag : Car \u2013 NBC4 Washington",
+        "url": "https://www.nbcwashington.com/tag/car/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "registercitizen.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.registercitizen.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Holmes saga , 2021 auto sales",
+        "url": "https://www.registercitizen.com/business/article/Business-Highlights-Holmes-saga-2021-auto-sales-16749523.php",
+        "url_mobile": "https://www.registercitizen.com/business/amp/Business-Highlights-Holmes-saga-2021-auto-sales-16749523.php"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1703099!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-asian-stocks-look-steady-after-us-tech-selloff-markets-wrap.png",
+        "sourcecountry": "Canada",
+        "title": "Asian Stocks Look Steady After U . S . Tech Selloff : Markets Wrap",
+        "url": "https://www.bnnbloomberg.ca/asian-stocks-look-steady-after-u-s-tech-selloff-markets-wrap-1.1703098",
+        "url_mobile": "https://www.bnnbloomberg.ca/asian-stocks-look-steady-after-u-s-tech-selloff-markets-wrap-1.1703098.amp.html"
+      },
+      {
+        "domain": "dailyvoice.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://daily-voice-res.cloudinary.com/image/upload/c_limit,e_sharpen,f_auto,q_auto:eco,w_640/Screen_Shot_2019-07-01_at_9.40.52_AM_yolhad.jpg",
+        "sourcecountry": "United States",
+        "title": "Ivanka Trump , Don Jr . Subpoenaed In NY AG Probe",
+        "url": "https://dailyvoice.com/connecticut/litchfield/politics/ivanka-trump-don-jr-subpoenaed-in-ny-ag-probe/823101/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "itnewsonline.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "IT News Online - LightPath Technologies to Present at the 24th Annual Needham Virtual Growth Conference",
+        "url": "http://www.itnewsonline.com/news/LightPath-Technologies-to-Present-at-the-24th-Annual-Needham-Virtual-Growth-Conference/7670",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investors.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.investors.com/wp-content/uploads/2019/03/stock-Tesla-sign-02-shutter.jpg",
+        "sourcecountry": "United States",
+        "title": "Dow Jones Rallies As Yields Rise ; Apple Hits New High ; Tesla Eyes Buy Point",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rally-as-yields-rise-apple-eyes-new-high-tesla-hits-buy-point/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://images.forexlive.com/images/Forex_id_85c30c04-b141-4a54-9f9a-761cce475ade_size900.jpg?v=1641336438330",
+        "sourcecountry": "Greece",
+        "title": "Dow closes at another record",
+        "url": "https://www.forexlive.com/technical-analysis/dow-closes-at-a-another-record-20220104/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "abcnews.go.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How major US stock indexes fared Tuesday",
+        "url": "https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-tuesday-82074226",
+        "url_mobile": "https://abcnews.go.com/amp/Business/wireStory/major-us-stock-indexes-fared-tuesday-82074226"
+      },
+      {
+        "domain": "aol.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/dq.CJ3KBafDFKM6RKRZYLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/JCN.BCeWHoqM.aVMin_HSw--~B/aD0yNDAwO3c9MzYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/9701cecd2aba2257ac7c08d862bb8a45",
+        "sourcecountry": "United States",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.aol.com/finance/silicon-valley-learn-holmes-conviction-042824425-210234685.html",
+        "url_mobile": "https://www.aol.com/amphtml/silicon-valley-learn-holmes-conviction-042824425-210234685.html"
+      },
+      {
+        "domain": "newser.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://img2-azrcdn.newser.com/image/1392299-12-20220104162159.jpeg",
+        "sourcecountry": "United States",
+        "title": "Pfizer Stock Drops for 2nd Day in a Row",
+        "url": "https://www.newser.com/story/315275/slumping-health-tech-stocks-drag-sp-500-down.html",
+        "url_mobile": "https://amp.newser.com/story/315275/slumping-health-tech-stocks-drag-sp-500-down.html"
+      },
+      {
+        "domain": "greenwichtime.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/36/10/21881383/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.greenwichtime.com/news/article/What-will-Silicon-Valley-learn-from-Holmes-16747529.php",
+        "url_mobile": "https://www.greenwichtime.com/news/amp/What-will-Silicon-Valley-learn-from-Holmes-16747529.php"
+      },
+      {
+        "domain": "pressofatlanticcity.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/e/48/e48f076d-3576-53e1-849b-70147a450c22/61d4c47b1c25a.preview.jpg?crop=1804%2C947%2C0%2C100",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones stop working as company ends support for them",
+        "url": "https://pressofatlanticcity.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_e48f076d-3576-53e1-849b-70147a450c22.html",
+        "url_mobile": "https://pressofatlanticcity.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_e48f076d-3576-53e1-849b-70147a450c22.amp.html"
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://media.nbcmiami.com/2022/01/106996537-1641320431375-Floating_Beyond_Bucket.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "KFC to Launch Meatless Fried Chicken Made With Beyond Meat Nationwide",
+        "url": "https://www.nbcmiami.com/news/business/money-report/kfc-to-launch-meatless-fried-chicken-made-with-beyond-meat-nationwide/2654421/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/kfc-to-launch-meatless-fried-chicken-made-with-beyond-meat-nationwide/2654421/?amp"
+      },
+      {
+        "domain": "bruneinews.net",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Mixed day on Wall St , Dow gains 215 points , Nasdaq loses 210",
+        "url": "https://www.bruneinews.net/news/272101438/mixed-day-on-wall-st-dow-gains-215-points-nasdaq-loses-210",
+        "url_mobile": ""
+      },
+      {
+        "domain": "alternet.org",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.alternet.org/media-library/white-and-black-ship-on-sea-under-white-clouds.jpg?id=28730709&coordinates=0%2C464%2C0%2C464",
+        "sourcecountry": "United States",
+        "title": "Corporate America crimes against humanity must not go unpunished",
+        "url": "https://www.alternet.org/2022/01/corporate-crime-in-america/",
+        "url_mobile": "https://www.alternet.org/amp/corporate-crime-in-america-2656219242"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Biden faces highly charged legal fight with migrants whose children were taken away under Trump",
+        "url": "https://www.msn.com/en-us/news/politics/biden-faces-highly-charged-legal-fight-with-migrants-whose-children-were-taken-away-under-trump/ar-AASqYoZ",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://media.nbcmiami.com/2022/01/106978760-1637595716934-gettyimages-1236730850-PORT-OF-LA.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Global Supply Chain Pressures May Have Peaked , a New Index Suggests",
+        "url": "https://www.nbcmiami.com/news/business/money-report/global-supply-chain-pressures-may-have-peaked-a-new-index-suggests/2654375/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/global-supply-chain-pressures-may-have-peaked-a-new-index-suggests/2654375/?amp"
+      },
+      {
+        "domain": "aol.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/dq.CJ3KBafDFKM6RKRZYLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/JCN.BCeWHoqM.aVMin_HSw--~B/aD0yNDAwO3c9MzYwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/9701cecd2aba2257ac7c08d862bb8a45",
+        "sourcecountry": "United States",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.aol.com/silicon-valley-learn-holmes-conviction-042824425-210234685.html",
+        "url_mobile": "https://www.aol.com/amphtml/silicon-valley-learn-holmes-conviction-042824425-210234685.html"
+      },
+      {
+        "domain": "japanherald.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "Japan",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.japanherald.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+        "sourcecountry": "",
+        "title": "Technology Shares Fall , Weighing on Broad Indexes -- Tech Roundup",
+        "url": "https://www.marketscreener.com/news/latest/Technology-Shares-Fall-Weighing-on-Broad-Indexes-Tech-Roundup--37465690/",
+        "url_mobile": "https://www.marketscreener.com/amp/news/latest/Technology-Shares-Fall-Weighing-on-Broad-Indexes-Tech-Roundup--37465690/"
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "sourcecountry": "",
+        "title": "Healthcare Shares Fall Amid Shift to Cyclicals -- Healthcare Roundup",
+        "url": "https://www.marketscreener.com/news/latest/Healthcare-Shares-Fall-Amid-Shift-to-Cyclicals-Healthcare-Roundup--37465601/",
+        "url_mobile": "https://www.marketscreener.com/amp/news/latest/Healthcare-Shares-Fall-Amid-Shift-to-Cyclicals-Healthcare-Roundup--37465601/"
+      },
+      {
+        "domain": "fandompost.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "Japan",
+        "title": "Top 20 Blu - ray Releases Week Ending December 18th , 2021",
+        "url": "https://www.fandompost.com/2022/01/04/top-20-blu-ray-releases-week-ending-december-18th-2021/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "berkshireeagle.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/4/ea/4ea59bbe-ac81-5251-aef2-fcd8e6302abc/61d3d1ec04ad6.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://www.berkshireeagle.com/ap/national/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_65e8bc80-d58b-5c62-b965-83e73218f58a.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "itnewsonline.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ambarella Launches AI Domain Controller SoC Family for Single - Chip Multi - Sensor Perception , Fusion and Path Planning in ADAS to L4 Autonomous Vehicles",
+        "url": "http://www.itnewsonline.com/GlobeNewswire/Ambarella-Launches-AI-Domain-Controller-SoC-Family-for-Single-Chip-Multi-Sensor-Perception-Fusion-and-Path-Planning-in-ADAS-to-L4-Autonomous-Vehicles/33791",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Sonic Automotive , Inc . ( SAH ) Stock Forecasts",
+        "url": "https://finance.yahoo.com/research/reports/MS_0P0000050L_AnalystReport_1641329509000?ncid=dcm_306416306_490172245_127172993",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://media.nbcmiami.com/2022/01/106991020-1639763568613-gettyimages-1237290875-AFP_9UU9DZ.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "U . S . Reports Over 1 Million New Daily Covid Cases as Omicron Surges",
+        "url": "https://www.nbcmiami.com/news/business/money-report/u-s-reports-over-1-million-new-daily-covid-cases-as-omicron-surges/2653909/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/u-s-reports-over-1-million-new-daily-covid-cases-as-omicron-surges/2653909/?amp"
+      },
+      {
+        "domain": "medicinehatnews.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://medicinehatnews.com/wp-content/uploads/cp/2022010411014-61d470156d3bd4fa32338cbejpeg.jpg",
+        "sourcecountry": "United States",
+        "title": "S & P / TSX composite starts 2022 higher as energy , financials climb on Omicron hopes - Medicine Hat NewsMedicine Hat News",
+        "url": "https://medicinehatnews.com/business/2022/01/04/sptsx-composite-starts-2022-higher-as-energy-financials-climb-on-omicron-hopes/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "billingsgazette.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/d/7b/d7b10a6b-333f-5713-a3c1-07794d05e28c/61d4c479759dd.preview.jpg?crop=1804%2C947%2C0%2C100",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones stop working as company ends support for them",
+        "url": "https://billingsgazette.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_d7b10a6b-333f-5713-a3c1-07794d05e28c.html",
+        "url_mobile": "https://billingsgazette.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_d7b10a6b-333f-5713-a3c1-07794d05e28c.amp.html"
+      },
+      {
+        "domain": "itnewsonline.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Allegro MicroSystems to Present at the 24th Annual\u00a0Needham Growth Conference",
+        "url": "http://www.itnewsonline.com/GlobeNewswire/Allegro-MicroSystems-to-Present-at-the-24th-AnnualNeedham-Growth-Conference/33793",
+        "url_mobile": ""
+      },
+      {
+        "domain": "indiagazette.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "India",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.indiagazette.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mining.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "Press Release - MINING . COM",
+        "url": "https://www.mining.com/press-release/?id=61d4c395b14ab7358f390a0f",
+        "url_mobile": ""
+      },
+      {
+        "domain": "itnewsonline.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Zscaler to Present at Upcoming Investor Conference",
+        "url": "http://www.itnewsonline.com/GlobeNewswire/Zscaler-to-Present-at-Upcoming-Investor-Conference/33792",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mysanantonio.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.mysanantonio.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Holmes saga , 2021 auto sales",
+        "url": "https://www.mysanantonio.com/business/article/Business-Highlights-Holmes-saga-2021-auto-sales-16749523.php",
+        "url_mobile": "https://www.mysanantonio.com/business/amp/Business-Highlights-Holmes-saga-2021-auto-sales-16749523.php"
+      },
+      {
+        "domain": "gobankingrates.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://cdn.gobankingrates.com/wp-content/uploads/2022/01/woman-in-mask-checks-mailbox-holding-envelop-covid-stimulus-check-concept_iStock-1220816954.jpg",
+        "sourcecountry": "United States",
+        "title": "Stimulus Checks in 2022 ? How Omicron Could Prompt Discussions for Further Relief Payments",
+        "url": "https://www.gobankingrates.com/money/economy/stimulus-checks-2022-could-omicron-prompt-further-relief-payments/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://images.barrons.com/im-461430/social",
+        "sourcecountry": "United States",
+        "title": "This Car Stock Beat Tesla Last Year . Here What It Does Next . ",
+        "url": "https://www.marketwatch.com/articles/ford-stock-tesla-51641335589",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+        "sourcecountry": "",
+        "title": "SHAREHOLDER ALERT : Pomerantz Law Firm Investigates Claims on Behalf of Investors of Robinhood Markets , Inc . \u2013 HOOD",
+        "url": "https://www.marketscreener.com/news/latest/SHAREHOLDER-ALERT-Pomerantz-Law-Firm-Investigates-Claims-on-Behalf-of-Investors-of-Robinhood-Market--37465731/",
+        "url_mobile": "https://www.marketscreener.com/amp/news/latest/SHAREHOLDER-ALERT-Pomerantz-Law-Firm-Investigates-Claims-on-Behalf-of-Investors-of-Robinhood-Market--37465731/"
+      },
+      {
+        "domain": "gobankingrates.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://cdn.gobankingrates.com/wp-content/uploads/2022/01/berkshire-hathaway-chairman-ceo-warren-buffett_shutterstock_editorial_10227728a.jpg",
+        "sourcecountry": "United States",
+        "title": "Warren Buffett Fans Should Consider This  Low - Profile  Fund That Mimics Berkshire Hathaway",
+        "url": "https://www.gobankingrates.com/investing/funds/warren-buffett-fans-consider-low-profile-fund-mimics-berkshire-hathaway/",
+        "url_mobile": "https://www.gobankingrates.com/investing/funds/warren-buffett-fans-consider-low-profile-fund-mimics-berkshire-hathaway/amp/"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1703116!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/adam-neumann-co-founder-of-wework-center-during-an-event-on-the-sidelines-of-the-company-s-trading-debut-in-new-york-u-s-on-thursday-oct-21-2021-as-wework-completes-its-second-attempt-to-go-public-this-time-through-a-spac-valuing-the-combined-company-at-9-billion-neumann-s-name-is-peppered-197-times-throughout-the-business-combination-filing-even-though-he-s-no-longer-an-employee-or-board-member.jpg",
+        "sourcecountry": "Canada",
+        "title": "Adam Neumann Next Act After WeWork Includes Apartment Rentals",
+        "url": "https://www.bnnbloomberg.ca/adam-neumann-s-next-act-after-wework-includes-apartment-rentals-1.1703115",
+        "url_mobile": "https://www.bnnbloomberg.ca/adam-neumann-s-next-act-after-wework-includes-apartment-rentals-1.1703115.amp.html"
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdgris.png",
+        "sourcecountry": "",
+        "title": "Oyster Point Pharma , Inc ., Reports Inducement Grants Under Nasdaq Listing Rule 5635 ( c )( 4 ) ",
+        "url": "https://www.marketscreener.com/quote/stock/OYSTER-POINT-PHARMA-INC-71598394/news/Oyster-Point-Pharma-Inc-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4-37465592/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/OYSTER-POINT-PHARMA-INC-71598394/news/Oyster-Point-Pharma-Inc-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4-37465592/"
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "sourcecountry": "",
+        "title": "RumbleOn to Present at Upcoming ICR Conference January 11th 2022",
+        "url": "https://www.marketscreener.com/quote/stock/RUMBLEON-INC-38466985/news/RumbleOn-to-Present-at-Upcoming-ICR-Conference-January-11th-2022-37465762/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/RUMBLEON-INC-38466985/news/RumbleOn-to-Present-at-Upcoming-ICR-Conference-January-11th-2022-37465762/"
+      },
+      {
+        "domain": "news.webindia123.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "",
+        "sourcecountry": "India",
+        "title": "S & P 500 best three - year stretch since 1999",
+        "url": "https://news.webindia123.com/news/Articles/Business/20220105/3886395.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afr.com",
+        "language": "English",
+        "seendate": "20220104T230000Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.6622%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/ec0a44dd7b542458e6752b82a39faee27138eccf",
+        "sourcecountry": "Australia",
+        "title": "ASX to slip ; Dow resets record high",
+        "url": "https://www.afr.com/markets/equity-markets/asx-to-slip-dow-resets-record-high-20220105-p59lxo",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globaltimes.cn",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-11-26/a9d5f099-2e6e-47cf-9ed3-ce943d18dd89.jpeg",
+        "sourcecountry": "China",
+        "title": "10 Questions for American Democracy",
+        "url": "https://www.globaltimes.cn/page/202112/1240755.shtml",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sott.net",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://www.sott.net/image/s31/632797/full/Vanguard_Group.jpg",
+        "sourcecountry": "United States",
+        "title": "How The Vanguard Group is building an empire -- Puppet Masters -- Sott . net",
+        "url": "https://www.sott.net/article/462744-How-The-Vanguard-Group-is-building-an-empire",
+        "url_mobile": ""
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2019/04/26152606/Daniel-Sundheim-D1-Capital.jpg",
+        "sourcecountry": "United States",
+        "title": "Billionaire Daniel Sundheim Portfolio : 5 New Stock Picks",
+        "url": "https://www.insidermonkey.com/blog/billionaire-daniel-sundheims-portfolio-5-new-stock-picks-1018046/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cincinnatisun.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.cincinnatisun.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pittsburghstar.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Atomera to Present at the 24th Annual Needham Virtual Growth Conference",
+        "url": "https://www.pittsburghstar.com/news/272101456/atomera-to-present-at-the-24th-annual-needham-virtual-growth-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dbtnews.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Wall Street Analyst Resumed VICI Properties Inc . [ VICI ]. What else is Wall St . saying",
+        "url": "https://dbtnews.com/2022/01/04/wall-street-analyst-resumed-vici-properties-inc-vici-what-else-is-wall-st-saying/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pentictonherald.ca",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/pentictonherald.ca/content/tncms/assets/v3/editorial/d/9c/d9c3d46b-4356-55f1-8116-a2b6a5b6869d/61d47d5d7422e.image.jpg?crop=650%2C341%2C0%2C45",
+        "sourcecountry": "Canada",
+        "title": "S & P / TSX composite up in late - morning trading , U . S . stock markets mixed",
+        "url": "https://www.pentictonherald.ca/business_news/national_business/article_8c5210df-bfcf-50fc-b45f-0dd1233a0493.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investors.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://www.investors.com/wp-content/uploads/2017/09/BIZ04_gm_091817_co.jpg",
+        "sourcecountry": "United States",
+        "title": "Dow Jones Rallies ; GM Stock Surges As Toyota Snatches Its Crown ; Tesla Tests Buy Point",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-rallies-gm-stock-surges-as-toyota-snatches-its-crown-tesla-tests-buy-point/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stltoday.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/d6/bd629c17-3a9f-55ba-bb1b-d46e585e20fa/61d46ba445f47.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://www.stltoday.com/lifestyles/technology/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_e00be261-73e4-5911-9cef-40cc9cdd434a.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wkyc.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://media.wkyc.com/assets/CCT/images/cc5bfaf5-08c7-4684-909a-41bc9c0d9650/cc5bfaf5-08c7-4684-909a-41bc9c0d9650_1140x641.jpg",
+        "sourcecountry": "United States",
+        "title": "Biden doubling US purchase of Pfizer anti - COVID pills",
+        "url": "https://www.wkyc.com/article/news/nation-world/biden-to-double-purchase-of-pfizer-covid-19-pills/507-a6884195-2070-48b3-976d-b0899e5f70ed",
+        "url_mobile": "https://www.wkyc.com/amp/article/news/nation-world/biden-to-double-purchase-of-pfizer-covid-19-pills/507-a6884195-2070-48b3-976d-b0899e5f70ed"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "HUNTINGTON BANCSHARES INCORPORATED TO ANNOUNCE 2021 FOURTH QUARTER EARNINGS AND HOLD EARNINGS CONFERENCE CALL JANUARY 21 , 2022",
+        "url": "https://www.prnewswire.com/news-releases/huntington-bancshares-incorporated-to-announce-2021-fourth-quarter-earnings-and-hold-earnings-conference-call-january-21-2022-301453985.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sott.net",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://www.sott.net/image/s22/456581/full/holmes.jpg",
+        "sourcecountry": "United States",
+        "title": "Elizabeth Holmes trial : Theranos founder guilty on four fraud counts -- Society Child -- Sott . net",
+        "url": "https://www.sott.net/article/462730-Elizabeth-Holmes-trial-Theranos-founder-guilty-on-four-fraud-counts",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://mma.prnewswire.com/media/1719953/PRNews_Park_Views.jpg?p=facebook",
+        "sourcecountry": "United States",
+        "title": "Name Your Price to Live in Paradise : Luxury Auction\u00ae Set for Paradise Valley , AZ Mansion",
+        "url": "https://www.prnewswire.com/news-releases/name-your-price-to-live-in-paradise-luxury-auction-set-for-paradise-valley-az-mansion-301454021.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pittsburghstar.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Moderna to Present at the Goldman Sachs 14th Annual Healthcare CEOs Unscripted Conference",
+        "url": "https://www.pittsburghstar.com/news/272101433/moderna-to-present-at-the-goldman-sachs-14th-annual-healthcare-ceos-unscripted-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stuff.co.nz",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://resources.stuff.co.nz/content/dam/images/4/y/w/j/x/n/image.related.StuffLandscapeSixteenByNine.1420x800.4ywjxw.png/1641333215122.jpg",
+        "sourcecountry": "New Zealand",
+        "title": "Theranos fraud : Elizabeth Holme conviction a sober warning to Silicon Valley",
+        "url": "https://www.stuff.co.nz/business/world/300490484/theranos-fraud-elizabeth-holmes-conviction-a-sober-warning-to-silicon-valley",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "General Shopping Announces a Tender Offer for its 10 . 0 % Perpetual Notes",
+        "url": "https://www.prnewswire.com/news-releases/general-shopping-announces-a-tender-offer-for-its-10-0-perpetual-notes-301453992.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "lancasteronline.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/e/46/e46fdecd-ef20-59d4-b0ff-744927c0956f/61d3d4e15fac1.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://lancasteronline.com/business/nation/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_1e51dff3-7ed4-57e8-b97c-d6cb3c4f8781.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659826/oatly-barista.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Oatly Stock Lost 11 % in December",
+        "url": "https://www.fool.com/investing/2022/01/04/why-oatly-stock-lost-11-in-december/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sandiegosun.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Water Tower Research Publishes Initiation of Coverage Report on Earthstone Energy , Inc . ( NYSE : ESTE ) Titled  Two Pronged Growth : Acquisitions and Development Drilling  ",
+        "url": "https://www.sandiegosun.com/news/272101337/water-tower-research-publishes-initiation-of-coverage-report-on-earthstone-energy-inc-nyse-este-titled-two-pronged-growth-acquisitions-and-development-drilling",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sandiegosun.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.sandiegosun.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sott.net",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://www.sott.net/image/s31/632785/full/1_S_P_es_1927thru2021.jpg",
+        "sourcecountry": "United States",
+        "title": "Everything bubble end game -- Puppet Masters -- Sott . net",
+        "url": "https://www.sott.net/article/462747-Everything-bubbles-end-game",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "BlackRock , AmEx Extend Hybrid Work Plans as Omicron Spreads across U . S . ",
+        "url": "https://www.kmjnow.com/news/blackrock-amex-extend-hybrid-work-plans-as-omicron-spreads-across-u-s/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sharechat.co.nz",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "New Zealand",
+        "title": "5th January 2022 Morning Report - sharechat . co . nz",
+        "url": "http://www.sharechat.co.nz/article/c2308fb0/5th-january-2022-morning-report.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659855/gettyapplesliced.jpg",
+        "sourcecountry": "United States",
+        "title": "Is Apple Stock Next Stop $2 Trillion or $4 Trillion ? ",
+        "url": "https://www.fool.com/investing/2022/01/04/is-apple-stocks-next-stop-2-trillion-or-4-trillion/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afghanistannews.net",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "Mixed day on Wall St , Dow gains 215 points , Nasdaq loses 210",
+        "url": "https://www.afghanistannews.net/news/272101438/mixed-day-on-wall-st-dow-gains-215-points-nasdaq-loses-210",
+        "url_mobile": ""
+      },
+      {
+        "domain": "batonrougepost.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.batonrougepost.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "haitisun.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.haitisun.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cityandstateny.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.cityandstateny.com/media/img/cd/2022/01/04/shutterstock_2096178028/open-graph.jpg",
+        "sourcecountry": "United States",
+        "title": "Doctors say NYC omicron wave could end in a matter of weeks",
+        "url": "https://www.cityandstateny.com/policy/2022/01/doctors-say-nycs-omicron-wave-could-end-matter-weeks/360350/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "milwaukeesun.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.milwaukeesun.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Posts Closing Record High for 2nd Day , Boosted by Banks",
+        "url": "https://www.kmjnow.com/news/dow-posts-closing-record-high-for-2nd-day-boosted-by-banks/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NYC Mayor Eric Adams to big banks : We need you back in the office",
+        "url": "https://www.kmjnow.com/news/nyc-mayor-eric-adams-to-big-banks-we-need-you-back-in-the-office/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "shanghainews.net",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "China",
+        "title": "Mixed day on Wall St , Dow gains 215 points , Nasdaq loses 210",
+        "url": "https://www.shanghainews.net/news/272101438/mixed-day-on-wall-st-dow-gains-215-points-nasdaq-loses-210",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pittsburghstar.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "LightPath Technologies to Present at the 24th Annual Needham Virtual Growth Conference",
+        "url": "https://www.pittsburghstar.com/news/272099938/lightpath-technologies-to-present-at-the-24th-annual-needham-virtual-growth-conference",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659888/truck-autonomous-a-self-driving-truck-on-the-road.jpg",
+        "sourcecountry": "United States",
+        "title": "4 Surprise Nasdaq Stock Winners on a Tough Tuesday",
+        "url": "https://www.fool.com/investing/2022/01/04/4-surprise-nasdaq-stock-winners-on-a-tough-tuesday/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investors.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+        "sourcecountry": "United States",
+        "title": "IBD Live Q & A And Two Key Stock Lists For Jan . 4 , 2022",
+        "url": "https://www.investors.com/research/ibd-live-qa/ibd-live-qa-and-two-key-stock-lists-for-jan-4-2022-qwqwqwqwqwqwqwwq/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "postregister.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/2/64/2643f9c9-3178-5086-b52d-f9b18d71e63e/61d3d4c9befb4.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://www.postregister.com/news/national/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_891c2756-910a-592b-bb2a-78f23c27821d.html",
+        "url_mobile": "https://www.postregister.com/news/national/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_891c2756-910a-592b-bb2a-78f23c27821d.amp.html"
+      },
+      {
+        "domain": "singaporestar.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "Singapore",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.singaporestar.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "localnews8.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://localnews8.b-cdn.net/2022/01/hypatia-h_758a5a8d5468ce0062ee9202829edb28-h_d4b2bb8282684ff42756682a5d00555a-300-860x573.jpg",
+        "sourcecountry": "United States",
+        "title": "The world 500 richest people became $1 trillion richer last year",
+        "url": "https://localnews8.com/money/cnn-business-consumer/2022/01/04/the-worlds-500-richest-people-became-1-trillion-richer-last-year/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kkoh.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Posts Closing Record High for 2nd Day , Boosted by Banks",
+        "url": "https://www.kkoh.com/news/dow-posts-closing-record-high-for-2nd-day-boosted-by-banks/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659929/couple-wearing-wool-socks-huddled-on-the-couch-watching-television-or-streaming-video.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Roku Stock Plunged on Tuesday | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/04/why-roku-stock-plunged-on-tuesday/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The stock market sure is acting strangely",
+        "url": "https://www.kmjnow.com/news/the-stock-market-sure-is-acting-strangely/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "timesunion.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/36/10/21881383/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Will Elizabeth Holme conviction sober up Silicon Valley ? ",
+        "url": "https://www.timesunion.com/news/article/What-will-Silicon-Valley-learn-from-Holmes-16747529.php",
+        "url_mobile": "https://www.timesunion.com/news/amp/What-will-Silicon-Valley-learn-from-Holmes-16747529.php"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659821/gettygamer.jpeg",
+        "sourcecountry": "United States",
+        "title": "My Top 3 Cryptocurrencies to Buy in January",
+        "url": "https://www.fool.com/investing/2022/01/04/my-top-3-cryptocurrencies-to-buy-in-january/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "arabherald.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "Syria",
+        "title": "Mubadala claims  2021 Fund of the Year  award",
+        "url": "https://www.arabherald.com/news/272099716/mubadala-claims-2021-fund-of-the-year-award",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The world 500 richest people became $1 trillion richer last year",
+        "url": "https://www.kmjnow.com/news/the-worlds-500-richest-people-became-1-trillion-richer-last-year/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wltx.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://media.wltx.com/assets/CCT/images/cc5bfaf5-08c7-4684-909a-41bc9c0d9650/cc5bfaf5-08c7-4684-909a-41bc9c0d9650_1140x641.jpg",
+        "sourcecountry": "United States",
+        "title": "Biden doubling US purchase of Pfizer anti - COVID pills",
+        "url": "https://www.wltx.com/article/news/nation-world/biden-to-double-purchase-of-pfizer-covid-19-pills/507-a6884195-2070-48b3-976d-b0899e5f70ed",
+        "url_mobile": "https://www.wltx.com/amp/article/news/nation-world/biden-to-double-purchase-of-pfizer-covid-19-pills/507-a6884195-2070-48b3-976d-b0899e5f70ed"
+      },
+      {
+        "domain": "pittsburghstar.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641315470138.jpg",
+        "sourcecountry": "United States",
+        "title": "Another record - breaking day on Wall Street , Dow closes at new high",
+        "url": "https://www.pittsburghstar.com/news/272101438/another-record-breaking-day-on-wall-street-dow-closes-at-new-high",
+        "url_mobile": ""
+      },
+      {
+        "domain": "yakimaherald.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/a/24/a24fb968-140c-569c-860c-15b977788e88/61d3d23d9b093.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://www.yakimaherald.com/news/nation_and_world/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_5cfb7c88-52d8-52d1-a98d-2d5e1946aadb.html",
+        "url_mobile": "https://www.yakimaherald.com/news/nation_and_world/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_5cfb7c88-52d8-52d1-a98d-2d5e1946aadb.amp.html"
+      },
+      {
+        "domain": "yakimaherald.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/8/9d/89d35189-f580-532d-bec1-e1c6aecfd08c/61d48c8e3e9b1.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Wine Scene : Innovation and consistency at DuBrul Vineyard",
+        "url": "https://www.yakimaherald.com/explore_yakima/food_and_drink/wine-scene-innovation-and-consistency-at-dubrul-vineyard/article_6a6a02b9-5d7e-5e43-8052-e35524a78798.html",
+        "url_mobile": "https://www.yakimaherald.com/explore_yakima/food_and_drink/wine-scene-innovation-and-consistency-at-dubrul-vineyard/article_6a6a02b9-5d7e-5e43-8052-e35524a78798.amp.html"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://images.barrons.com/im-421084/social",
+        "sourcecountry": "United States",
+        "title": "Walmart , Kroger Hike Prices for At - Home Covid Tests",
+        "url": "https://www.marketwatch.com/articles/walmart-kroger-hike-prices-for-at-home-covid-tests-51641335205",
+        "url_mobile": ""
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/05/25101652/Daniel-Sundheim-D1-Capital-Image-no-2.jpg.jpeg",
+        "sourcecountry": "United States",
+        "title": "Billionaire Daniel Sundheim Portfolio : 10 New Stock Picks",
+        "url": "https://www.insidermonkey.com/blog/billionaire-daniel-sundheims-portfolio-10-new-stock-picks-1018044/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "batonrougepost.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "New pandemic records hit as U . S . struggles against Omicron",
+        "url": "https://www.batonrougepost.com/news/272101049/new-pandemic-records-hit-as-us-struggles-against-omicron",
+        "url_mobile": ""
+      },
+      {
+        "domain": "milwaukeesun.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/voa1641326718.jpg",
+        "sourcecountry": "United States",
+        "title": "US Manufacturing Catches Breath ; Supply Logjam Starting to Break Up",
+        "url": "https://www.milwaukeesun.com/news/272101308/us-manufacturing-catches-breath-supply-logjam-starting-to-break-up",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://images.barrons.com/im-461816/social",
+        "sourcecountry": "United States",
+        "title": "Small - Cap Fund Managers Leave the Pack Behind in 2021",
+        "url": "https://www.marketwatch.com/articles/small-cap-fund-managers-leave-the-pack-behind-in-2021-51641333623",
+        "url_mobile": ""
+      },
+      {
+        "domain": "journalnow.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/f/16/f16d43dd-3dd8-5666-8a31-8d02bc029c01/61d4c47a65f89.preview.jpg?crop=1804%2C947%2C0%2C100",
+        "sourcecountry": "United States",
+        "title": "Classic BlackBerry phones stop working as company ends support for them",
+        "url": "https://journalnow.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_f16d43dd-3dd8-5666-8a31-8d02bc029c01.html",
+        "url_mobile": "https://journalnow.com/lifestyles/technology/classic-blackberry-phones-stop-working-as-company-ends-support-for-them/article_f16d43dd-3dd8-5666-8a31-8d02bc029c01.amp.html"
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/2022-01-04_10-31-00.jpg?ab2442&itok=UQJDLepx",
+        "sourcecountry": "United States",
+        "title": "Bond Bloodbath Batters Big - Tech , Sparks Bid For Banks",
+        "url": "https://www.zerohedge.com/markets/big-tech-bonds-battered-banks-bitcoin-bid",
+        "url_mobile": ""
+      },
+      {
+        "domain": "proactiveinvestors.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2022_01/1200z630_1641316931_shutterstock_707850085.jpg",
+        "sourcecountry": "United States",
+        "title": "Stocks end on mixed footing ; Dow hits new record high",
+        "url": "https://www.proactiveinvestors.com/companies/news/970336/us-stocks-end-tuesday-on-mixed-footing-dow-hits-new-record-high-970336.html",
+        "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/970336"
+      },
+      {
+        "domain": "missoulian.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/8/d6/8d6856ff-d765-57ee-abec-c21a0fca8975/61d46b8f9d452.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://missoulian.com/lifestyles/technology/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_687432a4-09db-5b95-a185-f87894ac1c8d.html",
+        "url_mobile": "https://missoulian.com/lifestyles/technology/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_687432a4-09db-5b95-a185-f87894ac1c8d.amp.html"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://mma.prnewswire.com/media/1719953/PRNews_Park_Views.jpg?p=facebook",
+        "sourcecountry": "United States",
+        "title": "Name Your Price to Live in Paradise : Luxury Auction\u00ae Set for Paradise Valley , AZ Mansion",
+        "url": "https://www.prnewswire.com:443/news-releases/name-your-price-to-live-in-paradise-luxury-auction-set-for-paradise-valley-az-mansion-301454021.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220104T224500Z",
+        "socialimage": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks end mixed as Nasdaq sheds over 200 points",
+        "url": "https://www.bignewsnetwork.com/news/272101504/us-stocks-end-mixed-as-nasdaq-sheds-over-200-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://fns1.de/g/fb.png",
+        "sourcecountry": "Germany",
+        "title": "Dow Reaches New Record Closing High , Nasdaq Pulls Back Sharply",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54893807-dow-reaches-new-record-closing-high-nasdaq-pulls-back-sharply-020.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/2cb2587f-6d82-4b69-b6e1-17be3565ac8d?size=1",
+        "sourcecountry": "United States",
+        "title": "Humacyte Announces Presentation of First Preclinical",
+        "url": "https://www.globenewswire.com/news-release/2022/01/04/2360679/0/en/Humacyte-Announces-Presentation-of-First-Preclinical-Results-of-the-HAV-in-Coronary-Artery-Bypass-Grafting-at-Advanced-Therapies-Week-Conference.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "horsetalk.co.nz",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://www.horsetalk.co.nz/wp-content/uploads/2022/01/da-hoss.jpg",
+        "sourcecountry": "New Zealand",
+        "title": "He was quite  Da Hoss : Two - time Breeders Cup champ dies at 30",
+        "url": "https://www.horsetalk.co.nz/2022/01/05/da-hoss-breeders-cup-champ-dies/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ctvnews.ca",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/1/4/apple-store-1-5727308-1641321341716.jpg",
+        "sourcecountry": "Canada",
+        "title": "Apple breaches US$3 trillion market value again",
+        "url": "https://www.ctvnews.ca/business/apple-breaches-us-3-trillion-market-value-again-1.5727298",
+        "url_mobile": "https://beta.ctvnews.ca/national/business/2022/1/4/1_5727298.amp.html"
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://eqs-cockpit.com/cgi-bin/fncls.ssp?fn=show_t_gif&application_id=1264850&application_name=news&site_id=finanznachrichten",
+        "sourcecountry": "Germany",
+        "title": "DGAP - News : Generation Income Properties : GENERATION INCOME PROPERTIES ANNOUNCES EXPANSION OF PORTFOLIO WITH CLOSING OF $4 . 7 MILLION ACQUISITION",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54893819-dgap-news-generation-income-properties-generation-income-properties-announces-expansion-of-portfolio-with-closing-of-dollar-4-7-million-acquisition-023.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "entrepreneur.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-411490.jpeg",
+        "sourcecountry": "United States",
+        "title": "Univar Solutions ( UNVR ) Shares Up 46 % in a Year : Here Why",
+        "url": "https://www.entrepreneur.com/article/411490",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659915/gettyimages-147456329.jpg",
+        "sourcecountry": "United States",
+        "title": "Why CrowdStrike Stock Fell Today | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/04/why-crowdstrike-stock-fell-today/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659906/gettyimages-1305615921.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Mastercard Jumped 14 . 1 % in December",
+        "url": "https://www.fool.com/investing/2022/01/04/why-mastercard-jumped-141-in-december/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "5 - Year Treasury Yield Highest Since Fed COVID Intervention As Canada 10Y Rises 18 . 7 BPS ( Gold , Bitcoin , Ethereum Rise ) \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/5-year-treasury-yield-highest-since-fed-covid-intervention-as-canada-10y-rises-18-7-bps-gold-bitcoin-ethereum-rise/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "smdailyjournal.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/smdailyjournal.com/content/tncms/custom/image/0b0b7a5a-a1d1-11e6-9041-cbc40d61c8f5.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "How major US stock indexes fared Tuesday",
+        "url": "https://www.smdailyjournal.com/business/how-major-us-stock-indexes-fared-tuesday/article_77749a3f-8054-593e-b968-693bbb9a8028.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow Posts Closing Record High for 2nd Day , Boosted by Banks",
+        "url": "https://www.kmaj1440.com/news/dow-posts-closing-record-high-for-2nd-day-boosted-by-banks/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "swvatoday.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/swvatoday.com/content/tncms/assets/v3/editorial/b/54/b5439421-2834-5f0c-aee0-a3934250597a/61d46bb603076.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://swvatoday.com/lifestyles/technology/article_c182bbce-4544-55e4-b08f-0c67e107843d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "swoknews.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Slumping tech stocks weigh on S & P 500 even as Dow gains",
+        "url": "https://www.swoknews.com/ap/business/slumping-tech-stocks-weigh-on-s-p-500-even-as-dow-gains/article_e937ec3f-1966-522b-bb9d-789ac617167c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659901/a-person-wearing-a-vr-headset-and-grabbing-a-block_eG6stOB.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Unity Stock Sank Today | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/04/why-unity-stock-sank-today/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "natlawreview.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Susan Weller Trademark Lawyer Mintz Law Firm",
+        "url": "https://www.natlawreview.com/author/susan-neuberger-weller",
+        "url_mobile": ""
+      },
+      {
+        "domain": "proactiveinvestors.com",
+        "language": "English",
+        "seendate": "20220104T223000Z",
+        "socialimage": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2022_01/1200z630_1641305139_shutterstock_1090031726-(1).jpg",
+        "sourcecountry": "United States",
+        "title": "NA Proactive news snapshot : Tiidal Gaming Group Corp , Fortitude Gold Corp , Vicinity Motor Corp , Zynerba Pharmaceuticals Inc , Vuzix Corporation , One World Lithium Inc , Avalon GloboCare Corp , FansUnite Entertainment Inc , Mobilum Technologies I...",
+        "url": "https://www.proactiveinvestors.com/companies/news/970357/na-proactive-news-snapshot-tiidal-gaming-fortitude-gold-vicinity-motor-zynerba-pharmaceuticals-vuzix-one-world-lithium-update-970357.html",
+        "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/970357"
+      }
+    ]
+  }
+}

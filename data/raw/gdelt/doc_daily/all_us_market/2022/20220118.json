@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-18",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "galvnews.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/c/36/c36a2883-d3b5-56c9-9471-35f7e90f840c/61e6c8e8da8b1.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://www.galvnews.com/news_ap/business/article_eac58fac-9e9a-5c99-b6f2-001a3d8aeba1.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/ukrainbrder.jpg?itok=cS1ZxxEq",
+        "sourcecountry": "United States",
+        "title": "Psaki Says Russia Attack On Ukraine Coming  At Any Point ; US Sanctions  Pro - Russian Agents  ",
+        "url": "https://www.zerohedge.com/geopolitical/psaki-says-russia-attack-ukraine-coming-any-point-us-sanctions-pro-russian-agents",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wapt.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22018495966858.jpg?crop=1.00xw:0.846xh;0,0.154xh",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys gamer Activision Blizzard for about $70 billion",
+        "url": "https://www.wapt.com/article/microsoft-buys-gamer-activision-blizzard-for-68-7-billion/38802918",
+        "url_mobile": "https://www.wapt.com/amp/article/microsoft-buys-gamer-activision-blizzard-for-68-7-billion/38802918"
+      },
+      {
+        "domain": "power98fm.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://power98fm.com/wp-content/uploads/sites/47/2022/01/kanyetraviskylie-e1642532341460-1024x768.png",
+        "sourcecountry": "United States",
+        "title": "Kanye Says Travis Scott , Kylie Jenner Helped Him Get To Chicago Party",
+        "url": "https://power98fm.com/2022/01/18/kanye-credits-travis-scott-for-getting-to-chicago-birthday-party/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "sourcecountry": "",
+        "title": "Hancock Whitney Reports Fourth Quarter 2021 EPS of $1 . 55",
+        "url": "https://www.marketscreener.com/quote/stock/HANCOCK-WHITNEY-CORPORATI-9520/news/Hancock-Whitney-Reports-Fourth-Quarter-2021-EPS-of-1-55-37579137/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/HANCOCK-WHITNEY-CORPORATI-9520/news/Hancock-Whitney-Reports-Fourth-Quarter-2021-EPS-of-1-55-37579137/"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bank First Announces Net Income for the Fourth Quarter of 2021",
+        "url": "https://www.prnewswire.com/news-releases/bank-first-announces-net-income-for-the-fourth-quarter-of-2021-301463342.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "massachusettssun.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.massachusettssun.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kvue.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://media.kvue.com/assets/CCT/images/e567d35f-d200-4fa4-9f0c-5c367b82f4bc/e567d35f-d200-4fa4-9f0c-5c367b82f4bc_1140x641.jpg",
+        "sourcecountry": "United States",
+        "title": "Activision Blizzard bought by Microsoft",
+        "url": "https://www.kvue.com/article/news/nation-world/microsoft-buys-activision-blizzard/507-51e7a7f3-9e43-4096-b3d4-dbaa38f222b9",
+        "url_mobile": "https://www.kvue.com/amp/article/news/nation-world/microsoft-buys-activision-blizzard/507-51e7a7f3-9e43-4096-b3d4-dbaa38f222b9"
+      },
+      {
+        "domain": "rockymounttelegram.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/rockymounttelegram.com/content/tncms/assets/v3/editorial/c/68/c6844440-c1af-51a6-8956-4410275f99bb/61e637e07a399.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://www.rockymounttelegram.com/news/national/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_e9afc66d-32ca-5a07-81af-88310951bb7d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtontimes.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "All the president enemies - Washington Times",
+        "url": "https://www.washingtontimes.com/news/2022/jan/18/all-the-presidents-enemies/",
+        "url_mobile": "https://amp.washingtontimes.com/news/2022/jan/18/all-the-presidents-enemies/"
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Buy the dip ... or sell the dip ? ",
+        "url": "https://www.zerohedge.com/the-market-ear/earlypanic",
+        "url_mobile": ""
+      },
+      {
+        "domain": "greenwichtime.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/52/04/21930277/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "State coffers swell to record levels even as COVID relief fades",
+        "url": "https://www.greenwichtime.com/news/article/State-coffers-swell-to-record-levels-even-as-16785933.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wtae.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22018495966858.jpg?crop=1.00xw:0.846xh;0,0.154xh",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys gamer Activision Blizzard for about $70 billion",
+        "url": "https://www.wtae.com/article/microsoft-buys-gamer-activision-blizzard-for-68-7-billion/38802918",
+        "url_mobile": "https://www.wtae.com/amp/article/microsoft-buys-gamer-activision-blizzard-for-68-7-billion/38802918"
+      },
+      {
+        "domain": "abcnews.go.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://s.abcnews.com/images/Entertainment/WireAP_00e1e6756bfc4b01899d69fa999754be_16x9_992.jpg",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://abcnews.go.com/Entertainment/wireStory/microsoft-buys-activision-blizzard-687-billion-82324914",
+        "url_mobile": "https://abcnews.go.com/amp/Entertainment/wireStory/microsoft-buys-activision-blizzard-687-billion-82324914"
+      },
+      {
+        "domain": "journalrecord.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://journalrecord.com/files/2022/01/n-goldman-sachs-results.jpg",
+        "sourcecountry": "United States",
+        "title": "Goldman Sachs Q4 profits fall as compensation costs soar",
+        "url": "https://journalrecord.com/2022/01/18/goldman-sachs-q4-profits-fall-as-compensation-costs-soar/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hotelsmag.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://www.hotelsmag.com/wp-content/uploads/2022/01/Nobu-Santorini-_-Overview.jpeg",
+        "sourcecountry": "United States",
+        "title": "Briefs : PM Hotel Group , Modus align ; Nobu debuts in Greece",
+        "url": "https://www.hotelsmag.com/news/briefs-pm-hotel-group-modus-align-nobu-debuts-in-greece/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news-gazette.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/custom/image/e462f33a-3c65-11ec-b3f1-2f038a8f66b4.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://www.news-gazette.com/coronavirus/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_fe5fd8d7-f88a-5bc5-b7ea-1a109de9b015.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1709489!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/a-trader-works-on-the-floor-of-the-new-york-stock-exchange-nyse-in-new-york-u-s-on-monday-jan-3-2022-as-2022-begins-the-overriding-message-from-almost-50-financial-institutions-across-wall-street-and-beyond-is-that-conditions-still-look-good-but-the-rip-roaring-rallies-powered-by-the-reopening-are-history-photographer-michael-nagle-bloomberg.png",
+        "sourcecountry": "Canada",
+        "title": "Stocks Set to Extend Drop Amid Higher Bond Yields : Markets Wrap",
+        "url": "https://www.bnnbloomberg.ca/stocks-set-to-extend-drop-amid-higher-bond-yields-markets-wrap-1.1709488",
+        "url_mobile": "https://www.bnnbloomberg.ca/stocks-set-to-extend-drop-amid-higher-bond-yields-markets-wrap-1.1709488.amp.html"
+      },
+      {
+        "domain": "rockymounttelegram.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/rockymounttelegram.com/content/tncms/assets/v3/editorial/e/64/e644dd01-53b9-5b64-a2dc-52838c1d6464/61e74eb1db96b.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://www.rockymounttelegram.com/features/entertainment/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_ddc8d9e7-7ad7-5fc5-af5d-3830aadbd73e.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theconversation.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://images.theconversation.com/files/441179/original/file-20220117-17-1rjsl0t.jpg?ixlib=rb-1.1.0&rect=0%2C1383%2C7000%2C3500&q=45&auto=format&fit=crop",
+        "sourcecountry": "Australia",
+        "title": "Smart devices can now read your mood and mind , leading to a new set of concerns about technology and consent",
+        "url": "https://theconversation.com/smart-devices-can-now-read-your-mood-and-mind-leading-to-a-new-set-of-concerns-about-technology-and-consent-174946",
+        "url_mobile": "https://theconversation.com/amp/smart-devices-can-now-read-your-mood-and-mind-leading-to-a-new-set-of-concerns-about-technology-and-consent-174946"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1654885!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/attendees-stand-next-to-signage-for-activision-blizzard-inc-call-of-duty-black-ops-4-video-game-during-the-e3-electronic-entertainment-expo-in-los-angeles-photographer-troy-harvey-bloomberg.jpg",
+        "sourcecountry": "Canada",
+        "title": "Microsoft US$69B Activision deal could be a blunder : Tae Kim",
+        "url": "https://www.bnnbloomberg.ca/microsoft-s-us-69b-activision-deal-could-be-a-blunder-tae-kim-1.1709506",
+        "url_mobile": "https://www.bnnbloomberg.ca/microsoft-s-us-69b-activision-deal-could-be-a-blunder-tae-kim-1.1709506.amp.html"
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/flavor-west-unicorn-vomit.jpg?itok=UhxNI63j",
+        "sourcecountry": "United States",
+        "title": "Bonds , Stocks , & Bitcoin Battered As  Rage - Hike  Fears Grow",
+        "url": "https://www.zerohedge.com/markets/bonds-stocks-bitcoin-battered-rage-hike-fears-grow",
+        "url_mobile": ""
+      },
+      {
+        "domain": "business.scoop.co.nz",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "",
+        "sourcecountry": "New Zealand",
+        "title": "Business Scoop \u00bb Study Shows Multicloud Is Here To Stay , But Complexity And Challenges Remain",
+        "url": "https://business.scoop.co.nz/2022/01/19/study-shows-multicloud-is-here-to-stay-but-complexity-and-challenges-remain/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tnledger.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "The Nashville Ledger",
+        "url": "http://www.tnledger.com/editorial/Article.aspx?id=149519",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news-gazette.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/custom/image/3d3bfbd4-3cf5-11ec-9461-574a9d514a20.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://www.news-gazette.com/news/nation-world/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_09bea555-befb-5709-97a1-cf1d438fb672.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.ca",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://www.fool.ca/wp-content/uploads/2020/10/e-commerce.jpg",
+        "sourcecountry": "Canada",
+        "title": "Shopify ( TSX : SHOP ) Is on Sale ! Should You Buy ? | The Motley Fool Canada",
+        "url": "https://www.fool.ca/2022/01/18/shopify-tsxshop-is-on-sale-should-you-buy/",
+        "url_mobile": "https://www.fool.ca/2022/01/18/shopify-tsxshop-is-on-sale-should-you-buy/amp/"
+      },
+      {
+        "domain": "joe.ie",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMlxcXC8wMVxcXC8xODE5MDQ1NlxcXC9Bbmd1cy1DbG91ZC5qcGdcIixcIndpZHRoXCI6NjQ3LFwiaGVpZ2h0XCI6MzQwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuam9lLmllXFxcL2Fzc2V0c1xcXC9pbWFnZXNcXFwvam9lXFxcL25vLWltYWdlLnBuZz9pZD0yNjRhMmRiZTM3MGYyYzY3NWZjZFwiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiJiMmY4NjcwNzk1M2NkOTQxMGUzMmNhMTM0MzdiNmQxNzRlZGIxOGExIn0=/angus-cloud.jpg",
+        "sourcecountry": "Ireland",
+        "title": "Euphoria fans delighted after learning Fezco Irish connection | JOE is the voice of Irish people at home and abroad",
+        "url": "https://www.joe.ie/movies-tv/euphoria-fans-delighted-learning-fezcos-irish-connection-740379",
+        "url_mobile": "https://www.joe.ie/amp/movies-tv/euphoria-fans-delighted-learning-fezcos-irish-connection-740379"
+      },
+      {
+        "domain": "blacklistednews.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/14/17/52938409-0-image-a-59_1642182802716.jpg",
+        "sourcecountry": "United States",
+        "title": "Nancy Pelosi son was involved in FIVE companies probed by the feds",
+        "url": "https://www.blacklistednews.com/article/81583/nancy-pelosis-son-was-involved-in-five-companies-probed-by-the.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "997wtn.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Sinks as Yields Spike , Financials Fall After Goldman Miss",
+        "url": "https://www.997wtn.com/news/wall-st-sinks-as-yields-spike-financials-fall-after-goldman-miss/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "northkoreatimes.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "North Korea",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.northkoreatimes.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "onenewspage.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Daniel Radcliffe News and Videos | One News Page",
+        "url": "https://www.onenewspage.com/topic/Daniel_Radcliffe.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "middletownpress.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/52/04/21930277/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "State coffers swell to record levels even as COVID relief fades",
+        "url": "https://www.middletownpress.com/news/article/State-coffers-swell-to-record-levels-even-as-16785933.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thehindu.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://www.thehindu.com/business/Industry/l0wyxi/article38289126.ece/ALTERNATES/LANDSCAPE_615/18thcyberattacks",
+        "sourcecountry": "India",
+        "title": "  Cyberattacks surge as COVID spurs digital push  ",
+        "url": "https://www.thehindu.com/business/Industry/cyberattacks-surge-as-covid-spurs-digital-push/article38289127.ece",
+        "url_mobile": "https://www.thehindu.com/business/Industry/cyberattacks-surge-as-covid-spurs-digital-push/article38289127.ece/amp/"
+      },
+      {
+        "domain": "2news.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/2news.com/content/tncms/assets/v3/editorial/a/da/ada42364-a795-5d56-8736-e19eae861b29/61e6c8e368223.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://www.2news.com/news/national/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_828c9591-e90b-5229-85aa-5531322a7642.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wmac-am.com",
+        "language": "English",
+        "seendate": "20220119T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Is Electronic Arts the next to get bought in the gaming deal frenzy ? ",
+        "url": "https://www.wmac-am.com/news/is-electronic-arts-the-next-to-get-bought-in-the-gaming-deal-frenzy/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wrvo.org",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/18/gettyimages-1344826011-1bcb4b43ddbc6e556e5349c639107947524d634a.jpg",
+        "sourcecountry": "United States",
+        "title": "Inflation fears are sparking a big drop in markets . Here are 3 things to know",
+        "url": "https://www.wrvo.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know",
+        "url_mobile": "https://www.wrvo.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know?_amp=true"
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "sourcecountry": "",
+        "title": "LIBERTY GLOBAL : SCHEDULES INVESTOR CALL FOR FULL - YEAR 2021 RESULTS - Form 8 - K",
+        "url": "https://www.marketscreener.com/quote/stock/LIBERTY-GLOBAL-PLC-13450308/news/LIBERTY-GLOBAL-SCHEDULES-INVESTOR-CALL-FOR-FULL-YEAR-2021-RESULTS-Form-8-K-37580132/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/LIBERTY-GLOBAL-PLC-13450308/news/LIBERTY-GLOBAL-SCHEDULES-INVESTOR-CALL-FOR-FULL-YEAR-2021-RESULTS-Form-8-K-37580132/"
+      },
+      {
+        "domain": "mykxlg.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://www.mykxlg.com/news/national/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_ffaf8b19-29af-520f-9a21-f9e5ed4fc821.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/Sfbvhc3x4srJ72H_N_8Y9g--~B/aD01MTE7dz03Njg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/afp.com/d30cb78e065d0f3c0d577337299e123e",
+        "sourcecountry": "United States",
+        "title": "Bobby Kotick : Embattled Activision CEO faces uncertain future",
+        "url": "https://news.yahoo.com/bobby-kotick-embattled-activision-ceo-231413433.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/bobby-kotick-embattled-activision-ceo-231413433.html"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Bank First Announces Net Income for the Fourth Quarter of 2021",
+        "url": "https://www.prnewswire.com:443/news-releases/bank-first-announces-net-income-for-the-fourth-quarter-of-2021-301463342.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2020/07/netflix-july-16.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Netflix price forecast : BofA Securities sees a 45 % upside",
+        "url": "https://invezz.com/news/2022/01/18/netflix-price-forecast-bofa-securities-sees-a-45-upside/",
+        "url_mobile": "https://invezz.com/news/2022/01/18/netflix-price-forecast-bofa-securities-sees-a-45-upside/?amp"
+      },
+      {
+        "domain": "wallstreet-online.de",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://assets.wallstreet-online.de/_media/12646/size_645/aw-isdr-company.png",
+        "sourcecountry": "Germany",
+        "title": "Thayer Ventures and Inspirato Announce Effectiveness of Registration Statement and Special Meeting to Approve Business Combination with Inspirato",
+        "url": "https://www.wallstreet-online.de/nachricht/14924804-thayer-ventures-and-inspirato-announce-effectiveness-of-registration-statement-and-special-meeting-to-approve-business-combination-with-inspirato",
+        "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/14924804-thayer-ventures-and-inspirato-announce-effectiveness-of-registration-statement-and-special-meeting-to-approve-business-combination-with-inspirato"
+      },
+      {
+        "domain": "fredericksburg.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/3/63/363c4324-8f07-570e-b877-68b10069899a/61e7385576e1c.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://fredericksburg.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_604a111c-51aa-5c0a-9dce-9528fa5b0e26.html",
+        "url_mobile": "https://fredericksburg.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_604a111c-51aa-5c0a-9dce-9528fa5b0e26.amp.html"
+      },
+      {
+        "domain": "milwaukeesun.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.milwaukeesun.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Donald Trump former attorney general William Barr to publish his memoirs",
+        "url": "http://www.msn.com/en-us/news/politics/donald-trump-s-former-attorney-general-william-barr-to-publish-his-memoirs/ar-AASUCPu",
+        "url_mobile": ""
+      },
+      {
+        "domain": "baltimorestar.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Thayer Ventures and Inspirato Announce Effectiveness of Registration Statement and Special Meeting to Approve Business Combination with Inspirato",
+        "url": "https://www.baltimorestar.com/news/272201763/thayer-ventures-and-inspirato-announce-effectiveness-of-registration-statement-and-special-meeting-to-approve-business-combination-with-inspirato",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ypradio.org",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/18/gettyimages-1344826011-1bcb4b43ddbc6e556e5349c639107947524d634a.jpg",
+        "sourcecountry": "United States",
+        "title": "Inflation fears are sparking a big drop in markets . Here are 3 things to know",
+        "url": "https://www.ypradio.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know",
+        "url_mobile": "https://www.ypradio.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know?_amp=true"
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2022/01/148825634-s.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Key takeaways from J . B . Hunt Q4 financial results",
+        "url": "https://invezz.com/news/2022/01/18/key-takeaways-from-j-b-hunts-q4-financial-results/",
+        "url_mobile": "https://invezz.com/news/2022/01/18/key-takeaways-from-j-b-hunts-q4-financial-results/?amp"
+      },
+      {
+        "domain": "nptelegraph.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/nptelegraph.com/content/tncms/assets/v3/editorial/1/83/1839d37a-e2e5-5e2b-b0a4-d22a3074d631/61e738570a35a.image.jpg?crop=1762%2C928%2C0%2C123",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://nptelegraph.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_2ecb6bcb-8690-5c48-850c-c129f1884ad6.html",
+        "url_mobile": "https://nptelegraph.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_2ecb6bcb-8690-5c48-850c-c129f1884ad6.amp.html"
+      },
+      {
+        "domain": "newlinesmag.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://newlinesmag.com/wp-content/uploads/GenocideDenialweb.jpg",
+        "sourcecountry": "",
+        "title": "The Big Business of Uyghur Genocide Denial",
+        "url": "https://newlinesmag.com/reportage/the-big-business-of-uyghur-genocide-denial/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.memphissun.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wftw.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Sinks as Yields Spike , Financials Fall After Goldman Miss",
+        "url": "https://www.wftw.com/news/wall-st-sinks-as-yields-spike-financials-fall-after-goldman-miss/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Thayer Ventures and Inspirato Announce Effectiveness of Registration Statement and Special Meeting to Approve Business Combination with Inspirato",
+        "url": "https://www.memphissun.com/news/272201763/thayer-ventures-and-inspirato-announce-effectiveness-of-registration-statement-and-special-meeting-to-approve-business-combination-with-inspirato",
+        "url_mobile": ""
+      },
+      {
+        "domain": "benningtonbanner.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/benningtonbanner.com/content/tncms/assets/v3/editorial/5/4c/54c5b7bf-3f62-5817-a38b-29478aa065d7/61e6389bebc9e.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://www.benningtonbanner.com/ap/national/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_3a418c39-e123-59a1-8a71-f5d6ae5aad6a.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wktv.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/4/2f/42f19d07-6c26-5412-8eae-a0d43354c740/61e71f5428079.image.jpg?crop=1763%2C926%2C0%2C125",
+        "sourcecountry": "United States",
+        "title": "Oil prices will surge to $100 this year , Goldman Sachs warns",
+        "url": "https://www.wktv.com/news/national/oil-prices-will-surge-to-100-this-year-goldman-sachs-warns/article_9c5ea9ea-c2e5-57a4-b45d-7e8ecc92d5cd.html",
+        "url_mobile": "https://www.wktv.com/news/national/oil-prices-will-surge-to-100-this-year-goldman-sachs-warns/article_9c5ea9ea-c2e5-57a4-b45d-7e8ecc92d5cd.amp.html"
+      },
+      {
+        "domain": "recorderonline.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/recorderonline.com/content/tncms/assets/v3/editorial/6/2f/62f41bce-0d27-5dde-bfd3-7ee0a68bbdf8/61e6c8f9c67be.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://www.recorderonline.com/news/national_news/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_49bdeb05-9bf5-51de-90c4-2cfde6975abb.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cmcmarkets.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://assets.cmcmarkets.com/images/wallstreet_medium.png",
+        "sourcecountry": "United Kingdom",
+        "title": "wall - street - slumped - on - the - first - trading - day - to - start - the - week",
+        "url": "https://www.cmcmarkets.com/en/news-and-analysis/wall-street-slumped-on-the-first-trading-day-to-start-the-week",
+        "url_mobile": "https://www.cmcmarkets.com/en/news-and-analysis/wall-street-slumped-on-the-first-trading-day-to-start-the-week_amp"
+      },
+      {
+        "domain": "fxstreet.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/NZDUSD/pile-of-new-zealand-money-2647160_Large.jpg",
+        "sourcecountry": "China",
+        "title": "NZD / USD bulls stepping back to the table into the close",
+        "url": "https://www.fxstreet.com/news/nzd-usd-202201182009",
+        "url_mobile": "https://www.fxstreet.com/amp/news/nzd-usd-202201182009"
+      },
+      {
+        "domain": "capital.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Best cannabis stocks : touching new highs or taking a bad trip ? ",
+        "url": "https://capital.com/best-cannabis-stocks",
+        "url_mobile": "https://capital.com/amp/best-cannabis-stocks"
+      },
+      {
+        "domain": "wacotrib.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/wacotrib.com/content/tncms/assets/v3/editorial/a/c9/ac9b9a3c-aec5-514e-85db-d47a36e9a331/61e7385876521.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://wacotrib.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_b2cffb2b-f087-5649-b3e0-136e2c565aa1.html",
+        "url_mobile": "https://wacotrib.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_b2cffb2b-f087-5649-b3e0-136e2c565aa1.amp.html"
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/11/dow-jones-the-sp-500-and-nasdaq-price-forecast-ahead-of-the-retail-sales-report.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Could there be a 10 % correction in S & P 500 this year ? ",
+        "url": "https://invezz.com/news/2022/01/18/could-there-be-a-10-correction-in-sp-500-this-year/",
+        "url_mobile": "https://invezz.com/news/2022/01/18/could-there-be-a-10-correction-in-sp-500-this-year/?amp"
+      },
+      {
+        "domain": "cmcmarkets.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://assets.cmcmarkets.com/images/wallstreet_medium.png",
+        "sourcecountry": "United Kingdom",
+        "title": "wall - street - slumped - on - the - first - trading - day - to - start - the - week",
+        "url": "https://www.cmcmarkets.com/en-sg/news-and-analysis/wall-street-slumped-on-the-first-trading-day-to-start-the-week",
+        "url_mobile": "https://www.cmcmarkets.com/en-sg/news-and-analysis/wall-street-slumped-on-the-first-trading-day-to-start-the-week_amp"
+      },
+      {
+        "domain": "billingsgazette.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/a/65/a650a60d-0e45-5740-8d53-a7651e20eaf8/61e7385522a9e.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://billingsgazette.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_3693ed44-81b4-5ec8-ac27-d649b81951d1.html",
+        "url_mobile": "https://billingsgazette.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_3693ed44-81b4-5ec8-ac27-d649b81951d1.amp.html"
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "sourcecountry": "",
+        "title": "Swiftmerge Acquisition Corp . Announces Partial Exercise and Closing of Underwriter Over - Allotment Option",
+        "url": "https://www.marketscreener.com/quote/stock/SWIFTMERGE-ACQUISITION-CO-130670738/news/Swiftmerge-Acquisition-Corp-Announces-Partial-Exercise-and-Closing-of-Underwriter-s-Over-Allotment-37579977/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/SWIFTMERGE-ACQUISITION-CO-130670738/news/Swiftmerge-Acquisition-Corp-Announces-Partial-Exercise-and-Closing-of-Underwriter-s-Over-Allotment-37579977/"
+      },
+      {
+        "domain": "baltimorestar.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.baltimorestar.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "africaleader.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "South Africa",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.africaleader.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "russiaherald.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Russia",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.russiaherald.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fox2detroit.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2022/01/1280/720/GettyImages-1237664923-1.jpg?ve=1&tl=1",
+        "sourcecountry": "United States",
+        "title": "CDC encourages N95 , KN95 masks to stop COVID - 19 spread amid omicron surge",
+        "url": "https://www.fox2detroit.com/news/cdc-encourages-n95-kn95-masks-to-stop-covid-19-spread-amid-omicron-surge",
+        "url_mobile": "https://www.fox2detroit.com/news/cdc-encourages-n95-kn95-masks-to-stop-covid-19-spread-amid-omicron-surge.amp"
+      },
+      {
+        "domain": "shepherdexpress.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Lincoln Project Eyes Wisconsin 2022 Midterms",
+        "url": "https://shepherdexpress.com/news/features/lincoln-project-eyes-wisconsins-2022-midterms/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bloombergquint.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "",
+        "sourcecountry": "India",
+        "title": "Cathay Pacific Is On\u00a0Life Support , and Hope Is Running Out",
+        "url": "https://www.bloombergquint.com/gadfly/cathay-pacific-is-buckling-beneath-hong-kong-s-strict-quarantine-measures",
+        "url_mobile": "/amp/gadfly/cathay-pacific-is-buckling-beneath-hong-kong-s-strict-quarantine-measures"
+      },
+      {
+        "domain": "theguardian.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://i.guim.co.uk/img/media/74ef04900636e5ddeef0cab0daf307a831851e3d/0_0_5307_3185/master/5307.jpg?&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=def227803202afd6e3232f193968a1d4",
+        "sourcecountry": "United Kingdom",
+        "title": "Donald Trump former attorney general William Barr to publish his memoirs | William Barr",
+        "url": "https://www.theguardian.com/us-news/2022/jan/18/donald-trump-attorney-general-william-barr-memoir",
+        "url_mobile": "https://amp.theguardian.com/us-news/2022/jan/18/donald-trump-attorney-general-william-barr-memoir"
+      },
+      {
+        "domain": "fxstreet.com",
+        "language": "English",
+        "seendate": "20220118T234500Z",
+        "socialimage": "https://editorial.fxstreet.com/images/TechnicalAnalysis/ChartPatterns/Candlesticks/high-resolution-stock-exchange-evolution-panel-55741922_Large.jpg",
+        "sourcecountry": "China",
+        "title": "AMC Stock Price : AMC Entertainment accelerates slump amid risk - off mood",
+        "url": "https://www.fxstreet.com/news/amc-stock-price-amc-entertainment-extends-decline-as-apes-diamond-hands-weaken-202201171106",
+        "url_mobile": "https://www.fxstreet.com/amp/news/amc-stock-price-amc-entertainment-extends-decline-as-apes-diamond-hands-weaken-202201171106"
+      },
+      {
+        "domain": "bruneinews.net",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "U . S . stock markets dive , tech shares lose more than 2 percent",
+        "url": "https://www.bruneinews.net/news/272201670/us-stock-markets-dive-tech-shares-lose-more-than-2-percent",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morning-times.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/morning-times.com/content/tncms/custom/image/6f227d7e-148e-11e7-9387-232e3c9bc44a.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Fulton Financial : Q4 Earnings Snapshot",
+        "url": "https://www.morning-times.com/state_news/article_71949432-f1ad-54ee-bb0a-a6337bf71a82.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.newjerseytelegraph.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "idahopress.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/f/0c/f0c465e4-0592-5678-b11a-615c9e35178e/61e6387e69336.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://www.idahopress.com/news/national/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_d7a1a691-3fa7-5ed4-bed2-09b5955c52a8.html",
+        "url_mobile": "https://www.idahopress.com/news/national/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_d7a1a691-3fa7-5ed4-bed2-09b5955c52a8.amp.html"
+      },
+      {
+        "domain": "missoulian.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/missoulian.com/content/tncms/assets/v3/editorial/2/1e/21e29782-7a5e-5665-8be0-31cc6f90a6a3/61e6426dab7c4.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://missoulian.com/lifestyles/technology/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_1efba3d2-cd46-5665-afc2-a27239d97079.html",
+        "url_mobile": "https://missoulian.com/lifestyles/technology/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_1efba3d2-cd46-5665-afc2-a27239d97079.amp.html"
+      },
+      {
+        "domain": "malaysiasun.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.malaysiasun.com/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gizmodo.com.au",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/01/19/66fc302d4aca04aff704ca9c520d3643.jpg?ar=16%3A9&auto=format&fit=crop&q=65",
+        "sourcecountry": "Australia",
+        "title": "Microsoft Buying Activision Blizzard -- Now What ? ",
+        "url": "https://www.gizmodo.com.au/2022/01/microsofts-buying-activision-blizzard-now-what/",
+        "url_mobile": "https://www.gizmodo.com.au/2022/01/microsofts-buying-activision-blizzard-now-what/amp/"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Mid - Month Update : Rising Rates Tank Stocks To Start 2022",
+        "url": "https://www.forbes.com/newsletters/forbes-investor/2022/01/18/mid-month-update-rising-rates-tank-stocks-to-start-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2022/01/106450888-1584574687978gettyimages-1195121315.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Microsoft $68 . 7 Billion Activision Deal Came as a Surprise , But It Wont Stop Other Opportunities , Investor Says",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/microsofts-68-7-billion-activision-deal-came-as-a-surprise-but-wont-constrain-other-opportunities-investor-says/2693191/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/microsofts-68-7-billion-activision-deal-came-as-a-surprise-but-wont-constrain-other-opportunities-investor-says/2693191/?amp"
+      },
+      {
+        "domain": "kotaku.com.au",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://imgix.kotaku.com.au/content/uploads/sites/3/2022/01/18/004d8e8fac276aafeb6cc012f62fa6f5.jpg?ar=16%3A9&auto=format&fit=crop&q=80&nr=20",
+        "sourcecountry": "Australia",
+        "title": "Report : Microsoft Closing In On $96 Billion Deal To Buy Activision",
+        "url": "https://www.kotaku.com.au/2022/01/report-microsoft-closing-in-on-us70-97-billion-deal-to-buy-activision/",
+        "url_mobile": "https://www.kotaku.com.au/2022/01/report-microsoft-closing-in-on-us70-97-billion-deal-to-buy-activision/amp/"
+      },
+      {
+        "domain": "kcentv.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://media.kcentv.com/assets/CCT/images/e567d35f-d200-4fa4-9f0c-5c367b82f4bc/e567d35f-d200-4fa4-9f0c-5c367b82f4bc_1140x641.jpg",
+        "sourcecountry": "United States",
+        "title": "Activision Blizzard bought by Microsoft",
+        "url": "https://www.kcentv.com/article/news/nation-world/microsoft-buys-activision-blizzard/507-51e7a7f3-9e43-4096-b3d4-dbaa38f222b9",
+        "url_mobile": "https://www.kcentv.com/amp/article/news/nation-world/microsoft-buys-activision-blizzard/507-51e7a7f3-9e43-4096-b3d4-dbaa38f222b9"
+      },
+      {
+        "domain": "freerepublic.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Latest Articles",
+        "url": "https://freerepublic.com/tag/*/index?more=4030637",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2022/01/106998979-16418294412022-01-10t154006z_1937373952_rc2ewr9gtcjz_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Rise Slightly After Sell - Off on Wall Street , More Bank Earnings Ahead",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-rise-slightly-after-sell-off-on-wall-street-more-bank-earnings-ahead/2693255/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-rise-slightly-after-sell-off-on-wall-street-more-bank-earnings-ahead/2693255/?amp"
+      },
+      {
+        "domain": "wyff4.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22018495966858.jpg?crop=1.00xw:0.846xh;0,0.154xh",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys gamer Activision Blizzard for about $70 billion",
+        "url": "https://www.wyff4.com/article/microsoft-buys-gamer-activision-blizzard-for-68-7-billion/38802918",
+        "url_mobile": "https://www.wyff4.com/amp/article/microsoft-buys-gamer-activision-blizzard-for-68-7-billion/38802918"
+      },
+      {
+        "domain": "wallstreet-online.de",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://assets.wallstreet-online.de/_media/size_645/.",
+        "sourcecountry": "Germany",
+        "title": "WEYCO Group , Inc . Fourth Quarter and Full Year 2021 Earnings Conference Call",
+        "url": "https://www.wallstreet-online.de/nachricht/14924498-weyco-group-inc-fourth-quarter-and-full-year-2021-earnings-conference-call",
+        "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/14924498-weyco-group-inc-fourth-quarter-and-full-year-2021-earnings-conference-call"
+      },
+      {
+        "domain": "tucsonpost.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.tucsonpost.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fxempire.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2021/08/z115.jpg",
+        "sourcecountry": "China",
+        "title": "S & P 500 Takes Beating on Tuesday",
+        "url": "https://www.fxempire.com/forecasts/article/sp-500-takes-beating-on-tuesday-869478",
+        "url_mobile": "https://amp.fxempire.com/en/sp-500-takes-beating-on-tuesday/869478"
+      },
+      {
+        "domain": "bostonmagazine.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://cdn10.bostonmagazine.com/wp-content/uploads/sites/2/2022/01/dept_brookline_parkingsoc.jpg",
+        "sourcecountry": "United States",
+        "title": "Romance , Sex , and Street Parking",
+        "url": "https://www.bostonmagazine.com/news/2022/01/18/brookline-parking/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "idahopress.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/idahopress.com/content/tncms/assets/v3/editorial/9/23/923d4f46-5605-5abd-8089-925dfeaa9d14/61e5bffab5e8e.image.jpg?crop=1280%2C672%2C0%2C192",
+        "sourcecountry": "United States",
+        "title": "Local unhoused population occupying old Ada County Courthouse , awaits city response",
+        "url": "https://www.idahopress.com/boiseweekly/news/local_and_state/local-unhoused-population-occupying-old-ada-county-courthouse-awaits-citys-response/article_d1f95c4b-7476-57be-8ba5-d813c491750f.html",
+        "url_mobile": "https://www.idahopress.com/boiseweekly/news/local_and_state/local-unhoused-population-occupying-old-ada-county-courthouse-awaits-citys-response/article_d1f95c4b-7476-57be-8ba5-d813c491750f.amp.html"
+      },
+      {
+        "domain": "producebluebook.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "SpartanNash hires SVP , Chief Merchandising Officer \u2013 Produce Blue Book",
+        "url": "https://www.producebluebook.com/2022/01/18/spartannash-hires-svp-chief-merchandising-officer/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "abcnews.go.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Goldman Sachs , Hain Celestial fall ; Activision , Exxon rise",
+        "url": "https://abcnews.go.com/Business/wireStory/goldman-sachs-hain-celestial-fall-activision-exxon-rise-82334623",
+        "url_mobile": "https://abcnews.go.com/amp/Business/wireStory/goldman-sachs-hain-celestial-fall-activision-exxon-rise-82334623"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661845/a-rocket-launching-from-a-persons-hand.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Phunware Stock Soared Today | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/18/why-phunware-stock-soared-today/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "japantoday.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "Japan",
+        "title": "Microsoft to buy gaming giant Activision Blizzard for $69 bil",
+        "url": "https://japantoday.com/category/tech/microsoft-to-buy-us-gaming-giant-activision-blizzard-for-69-bn1",
+        "url_mobile": ""
+      },
+      {
+        "domain": "streetinsider.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hydro Flask Celebrates 5 Years of Parks For All Giving Program and Honors 2022 Grantees",
+        "url": "https://www.streetinsider.com/PRNewswire/Hydro%20Flask%20Celebrates%205%20Years%20of%20Parks%20For%20All%20Giving%20Program%20and%20Honors%202022%20Grantees/19472675.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "abc15.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "http://ewscripps-brightspot.s3.amazonaws.com/fa/67/b422c6164dfcad08022cffea9182/zillow-sign-1.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Phoenix is only No . 8 on Zillow 10 hottest housing markets",
+        "url": "https://www.abc15.com/news/business/why-phoenix-is-only-no-8-among-zillows-10-hottest-housing-markets",
+        "url_mobile": "https://www.abc15.com/news/business/why-phoenix-is-only-no-8-among-zillows-10-hottest-housing-markets?_amp=true"
+      },
+      {
+        "domain": "indiagazette.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "India",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.indiagazette.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Thayer Ventures and Inspirato Announce Effectiveness of Registration Statement and Special Meeting to Approve Business Combination with Inspirato",
+        "url": "https://www.newjerseytelegraph.com/news/272201763/thayer-ventures-and-inspirato-announce-effectiveness-of-registration-statement-and-special-meeting-to-approve-business-combination-with-inspirato",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fox35orlando.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2022/01/1280/720/GettyImages-1237664923-1.jpg?ve=1&tl=1",
+        "sourcecountry": "United States",
+        "title": "CDC encourages N95 , KN95 masks to stop COVID - 19 spread amid omicron surge",
+        "url": "https://www.fox35orlando.com/news/cdc-encourages-n95-kn95-masks-to-stop-covid-19-spread-amid-omicron-surge",
+        "url_mobile": "https://www.fox35orlando.com/news/cdc-encourages-n95-kn95-masks-to-stop-covid-19-spread-amid-omicron-surge.amp"
+      },
+      {
+        "domain": "voxy.co.nz",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "New Zealand",
+        "title": "Multicloud deployments  on the rise , but enterprises look to Hybrid Multicloud  ",
+        "url": "http://www.voxy.co.nz/technology/5/397724",
+        "url_mobile": ""
+      },
+      {
+        "domain": "abcnews.go.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "How major US stock indexes fared Tuesday",
+        "url": "https://abcnews.go.com/Business/wireStory/major-us-stock-indexes-fared-tuesday-82334624",
+        "url_mobile": "https://abcnews.go.com/amp/Business/wireStory/major-us-stock-indexes-fared-tuesday-82334624"
+      },
+      {
+        "domain": "nytimes.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stocks drop as Treasury bond yields push higher . ",
+        "url": "https://www.nytimes.com/2022/01/18/business/stocks-drop-as-treasury-bond-yields-push-higher.html",
+        "url_mobile": "https://www.nytimes.com/2022/01/18/business/stocks-drop-as-treasury-bond-yields-push-higher.amp.html"
+      },
+      {
+        "domain": "kcra.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22018495966858.jpg?crop=1.00xw:0.846xh;0,0.154xh",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys gamer Activision Blizzard for about $70 billion",
+        "url": "https://www.kcra.com/article/microsoft-buys-gamer-activision-blizzard-for-68-7-billion/38802918",
+        "url_mobile": "https://www.kcra.com/amp/article/microsoft-buys-gamer-activision-blizzard-for-68-7-billion/38802918"
+      },
+      {
+        "domain": "her.ie",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMlxcXC8wMVxcXC8xODE4MjkyNVxcXC9wcm9qZWN0XzIwMjIwMTE4XzE4MjgxNjItMDEucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiYzlkZDhjYTUxMjcxYWMzMTI5ZjVkNzkzZDMzNjczODcyMzE2ZjIwNyJ9/project-20220118-1828162-01.png",
+        "sourcecountry": "Ireland",
+        "title": "Euphoria fans delighted after learning Fezco Irish connection",
+        "url": "https://www.her.ie/celeb/euphoria-fans-delighted-learning-fezcos-irish-connection-546006",
+        "url_mobile": "https://www.her.ie/amp/celeb/euphoria-fans-delighted-learning-fezcos-irish-connection-546006"
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FORIMMTYWMI6ZHOOOMJVPHPEGQ.jpg",
+        "sourcecountry": "United States",
+        "title": "Cathay Pacific Is On\u00a0Life Support , and Hope Is Running Out",
+        "url": "https://www.washingtonpost.com/business/cathay-pacific-is-onlife-support-and-hope-is-running-out/2022/01/18/2c5e833c-78b3-11ec-9dce-7313579de434_story.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "malaysiasun.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Malaysia",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.malaysiasun.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Signature Bank ( SBNY ) Q4 2021 Earnings Call Transcript",
+        "url": "https://www.msn.com/en-us/money/companies/signature-bank-sbny-q4-2021-earnings-call-transcript/ar-AASUJj6",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zimbabwestar.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "Zimbabwe",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.zimbabwestar.com/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zimbabwestar.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Zimbabwe",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.zimbabwestar.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "AGF Investments LLC Sells 405 Shares of Intel Co . ( NASDAQ : INTC ) ",
+        "url": "https://etfdailynews.com/news/agf-investments-llc-sells-405-shares-of-intel-co-nasdaqintc/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyfx.com",
+        "language": "English",
+        "seendate": "20220118T233000Z",
+        "socialimage": "https://a.c-dn.net/b/15i4Ty/headline_NYSE_3.JPG",
+        "sourcecountry": "China",
+        "title": "S & P 500 Stuck Between Key Moving Averages as Traders Eye Earnings , January Fed Meeting",
+        "url": "https://www.dailyfx.com/forex/market_alert/2022/01/18/SP-500-Stuck-Between-Key-Moving-Averages-as-Traders-Eye-Earnings-January-Fed-Meeting.html",
+        "url_mobile": "https://www.dailyfx.com/forex/market_alert/2022/01/18/SP-500-Stuck-Between-Key-Moving-Averages-as-Traders-Eye-Earnings-January-Fed-Meeting.html/amp"
+      },
+      {
+        "domain": "hngnews.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/hngnews.com/content/tncms/assets/v3/editorial/a/56/a563ae43-aa6d-5e36-a2a4-5b1aa27b1598/61e6e1103dbb8.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Falling technology , banks lead Wall St to new low for 2022",
+        "url": "https://www.hngnews.com/nation_world/article_eb803b51-a951-5327-879b-558f47f3a7d1.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thisismoney.co.uk",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/18/20/53086115-0-image-a-5_1642538877652.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Goldman Sachs bankers in \u00a313bn pay bonanza\u00a0after stellar year",
+        "url": "https://www.thisismoney.co.uk/money/markets/article-10415851/Goldman-Sachs-bankers-13bn-pay-bonanza-stellar-year.html",
+        "url_mobile": "https://www.thisismoney.co.uk/money/markets/article-10415851/amp/Goldman-Sachs-bankers-13bn-pay-bonanza-stellar-year.html"
+      },
+      {
+        "domain": "christianpost.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/64/246474.jpg",
+        "sourcecountry": "United States",
+        "title": "CDC predicts surge in COVID - 19 deaths and hospitalizations",
+        "url": "https://www.christianpost.com:443/us/cdc-predicts-surge-in-covid-19-deaths-and-hospitalizations.html",
+        "url_mobile": "https://www.christianpost.com/amp/cdc-predicts-surge-in-covid-19-deaths-and-hospitalizations.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stock Market Today - 1 / 18 : Dow Closes Down 500 Points as Oil Prices , Treasury Yields Surge",
+        "url": "https://www.msn.com/en-us/money/markets/stock-market-today-1-18-dow-slumps-as-oil-prices-treasury-yields-surge-activision-blizzard-soars/ar-AASTCyG",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Pinnacle Financial : Q4 Earnings Snapshot",
+        "url": "https://www.chron.com/business/article/Pinnacle-Financial-Q4-Earnings-Snapshot-16785801.php",
+        "url_mobile": "https://www.chron.com/business/amp/Pinnacle-Financial-Q4-Earnings-Snapshot-16785801.php"
+      },
+      {
+        "domain": "proactiveinvestors.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2022_01/1200z630_1642525907_shutterstock_1019412298.jpg",
+        "sourcecountry": "United States",
+        "title": "US stocks close down sharply on rising government bond yields",
+        "url": "https://www.proactiveinvestors.com/companies/news/971432/us-stocks-close-down-sharply-on-rising-government-bond-yields-971432.html",
+        "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/971432"
+      },
+      {
+        "domain": "orlandoecho.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "United States",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.orlandoecho.com/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "politico.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://static.politico.com/95/f4/a71a8bb9429fbbd0b7b3a22d185a/gettyimages-1365423365-2.jpg",
+        "sourcecountry": "United States",
+        "title": "Psaki :  Russia could at any point launch an attack in Ukraine  ",
+        "url": "https://www.politico.com/newsletters/national-security-daily/2022/01/18/psaki-russia-could-at-any-point-launch-an-attack-in-ukraine-495761",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sierraleonetimes.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Sierra Leone",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.sierraleonetimes.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "streetinsider.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "JYSELECA\u00ae\u25bc ( FILGOTINIB ) LICENSED FOR THE TREATMENT OF ADULT PATIENTS WITH MODERATELY TO SEVERELY ACTIVE ULCERATIVE COLITIS IN GREAT BRITAIN",
+        "url": "https://www.streetinsider.com/Globe+Newswire/JYSELECA%C2%AE%E2%96%BC+(FILGOTINIB)+LICENSED+FOR+THE+TREATMENT+OF+ADULT+PATIENTS+WITH+MODERATELY+TO+SEVERELY+ACTIVE+ULCERATIVE+COLITIS+IN+GREAT+BRITAIN+%C2%A0+%C2%A0/19471822.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thisismoney.co.uk",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/18/20/53086175-0-image-a-7_1642539119103.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Microsoft buys Call of Duty maker\u00a0Activision Blizzard in \u00a350bn deal",
+        "url": "https://www.thisismoney.co.uk/money/markets/article-10415863/Microsoft-buys-Call-Duty-maker-Activision-Blizzard-50bn-deal.html",
+        "url_mobile": "https://www.thisismoney.co.uk/money/markets/article-10415863/amp/Microsoft-buys-Call-Duty-maker-Activision-Blizzard-50bn-deal.html"
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+        "sourcecountry": "",
+        "title": "SSR MINING TO ANNOUNCE FOURTH QUARTER 2021 CONSOLIDATED FINANCIAL RESULTS ON FEBRUARY 23 , 2022",
+        "url": "https://www.marketscreener.com/quote/stock/SSR-MINING-INC-1411786/news/SSR-MINING-TO-ANNOUNCE-FOURTH-QUARTER-2021-CONSOLIDATED-FINANCIAL-RESULTS-ON-FEBRUARY-23-2022-37579817/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/SSR-MINING-INC-1411786/news/SSR-MINING-TO-ANNOUNCE-FOURTH-QUARTER-2021-CONSOLIDATED-FINANCIAL-RESULTS-ON-FEBRUARY-23-2022-37579817/"
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "",
+        "sourcecountry": "Greece",
+        "title": "ForexLive Americas FX news wrap : Bond yields jump to post - pandemic highs",
+        "url": "https://www.forexlive.com/news/forexlive-americas-fx-news-wrap-bond-yields-jump-to-post-pandemic-highs-20220118/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Hancock Whitney : Q4 Earnings Snapshot",
+        "url": "https://www.chron.com/business/article/Hancock-Whitney-Q4-Earnings-Snapshot-16785713.php",
+        "url_mobile": "https://www.chron.com/business/amp/Hancock-Whitney-Q4-Earnings-Snapshot-16785713.php"
+      },
+      {
+        "domain": "uphill.thedispatch.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F575f7826-5d55-401b-ae97-b22082a7a0d4_1024x682.jpeg",
+        "sourcecountry": "",
+        "title": "What Next for the Uyghur Forced Labor Prevention Act",
+        "url": "https://uphill.thedispatch.com/p/whats-next-for-the-uyghur-forced",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://menafn.com/updates/pr/",
+        "sourcecountry": "Qatar",
+        "title": "Gran Tierra Energy Announces Corporate Update",
+        "url": "https://menafn.com/1103558964/Gran-Tierra-Energy-Announces-Corporate-Update",
+        "url_mobile": ""
+      },
+      {
+        "domain": "miragenews.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.astrazeneca.com/content/dam/az/our-company/our-company-052017/investor-relations/AZ1673_CAMBRIDGE_arial_view.jpg",
+        "sourcecountry": "United States",
+        "title": "Imfinzi plus chemotherapy reduced risk of death by 20 % in 1st - line advanced biliary tract cancer",
+        "url": "https://www.miragenews.com/imfinzi-plus-chemotherapy-reduced-risk-of-death-708838/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ALERT : Rowley Law PLLC is Investigating Proposed Acquisition of Activision Blizzard Inc . ",
+        "url": "https://www.prnewswire.com/news-releases/alert-rowley-law-pllc-is-investigating-proposed-acquisition-of-activision-blizzard-inc-301463257.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "United Community Banks : Q4 Earnings Snapshot",
+        "url": "https://www.chron.com/business/article/United-Community-Banks-Q4-Earnings-Snapshot-16785840.php",
+        "url_mobile": "https://www.chron.com/business/amp/United-Community-Banks-Q4-Earnings-Snapshot-16785840.php"
+      },
+      {
+        "domain": "bakersfield.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/assets/v3/editorial/7/74/7743c57f-371f-571e-a234-73922b215a4f/61e6c8e77767a.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://www.bakersfield.com/ap/news/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_1c08ad29-9a78-5daa-9f21-c814efdc2821.html",
+        "url_mobile": "https://www.bakersfield.com/ap/news/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_1c08ad29-9a78-5daa-9f21-c814efdc2821.amp.html"
+      },
+      {
+        "domain": "oklahomastar.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.oklahomastar.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sierraleonetimes.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "Sierra Leone",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.sierraleonetimes.com/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sanantoniopost.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "United States",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.sanantoniopost.com/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mainemirror.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.mainemirror.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "politico.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+        "sourcecountry": "United States",
+        "title": "Taiwan to finance $900K Ballard contract with Guatemala",
+        "url": "https://www.politico.com/newsletters/politico-influence/2022/01/18/taiwan-to-finance-900k-ballard-contract-with-guatemala-799913",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wdsu.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap22018495966858.jpg?crop=1.00xw:0.846xh;0,0.154xh",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys gamer Activision Blizzard for about $70 billion",
+        "url": "https://www.wdsu.com/article/microsoft-buys-gamer-activision-blizzard-for-68-7-billion/38802918",
+        "url_mobile": "https://www.wdsu.com/amp/article/microsoft-buys-gamer-activision-blizzard-for-68-7-billion/38802918"
+      },
+      {
+        "domain": "freightwaves.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://s29755.pcdn.co/wp-content/uploads/2022/01/031718-926-Edit-1200x675.jpg.optimal.jpg",
+        "sourcecountry": "United States",
+        "title": "J . B . Hunt blows past Q4 expectations",
+        "url": "https://www.freightwaves.com/news/jb-hunt-blows-past-q4-expectations",
+        "url_mobile": "https://www.freightwaves.com/news/jb-hunt-blows-past-q4-expectations/amp"
+      },
+      {
+        "domain": "sfgate.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+        "sourcecountry": "United States",
+        "title": "United Community Banks : Q4 Earnings Snapshot",
+        "url": "https://www.sfgate.com/business/article/United-Community-Banks-Q4-Earnings-Snapshot-16785840.php",
+        "url_mobile": "https://www.sfgate.com/business/amp/United-Community-Banks-Q4-Earnings-Snapshot-16785840.php"
+      },
+      {
+        "domain": "proactiveinvestors.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2022_01/1200z630_1642536172_ORYX.jpg",
+        "sourcecountry": "United States",
+        "title": "Bragg Gaming Inc ORYX Gaming unit secures Casino Interlaken deal as it expands in Switzerland",
+        "url": "https://www.proactiveinvestors.com/companies/news/971506/bragg-gaming-s-oryx-gaming-unit-secures-casino-interlaken-deal-as-it-expands-in-switzerland-971506.html",
+        "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/971506"
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Microsoft buys Activision , stocks swoon",
+        "url": "https://www.chron.com/business/article/Business-Highlights-Microsoft-buys-Activision-16785755.php",
+        "url_mobile": "https://www.chron.com/business/amp/Business-Highlights-Microsoft-buys-Activision-16785755.php"
+      },
+      {
+        "domain": "philippinetimes.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Philippines",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.philippinetimes.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/418e56b4-faf5-4f2c-ad77-5f1bd15e26d1?size=1",
+        "sourcecountry": "United States",
+        "title": "VBL Therapeutics Announces Appointment of Matthew Trudeau",
+        "url": "https://www.globenewswire.com/news-release/2022/01/18/2368417/0/en/VBL-Therapeutics-Announces-Appointment-of-Matthew-Trudeau-as-Chief-Commercial-Officer.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ohiostandard.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.ohiostandard.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sanantoniopost.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.sanantoniopost.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forexlive.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "",
+        "sourcecountry": "Greece",
+        "title": "US stocks close sharply lower led by the NASDAQ index as rates move higher",
+        "url": "https://www.forexlive.com/news/us-stocks-close-sharply-lower-led-by-the-nasdaq-index-as-rates-move-higher-20220118/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wtma.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Sinks as Yields Spike , Financials Fall After Goldman Miss",
+        "url": "https://www.wtma.com/news/wall-st-sinks-as-yields-spike-financials-fall-after-goldman-miss/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "christianpost.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/65/246500.jpg",
+        "sourcecountry": "United States",
+        "title": "Olympic athletes to leave phones at home to evade China spies",
+        "url": "https://www.christianpost.com:443/world/olympic-athletes-to-leave-phones-at-home-to-evade-china-spies.html",
+        "url_mobile": "https://www.christianpost.com/amp/olympic-athletes-to-leave-phones-at-home-to-evade-china-spies.html"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ALERT : Rowley Law PLLC is Investigating Proposed Acquisition of Activision Blizzard Inc . ",
+        "url": "https://www.prnewswire.com:443/news-releases/alert-rowley-law-pllc-is-investigating-proposed-acquisition-of-activision-blizzard-inc-301463257.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ritholtz.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://ritholtz.com/wp-content/uploads/2022/01/red-flags.png",
+        "sourcecountry": "United States",
+        "title": "Fake It Til You Make It - The Big Picture",
+        "url": "https://ritholtz.com/2022/01/fake-it-til-you-make-it/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Fulton Financial : Q4 Earnings Snapshot",
+        "url": "https://www.chron.com/business/article/Fulton-Financial-Q4-Earnings-Snapshot-16785756.php",
+        "url_mobile": "https://www.chron.com/business/amp/Fulton-Financial-Q4-Earnings-Snapshot-16785756.php"
+      },
+      {
+        "domain": "proactiveinvestors.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2022_01/1200z630_1642536141_The-hands-of-the-business-woman-and-the-consultant-are-checking-the-data-ang-information-for-marketing-planning.jpg",
+        "sourcecountry": "United States",
+        "title": "Water Tower Research LLC appoints Robert Sassoon to cover Special Situations",
+        "url": "https://www.proactiveinvestors.com/companies/news/971505/water-tower-research-appoints-robert-sassoon-to-cover-special-situations-971505.html",
+        "url_mobile": "https://www.proactiveinvestors.com/companies/amp/news/971505"
+      },
+      {
+        "domain": "mondaq.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Theranos founder Elizabeth Holmes guilty of fraud charges - Criminal Law",
+        "url": "https://www.mondaq.com/unitedstates/white-collar-crime-anti-corruption-fraud/1151684/theranos-founder-elizabeth-holmes-guilty-of-fraud-charges",
+        "url_mobile": ""
+      },
+      {
+        "domain": "escapistmagazine.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://www.escapistmagazine.com/wp-content/uploads/2022/01/xbox-microsoft-activision-blizzard-questions-answers-1024x534.jpg",
+        "sourcecountry": "United States",
+        "title": "8 Big Questions & Answers About the Microsoft Activision Blizzard Buy",
+        "url": "https://www.escapistmagazine.com/8-big-questions-answers-about-the-microsoft-activision-blizzard-purchase/",
+        "url_mobile": "https://www.escapistmagazine.com/8-big-questions-answers-about-the-microsoft-activision-blizzard-purchase/amp/"
+      },
+      {
+        "domain": "businessofhome.com",
+        "language": "English",
+        "seendate": "20220118T231500Z",
+        "socialimage": "https://s3.amazonaws.com/editoratlarge-production/images/11223/large169/chic-french-fragrance-house-diptyque-to-launch-first-ever-wallpaper-collection-2-770x900.jpg",
+        "sourcecountry": "",
+        "title": "Salone del Mobile is postponed , Interior Define nets $30 million and more",
+        "url": "https://businessofhome.com/articles/salone-del-mobile-is-postponed-interior-define-nets-30-million-and-more.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sharechat.co.nz",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "",
+        "sourcecountry": "New Zealand",
+        "title": "19th January 2022 Morning Report - sharechat . co . nz",
+        "url": "http://www.sharechat.co.nz/article/79132b5c/19th-january-2022-morning-report.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sfgate.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+        "sourcecountry": "United States",
+        "title": "Pinnacle Financial : Q4 Earnings Snapshot",
+        "url": "https://www.sfgate.com/business/article/Pinnacle-Financial-Q4-Earnings-Snapshot-16785801.php",
+        "url_mobile": "https://www.sfgate.com/business/amp/Pinnacle-Financial-Q4-Earnings-Snapshot-16785801.php"
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "Wall Street wobbles , Dow Jones dives 543 points",
+        "url": "https://www.bignewsnetwork.com/news/272201670/wall-street-wobbles-dow-jones-dives-543-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "v1019.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://v1019.com/wp-content/uploads/sites/51/2022/01/kanyetraviskylie-e1642532341460-1024x768.png",
+        "sourcecountry": "United States",
+        "title": "Kanye Says Travis Scott , Kylie Jenner Helped Him Get To Chicago Party",
+        "url": "https://v1019.com/2022/01/18/kanye-credits-travis-scott-for-getting-to-chicago-birthday-party/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S .- listed Chinese firms trade mostly lower",
+        "url": "https://www.bignewsnetwork.com/news/272201886/us-listed-chinese-firms-trade-mostly-lower",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businessofhome.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://s3.amazonaws.com/editoratlarge-production/images/11223/large169/chic-french-fragrance-house-diptyque-to-launch-first-ever-wallpaper-collection-2-770x900.jpg",
+        "sourcecountry": "",
+        "title": "Salone del Mobile is postponed , Interior Define nets $30 million and more",
+        "url": "https://businessofhome.com/articles/salone-del-mobile-is-postponed-interior-define-nets-30-million-and-more",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://media.bizj.us/view/img/7004282/max-on-line*1200xx2400-1352-0-1347.jpg",
+        "sourcecountry": "United States",
+        "title": "Bernstein says Boeing Co . a  top stock  poised for rebound - Wichita Business Journal",
+        "url": "https://www.bizjournals.com/wichita/news/2022/01/18/bernstein-boeing-top-stock.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "moneyweb.co.za",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://www.moneyweb.co.za/wp-content/uploads/2021/03/369321746-1024x683.jpg",
+        "sourcecountry": "South Africa",
+        "title": "Stock picks from top SA market watchers and money managers",
+        "url": "https://www.moneyweb.co.za/investing/stock-picks-from-top-sa-market-watchers-and-money-managers/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sandiegosun.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.sandiegosun.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "Wall Street wobbles , Dow Jones dives 543 points",
+        "url": "https://www.bignewsnetwork.com/news/272201671/wall-street-wobbles-dow-jones-dives-543-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "markets.businessinsider.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Why Chamath Palihapitiya Is Facing Backlash For His Comments On Uyghur Genocide",
+        "url": "https://markets.businessinsider.com/news/stocks/why-chamath-palihapitiya-is-facing-backlash-for-his-comments-on-uyghur-genocide-1031110567",
+        "url_mobile": ""
+      },
+      {
+        "domain": "neowin.net",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://cdn.neow.in/news/images/uploaded/2022/01/1642522952_bobby-kotick-b_story.jpg",
+        "sourcecountry": "United States",
+        "title": "Activision Blizzard head Bobby Kotick to possibly depart after Microsoft deal finalizes",
+        "url": "https://www.neowin.net/news/activision-blizzard-head-bobby-kotick-to-possibly-depart-after-microsoft-deal-finalizes/",
+        "url_mobile": "https://www.neowin.net/amp/activision-blizzard-head-bobby-kotick-to-possibly-depart-after-microsoft-deal-finalizes/"
+      },
+      {
+        "domain": "k1047.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://k1047.com/wp-content/uploads/sites/49/2022/01/kanyetraviskylie-e1642532341460-1024x768.png",
+        "sourcecountry": "United States",
+        "title": "Kanye Says Travis Scott , Kylie Jenner Helped Him Get To Chicago Party",
+        "url": "https://k1047.com/2022/01/18/kanye-credits-travis-scott-for-getting-to-chicago-birthday-party/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "texasguardian.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.texasguardian.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kasu.org",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/18/gettyimages-1344826011-1bcb4b43ddbc6e556e5349c639107947524d634a.jpg",
+        "sourcecountry": "United States",
+        "title": "Inflation fears are sparking a big drop in markets . Here are 3 things to know",
+        "url": "https://www.kasu.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know",
+        "url_mobile": "https://www.kasu.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know?_amp=true"
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/_ynTdpieLoFgNfBAVwogmw--~B/aD01NTE7dz05ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_hill_articles_341/13e1f5416ad2de99767d8326d68692cb",
+        "sourcecountry": "United States",
+        "title": "Judge releases Puerto Rico from bankruptcy protection",
+        "url": "https://news.yahoo.com/judge-releases-puerto-rico-bankruptcy-215901002.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/judge-releases-puerto-rico-bankruptcy-215901002.html"
+      },
+      {
+        "domain": "markets.businessinsider.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Microsoft Analyst Says Acquisition Of Activision Blizzard Is  A Major Bet On Consumer  ",
+        "url": "http://markets.businessinsider.com/news/stocks/microsoft-analyst-says-acquisition-of-activision-blizzard-is-a-major-bet-on-consumer-1031110213",
+        "url_mobile": ""
+      },
+      {
+        "domain": "srilankasource.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "Sri Lanka",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.srilankasource.com/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "srilankasource.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Sri Lanka",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.srilankasource.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afghanistansun.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.afghanistansun.com/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentnews.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://s32566.pcdn.co/wp-content/uploads/2022/01/Goldman-Sachs-illo_opt-1.jpg.optimal.jpg",
+        "sourcecountry": "United States",
+        "title": "Higher payouts mar record year at Goldman Sachs",
+        "url": "https://www.investmentnews.com/higher-payouts-mar-record-year-goldman-sachs-215972",
+        "url_mobile": "https://www.investmentnews.com/higher-payouts-mar-record-year-goldman-sachs-215972/amp"
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Microsoft buys Activision , stocks swoon",
+        "url": "https://apnews.com/article/technology-business-business-highlights-ae8f8e610cd8d9774c260fd3b3cb5e1c",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentnews.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://s32566.pcdn.co/wp-content/uploads/2022/01/First-Republic-illo_opt.jpg.optimal.jpg",
+        "sourcecountry": "United States",
+        "title": "First Republic increased number of teams it added in 2021",
+        "url": "https://www.investmentnews.com/first-republic-increased-number-of-teams-hired-in-2021-215968",
+        "url_mobile": "https://www.investmentnews.com/first-republic-increased-number-of-teams-hired-in-2021-215968/amp"
+      },
+      {
+        "domain": "wvik.org",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/18/gettyimages-1344826011-1bcb4b43ddbc6e556e5349c639107947524d634a.jpg",
+        "sourcecountry": "United States",
+        "title": "Inflation fears are sparking a big drop in markets . Here are 3 things to know",
+        "url": "https://www.wvik.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know",
+        "url_mobile": "https://www.wvik.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know?_amp=true"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/18/KT_24b4cimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "UAE - Microsoft to buy US gaming giant Activision Blizzard f ... ",
+        "url": "https://menafn.com/1103558113/UAE-Microsoft-to-buy-US-gaming-giant-Activision-Blizzard-for-69-billion&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afghanistansun.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.afghanistansun.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kacu.org",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/18/gettyimages-1344826011-1bcb4b43ddbc6e556e5349c639107947524d634a.jpg",
+        "sourcecountry": "United States",
+        "title": "Inflation fears are sparking a big drop in markets . Here are 3 things to know",
+        "url": "https://www.kacu.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know",
+        "url_mobile": "https://www.kacu.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know?_amp=true"
+      },
+      {
+        "domain": "newser.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://img1-azrcdn.newser.com/image/1394246-12-20220118162528.jpeg",
+        "sourcecountry": "United States",
+        "title": "Dow Drops 543 Points as Investors Get Jitters",
+        "url": "https://www.newser.com/story/315814/dow-drops-543-points-as-investors-get-jitters.html",
+        "url_mobile": "https://amp.newser.com/story/315814/dow-drops-543-points-as-investors-get-jitters.html"
+      },
+      {
+        "domain": "wpst.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://townsquare.media/site/252/files/2022/01/attachment-Bella-Hadid-stylist.jpg?&zc=1&s=0&a=t&q=89",
+        "sourcecountry": "United States",
+        "title": "Bella Hadid Criticized for Complaining About Not Having Stylist",
+        "url": "https://wpst.com/bella-hadid-criticized-for-lamenting-lack-of-stylist-for-two-years-during-pandemic/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "europesun.com",
+        "language": "English",
+        "seendate": "20220118T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Russia",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.europesun.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prweek.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/150/cached.offlinehbpl.hbpl.co.uk/news/ORP/keller.T1-18-2022.jpeg",
+        "sourcecountry": "United States",
+        "title": "HPE brings on Laura Keller in global role as it plots 20 more comms hires",
+        "url": "https://www.prweek.com/article/1737792/hpe-brings-laura-keller-global-role-plots-20-comms-hires",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kuer.org",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/18/gettyimages-1235407620_custom-91233b0e3bd17ac99a7c83c1869d725ec59748c0.jpg",
+        "sourcecountry": "United States",
+        "title": "Microsoft set to acquire the gaming company Activision Blizzard for $68 . 7 billion",
+        "url": "https://www.kuer.org/2022-01-18/microsoft-set-to-acquire-the-gaming-company-activision-blizzard-for-68-7-billion",
+        "url_mobile": "https://www.kuer.org/2022-01-18/microsoft-set-to-acquire-the-gaming-company-activision-blizzard-for-68-7-billion?_amp=true"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661176/metaverse-man-headset.jpg",
+        "sourcecountry": "United States",
+        "title": "This Potential Metaverse Winner Is Down 13 % in 2022 , and It Is a Screaming Buy",
+        "url": "https://www.fool.com/investing/2022/01/18/this-potential-metaverse-winner-is-down-13-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "OVBC ANNOUNCES CASH DIVIDEND",
+        "url": "https://www.prnewswire.com/news-releases/ovbc-announces-cash-dividend-301463299.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "londonmercury.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.londonmercury.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "foxbusiness.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/0/0/AP21144820701265.jpg?ve=1&tl=1",
+        "sourcecountry": "United States",
+        "title": "Texas has regained all lost pandemic jobs while New York trails far behind",
+        "url": "https://www.foxbusiness.com/economy/texas-regained-pandemic-jobs-new-york-behind",
+        "url_mobile": "https://www.foxbusiness.com/economy/texas-regained-pandemic-jobs-new-york-behind.amp"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://imageio.forbes.com/specials-images/imageserve/61e73a5e548cd00c39c33019/0x0.jpg?format=jpg&fit=bounds",
+        "sourcecountry": "United States",
+        "title": "The VIX Spikes As Interest Rates And Oil Prices Rise",
+        "url": "https://www.forbes.com/sites/jjkinahan/2022/01/18/the-vix-spikes-as-interest-rates-and-oil-prices-rise/",
+        "url_mobile": "https://www.forbes.com/sites/jjkinahan/2022/01/18/the-vix-spikes-as-interest-rates-and-oil-prices-rise/amp/"
+      },
+      {
+        "domain": "shanghainews.net",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "China",
+        "title": "U . S . stock markets dive , tech shares lose more than 2 percent",
+        "url": "https://www.shanghainews.net/news/272201670/us-stock-markets-dive-tech-shares-lose-more-than-2-percent",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thehill.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://thehill.com/sites/default/files/puertorico_080119getty_lead.jpg",
+        "sourcecountry": "United States",
+        "title": "Judge releases Puerto Rico from bankruptcy protection",
+        "url": "https://thehill.com/latino/590269-judge-releases-puerto-rico-from-bankruptcy-protection",
+        "url_mobile": "https://thehill.com/latino/590269-judge-releases-puerto-rico-from-bankruptcy-protection?amp"
+      },
+      {
+        "domain": "qctimes.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/c/05/c05cd977-16a2-54d0-972f-67e78e1bad73/61e6424eb27dc.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://qctimes.com/lifestyles/technology/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_48f640b7-a019-53bc-8b3d-b588df93a73f.html",
+        "url_mobile": "https://qctimes.com/lifestyles/technology/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_48f640b7-a019-53bc-8b3d-b588df93a73f.amp.html"
+      },
+      {
+        "domain": "nashvilleherald.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.nashvilleherald.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661665/gettyimages-1182647840.jpg",
+        "sourcecountry": "United States",
+        "title": "Netflix Will Cost More , but Youll Pay Up",
+        "url": "https://www.fool.com/investing/2022/01/18/netflix-will-cost-more-but-youll-pay-up/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "journalnow.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/3/3c/33c7eff4-21c3-57bd-889c-8e4ab75a1df5/61e6425fd28f2.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://journalnow.com/lifestyles/technology/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_0ebbe62c-9f2f-53e9-9a8a-6a600b13a92a.html",
+        "url_mobile": "https://journalnow.com/lifestyles/technology/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_0ebbe62c-9f2f-53e9-9a8a-6a600b13a92a.amp.html"
+      },
+      {
+        "domain": "thompsoncitizen.net",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "S & P / TSX composite down more than 200 points amid broad selloff led by tech sector",
+        "url": "https://www.thompsoncitizen.net/the-mix/sptsx-composite-down-more-than-200-points-amid-broad-selloff-led-by-tech-sector-4966775",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Exact Sciences Presents Data Showing Improved Accuracy of Second - generation Cologuard\u00ae Test and Progress Toward an Even Better Colorectal Cancer Screening Solution for Patients",
+        "url": "https://www.prnewswire.com/news-releases/exact-sciences-presents-data-showing-improved-accuracy-of-second-generation-cologuard-test-and-progress-toward-an-even-better-colorectal-cancer-screening-solution-for-patients-301463295.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Exact Sciences Presents Data Showing Improved Accuracy of Second - generation Cologuard\u00ae Test and Progress Toward an Even Better Colorectal Cancer Screening Solution for Patients",
+        "url": "https://www.prnewswire.com:443/news-releases/exact-sciences-presents-data-showing-improved-accuracy-of-second-generation-cologuard-test-and-progress-toward-an-even-better-colorectal-cancer-screening-solution-for-patients-301463295.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "hawaiipublicradio.org",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/18/gettyimages-1344826011-1bcb4b43ddbc6e556e5349c639107947524d634a.jpg",
+        "sourcecountry": "United States",
+        "title": "Inflation fears are sparking a big drop in markets . Here are 3 things to know",
+        "url": "https://www.hawaiipublicradio.org/npr-news/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know",
+        "url_mobile": "https://www.hawaiipublicradio.org/npr-news/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know?_amp=true"
+      },
+      {
+        "domain": "hawaiitelegraph.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.hawaiitelegraph.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "shanghainews.net",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "China",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.shanghainews.net/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "couriernews.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/couriernews.com/content/tncms/custom/image/b21f3e0c-b390-11e9-a989-d727c4d02d97.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://www.couriernews.com/news/national/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_919533f0-8f64-5d02-a4b7-9c598ef12400.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661125/gettyimages-618056526.jpg",
+        "sourcecountry": "United States",
+        "title": "Is Realty Income Dividend in Trouble ? ",
+        "url": "https://www.fool.com/investing/2022/01/18/is-realty-incomes-dividend-in-trouble/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chinanationalnews.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "China",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.chinanationalnews.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "laosnews.net",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "United States",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.laosnews.net/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://menafn.com/updates/pr/",
+        "sourcecountry": "Qatar",
+        "title": "Jairo Gonzalez CEO of Harvest Trading Cap becomes first Domi ... ",
+        "url": "https://menafn.com/1103558885/Jairo-Gonzalez-CEO-of-Harvest-Trading-Cap-becomes-first-Dominican-to-create-a-cryptocurrency",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "OVBC ANNOUNCES CASH DIVIDEND",
+        "url": "https://www.prnewswire.com:443/news-releases/ovbc-announces-cash-dividend-301463299.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tucson.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/7/03/7037c197-acbc-57b8-893b-12229670dede/61e6424e28066.image.jpg?crop=1763%2C992%2C0%2C91",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://tucson.com/lifestyles/technology/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_92abf8d0-4624-5d87-a29f-991de59c36fe.html",
+        "url_mobile": "https://tucson.com/lifestyles/technology/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_92abf8d0-4624-5d87-a29f-991de59c36fe.amp.html"
+      },
+      {
+        "domain": "sfgate.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+        "sourcecountry": "United States",
+        "title": "Fulton Financial : Q4 Earnings Snapshot",
+        "url": "https://www.sfgate.com/business/article/Fulton-Financial-Q4-Earnings-Snapshot-16785756.php",
+        "url_mobile": "https://www.sfgate.com/business/amp/Fulton-Financial-Q4-Earnings-Snapshot-16785756.php"
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2021/04/nio-stock-3.jpg",
+        "sourcecountry": "United States",
+        "title": "Nio Stock Is One of the Best EV Stocks to Start the New Year",
+        "url": "https://investorplace.com/2022/01/nio-stock-is-one-of-the-best-ev-stocks-to-start-the-new-year/",
+        "url_mobile": "https://investorplace.com/2022/01/nio-stock-is-one-of-the-best-ev-stocks-to-start-the-new-year/amp/"
+      },
+      {
+        "domain": "brazilsun.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Brazil",
+        "title": "U . S . stocks shatter , Nasdaq loses 387 points",
+        "url": "https://www.brazilsun.com/news/272201670/us-stocks-shatter-nasdaq-loses-387-points",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://im.morningstar.com/content/CMSImages/18955.png",
+        "sourcecountry": "China",
+        "title": "Larry Fink : Sustainable Investing Is About Profits , Not Taking a Stand",
+        "url": "https://www.morningstar.com/articles/1075068/larry-fink-sustainable-investing-is-about-profits-not-taking-a-stand",
+        "url_mobile": ""
+      },
+      {
+        "domain": "qctimes.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/3/cc/3ccbcd1c-9f31-501b-a3ae-7269386a8b7f/61e7385755d50.image.jpg?crop=1762%2C928%2C0%2C123",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://qctimes.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_20decf2f-fb96-59e2-aab4-7197d2e1595c.html",
+        "url_mobile": "https://qctimes.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_20decf2f-fb96-59e2-aab4-7197d2e1595c.amp.html"
+      },
+      {
+        "domain": "alleywatch.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://www.alleywatch.com/wp-content/uploads/2022/01/pexels-burst-374820.jpg",
+        "sourcecountry": "United States",
+        "title": "Learning from 2021 : What Does the New Year Hold for Duolingo and Edtech Stocks ? ",
+        "url": "https://www.alleywatch.com/2022/01/learning-from-2021-what-does-the-new-year-hold-for-duolingo-and-edtech-stocks/",
+        "url_mobile": "https://www.alleywatch.com/2022/01/learning-from-2021-what-does-the-new-year-hold-for-duolingo-and-edtech-stocks/amp/"
+      },
+      {
+        "domain": "sfgate.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Microsoft buys Activision , stocks swoon",
+        "url": "https://www.sfgate.com/business/article/Business-Highlights-Microsoft-buys-Activision-16785755.php",
+        "url_mobile": "https://www.sfgate.com/business/amp/Business-Highlights-Microsoft-buys-Activision-16785755.php"
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://www.morningstar.com/assets/img/dow-jones.51166f0.png",
+        "sourcecountry": "China",
+        "title": "Housing Starts Seen Down Data Week Ahead Update",
+        "url": "https://www.morningstar.com/news/dow-jones/2022011810275/housing-starts-seen-down-data-week-ahead-update",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jordantimes.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "http://www.jordantimes.com/sites/default/files/lklki.jpg",
+        "sourcecountry": "Jordan",
+        "title": "Microsoft to buy US gaming giant Activision - Blizzard for $69b",
+        "url": "http://www.jordantimes.com/news/business/microsoft-buy-us-gaming-giant-activision-blizzard-69b",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyfx.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://a.c-dn.net/b/3Wb8nY/headline_NYSE_10.JPG",
+        "sourcecountry": "China",
+        "title": "Nasdaq 100 Plunges into Free Fall as US Yields Reprice Higher , Earnings in Focus",
+        "url": "https://www.dailyfx.com/forex/fundamental/article/fundamentals_vs_technicals/2022/01/18/Nasdaq-100-Plunges-into-Free-Fall-as-US-Yields-Reprice-Higher-Earnings-in-Focus.html",
+        "url_mobile": "https://www.dailyfx.com/forex/fundamental/article/fundamentals_vs_technicals/2022/01/18/Nasdaq-100-Plunges-into-Free-Fall-as-US-Yields-Reprice-Higher-Earnings-in-Focus.html/amp"
+      },
+      {
+        "domain": "kxly.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/01/v/u/1f7d5b3c7b69b2b1057e9e2bbb371586dd0599bd.jpg",
+        "sourcecountry": "United States",
+        "title": "Employers Are Boosting 401 ( k ) Benefits to Compete for Workers Amid the Great Resignation",
+        "url": "https://www.kxly.com/i/employers-are-boosting-401k-benefits-to-compete-for-workers-amid-the-great-resignation/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afghanistannews.net",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "U . S . stock markets dive , tech shares lose more than 2 percent",
+        "url": "https://www.afghanistannews.net/news/272201670/us-stock-markets-dive-tech-shares-lose-more-than-2-percent",
+        "url_mobile": ""
+      },
+      {
+        "domain": "laosnews.net",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1642508118239.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stock markets dive , tech shares lose more than 2 percent",
+        "url": "https://www.laosnews.net/news/272201670/us-stock-markets-dive-tech-shares-lose-more-than-2-percent",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661172/stock-price-dip-woman.jpg",
+        "sourcecountry": "United States",
+        "title": "Buy the Dip : 2 Top Growth Stocks for January",
+        "url": "https://www.fool.com/investing/2022/01/18/buy-the-dip-2-top-growth-stocks-for-january/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "929nin.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://townsquare.media/site/252/files/2022/01/attachment-Bella-Hadid-stylist.jpg?&zc=1&s=0&a=t&q=89",
+        "sourcecountry": "United States",
+        "title": "Bella Hadid Criticized for Complaining About Not Having Stylist",
+        "url": "https://929nin.com/bella-hadid-criticized-for-lamenting-not-having-stylist-for-two-years-during-pandemic/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "barbados.loopnews.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2022-01/b3d0fc14b53bc304fc2edeac8bd9b71dactivision_1.jpg",
+        "sourcecountry": "",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://barbados.loopnews.com/content/microsoft-buys-game-maker-activision-blizzard-about-70b-3",
+        "url_mobile": ""
+      },
+      {
+        "domain": "foxnews.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/88587a6a-2bce-493e-902b-79994ac26724/e115982a-5d79-4315-99f5-d29d51b6a56c/1280x720/match/image.jpg",
+        "sourcecountry": "United States",
+        "title": "  The Ingraham Angle  on why US needs to boycott Beijing Winter Olympics",
+        "url": "https://www.foxnews.com/transcript/ingraham-angle-on-why-the-us-needs-to-boycott-upcoming-beijing-winter-olympics",
+        "url_mobile": "https://www.foxnews.com/transcript/ingraham-angle-on-why-the-us-needs-to-boycott-upcoming-beijing-winter-olympics.amp"
+      },
+      {
+        "domain": "hawaiipublicradio.org",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/18/gettyimages-1235407620_custom-91233b0e3bd17ac99a7c83c1869d725ec59748c0.jpg",
+        "sourcecountry": "United States",
+        "title": "Microsoft set to acquire the gaming company Activision Blizzard for $68 . 7 billion",
+        "url": "https://www.hawaiipublicradio.org/npr-news/2022-01-18/microsoft-set-to-acquire-the-gaming-company-activision-blizzard-for-68-7-billion",
+        "url_mobile": "https://www.hawaiipublicradio.org/npr-news/2022-01-18/microsoft-set-to-acquire-the-gaming-company-activision-blizzard-for-68-7-billion?_amp=true"
+      },
+      {
+        "domain": "thehill.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://thehill.com/sites/default/files/article_images/gilead_pharmaceuticals_060915_ap_eric_risberg.jpeg",
+        "sourcecountry": "United States",
+        "title": "Drugmaker says counterfeit versions of its HIV medicines ended up in patient hands",
+        "url": "https://thehill.com/policy/healthcare/590221-drugmaker-says-counterfeit-versions-of-its-hiv-medicines-ended-up-in",
+        "url_mobile": "https://thehill.com/policy/healthcare/590221-drugmaker-says-counterfeit-versions-of-its-hiv-medicines-ended-up-in?amp"
+      },
+      {
+        "domain": "tucson.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/5/c0/5c01e83c-a59a-5691-ba0d-1b57ff201a57/61e7385860c17.image.jpg?crop=1763%2C992%2C0%2C91",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://tucson.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_6c8c162e-ea02-50a9-9405-eebccd99e494.html",
+        "url_mobile": "https://tucson.com/lifestyles/technology/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_6c8c162e-ea02-50a9-9405-eebccd99e494.amp.html"
+      },
+      {
+        "domain": "winnipegfreepress.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://media.winnipegfreepress.com/images/2022011811014-4b38447df6372c08e8f5abcffb6b855afe692eec893d98567f7f8de193006a17.jpg",
+        "sourcecountry": "Canada",
+        "title": "  Gamified  apps lead to risky investing : Study",
+        "url": "https://www.winnipegfreepress.com/business/finance/gamified-apps-push-diy-traders-to-make-riskier-investments-study-576083042.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "omaha.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/eb/0eb1bec2-d073-5574-91f4-e4f427fe20f3/61e64260c39c4.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://omaha.com/lifestyles/technology/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_160c2395-cee9-54b5-a16a-3c066f55a0a2.html",
+        "url_mobile": "https://omaha.com/lifestyles/technology/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_160c2395-cee9-54b5-a16a-3c066f55a0a2.amp.html"
+      },
+      {
+        "domain": "ksmu.org",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/18/gettyimages-1344826011-1bcb4b43ddbc6e556e5349c639107947524d634a.jpg",
+        "sourcecountry": "United States",
+        "title": "Inflation fears are sparking a big drop in markets . Here are 3 things to know",
+        "url": "https://www.ksmu.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know",
+        "url_mobile": "https://www.ksmu.org/2022-01-18/inflation-fears-are-sparking-a-big-drop-in-markets-here-are-3-things-to-know?_amp=true"
+      },
+      {
+        "domain": "washingtontimes.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "All the president enemies - Washington Times",
+        "url": "https://www.washingtontimes.com:443/news/2022/jan/18/all-the-presidents-enemies/",
+        "url_mobile": "https://amp.washingtontimes.com/news/2022/jan/18/all-the-presidents-enemies/"
+      },
+      {
+        "domain": "washingtontimes.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Keep an eye on Hillary Clinton",
+        "url": "https://www.washingtontimes.com/news/2022/jan/18/keep-an-eye-on-hillary-clinton/",
+        "url_mobile": "https://amp.washingtontimes.com/news/2022/jan/18/keep-an-eye-on-hillary-clinton/"
+      },
+      {
+        "domain": "oskaloosa.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/oskaloosa.com/content/tncms/custom/image/30e3fcfe-c453-11e5-be2f-572c420cd125.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Technology , bank stocks drag Wall St to new low for 2022",
+        "url": "https://www.oskaloosa.com/news/national_news/technology-bank-stocks-drag-wall-st-to-new-low-for-2022/article_f57230dd-02ee-5cdb-994d-2685ec26dcb4.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall St Sinks as Yields Spike , Financials Fall After Goldman Miss",
+        "url": "https://www.kmaj1440.com/news/wall-st-sinks-as-yields-spike-financials-fall-after-goldman-miss/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afghanistannews.net",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.afghanistannews.net/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "winnipegfreepress.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://media.winnipegfreepress.com/images/2022011811014-4b38447df6372c08e8f5abcffb6b855afe692eec893d98567f7f8de193006a17.jpg",
+        "sourcecountry": "Canada",
+        "title": "  Gamified  apps lead to risky investing : Study",
+        "url": "https://www.winnipegfreepress.com/business/gamified-apps-push-diy-traders-to-make-riskier-investments-study-576083042.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "streetinsider.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "http://www.streetinsider.com/https://www.streetinsider.com/images/summaries/69/resize_activision-blizzard_564091d855627.jpg",
+        "sourcecountry": "United States",
+        "title": "MKM Partners Upgrades Activision Blizzard ( ATVI ) to Neutral , Following Acquisition",
+        "url": "https://www.streetinsider.com/Upgrades/MKM%20Partners%20Upgrades%20Activision%20Blizzard%20(ATVI)%20to%20Neutral,%20Following%20Acquisition/19471132.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "brazilsun.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/rtc1642529605.jpg",
+        "sourcecountry": "Brazil",
+        "title": "Chris Hedges : The workers are on the march America new class war",
+        "url": "https://www.brazilsun.com/news/272199871/chris-hedges-the-workers-are-on-the-march-americas-new-class-war",
+        "url_mobile": ""
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://www.morningstar.com/assets/img/dow-jones.51166f0.png",
+        "sourcecountry": "China",
+        "title": "ADRs Close Lower ; Unilever Trades Actively",
+        "url": "https://www.morningstar.com/news/dow-jones/2022011812455/adrs-close-lower-unilever-trades-actively",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661169/man-using-tablet-to-make-a-video-call.jpg",
+        "sourcecountry": "United States",
+        "title": "2 Promising New Growth Stocks to Watch in 2022",
+        "url": "https://www.fool.com/investing/2022/01/18/2-promising-new-growth-stocks-to-watch-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stock Market Today - 1 / 18 : Dow Closes Down 500 Points as Oil Prices , Treasury Yields Surge",
+        "url": "https://www.msn.com/en-us/money/markets/stock-market-today-1-18-dow-closes-down-500-points-as-oil-prices-treasury-yields-surge/ar-AASTCyG",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://imageio.forbes.com/specials-images/imageserve/61e737403dd25127a8329243/0x0.jpg?format=jpg&fit=bounds",
+        "sourcecountry": "United States",
+        "title": "What Does Microsoft Massive Activision Blizzard Deal Mean For Overwatch And Call Of Duty ? ",
+        "url": "https://www.forbes.com/sites/krisholt/2022/01/18/what-does-microsofts-massive-activision-blizzard-deal-mean-for-overwatch-and-call-of-duty/",
+        "url_mobile": "https://www.forbes.com/sites/krisholt/2022/01/18/what-does-microsofts-massive-activision-blizzard-deal-mean-for-overwatch-and-call-of-duty/amp/"
+      },
+      {
+        "domain": "foxnews.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da0ad108-b8d2-4ca7-9ab5-a491b03563ba/e2e7ffb9-51ba-4375-ab4d-bb063bd95fb6/1280x720/match/image.jpg",
+        "sourcecountry": "United States",
+        "title": "  Gutfeld ! on rise in violent crime in liberal - run cities",
+        "url": "https://www.foxnews.com/transcript/gutfeld-violent-crime-liberal-run-cities",
+        "url_mobile": "https://www.foxnews.com/transcript/gutfeld-violent-crime-liberal-run-cities.amp"
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://www.morningstar.com/assets/img/dow-jones.51166f0.png",
+        "sourcecountry": "China",
+        "title": "Electronic Arts , Take - Two Interactive Shares Gain After Activision Deal",
+        "url": "https://www.morningstar.com/news/dow-jones/2022011810147/electronic-arts-take-two-interactive-shares-gain-after-activision-deal",
+        "url_mobile": ""
+      },
+      {
+        "domain": "caledonianrecord.com",
+        "language": "English",
+        "seendate": "20220118T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/caledonianrecord.com/content/tncms/assets/v3/editorial/1/c0/1c05b0d5-0c81-5afb-8379-4af6822e9b52/61e6c8459a3b1.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Microsoft buys game maker Activision Blizzard for about $70B",
+        "url": "https://www.caledonianrecord.com/news/national/microsoft-buys-game-maker-activision-blizzard-for-about-70b/article_f68c691b-d1f8-546a-bd7b-8351bf822e3e.html",
+        "url_mobile": ""
+      }
+    ]
+  }
+}

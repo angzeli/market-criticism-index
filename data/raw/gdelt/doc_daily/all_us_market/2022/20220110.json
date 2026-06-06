@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-10",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "russiaherald.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Russia",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.russiaherald.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcnewyork.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcnewyork.com/2021/03/105844708-1554931627181img_1327r.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Jim Cramer Charitable Trust Bought Stocks During Monday Weakness . Here Why",
+        "url": "https://www.nbcnewyork.com/news/business/money-report/jim-cramers-charitable-trust-bought-stocks-during-mondays-weakness-heres-why/3489188/",
+        "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/jim-cramers-charitable-trust-bought-stocks-during-mondays-weakness-heres-why/3489188/?amp"
+      },
+      {
+        "domain": "nbcnewyork.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcnewyork.com/2022/01/105539694-1540907611493gettyimages-986142902.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Cramer Warms Up to Uber , Says It an OK Time to Start a Position in the Ride - Hailing Firm",
+        "url": "https://www.nbcnewyork.com/news/business/money-report/cramer-warms-up-to-uber-says-its-an-ok-time-to-start-a-position-in-the-ride-hailing-firm/3489222/",
+        "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/cramer-warms-up-to-uber-says-its-an-ok-time-to-start-a-position-in-the-ride-hailing-firm/3489222/?amp"
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2022/01/105539694-1540907611493gettyimages-986142902.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Cramer Warms Up to Uber , Says It an OK Time to Start a Position in the Ride - Hailing Firm",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/cramer-warms-up-to-uber-says-its-an-ok-time-to-start-a-position-in-the-ride-hailing-firm/3103193/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/cramer-warms-up-to-uber-says-its-an-ok-time-to-start-a-position-in-the-ride-hailing-firm/3103193/?amp"
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcmiami.com/2021/03/105844708-1554931627181img_1327r.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Jim Cramer Charitable Trust Bought Stocks During Monday Weakness . Here Why",
+        "url": "https://www.nbcmiami.com/news/business/money-report/jim-cramers-charitable-trust-bought-stocks-during-mondays-weakness-heres-why/2658558/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/jim-cramers-charitable-trust-bought-stocks-during-mondays-weakness-heres-why/2658558/?amp"
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2021/12/106993276-16402757762021-12-23t153049z_1781398402_rc2dkr9zqc6b_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After Nasdaq Monday Comeback",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-flat-after-nasdaqs-monday-comeback/3103160/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/stock-futures-are-flat-after-nasdaqs-monday-comeback/3103160/?amp"
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcmiami.com/2022/01/105539694-1540907611493gettyimages-986142902.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Cramer Warms Up to Uber , Says It an OK Time to Start a Position in the Ride - Hailing Firm",
+        "url": "https://www.nbcmiami.com/news/business/money-report/cramer-warms-up-to-uber-says-its-an-ok-time-to-start-a-position-in-the-ride-hailing-firm/2658588/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/cramer-warms-up-to-uber-says-its-an-ok-time-to-start-a-position-in-the-ride-hailing-firm/2658588/?amp"
+      },
+      {
+        "domain": "wtma.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Closes Lower , With Nasdaq Staging Late Comeback",
+        "url": "https://www.wtma.com/news/wall-street-closes-lower-with-nasdaq-staging-late-comeback/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wjon.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://townsquare.media/site/66/files/2022/01/attachment-GettyImages-1344286137.jpg?&zc=1&s=0&a=t&q=89",
+        "sourcecountry": "United States",
+        "title": "Bed Bath and Beyond Closing 35 Stores - 2 are in Minnesota",
+        "url": "https://wjon.com/bed-bath-and-beyond-closing-35-stores-2-are-in-minnesota/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tilray , Inc . ( TLRY ) Q2 2022 Earnings Call Transcript",
+        "url": "https://www.msn.com/en-us/money/companies/tilray-inc-tlry-q2-2022-earnings-call-transcript/ar-AASDLT9",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thehill.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://thehill.com/sites/default/files/ca_oilandgas_istock.jpg",
+        "sourcecountry": "United States",
+        "title": "It not an  energy  crisis it a fossil fuel crisis",
+        "url": "https://thehill.com/blogs/congress-blog/energy-environment/589065-its-not-an-energy-crisis-its-a-fossil-fuel-crisis",
+        "url_mobile": "https://thehill.com/blogs/congress-blog/energy-environment/589065-its-not-an-energy-crisis-its-a-fossil-fuel-crisis?amp"
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/U1zKh1sYLwmoPkvpwcFU3g--~B/aD01NTE7dz05ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_hill_articles_341/c6155e31994939abf1b5dc905acec1af",
+        "sourcecountry": "United States",
+        "title": "Hillicon Valley Dems press privacy groups over kid safety",
+        "url": "https://news.yahoo.com/hillicon-valley-dems-press-privacy-230800003.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/hillicon-valley-dems-press-privacy-230800003.html"
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.breitbart.com/media/2019/12/GettyImages-169117081-640x335.jpg",
+        "sourcecountry": "United States",
+        "title": "Lawsuit : Yale , Georgetown , Other Top Schools Illegally Collude to Limit Financial Aid",
+        "url": "https://www.breitbart.com/tech/2022/01/10/lawsuit-yale-georgetown-other-top-schools-illegally-collude-to-limit-financial-aid/",
+        "url_mobile": "https://www.breitbart.com/tech/2022/01/10/lawsuit-yale-georgetown-other-top-schools-illegally-collude-to-limit-financial-aid/amp/"
+      },
+      {
+        "domain": "klif.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Yield on 10 - Year Treasury Climbs for 7th Day on Hawkish Fed Bets",
+        "url": "https://www.klif.com/news/yield-on-10-year-treasury-climbs-for-7th-day-on-hawkish-fed-bets/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/oS3Qd2AZZ.png?itok=vSkoZkbV",
+        "sourcecountry": "United States",
+        "title": "Citius , Altius , Debilius : Dip - Buyers Rescue Tech - Wreck As Rate - Hike - Odds Soar",
+        "url": "https://www.zerohedge.com/markets/citius-altius-debilius-tech-wreck-continues-fed-rate-hike-odds-soar",
+        "url_mobile": ""
+      },
+      {
+        "domain": "klif.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Banks See Four Rate Hikes in  22 , Inflation as a Wild Card",
+        "url": "https://www.klif.com/news/wall-street-banks-see-four-rate-hikes-in-22-inflation-as-a-wild-card/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "103weup.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://hiphopwired.com/wp-content/uploads/sites/43/2022/01/16418385107162.jpg?quality=85&strip=all&crop=0,0,100,320px",
+        "sourcecountry": "",
+        "title": "Google Accuses Apple of Using iMessage To  Bully  People Into Buying iPhones",
+        "url": "https://103weup.com/2022/01/10/google-accuses-apple-of-using-imessage-to-bully-people-into-buying-iphones/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "klif.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Closes Lower , With Nasdaq Staging Late Comeback",
+        "url": "https://www.klif.com/news/wall-street-closes-lower-with-nasdaq-staging-late-comeback/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcmiami.com/2021/12/106993276-16402757762021-12-23t153049z_1781398402_rc2dkr9zqc6b_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After Nasdaq Monday Comeback",
+        "url": "https://www.nbcmiami.com/news/business/money-report/stock-futures-are-flat-after-nasdaqs-monday-comeback/2658543/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/stock-futures-are-flat-after-nasdaqs-monday-comeback/2658543/?amp"
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.breitbart.com/media/2020/01/Chuck-Schumer-Fists-640x335.jpg",
+        "sourcecountry": "United States",
+        "title": "Hypocrisy : 8 Democrats Defended the Filibuster , Research Shows",
+        "url": "https://www.breitbart.com/politics/2022/01/10/hypocrisy-8-democrats-defended-senate-filibuster-for-decades-research-shows/",
+        "url_mobile": "https://www.breitbart.com/politics/2022/01/10/hypocrisy-8-democrats-defended-senate-filibuster-for-decades-research-shows/amp/"
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2021/03/105844708-1554931627181img_1327r.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Jim Cramer Charitable Trust Bought Stocks During Monday Weakness . Here Why",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/jim-cramers-charitable-trust-bought-stocks-during-mondays-weakness-heres-why/3103173/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/jim-cramers-charitable-trust-bought-stocks-during-mondays-weakness-heres-why/3103173/?amp"
+      },
+      {
+        "domain": "telegraph.co.uk",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Michael Lang , co - founder and driving force behind the 1969 Woodstock festival \u2013 obituary",
+        "url": "https://www.telegraph.co.uk/obituaries/2022/01/10/michael-lang-co-founder-driving-force-behind-staging-the1969/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "institutionalinvestor.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://www.institutionalinvestor.com/media/AMG/II/articles/1/1/1/abrdn_small_cap_cover.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Now Is the Time to Consider Strategic Small - Cap Allocations",
+        "url": "https://www.institutionalinvestor.com/article/b1vzl8kqn0485p/Why-Now-Is-the-Time-to-Consider-Strategic-Small-Cap-Allocations",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2021/12/106991647-16400137712021-12-20t150215z_1860699816_rc2eir9pao72_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tumult in Tech Stocks Hurts for Now , But May Not Lead to Broader Correction",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/tumult-in-tech-stocks-hurts-for-now-but-may-not-lead-to-broader-correction/3103111/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/tumult-in-tech-stocks-hurts-for-now-but-may-not-lead-to-broader-correction/3103111/?amp"
+      },
+      {
+        "domain": "caribbeanherald.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.caribbeanherald.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/.AyCYzNipmkrxHWS4KVWnQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-01/6bf27910-726c-11ec-bcff-d36681a47f52",
+        "sourcecountry": "United States",
+        "title": "Starbucks workers tally second union vote victory after ruling",
+        "url": "https://news.yahoo.com/starbucks-union-vote-win-233202223.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/starbucks-union-vote-win-233202223.html"
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2021/12/106993276-16402757762021-12-23t153049z_1781398402_rc2dkr9zqc6b_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After Nasdaq Monday Comeback",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-flat-after-nasdaqs-monday-comeback/2688215/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/stock-futures-are-flat-after-nasdaqs-monday-comeback/2688215/?amp"
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.breitbart.com/media/2020/11/Ron-Johnson-640x335.jpg",
+        "sourcecountry": "United States",
+        "title": "Sen . Ron Johnson : Running Because Dems Governing Is Destructive",
+        "url": "https://www.breitbart.com/politics/2022/01/10/sen-ron-johnson-im-running-again-because-democrats-are-governing-in-destructive-manner/",
+        "url_mobile": "https://www.breitbart.com/politics/2022/01/10/sen-ron-johnson-im-running-again-because-democrats-are-governing-in-destructive-manner/amp/"
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2021/03/105844708-1554931627181img_1327r.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Jim Cramer Charitable Trust Bought Stocks During Monday Weakness . Here Why",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/jim-cramers-charitable-trust-bought-stocks-during-mondays-weakness-heres-why/2688229/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/jim-cramers-charitable-trust-bought-stocks-during-mondays-weakness-heres-why/2688229/?amp"
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/Jt6klOjIgkrZtBdlsSNhig--~B/aD01NTE7dz05ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_hill_articles_341/04e0724d44ec43a22d00d07d8bc19ab5",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability Fire calls infrastructural integrity into question",
+        "url": "https://news.yahoo.com/equilibrium-sustainability-fire-calls-infrastructural-222705707.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/equilibrium-sustainability-fire-calls-infrastructural-222705707.html"
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2022/01/105539694-1540907611493gettyimages-986142902.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Cramer Warms Up to Uber , Says It an OK Time to Start a Position in the Ride - Hailing Firm",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/cramer-warms-up-to-uber-says-its-an-ok-time-to-start-a-position-in-the-ride-hailing-firm/2688238/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/cramer-warms-up-to-uber-says-its-an-ok-time-to-start-a-position-in-the-ride-hailing-firm/2688238/?amp"
+      },
+      {
+        "domain": "nbcnewyork.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://media.nbcnewyork.com/2021/12/106993276-16402757762021-12-23t153049z_1781398402_rc2dkr9zqc6b_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After Nasdaq Monday Comeback",
+        "url": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-flat-after-nasdaqs-monday-comeback/3489164/",
+        "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/stock-futures-are-flat-after-nasdaqs-monday-comeback/3489164/?amp"
+      },
+      {
+        "domain": "wtma.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Banks See Four Rate Hikes in  22 , Inflation as a Wild Card",
+        "url": "https://www.wtma.com/news/wall-street-banks-see-four-rate-hikes-in-22-inflation-as-a-wild-card/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NASDAQ survived ( again )... | Zero Hedge",
+        "url": "https://www.zerohedge.com/the-market-ear/buyhigh",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/DIMON.jpg?itok=DzW3q7fS",
+        "sourcecountry": "United States",
+        "title": "Jamie Dimon One - Ups Goldman : Says He Would Be  Surprised  With Just 4 Rate - Hikes",
+        "url": "https://www.zerohedge.com/markets/jamie-dimon-one-ups-goldman-says-he-would-be-surprised-just-4-rate-hikes",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/pred.png?itok=A09K0Z-P",
+        "sourcecountry": "United States",
+        "title": "100  Fringe  Predictions For 2022",
+        "url": "https://www.zerohedge.com/markets/100-fringe-predictions-2022",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wtma.com",
+        "language": "English",
+        "seendate": "20220111T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Yield on 10 - Year Treasury Climbs for 7th Day on Hawkish Fed Bets",
+        "url": "https://www.wtma.com/news/yield-on-10-year-treasury-climbs-for-7th-day-on-hawkish-fed-bets/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dc89c24af4469d65f8d8c0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3942%26cropY1%3D337%26cropY2%3D2555",
+        "sourcecountry": "United States",
+        "title": "The 4 Eras Of Corporate Governance",
+        "url": "https://www.forbes.com/sites/betsyatkins/2022/01/10/the-4-eras-of-corporate-governance/",
+        "url_mobile": "https://www.forbes.com/sites/betsyatkins/2022/01/10/the-4-eras-of-corporate-governance/amp/"
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/11/23115503/stock-market-gc33a78175_640.jpg",
+        "sourcecountry": "United States",
+        "title": "Top 11 Stocks With Growth Potential According to Juniper Investment Company",
+        "url": "https://www.insidermonkey.com/blog/top-11-stocks-with-growth-potential-according-to-juniper-investment-company-1018895/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "1490wosh.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Closes Lower , With Nasdaq Staging Late Comeback",
+        "url": "https://www.1490wosh.com/news/wall-street-closes-lower-with-nasdaq-staging-late-comeback/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://fns1.de/g/fb.png",
+        "sourcecountry": "Germany",
+        "title": "U . S . Stocks Show Significant Recovery After Early Sell - Off",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54936891-u-s-stocks-show-significant-recovery-after-early-sell-off-020.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sydneysun.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Australia",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.sydneysun.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "1490wosh.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Yield on 10 - Year Treasury Climbs for 7th Day on Hawkish Fed Bets",
+        "url": "https://www.1490wosh.com/news/yield-on-10-year-treasury-climbs-for-7th-day-on-hawkish-fed-bets/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "afr.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.4816%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/21adb9fb613bc060b23e2240d3d0def3a31d1571",
+        "sourcecountry": "Australia",
+        "title": "ASX 200 LIVE : ASX declines ; Ingham falls as omicron weighs on sales",
+        "url": "https://www.afr.com/markets/equity-markets/asx-to-fall-wall-st-suffers-another-sell-off-20220111-p59nab",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://ml-eu.globenewswire.com/media/ZTk3ZmQxZmYtNTEwMS00ZTkzLWJlOGEtYjg1NmMxNDc1NjZkLTEwOTM1MTk=/tiny/Infant-Bacterial-Therapeutics-.png",
+        "sourcecountry": "Germany",
+        "title": "Infant Bacterial Therapeutics AB : Infant Bacterial Therapeutics today announces that new patent protection is granted in Australia",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54936951-infant-bacterial-therapeutics-ab-infant-bacterial-therapeutics-today-announces-that-new-patent-protection-is-granted-in-australia-399.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "insidermonkey.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/01122527/scott-graham-5fNmWej4tAA-unsplash-1.jpg",
+        "sourcecountry": "United States",
+        "title": "Top 5 Stocks With Growth Potential According to Juniper Investment Company",
+        "url": "https://www.insidermonkey.com/blog/top-5-stocks-with-growth-potential-according-to-juniper-investment-company-1018896/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvlkam.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Yield on 10 - Year Treasury Climbs for 7th Day on Hawkish Fed Bets",
+        "url": "https://www.wvlkam.com/news/yield-on-10-year-treasury-climbs-for-7th-day-on-hawkish-fed-bets/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://media.nbclosangeles.com/2021/03/105844708-1554931627181img_1327r.jpg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Jim Cramer Charitable Trust Bought Stocks During Monday Weakness . Here Why",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/jim-cramers-charitable-trust-bought-stocks-during-mondays-weakness-heres-why/2794837/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/jim-cramers-charitable-trust-bought-stocks-during-mondays-weakness-heres-why/2794837/?amp"
+      },
+      {
+        "domain": "wallstreet-online.de",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://assets.wallstreet-online.de/_media/12646/size_645/aw-isdr-company.png",
+        "sourcecountry": "Germany",
+        "title": "Loop Industries to Hold Q3 2022 Corporate Update Call January 12 , 2022 at 11 : 00 AM ET",
+        "url": "https://www.wallstreet-online.de/nachricht/14888483-loop-industries-to-hold-q3-2022-corporate-update-call-january-12-2022-at-11-00-et",
+        "url_mobile": "https://www.wallstreet-online.de/_amp/nachricht/14888483-loop-industries-to-hold-q3-2022-corporate-update-call-january-12-2022-at-11-00-et"
+      },
+      {
+        "domain": "argentinastar.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Argentina",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.argentinastar.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-meta-platforms-inc-aktie-intraday-tradegate.png",
+        "sourcecountry": "Germany",
+        "title": "Meta Mandates Covid - 19 Vaccine Booster Shots For Employees To Work From Office",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54937401-meta-mandates-covid-19-vaccine-booster-shots-for-employees-to-work-from-office-020.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-loop-industries-inc-aktie-intraklein-muenchen.png",
+        "sourcecountry": "Germany",
+        "title": "Loop Industries , Inc .: Loop Industries to Hold Q3 2022 Corporate Update Call January 12 , 2022 at 11 : 00 AM ET",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54937434-loop-industries-inc-loop-industries-to-hold-q3-2022-corporate-update-call-january-12-2022-at-11-00-am-et-200.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-enstar-group-limited-aktie-intraklein-frankfurt.png",
+        "sourcecountry": "Germany",
+        "title": "Enstar Group Limited : Enstar Announces $3 . 12 Billion LPT Transaction with Aspen",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54936952-enstar-group-limited-enstar-announces-dollar-3-12-billion-lpt-transaction-with-aspen-399.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "",
+        "sourcecountry": "Germany",
+        "title": "INX Limited : THE INX DIGITAL COMPANY , INC . ANNOUNCES COMPLETION OF REVERSE TAKEOVER",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54937371-inx-limited-the-inx-digital-company-inc-announces-completion-of-reverse-takeover-008.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "katcountry989.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/10/2022-01-10T225916Z_1_LYNXMPEI090X6_RTROPTP_3_USA-STOCKS.JPG",
+        "sourcecountry": "United States",
+        "title": "Buy the dip : Wall Street sell - off presents opportunity \u2013 JPM",
+        "url": "https://katcountry989.com/2022/01/10/buy-the-dip-wall-street-sell-off-presents-opportunity-jpm/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wxow.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/custom/image/7f3437b0-165b-11ec-a31e-1f820cff0bbb.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Stocks end only slightly lower after early slide",
+        "url": "https://www.wxow.com/news/state-news/stocks-end-only-slightly-lower-after-early-slide/article_27d42543-71c2-5e96-9784-7e50e463988c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pcmag.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://i.pcmag.com/imagery/articles/07Ett8z50tZgFO6etYZqQAJ-1.fit_lim.size_1200x630.v1641836542.jpg",
+        "sourcecountry": "United States",
+        "title": "Microsoft AR Team Loses Dozens of Employees to Meta",
+        "url": "https://www.pcmag.com/news/microsoft-ar-team-loses-dozens-of-employees-to-meta",
+        "url_mobile": "https://www.pcmag.com/news/microsoft-ar-team-loses-dozens-of-employees-to-meta?amp=true"
+      },
+      {
+        "domain": "1490wosh.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Banks See Four Rate Hikes in  22 , Inflation as a Wild Card",
+        "url": "https://www.1490wosh.com/news/wall-street-banks-see-four-rate-hikes-in-22-inflation-as-a-wild-card/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvlkam.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Banks See Four Rate Hikes in  22 , Inflation as a Wild Card",
+        "url": "https://www.wvlkam.com/news/wall-street-banks-see-four-rate-hikes-in-22-inflation-as-a-wild-card/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newser.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://img1-azrcdn.newser.com/image/1393092-12-20220110160913.jpeg",
+        "sourcecountry": "United States",
+        "title": "Zynga Jumps More Than 40 % After Deal News",
+        "url": "https://www.newser.com/story/315501/stocks-recoup-most-of-early-losses.html",
+        "url_mobile": "https://amp.newser.com/story/315501/stocks-recoup-most-of-early-losses.html"
+      },
+      {
+        "domain": "wvlkam.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "JPMorgan CEO Says 2022 Could Bring More Than Four Rate Hikes",
+        "url": "https://www.wvlkam.com/news/jpmorgan-ceo-says-2022-could-bring-more-than-four-rate-hikes/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2021/10/13/Cathie-Wood-1200x800.jpg",
+        "sourcecountry": "United States",
+        "title": "Famed Investor Cathie Wood Fund Already in the Hole in 2022",
+        "url": "https://www.theepochtimes.com/cathie-woods-ark-etfs-already-in-the-hole-in-2022_4203591.html",
+        "url_mobile": "https://www.theepochtimes.com/cathie-woods-ark-etfs-already-in-the-hole-in-2022_4203591.html/amp"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dc725e32eb82d006034eb0%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "Federal Lawsuit Alleges 16 Elite Universities Engaged In Price Fixing",
+        "url": "https://www.forbes.com/sites/michaeltnietzel/2022/01/10/federal-lawsuit-alleges-16-elite-universities-engaged-in-price-fixing/",
+        "url_mobile": "https://www.forbes.com/sites/michaeltnietzel/2022/01/10/federal-lawsuit-alleges-16-elite-universities-engaged-in-price-fixing/amp/"
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://media.nbclosangeles.com/2021/12/106991647-16400137712021-12-20t150215z_1860699816_rc2eir9pao72_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tumult in Tech Stocks Hurts for Now , But May Not Lead to Broader Correction",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/tumult-in-tech-stocks-hurts-for-now-but-may-not-lead-to-broader-correction/2794803/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/tumult-in-tech-stocks-hurts-for-now-but-may-not-lead-to-broader-correction/2794803/?amp"
+      },
+      {
+        "domain": "crowdfundinsider.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://www.crowdfundinsider.com/wp-content/uploads/2021/02/eToro-Copy-the-Smart-Money.jpeg",
+        "sourcecountry": "United Kingdom",
+        "title": "eToro Investment Analyst Says that We Might Be Overdue for  Quick Reset  in Stocks , But Many More Planning to Invest in 2022 than Last Year",
+        "url": "https://www.crowdfundinsider.com/2022/01/185331-etoro-investment-analyst-says-that-we-might-be-overdue-for-quick-reset-in-stocks-but-many-more-planning-to-invest-in-2022-than-last-year/",
+        "url_mobile": "https://www.crowdfundinsider.com/2022/01/185331-etoro-investment-analyst-says-that-we-might-be-overdue-for-quick-reset-in-stocks-but-many-more-planning-to-invest-in-2022-than-last-year/amp/"
+      },
+      {
+        "domain": "sharechat.co.nz",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "",
+        "sourcecountry": "New Zealand",
+        "title": "11th January 2022 Morning Report - sharechat . co . nz",
+        "url": "http://www.sharechat.co.nz/article/6aea2b81/11th-january-2022-morning-report.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-pure-cycle-corporation-aktie-intraklein-nasdaq.png",
+        "sourcecountry": "Germany",
+        "title": "Pure Cycle Corporation : Pure Cycle Reports First Quarter Results",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54937368-pure-cycle-corporation-pure-cycle-reports-first-quarter-results-200.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailysignal.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://www.dailysignal.com/wp-content/uploads/Trade-freedom-1.jpg",
+        "sourcecountry": "United States",
+        "title": "It Time to Amplify and Elevate Certainty on Trade Freedom",
+        "url": "https://www.dailysignal.com/2022/01/10/its-time-to-amplify-and-elevate-certainty-on-trade-freedom/",
+        "url_mobile": "https://www.dailysignal.com/2022/01/10/its-time-to-amplify-and-elevate-certainty-on-trade-freedom/amp/"
+      },
+      {
+        "domain": "couriernews.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/couriernews.com/content/tncms/custom/image/b21f3e0c-b390-11e9-a989-d727c4d02d97.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Stocks end modestly lower after recouping most of early loss",
+        "url": "https://www.couriernews.com/news/business/stocks-end-modestly-lower-after-recouping-most-of-early-loss/article_eb0d4fa6-d4fd-569c-8e07-82dd0fc6f33d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://media.nbclosangeles.com/2021/12/106993276-16402757762021-12-23t153049z_1781398402_rc2dkr9zqc6b_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Are Flat After Nasdaq Monday Comeback",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-flat-after-nasdaqs-monday-comeback/2794826/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/stock-futures-are-flat-after-nasdaqs-monday-comeback/2794826/?amp"
+      },
+      {
+        "domain": "techstory.in",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://techstory.in/wp-content/uploads/2022/01/Pine-Labs-1-scaled.jpg",
+        "sourcecountry": "India",
+        "title": "Pine Labs confidentially files for US IPO to raise $500M",
+        "url": "https://techstory.in/pine-labs-files-for-us-ipo-to-raise-500-million/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcwashington.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tag : bitcoin \u2013 NBC4 Washington",
+        "url": "https://www.nbcwashington.com/tag/bitcoin/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "srilankasource.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Sri Lanka",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.srilankasource.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/10/19/52766391-0-image-a-5_1641843127267.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "MARKET REPORT : Tech slump puts Nasdaq into correction territory",
+        "url": "https://www.dailymail.co.uk/money/markets/article-10387889/MARKET-REPORT-Tech-slump-puts-Nasdaq-correction-territory.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvlkam.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Closes Lower , With Nasdaq Staging Late Comeback",
+        "url": "https://www.wvlkam.com/news/wall-street-closes-lower-with-nasdaq-staging-late-comeback/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "beloitdailynews.com",
+        "language": "English",
+        "seendate": "20220110T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/beloitdailynews.com/content/tncms/assets/v3/editorial/c/c7/cc75da13-9f25-5590-b7ea-9e2d81bea599/61dc477cbf27c.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end modestly lower after recouping most of early loss",
+        "url": "https://www.beloitdailynews.com/news/national-news/stocks-end-modestly-lower-after-recouping-most-of-early-loss/article_fba29555-530b-5015-b7ad-e2c01c7eb36d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://i-invdn-com.investing.com/news/LYNXNPEE8P1IJ_L.jpg",
+        "sourcecountry": "United States",
+        "title": "Powell Testimony to Stress Fed Action to Prevent  Entrenched  Inflation By Investing . com",
+        "url": "https://www.investing.com/news/economy/powell-testimony-to-stress-fed-action-to-prevent-entrenched-inflation-2735142",
+        "url_mobile": "https://m.investing.com/news/economy/powell-testimony-to-stress-fed-action-to-prevent-entrenched-inflation-2735142?ampMode=1"
+      },
+      {
+        "domain": "texasguardian.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.texasguardian.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Pure Cycle Reports First Quarter Results",
+        "url": "https://www.memphissun.com/news/272144684/pure-cycle-reports-first-quarter-results",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1705662!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-dip-buyers-save-nasdaq-from-five-day-rout-in-frantic-close.png",
+        "sourcecountry": "Canada",
+        "title": "Dip Buyers Save Nasdaq From Five - Day Rout in Frantic Close",
+        "url": "https://www.bnnbloomberg.ca/dip-buyers-save-nasdaq-from-five-day-rout-in-frantic-close-1.1705661",
+        "url_mobile": "https://www.bnnbloomberg.ca/dip-buyers-save-nasdaq-from-five-day-rout-in-frantic-close-1.1705661.amp.html"
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://i-invdn-com.investing.com/news/LYNXMPEA5O134_M.jpg",
+        "sourcecountry": "United States",
+        "title": "S & P 500 Closes Flat as Tech Turnaround Sparks Rebound By Investing . com",
+        "url": "https://www.investing.com/news/stock-market-news/sp-500-closes-flat-as-tech-turnaround-sparks-rebound-2735082",
+        "url_mobile": "https://m.investing.com/news/stock-market-news/sp-500-closes-flat-as-tech-turnaround-sparks-rebound-2735082?ampMode=1"
+      },
+      {
+        "domain": "michigansthumb.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://www.michigansthumb.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Fed questions , wobbling stock market",
+        "url": "https://www.michigansthumb.com/business/article/Business-Highlights-Fed-questions-wobbling-16765216.php",
+        "url_mobile": "https://www.michigansthumb.com/business/amp/Business-Highlights-Fed-questions-wobbling-16765216.php"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1705666!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/figures-for-various-stock-exchange-of-thailand-set-indices-are-displayed-on-an-electronic-board-at-the-bourse-in-bangkok-thailand-on-monday-oct-26-2020-thai-equities-asia-s-worst-performers-this-year-will-face-another-drag-from-the-heightened-political-tension-which-would-derail-the-economic-recovery-amid-the-novel-coronavirus-pandemic-said-pakorn-photographer-taylor-weidman-bloomberg.png",
+        "sourcecountry": "Canada",
+        "title": "Asia Stocks May Benefit From Late U . S . Rebound : Markets Wrap",
+        "url": "https://www.bnnbloomberg.ca/asia-stocks-may-benefit-from-late-u-s-rebound-markets-wrap-1.1705665",
+        "url_mobile": "https://www.bnnbloomberg.ca/asia-stocks-may-benefit-from-late-u-s-rebound-markets-wrap-1.1705665.amp.html"
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2021/04/cciv-stock-3.jpg",
+        "sourcecountry": "United States",
+        "title": "Dear LCID Stock Fans , Mark Your Calendars for a Catalyst on Jan . 19",
+        "url": "https://investorplace.com/2022/01/dear-lcid-stock-fans-mark-your-calendars-for-a-catalyst-on-jan-19/",
+        "url_mobile": "https://investorplace.com/2022/01/dear-lcid-stock-fans-mark-your-calendars-for-a-catalyst-on-jan-19/amp/"
+      },
+      {
+        "domain": "afghanistansun.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.afghanistansun.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "sourcecountry": "United States",
+        "title": "Tesla Trap Not Hard To Miss | Investing . com",
+        "url": "https://www.investing.com/analysis/tesla-trap-not-hard-to-miss-200614196",
+        "url_mobile": "https://m.investing.com/analysis/tesla-trap-not-hard-to-miss-200614196?ampMode=1"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://images.barrons.com/im-367289/social",
+        "sourcecountry": "United States",
+        "title": "Take - Two Is Buying Zynga . Why It a  Great Fit . ",
+        "url": "https://www.marketwatch.com/articles/zynga-take-two-stock-price-acquisition-51641817476",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Banks See Four Rate Hikes in  22 , Inflation as a Wild Card",
+        "url": "https://www.kmaj1440.com/news/wall-street-banks-see-four-rate-hikes-in-22-inflation-as-a-wild-card/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://images.barrons.com/im-458731/social",
+        "sourcecountry": "United States",
+        "title": "U . S . Covid Hospitalizations Near January 2021 Peaks",
+        "url": "https://www.marketwatch.com/articles/u-s-covid-hospitalizations-near-january-2021-peaks-51641852248",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sierraleonetimes.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Sierra Leone",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.sierraleonetimes.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kvor.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Banks See Four Rate Hikes in  22 , Inflation as a Wild Card",
+        "url": "https://www.kvor.com/news/wall-street-banks-see-four-rate-hikes-in-22-inflation-as-a-wild-card/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kvor.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Closes Lower , With Nasdaq Staging Late Comeback",
+        "url": "https://www.kvor.com/news/wall-street-closes-lower-with-nasdaq-staging-late-comeback/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wiredprnews.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://i-invdn-com.investing.com/news/LYNXMPED6D12R_L.jpg",
+        "sourcecountry": "United States",
+        "title": "JPMorgan CEO says Reuters could lead to more than four rate hikes in 2022",
+        "url": "https://www.wiredprnews.com/jpmorgans-ceo-says-reuters-could-lead-to-more-than-four-rate-hikes-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "financialbuzz.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Lululemon Plunges Amid Omicron Hit",
+        "url": "https://www.financialbuzz.com/lululemon-plunges-amid-omicron-hit/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://images.barrons.com/im-465130/social",
+        "sourcecountry": "United States",
+        "title": "GE Larry Culp Posted an Open Letter on LinkedIn . He Talking to Investors . ",
+        "url": "https://www.marketwatch.com/articles/ges-larry-culp-posted-an-open-letter-on-linkedin-hes-talking-to-investors-51641852783",
+        "url_mobile": ""
+      },
+      {
+        "domain": "iraqsun.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Iraq",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.iraqsun.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Twin Vee PowerCats Wholly Owned Subsidiary Forza X1 and American Battery Solutions Sign a 5 - year Agreement to Supply Forza X1 New Electric Boats with High - Powered , Lithium - ion Battery Packs",
+        "url": "https://www.memphissun.com/news/272144408/twin-vee-powercats-wholly-owned-subsidiary-forza-x1-and-american-battery-solutions-sign-a-5-year-agreement-to-supply-forza-x1s-new-electric-boats-with-high-powered-lithium-ion-battery-packs",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Yield on 10 - Year Treasury Climbs for 7th Day on Hawkish Fed Bets",
+        "url": "https://www.kmaj1440.com/news/yield-on-10-year-treasury-climbs-for-7th-day-on-hawkish-fed-bets/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660746/man-receiving-a-vaccination-shot.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Novavax Stock Jumped 6 . 5 % Higher Today",
+        "url": "https://www.fool.com/investing/2022/01/10/why-novavax-stock-jumped-65-higher-today/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finance.townhall.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://media.townhall.com/_townhall/resources/images/thog.png",
+        "sourcecountry": "United States",
+        "title": "Raising the Bar for a Global Economic Rebound",
+        "url": "https://finance.townhall.com/columnists/bryanperry/2022/01/10/raising-the-bar-for-a-global-economic-rebound-n2601665",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+        "sourcecountry": "United States",
+        "title": "Meta mandates boosters for employees working at U . S . campuses , eyes late March reopening",
+        "url": "https://www.marketwatch.com/story/meta-mandates-boosters-for-employees-working-at-us-campuses-eyes-late-march-reopening-2022-01-10",
+        "url_mobile": "https://www.marketwatch.com/amp/story/meta-mandates-boosters-for-employees-working-at-us-campuses-eyes-late-march-reopening-2022-01-10"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://images.barrons.com/im-465133/social",
+        "sourcecountry": "United States",
+        "title": "GameStop Stock and Crypto Rebounded From Heavy Losses Monday",
+        "url": "https://www.marketwatch.com/articles/gamestop-stock-crypto-51641855337",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kvor.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Yield on 10 - Year Treasury Climbs for 7th Day on Hawkish Fed Bets",
+        "url": "https://www.kvor.com/news/yield-on-10-year-treasury-climbs-for-7th-day-on-hawkish-fed-bets/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1705677!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/signage-at-intel-headquarters-in-santa-clara-california-u-s-on-wednesday-jan-20-2021-investors-want-to-know-if-the-world-s-largest-chipmaker-will-outsource-more-production-when-intel-corp-reports-results-thursday-photographer-david-paul-morris-bloomberg.jpg",
+        "sourcecountry": "Canada",
+        "title": "Intel Gains After Recruiting Micron David Zinsner as Its\u00a0Next CFO",
+        "url": "https://www.bnnbloomberg.ca/intel-gains-after-recruiting-micron-s-david-zinsner-as-its-next-cfo-1.1705676",
+        "url_mobile": "https://www.bnnbloomberg.ca/intel-gains-after-recruiting-micron-s-david-zinsner-as-its-next-cfo-1.1705676.amp.html"
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "sourcecountry": "United States",
+        "title": "Coal Top Commodity Performer In 2021 As Inflation Hit Energy Sector",
+        "url": "https://www.investing.com/analysis/coal-was-top-performer-in-2021-as-inflation-hits-energy-sector-200614218",
+        "url_mobile": "https://m.investing.com/analysis/coal-was-top-performer-in-2021-as-inflation-hits-energy-sector-200614218?ampMode=1"
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "JPMorgan CEO Says 2022 Could Bring More Than Four Rate Hikes",
+        "url": "https://www.kmaj1440.com/news/jpmorgan-ceo-says-2022-could-bring-more-than-four-rate-hikes/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://i-invdn-com.investing.com/news/LYNXNPEC803KR_L.jpg",
+        "sourcecountry": "United States",
+        "title": "Rate Hikes , Lululemon Outlook , Gaming Deal : 3 Things to Watch By Investing . com",
+        "url": "https://www.investing.com/news/stock-market-news/rate-hikes-lululemon-outlook-gaming-deal-3-things-to-watch-2735072",
+        "url_mobile": "https://m.investing.com/news/stock-market-news/rate-hikes-lululemon-outlook-gaming-deal-3-things-to-watch-2735072?ampMode=1"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1705659!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/pedestrians-make-their-way-through-central-district-in-hong-kong-china-on-wednesday-aug-18-2021-hong-kong-is-caught-between-its-desire-to-reopen-and-the-government-s-zero-tolerance-for-any-cases-of-covid-19-which-has-kept-the-virus-out-for-most-of-the-pandemic.png",
+        "sourcecountry": "Canada",
+        "title": "Hong Kong Brain Drain Worsens as Expats , Locals Flee City",
+        "url": "https://www.bnnbloomberg.ca/hong-kong-s-brain-drain-worsens-as-expats-locals-flee-city-1.1705658",
+        "url_mobile": "https://www.bnnbloomberg.ca/hong-kong-s-brain-drain-worsens-as-expats-locals-flee-city-1.1705658.amp.html"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "Rivian Stock Slide Deepens as Operating Chief Steps Down",
+        "url": "https://www.bnnbloomberg.ca/rivian-s-stock-slide-deepens-as-operating-chief-steps-down-1.1705678",
+        "url_mobile": "https://www.bnnbloomberg.ca/rivian-s-stock-slide-deepens-as-operating-chief-steps-down-1.1705678.amp.html"
+      },
+      {
+        "domain": "hongkongherald.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "China",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.hongkongherald.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wiredprnews.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://www.aljazeera.com/wp-content/uploads/2022/01/382722125.jpg",
+        "sourcecountry": "United States",
+        "title": "US top university accused of illegally funding grants | New Education",
+        "url": "https://www.wiredprnews.com/us-top-university-accused-of-illegally-funding-grants-new-education/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "crainsnewyork.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://s3-prod.crainsnewyork.com/styles/800x600/s3/371412670.jpg",
+        "sourcecountry": "United States",
+        "title": "New bank regulations in Washington , D . C . could dampen record Wall Street profits",
+        "url": "https://www.crainsnewyork.com/finance/new-bank-regulations-washington-dc-could-dampen-record-wall-street-profits",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mysanantonio.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://www.mysanantonio.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Fed questions , wobbling stock market",
+        "url": "https://www.mysanantonio.com/business/article/Business-Highlights-Fed-questions-wobbling-16765216.php",
+        "url_mobile": "https://www.mysanantonio.com/business/amp/Business-Highlights-Fed-questions-wobbling-16765216.php"
+      },
+      {
+        "domain": "elpasoinc.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/elpasoinc.com/content/tncms/assets/v3/editorial/c/4f/c4f7e265-520c-5c41-aed7-c5695c34eb44/61b2640694ba8.image.jpg?crop=1145%2C601%2C27%2C0",
+        "sourcecountry": "United States",
+        "title": "Envoy Mortgage Expands Northeast Operations to Manhattan , New York",
+        "url": "http://www.elpasoinc.com/news/state/envoy-mortgage-expands-northeast-operations-to-manhattan-new-york/article_0147bad6-bc21-5bb5-ad87-a776c17acf9a.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "journalrecord.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Guest Editorial : A bad turn for a Texas company",
+        "url": "https://journalrecord.com/2022/01/10/guest-editorial-a-bad-turn-for-a-texas-company/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wiredprnews.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://i-invdn-com.investing.com/news/LYNXMPEA601E0_L.jpg",
+        "sourcecountry": "United States",
+        "title": "Tilray announces startling cost - cutting benefits , and Reuters pledges savings",
+        "url": "https://www.wiredprnews.com/tilray-announces-startling-cost-cutting-benefits-and-reuters-pledges-savings/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "PERFORMANCE BONDING SURETY & INSURANCE BROKERAGE , L . P . ANNOUNCES PARTNERSHIP WITH BRP GROUP , INC . ",
+        "url": "https://www.prnewswire.com/news-releases/performance-bonding-surety--insurance-brokerage-lp-announces-partnership-with-brp-group-inc-301457522.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2019/07/amd1600e.jpg",
+        "sourcecountry": "United States",
+        "title": "AMD Stock : Why CES 2022 was Bad News for AMD",
+        "url": "https://investorplace.com/2022/01/why-ces-2022-was-bad-news-for-advanced-micro-devices/",
+        "url_mobile": "https://investorplace.com/2022/01/why-ces-2022-was-bad-news-for-advanced-micro-devices/amp/"
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Apollo Endosurgery Announces Preliminary 2021 Revenue Results ; Reflecting 50 % Growth Over 2020",
+        "url": "https://www.memphissun.com/news/272144403/apollo-endosurgery-announces-preliminary-2021-revenue-results-reflecting-50-growth-over-2020",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://images.barrons.com/im-440830/social",
+        "sourcecountry": "United States",
+        "title": "IRS Warns of Backlogs as Tax Filing Season Kicks Off",
+        "url": "https://www.marketwatch.com/articles/irs-warns-of-backlogs-as-tax-filing-season-kicks-off-51641855975",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2021/10/bitcoin-btc-etf.jpg",
+        "sourcecountry": "United States",
+        "title": "Bitcoin Price Predictions : Where Will the BTC Crypto Go After Plunging Below $40 , 000 ? ",
+        "url": "https://investorplace.com/2022/01/bitcoin-price-predictions-where-will-the-btc-crypto-go-after-plunging-below-40000/",
+        "url_mobile": "https://investorplace.com/2022/01/bitcoin-price-predictions-where-will-the-btc-crypto-go-after-plunging-below-40000/amp/"
+      },
+      {
+        "domain": "investmentnews.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://s32566.pcdn.co/wp-content/uploads/2022/01/IA_Ep31_thumbnail_3_2-1024x683.jpg.optimal.jpg",
+        "sourcecountry": "United States",
+        "title": "The Glasgow climate pact and climate finance",
+        "url": "https://www.investmentnews.com/podcasts/impact-adventures/glasgow-climate-pact",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Closes Lower , With Nasdaq Staging Late Comeback",
+        "url": "https://www.kmaj1440.com/news/wall-street-closes-lower-with-nasdaq-staging-late-comeback/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://images.mktw.net/im-380975/social",
+        "sourcecountry": "United States",
+        "title": "Opinion : A 27 - year - old truck driver just became Robinhood first big headache of 2022",
+        "url": "https://www.marketwatch.com/story/a-27-year-old-truck-driver-just-became-robinhoods-first-big-headache-of-2022-11641856157",
+        "url_mobile": "https://www.marketwatch.com/amp/story/a-27-year-old-truck-driver-just-became-robinhoods-first-big-headache-of-2022-11641856157"
+      },
+      {
+        "domain": "memphissun.com",
+        "language": "English",
+        "seendate": "20220110T233000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.memphissun.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "siouxcityjournal.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/6/59/6590354f-5157-54ac-8e84-18ca40334fca/61dca5763d4f5.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end modestly lower after recouping most of early loss",
+        "url": "https://siouxcityjournal.com/lifestyles/technology/stocks-end-modestly-lower-after-recouping-most-of-early-loss/article_401e2420-ed84-5bbf-9486-1aa9cd00d27e.html",
+        "url_mobile": "https://siouxcityjournal.com/lifestyles/technology/stocks-end-modestly-lower-after-recouping-most-of-early-loss/article_401e2420-ed84-5bbf-9486-1aa9cd00d27e.amp.html"
+      },
+      {
+        "domain": "kkoh.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Yield on 10 - Year Treasury Climbs for 7th Day on Hawkish Fed Bets",
+        "url": "https://www.kkoh.com/news/yield-on-10-year-treasury-climbs-for-7th-day-on-hawkish-fed-bets/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kkoh.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "JPMorgan CEO Says 2022 Could Bring More Than Four Rate Hikes",
+        "url": "https://www.kkoh.com/news/jpmorgan-ceo-says-2022-could-bring-more-than-four-rate-hikes/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.com.au",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://content.api.news/v3/images/bin/7ee7062711ca506aa8e588f43c37678c",
+        "sourcecountry": "Australia",
+        "title": "Bitcoin price now on longest losing streak ever as crypto dips to $US39k | news . com . au Australia leading news site",
+        "url": "https://www.news.com.au/finance/markets/world-markets/bitcoin-price-now-on-longest-losing-streak-ever/news-story/09975da27228538c0d98fb9a143ccac3",
+        "url_mobile": "https://www.news.com.au/finance/markets/world-markets/bitcoin-price-now-on-longest-losing-streak-ever/news-story/09975da27228538c0d98fb9a143ccac3?amp"
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/10/22/52770987-0-image-a-11_1641853852458.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Psaki says Biden plan is to  sign voting rights into law even if it requires changing Senate rules",
+        "url": "https://www.dailymail.co.uk/news/article-10388229/Psaki-says-Bidens-plan-sign-voting-rights-law-requires-changing-Senate-rules.html",
+        "url_mobile": "https://www.dailymail.co.uk/news/article-10388229/amp/Psaki-says-Bidens-plan-sign-voting-rights-law-requires-changing-Senate-rules.html"
+      },
+      {
+        "domain": "newsradio1029.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Banks See Four Rate Hikes in  22 , Inflation as a Wild Card",
+        "url": "https://www.newsradio1029.com/news/wall-street-banks-see-four-rate-hikes-in-22-inflation-as-a-wild-card/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thompsoncitizen.net",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "North American stock markets rally from early losses but end day mostly lower",
+        "url": "https://www.thompsoncitizen.net/the-mix/north-american-stock-markets-rally-from-early-losses-but-end-day-mostly-lower-4939093",
+        "url_mobile": ""
+      },
+      {
+        "domain": "trustedreviews.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/10/Apple-watch-7-3-scaled.jpeg",
+        "sourcecountry": "United Kingdom",
+        "title": "Apple Watch Series 8 health tracking feature may be delayed",
+        "url": "https://www.trustedreviews.com/news/apple-watch-series-8-health-tracking-feature-may-be-delayed-4195366",
+        "url_mobile": "https://www.trustedreviews.com/news/apple-watch-series-8-health-tracking-feature-may-be-delayed-4195366/amp"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659632/best-water-stocks-2022-water-utility-stocks-awk-stock-american-water-stock-awr-stock-cwt-stock-california-water-utility-stocks-dividend-stocks.jpg",
+        "sourcecountry": "United States",
+        "title": "The Best Water Stocks of 2021 | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/10/best-water-utility-stocks-to-invest-in/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ctvnews.ca",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2021/12/30/markets-1-5723049-1640863805735.jpg",
+        "sourcecountry": "Canada",
+        "title": "North American stock markets rally from early losses but end day mostly lower",
+        "url": "https://www.ctvnews.ca/business/north-american-stock-markets-rally-from-early-losses-but-end-day-mostly-lower-1.5733727",
+        "url_mobile": "https://beta.ctvnews.ca/national/business/2022/1/10/1_5733727.amp.html"
+      },
+      {
+        "domain": "calcoastnews.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://calcoastnews.com/images/2013/08/car-theft-612nm022311-e1449429411165.jpg",
+        "sourcecountry": "United States",
+        "title": "SLO area ranks number one in California for low car theft rates",
+        "url": "https://calcoastnews.com/2022/01/slo-area-ranks-number-one-in-california-for-low-car-theft-rates/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nigeriasun.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Nigeria",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.nigeriasun.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newsradio1029.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "JPMorgan CEO Says 2022 Could Bring More Than Four Rate Hikes",
+        "url": "https://www.newsradio1029.com/news/jpmorgan-ceo-says-2022-could-bring-more-than-four-rate-hikes/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "restaurantmagazine.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dickey Launches  Behind the BBQ  Cookbook Featuring Favorites From Across the Brand",
+        "url": "http://www.restaurantmagazine.com/dickeys-launches-behind-the-bbq-cookbook-featuring-favorites-from-across-the-brand/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizwest.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Noodles inks major deal with new California franchisee \u2013 BizWest",
+        "url": "https://bizwest.com/2022/01/10/noodles-inks-major-deal-with-new-california-franchisee/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "realmoney.thestreet.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "http://s.thestreet.com/files/tsc/v2008/photos/contrib/uploads/221d14c6-bc78-11ea-acfb-f96dcbd31bae.jpg",
+        "sourcecountry": "United States",
+        "title": "Disgust , Despair , a Dash Upward and More Disappointment",
+        "url": "https://realmoney.thestreet.com/investing/stocks/disgust-despair-and-15880281",
+        "url_mobile": ""
+      },
+      {
+        "domain": "timeshighereducation.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://www.timeshighereducation.com/sites/default/files/data.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "How to participate in Times Higher Education rankings",
+        "url": "https://www.timeshighereducation.com/how-participate-times-higher-education-rankings",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chron.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://www.chron.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Fed questions , wobbling stock market",
+        "url": "https://www.chron.com/business/article/Business-Highlights-Fed-questions-wobbling-16765216.php",
+        "url_mobile": "https://www.chron.com/business/amp/Business-Highlights-Fed-questions-wobbling-16765216.php"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability Fire calls infrastructural integrity into question",
+        "url": "https://www.msn.com/en-us/news/politics/equilibrium-sustainability-fire-calls-infrastructural-integrity-into-question/ar-AASDyp1",
+        "url_mobile": ""
+      },
+      {
+        "domain": "philippinetimes.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Philippines",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.philippinetimes.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizwest.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Crocs expects record sales for full - year 2021 \u2013 BizWest",
+        "url": "https://bizwest.com/2022/01/10/crocs-expects-record-sales-for-full-year-2021/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "brisbanetimes.com.au",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_1.2698075541183866%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_1860%2C$y_411/t_crop_custom/q_86%2Cf_auto/t_brisbanetimes_no_label_no_age_social_wm/56d963288fa934083730dd7c4add9984d0b029dd",
+        "sourcecountry": "Australia",
+        "title": "The world biggest crypto fortune began with a friendly poker game",
+        "url": "https://www.brisbanetimes.com.au/business/markets/the-world-s-biggest-crypto-fortune-began-with-a-friendly-poker-game-20220111-p59n9l.html",
+        "url_mobile": "https://amp.brisbanetimes.com.au/business/markets/the-world-s-biggest-crypto-fortune-began-with-a-friendly-poker-game-20220111-p59n9l.html"
+      },
+      {
+        "domain": "inforney.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/inforney.com/content/tncms/assets/v3/editorial/a/c8/ac8e3372-016d-568e-a189-0c850e8bbcac/61cda6657832d.image.jpg?crop=800%2C420%2C0%2C190",
+        "sourcecountry": "United States",
+        "title": "CECO Environmental to Acquire Industrial Flow Control Leader GRC",
+        "url": "https://www.inforney.com/texas/ceco-environmental-to-acquire-industrial-flow-control-leader-grc/article_d58cb960-2584-5b91-84a4-bd282f346a1b.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newsradio1029.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Wall Street Closes Lower , With Nasdaq Staging Late Comeback",
+        "url": "https://www.newsradio1029.com/news/wall-street-closes-lower-with-nasdaq-staging-late-comeback/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thisismoney.co.uk",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/10/19/52766391-0-image-a-5_1641843127267.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "MARKET REPORT : Tech slump puts Nasdaq into correction territory",
+        "url": "https://www.thisismoney.co.uk/money/markets/article-10387889/MARKET-REPORT-Tech-slump-puts-Nasdaq-correction-territory.html",
+        "url_mobile": "https://www.thisismoney.co.uk/money/markets/article-10387889/amp/MARKET-REPORT-Tech-slump-puts-Nasdaq-correction-territory.html"
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/Nl3SHAUH6o.gmWQbTD2cQA--~B/aD00MDA7dz00MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/prnewswire.com/3f55394906f8682cf97d9dbd8d73dc5a",
+        "sourcecountry": "United States",
+        "title": "THE INX DIGITAL COMPANY , INC . ANNOUNCES COMPLETION OF REVERSE TAKEOVER",
+        "url": "https://finance.yahoo.com/news/inx-digital-company-inc-announces-224700001.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/inx-digital-company-inc-announces-224700001.html"
+      },
+      {
+        "domain": "newsradio1029.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Yield on 10 - Year Treasury Climbs for 7th Day on Hawkish Fed Bets",
+        "url": "https://www.newsradio1029.com/news/yield-on-10-year-treasury-climbs-for-7th-day-on-hawkish-fed-bets/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sfgate.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+        "sourcecountry": "United States",
+        "title": "Business Highlights : Fed questions , wobbling stock market",
+        "url": "https://www.sfgate.com/business/article/Business-Highlights-Fed-questions-wobbling-16765216.php",
+        "url_mobile": "https://www.sfgate.com/business/amp/Business-Highlights-Fed-questions-wobbling-16765216.php"
+      },
+      {
+        "domain": "mediaite.com",
+        "language": "English",
+        "seendate": "20220110T231500Z",
+        "socialimage": "https://www.mediaite.com/wp-content/uploads/2022/01/America-Reports-With-John-Roberts-Sandra-Smith-01_00_01-PM-13.jpg",
+        "sourcecountry": "United States",
+        "title": "Fox Business Larry Kudlow Approvingly Quotes From Jacobin",
+        "url": "https://www.mediaite.com/tv/fox-news-larry-kudlow-approvingly-quotes-from-socialist-magazine-wonderful-piece/",
+        "url_mobile": "https://www.mediaite.com/tv/fox-news-larry-kudlow-approvingly-quotes-from-socialist-magazine-wonderful-piece/amp/"
+      },
+      {
+        "domain": "rockdalenewtoncitizen.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/rockdalenewtoncitizen.com/content/tncms/assets/v3/editorial/6/7c/67cdacd6-7ae4-51cc-93ef-335725338407/61dc74481081b.image.jpg?crop=1763%2C926%2C0%2C125",
+        "sourcecountry": "United States",
+        "title": "Who to blame for inflation ? It complicated",
+        "url": "https://www.rockdalenewtoncitizen.com/news/business/whos-to-blame-for-inflation-its-complicated/article_ce7d1b56-94ec-57d6-ab0b-24b4736c3f07.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kotaku.com.au",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://imgix.kotaku.com.au/content/uploads/sites/3/2022/01/11/ce905943f3c88b4a0b48aac8078d91f6-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65",
+        "sourcecountry": "Australia",
+        "title": "Xbox Boss Not Interested In  Virtue Shaming  Activision",
+        "url": "https://www.kotaku.com.au/2022/01/xbox-boss-not-interested-in-virtue-shaming-activision/",
+        "url_mobile": "https://www.kotaku.com.au/2022/01/xbox-boss-not-interested-in-virtue-shaming-activision/amp/"
+      },
+      {
+        "domain": "heraldsun.com.au",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Companies | Company Announcements",
+        "url": "https://www.heraldsun.com.au/business/companies?nk=ff319e430b58eaa0b1333ae861a0ef26-1641854801",
+        "url_mobile": ""
+      },
+      {
+        "domain": "clevelandstar.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.clevelandstar.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://media.bizj.us/view/img/12095314/dallas-dji0088*1200xx5472-3078-0-285.jpg",
+        "sourcecountry": "United States",
+        "title": "  The employee experience is worth investing in : Exec sees value in offices , even as they evolve",
+        "url": "https://www.bizjournals.com/dallas/news/2022/01/10/chris-bohner-projekt202.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/0d29d5cb-f949-41c4-be3d-c498a635553c?size=1",
+        "sourcecountry": "United States",
+        "title": "Liquidity Services Retains Three Part Advisors for Investor",
+        "url": "https://www.globenewswire.com/news-release/2022/01/10/2364434/0/en/Liquidity-Services-Retains-Three-Part-Advisors-for-Investor-Relations-Services.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "rockdalenewtoncitizen.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/rockdalenewtoncitizen.com/content/tncms/assets/v3/editorial/4/92/492a730e-2237-5fe8-95ba-6c3f6193e927/61dc746e80ab2.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Dow falls nearly 165 points , but tech stocks make a huge comeback",
+        "url": "https://www.rockdalenewtoncitizen.com/news/business/dow-falls-nearly-165-points-but-tech-stocks-make-a-huge-comeback/article_895d9883-b6ed-53b3-af79-981a7e12de4b.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "medpagetoday.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://assets.medpagetoday.net/media/images/96xxx/96589.jpg",
+        "sourcecountry": "United States",
+        "title": "No ,  Deltacron  Is Probably Not Real",
+        "url": "https://www.medpagetoday.com/special-reports/exclusives/96589",
+        "url_mobile": ""
+      },
+      {
+        "domain": "trinidadtimes.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Trinidad and Tobago",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.trinidadtimes.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "watoday.com.au",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_1.2698075541183866%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_1860%2C$y_411/t_crop_custom/q_86%2Cf_auto/t_watoday_no_label_no_age_social_wm/56d963288fa934083730dd7c4add9984d0b029dd",
+        "sourcecountry": "Australia",
+        "title": "The world biggest crypto fortune began with a friendly poker game",
+        "url": "https://www.watoday.com.au/business/markets/the-world-s-biggest-crypto-fortune-began-with-a-friendly-poker-game-20220111-p59n9l.html",
+        "url_mobile": "https://amp.watoday.com.au/business/markets/the-world-s-biggest-crypto-fortune-began-with-a-friendly-poker-game-20220111-p59n9l.html"
+      },
+      {
+        "domain": "washingtonian.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://www.washingtonian.com/wp-content/uploads/2020/09/Georgetown-University-iStock-1024x721.jpg",
+        "sourcecountry": "United States",
+        "title": "Lawsuit Accuses Georgetown University of Participating in Admissions  Cartel  ",
+        "url": "https://www.washingtonian.com/2022/01/10/lawsuit-accuses-georgetown-university-of-participating-in-admissions-cartel-dc-power-types/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "THE INX DIGITAL COMPANY , INC . ANNOUNCES COMPLETION OF REVERSE TAKEOVER",
+        "url": "https://apnews.com/press-release/pr-newswire/technology-business-africa-canada-new-york-18ced47027907c2116912f273ccbf39e",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "A market for crypto carbon offsets is reportedly booming , and its drawing DeFi entrepreneurs and big investors like Mark Cuban",
+        "url": "http://www.msn.com/en-us/money/markets/a-market-for-crypto-carbon-offsets-is-reportedly-booming-and-its-drawing-defi-entrepreneurs-and-big-investors-like-mark-cuban/ar-AASDzgy",
+        "url_mobile": ""
+      },
+      {
+        "domain": "journalgazette.net",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Omicron , Pooh and jumpy financial markets to end 2021 | Search results",
+        "url": "https://www.journalgazette.net/article/20211231/AP/312319871/1196",
+        "url_mobile": ""
+      },
+      {
+        "domain": "shacknews.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/01/10/stock-market-calendar_feature.jpg",
+        "sourcecountry": "United States",
+        "title": "2022 United States stock market holiday calendar",
+        "url": "https://www.shacknews.com/article/128278/2022-united-states-stock-market-holiday-calendar",
+        "url_mobile": "https://www.shacknews.com/article/128278/2022-united-states-stock-market-holiday-calendar?amphtml=1"
+      },
+      {
+        "domain": "dailyrecordnews.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/a76e5080-ce26-11eb-9a1f-6bcc37d0e88c.png?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Accolade : Fiscal Q3 Earnings Snapshot",
+        "url": "https://www.dailyrecordnews.com/ap_news/washington/accolade-fiscal-q3-earnings-snapshot/article_e3608e82-0a22-59db-9f83-84758c98ee30.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "restaurantnewsrelease.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dickey Launches  Behind the BBQ  Cookbook Featuring Favorites From Across the Brand",
+        "url": "http://www.restaurantnewsrelease.com/dickeys-launches-behind-the-bbq-cookbook-featuring-favorites-from-across-the-brand/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyrecordnews.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/assets/v3/editorial/a/3d/a3df1bf8-a029-5d97-878a-c25a529e4823/61dca5f99e049.image.jpg?crop=678%2C356%2C60%2C0",
+        "sourcecountry": "United States",
+        "title": "Sana Biotechnology , IASO Biotherapeutics , and Innovent Biologics Announce Non - Exclusive License Agreement for Clinically Validated BCMA CAR Construct",
+        "url": "https://www.dailyrecordnews.com/news/state/sana-biotechnology-iaso-biotherapeutics-and-innovent-biologics-announce-non-exclusive-license-agreement-for-clinically-validated/article_dd9a512b-c47d-5bbc-8045-5865048ae1f4.html",
+        "url_mobile": "https://www.dailyrecordnews.com/news/state/sana-biotechnology-iaso-biotherapeutics-and-innovent-biologics-announce-non-exclusive-license-agreement-for-clinically-validated/article_dd9a512b-c47d-5bbc-8045-5865048ae1f4.amp.html"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/fc76ba04-40f1-4bca-a974-942e00cd286c?size=2",
+        "sourcecountry": "United States",
+        "title": "Nuvei Integrates with Dapper Lab Flow to Become One of",
+        "url": "https://www.globenewswire.com/news-release/2022/01/10/2364423/0/en/Nuvei-Integrates-with-Dapper-Labs-Flow-to-Become-One-of-the-First-FUSD-Stablecoin-Processors.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "consumerelectronicsnet.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "F5 Adds Microsoft James Phillips to Board of Directors \u2013 Consumer Electronics Net",
+        "url": "http://www.consumerelectronicsnet.com/f5-adds-microsofts-james-phillips-to-board-of-directors/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pittsburghstar.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Apollo Endosurgery Announces Preliminary 2021 Revenue Results ; Reflecting 50 % Growth Over 2020",
+        "url": "https://www.pittsburghstar.com/news/272144403/apollo-endosurgery-announces-preliminary-2021-revenue-results-reflecting-50-growth-over-2020",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailycaller.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://cdn01.dailycaller.com/wp-content/uploads/2022/01/GettyImages-1212435844-scaled-e1641843298875.jpg",
+        "sourcecountry": "United States",
+        "title": "Major Universities Used Unfair Methodology To Calculate Student Financial Aid , New Lawsuit Alleges",
+        "url": "https://dailycaller.com/2022/01/10/yale-duke-georgetown-cornell-universities-price-fixing-antitrust-lawsuit-admissions-financial-aid/",
+        "url_mobile": "https://amp.dailycaller.com/2022/01/10/yale-duke-georgetown-cornell-universities-price-fixing-antitrust-lawsuit-admissions-financial-aid"
+      },
+      {
+        "domain": "calcuttanews.net",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "India",
+        "title": "U . S . stocks recover following earlier falls",
+        "url": "https://www.calcuttanews.net/news/272144451/us-stocks-recover-following-earlier-falls",
+        "url_mobile": ""
+      },
+      {
+        "domain": "trib.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/d/85/d851a885-f344-5ceb-97a6-5ee4e35cb452/61da867a8763c.image.jpg?crop=965%2C507%2C0%2C104",
+        "sourcecountry": "United States",
+        "title": "Making the list : how grizzlies became endangered",
+        "url": "https://trib.com/making-the-list-how-grizzlies-became-endangered/article_f90adc01-afb6-5ea6-a769-eff8c8be654b.html",
+        "url_mobile": "https://trib.com/making-the-list-how-grizzlies-became-endangered/article_f90adc01-afb6-5ea6-a769-eff8c8be654b.amp.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability Fire calls infrastructural integrity into question",
+        "url": "https://www.msn.com/en-us/news/politics/equilibriumsustainability-fire-calls-infrastructural-integrity-into-question/ar-AASDyp1",
+        "url_mobile": ""
+      },
+      {
+        "domain": "smh.com.au",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_1.2698075541183866%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_1860%2C$y_411/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/56d963288fa934083730dd7c4add9984d0b029dd",
+        "sourcecountry": "Australia",
+        "title": "The world biggest crypto fortune began with a friendly poker game",
+        "url": "https://www.smh.com.au/business/markets/the-world-s-biggest-crypto-fortune-began-with-a-friendly-poker-game-20220111-p59n9l.html",
+        "url_mobile": "https://amp.smh.com.au/business/markets/the-world-s-biggest-crypto-fortune-began-with-a-friendly-poker-game-20220111-p59n9l.html"
+      },
+      {
+        "domain": "wrjc.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Senator Ron Johnson Running For 3rd Term \u00ab WRJC Radio \u2013 Mauston , Juneau County , Wisconsin",
+        "url": "http://www.wrjc.com/news/state-news/senator-ron-johnson-running-for-3rd-term/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/68fb90d5-fcf1-40ce-a6c8-5dc8bd5651e0?size=1",
+        "sourcecountry": "United States",
+        "title": "WSFS Financial Corporation Announces Fourth Quarter 2021",
+        "url": "https://www.globenewswire.com/news-release/2022/01/10/2364432/0/en/WSFS-Financial-Corporation-Announces-Fourth-Quarter-2021-Earnings-Release-Date-and-Conference-Call.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/10/20/52768063-0-image-a-7_1641847396196.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Volatile much ? Bitcoin back at a low price of $40 , 000 - losing 40 % of value in two months",
+        "url": "https://www.dailymail.co.uk/news/article-10387931/Volatile-Bitcoin-low-price-40-000-losing-40-value-two-months.html",
+        "url_mobile": "https://www.dailymail.co.uk/news/article-10387931/amp/Volatile-Bitcoin-low-price-40-000-losing-40-value-two-months.html"
+      },
+      {
+        "domain": "businesswire.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Zynga Inc . ( ZNGA ) Stock Investigation : Halper Sadeh LLP Announces Investigation Into Whether the Sale of Zynga Inc . Is Fair to Shareholders ; Investors Are Encouraged to Contact the Firm \u2013 ZNGA",
+        "url": "https://www.businesswire.com/news/home/20220110005759/en/Zynga-Inc.-ZNGA-Stock-Investigation-Halper-Sadeh-LLP-Announces-Investigation-Into-Whether-the-Sale-of-Zynga-Inc.-Is-Fair-to-Shareholders-Investors-Are-Encouraged-to-Contact-the-Firm-%E2%80%93-ZNGA",
+        "url_mobile": ""
+      },
+      {
+        "domain": "politico.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://static.politico.com/73/a5/b1a830414cacaec38e9fc75365d6/ap19296590173601-2.jpg",
+        "sourcecountry": "United States",
+        "title": "Lawmakers aim to sway Biden on Ukraine",
+        "url": "https://www.politico.com/newsletters/national-security-daily/2022/01/10/lawmakers-aim-to-sway-biden-on-ukraine-495666",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jamaicantimes.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Jamaica",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.jamaicantimes.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stocks end modestly lower after recouping most of early loss",
+        "url": "https://www.startribune.com/stocks-end-modestly-lower-after-recouping-most-of-early-loss/600134349/",
+        "url_mobile": "https://m.startribune.com/stocks-end-modestly-lower-after-recouping-most-of-early-loss/600134349/"
+      },
+      {
+        "domain": "clevelandstar.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Twin Vee PowerCats Wholly Owned Subsidiary Forza X1 and American Battery Solutions Sign a 5 - year Agreement to Supply Forza X1 New Electric Boats with High - Powered , Lithium - ion Battery Packs",
+        "url": "https://www.clevelandstar.com/news/272144408/twin-vee-powercats-wholly-owned-subsidiary-forza-x1-and-american-battery-solutions-sign-a-5-year-agreement-to-supply-forza-x1s-new-electric-boats-with-high-powered-lithium-ion-battery-packs",
+        "url_mobile": ""
+      },
+      {
+        "domain": "clevelandstar.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Apollo Endosurgery Announces Preliminary 2021 Revenue Results ; Reflecting 50 % Growth Over 2020",
+        "url": "https://www.clevelandstar.com/news/272144403/apollo-endosurgery-announces-preliminary-2021-revenue-results-reflecting-50-growth-over-2020",
+        "url_mobile": ""
+      },
+      {
+        "domain": "europesun.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "Russia",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.europesun.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220110T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "CFSB BANCORP , INC . ANNOUNCES REORGANIZATION CLOSING DATE AND STOCK OFFERING RESULTS",
+        "url": "https://www.prnewswire.com:443/news-releases/cfsb-bancorp-inc-announces-reorganization-closing-date-and-stock-offering-results-301457679.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dallassun.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Twin Vee PowerCats Wholly Owned Subsidiary Forza X1 and American Battery Solutions Sign a 5 - year Agreement to Supply Forza X1 New Electric Boats with High - Powered , Lithium - ion Battery Packs",
+        "url": "https://www.dallassun.com/news/272144408/twin-vee-powercats-wholly-owned-subsidiary-forza-x1-and-american-battery-solutions-sign-a-5-year-agreement-to-supply-forza-x1s-new-electric-boats-with-high-powered-lithium-ion-battery-packs",
+        "url_mobile": ""
+      },
+      {
+        "domain": "britainnews.net",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "U . S . stocks recover following earlier falls",
+        "url": "https://www.britainnews.net/news/272144451/us-stocks-recover-following-earlier-falls",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Dow falls nearly 165 points , but tech stocks make a huge comeback",
+        "url": "https://www.msn.com/en-us/money/markets/farewell-faangs-big-tech-stocks-sink-and-dow-falls-350-points/ar-AASCZvB",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660570/1-ford-mach-e-suv.jpeg",
+        "sourcecountry": "United States",
+        "title": "3 Top Growth Stocks That Could Continue to Crush the Market in 2022",
+        "url": "https://www.fool.com/investing/2022/01/10/3-top-growth-stocks-that-could-continue-to-crush-t/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dallassun.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.dallassun.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcdfw.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://media.nbcdfw.com/2021/12/106991647-16400137712021-12-20t150215z_1860699816_rc2eir9pao72_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tumult in Tech Stocks Hurts for Now , But May Not Lead to Broader Correction",
+        "url": "https://www.nbcdfw.com/news/business/money-report/tumult-in-tech-stocks-hurts-for-now-but-may-not-lead-to-broader-correction/2855852/",
+        "url_mobile": "https://www.nbcdfw.com/news/business/money-report/tumult-in-tech-stocks-hurts-for-now-but-may-not-lead-to-broader-correction/2855852/?amp"
+      },
+      {
+        "domain": "erienewsnow.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/22005327_G.jpg?lastEditedDate=1641813229000",
+        "sourcecountry": "United States",
+        "title": "Dow falls nearly 165 points , but tech stocks make a huge comeback",
+        "url": "https://www.erienewsnow.com/story/45619590/dow-falls-nearly-165-points-but-tech-stocks-make-a-huge-comeback",
+        "url_mobile": ""
+      },
+      {
+        "domain": "oilprice.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-01-10_nb0xvj6czt.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Are Renewables Stocks Plunging ? ",
+        "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Why-Are-Renewables-Stocks-Plunging.html",
+        "url_mobile": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Why-Are-Renewables-Stocks-Plunging.amp.html"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659376/gettyimages-1251268131.jpg",
+        "sourcecountry": "United States",
+        "title": "Here What Investors Need to Know About AppHarvest",
+        "url": "https://www.fool.com/investing/2022/01/10/heres-what-investors-need-to-know-about-appharvest/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sanantoniopost.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.sanantoniopost.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bignewsnetwork.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "United States",
+        "title": "Wall Street claws back losses after early sell - off",
+        "url": "https://www.bignewsnetwork.com/news/272144451/wall-street-claws-back-losses-after-early-sell-off",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660696/stocks-falling-getty-fool-1.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Futu Holdings Stock Was Down 5 . 4 % in 2021",
+        "url": "https://www.fool.com/investing/2022/01/10/why-futu-holdings-was-down-54-in-2021/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dallassun.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Apollo Endosurgery Announces Preliminary 2021 Revenue Results ; Reflecting 50 % Growth Over 2020",
+        "url": "https://www.dallassun.com/news/272144403/apollo-endosurgery-announces-preliminary-2021-revenue-results-reflecting-50-growth-over-2020",
+        "url_mobile": ""
+      },
+      {
+        "domain": "parabolicarc.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Sidus Space , Inc . Announces Closing of Initial Public Offering \u2013 Parabolic Arc",
+        "url": "http://www.parabolicarc.com/2022/01/10/sidus-space-inc-announces-closing-of-initial-public-offering/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660351/waitress-point-of-sale.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Lightspeed Commerce Stock Plummeted 43 % in 2021",
+        "url": "https://www.fool.com/investing/2022/01/10/why-lightspeed-commerce-stock-plummeted-43-in-2021/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcdfw.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tag : nbclx \u2013 NBC 5 Dallas - Fort Worth",
+        "url": "https://www.nbcdfw.com/tag/nbclx/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Twin Vee PowerCats Wholly Owned Subsidiary Forza X1 and American Battery Solutions Sign a 5 - year Agreement to Supply Forza X1 New Electric Boats with High - Powered , Lithium - ion Battery Packs",
+        "url": "https://www.newjerseytelegraph.com/news/272144408/twin-vee-powercats-wholly-owned-subsidiary-forza-x1-and-american-battery-solutions-sign-a-5-year-agreement-to-supply-forza-x1s-new-electric-boats-with-high-powered-lithium-ion-battery-packs",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660723/scientist-with-syringe-and-vaccine-bottle.jpg",
+        "sourcecountry": "United States",
+        "title": "Why BioNTech Stock Jumped Today | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/10/why-biontech-stock-jumped-today/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660631/gettyimages-135696880.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Stocks That Can Double in 2022 After Being Cut in Half Last Year",
+        "url": "https://www.fool.com/investing/2022/01/10/3-stocks-that-can-double-in-2022-after-being-cut-i/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660705/cryptocurrency-confusion.jpg",
+        "sourcecountry": "United States",
+        "title": "Big Mistake : Coinbase Shares Fell 20 % in December",
+        "url": "https://www.fool.com/investing/2022/01/10/big-mistake-coinbase-shares-fell-20-last-month/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "heraldsun.com.au",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Companies | Company Announcements",
+        "url": "https://www.heraldsun.com.au/business/companies?nk=7440b93997a988cce73263601d606ce1-1641853889",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660721/tandem.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Tandem Diabetes Care Stock Rose 17 . 1 % in December",
+        "url": "https://www.fool.com/investing/2022/01/10/why-tandem-diabetes-cares-shares-rose-171-in-decem/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/hr1Lff5ODKNcUuIFuamSBg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/6aeef63a18cda67c77c607aa170f2948",
+        "sourcecountry": "United States",
+        "title": "Dip Buyers Save Nasdaq From Five - Day Rout in Frantic Close",
+        "url": "https://news.yahoo.com/dip-buyers-save-nasdaq-five-220935540.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/dip-buyers-save-nasdaq-five-220935540.html"
+      },
+      {
+        "domain": "lancasteronline.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/0/d7/0d7625e0-3aa6-5042-b35b-b9dd357ae9dc/61dbb3bfd27bc.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end modestly lower after recouping most of early loss",
+        "url": "https://lancasteronline.com/business/nation/stocks-end-modestly-lower-after-recouping-most-of-early-loss/article_b0aefb3a-ba12-5d7b-abae-38be181806be.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gsb.stanford.edu",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://www.gsb.stanford.edu/sites/default/files/styles/1630x_variable/public/2022-01/photo-idea-key-think-different-sometimes-teams-succeed-cognitive-diversity.jpeg?itok=QuERP-QQ",
+        "sourcecountry": "United States",
+        "title": "Think Different Sometimes : Teams Succeed When They Adjust Their Cognitive Diversity",
+        "url": "https://www.gsb.stanford.edu/insights/think-different-sometimes-teams-succeed-when-they-adjust-their-cognitive-diversity",
+        "url_mobile": ""
+      },
+      {
+        "domain": "homenewshere.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/homenewshere.com/content/tncms/assets/v3/editorial/8/2d/82d4a40f-597f-5d92-b37f-7de1467439de/61dcafeddd2c4.image.jpg?crop=1472%2C773%2C13%2C0",
+        "sourcecountry": "United States",
+        "title": "New Paper Shows Biostage Esophageal Implant Regenerates the Esophagus in Piglets",
+        "url": "http://homenewshere.com/news/state/article_35edc3c8-2ac3-5f90-b750-0c6cbb6d20e0.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.newjerseytelegraph.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newjerseytelegraph.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Apollo Endosurgery Announces Preliminary 2021 Revenue Results ; Reflecting 50 % Growth Over 2020",
+        "url": "https://www.newjerseytelegraph.com/news/272144403/apollo-endosurgery-announces-preliminary-2021-revenue-results-reflecting-50-growth-over-2020",
+        "url_mobile": ""
+      },
+      {
+        "domain": "parisguardian.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "France",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.parisguardian.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Apple Services Business Flourishes In 2021 : Record High App Store Developer Revenues , Launch Of Apple TV 4K , Apple Pay Expands To New Markets And More",
+        "url": "https://www.msn.com/en-us/money/other/apple-services-business-flourishes-in-2021-record-high-app-store-developer-revenues-launch-of-apple-tv-4k-apple-pay-expands-to-new-markets-and-more/ar-AASDJsv",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/660721/tandem.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Tandem Diabetes Care Stock Rose 17 . 1 % in December",
+        "url": "https://www.fool.com/investing/2022/01/10/why-tandem-diabetes-cares-shares-rose-171-in-decem/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "digg.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "",
+        "url": "https://digg.com/source/morningbrew.com",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bdtonline.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/bdtonline.com/content/tncms/custom/image/eb1e85e6-05b9-11e7-b62c-6b1accec9988.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Jefferies Financial Group Announces Changes to its Board of Directors",
+        "url": "https://www.bdtonline.com/news/nation_world/jefferies-financial-group-announces-changes-to-its-board-of-directors/article_62fd4f8d-0ecc-58da-a620-91b842c0ea23.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tass.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "",
+        "title": "Disinformation about Russian  attack  on Ukraine aims to sow discord - Russian diplomat - Russian Politics & Diplomacy",
+        "url": "https://tass.com/politics/1386003",
+        "url_mobile": "https://tass.com/politics/1386003/amp"
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/hr1Lff5ODKNcUuIFuamSBg--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/6aeef63a18cda67c77c607aa170f2948",
+        "sourcecountry": "United States",
+        "title": "Dip Buyers Save Nasdaq From Five - Day Rout in Frantic Close",
+        "url": "https://finance.yahoo.com/news/dip-buyers-save-nasdaq-five-220935540.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/dip-buyers-save-nasdaq-five-220935540.html"
+      },
+      {
+        "domain": "bdtonline.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/bdtonline.com/content/tncms/assets/v3/editorial/5/cc/5cc55225-a538-50ab-a06b-8a5fa0759b49/61dbb06b5216a.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Stocks end modestly lower after recouping most of early loss",
+        "url": "https://www.bdtonline.com/news/nation_world/stocks-end-modestly-lower-after-recouping-most-of-early-loss/article_6a5c39ba-a95f-5242-8264-a3a02f503a0c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "routesonline.com",
+        "language": "English",
+        "seendate": "20220110T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "SEA Welcomes Finnair",
+        "url": "https://www.routesonline.com/airports/7306/seattle-tacoma-international-airport/news/297351/sea-welcomes-finnair/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "New Paper Shows Biostage Esophageal Implant Regenerates the Esophagus in Piglets",
+        "url": "https://www.prnewswire.com:443/news-releases/new-paper-shows-biostages-esophageal-implant-regenerates-the-esophagus-in-piglets-301457657.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cleantechnica.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://cleantechnica.com/files/2021/09/Screenshot-2021-09-26-at-1.24.19-PM-1024x576.jpg",
+        "sourcecountry": "United States",
+        "title": "How Elon Musk Outsmarted The Auto Industry Supply Chain Crisis",
+        "url": "https://cleantechnica.com/2022/01/10/how-elon-musk-outsmarted-the-auto-industrys-supply-chain-crisis/",
+        "url_mobile": "https://cleantechnica.com/2022/01/10/how-elon-musk-outsmarted-the-auto-industrys-supply-chain-crisis/amp/"
+      },
+      {
+        "domain": "929nin.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://townsquare.media/site/960/files/2022/01/attachment-Carrey-_-Prince-_-Weeknd.jpg?&zc=1&s=0&a=t&q=89",
+        "sourcecountry": "United States",
+        "title": "Jim Carrey Nods to Prince in the Weeknd New Spoken Word Song",
+        "url": "https://929nin.com/jim-carrey-the-weeknd-prince-purple-rain/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "therealdeal.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://therealdeal.com/wp-content/uploads/2022/01/ft_NY_Justin-Timberlake.jpg",
+        "sourcecountry": "United States",
+        "title": "Justin Timberlake Says  Bye Bye Bye  to 443 Greenwich",
+        "url": "https://therealdeal.com/2022/01/10/justin-timberlake-says-bye-bye-bye-to-443-greenwich/",
+        "url_mobile": "https://therealdeal.com/2022/01/10/justin-timberlake-says-bye-bye-bye-to-443-greenwich/amp/"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "CNS Pharmaceuticals Announces Closing of $11 . 5 Million Private Placement Priced At - the - Market Under Nasdaq Rules",
+        "url": "https://www.prnewswire.com:443/news-releases/cns-pharmaceuticals-announces-closing-of-11-5-million-private-placement-priced-at-the-market-under-nasdaq-rules-301457652.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thereminder.ca",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "North American stock markets rally but mostly end lower as bond yields increase",
+        "url": "https://www.thereminder.ca/the-mix/north-american-stock-markets-rally-but-mostly-end-lower-as-bond-yields-increase-4939093",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cnsnews.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://cdn.cnsnews.com/styles/pull_image/s3/2022-01/Joe%20Biden_ROBERTO%20SCHMIDT-AFP%20via%20Getty%20Images.jpg?itok=ShCJHb_m",
+        "sourcecountry": "United States",
+        "title": "Biden Said He Would  Unite  Us . One Look at His Appointments Shatters That Myth",
+        "url": "https://cnsnews.com/commentary/ken-blackwell/biden-said-he-would-unite-us-one-look-his-appointments-shatters-myth",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bostonstar.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Apollo Endosurgery Announces Preliminary 2021 Revenue Results ; Reflecting 50 % Growth Over 2020",
+        "url": "https://www.bostonstar.com/news/272144403/apollo-endosurgery-announces-preliminary-2021-revenue-results-reflecting-50-growth-over-2020",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Volkswagen CFO expects inflation to ease and chip shortage to drag on",
+        "url": "https://www.msn.com/en-ca/money/topstories/volkswagen-cfo-expects-inflation-to-ease-and-chip-shortage-to-drag-on-wsj/ar-AASDC5b",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "THE INX DIGITAL COMPANY , INC . ANNOUNCES COMPLETION OF REVERSE TAKEOVER",
+        "url": "https://www.prnewswire.com:443/news-releases/the-inx-digital-company-inc-announces-completion-of-reverse-takeover-301457660.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nextcity.org",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://nextcity.org/images/events/_resized/adam-nir-wTO6MWpMrJk-unsplash.jpg",
+        "sourcecountry": "United States",
+        "title": "Bottom Line Conversations : Decoding the Federal Reserve Role in Racial Equity",
+        "url": "https://nextcity.org/events/detail/bottom-line-conversations-decoding-the-federal-reserves-role-in-racial-equi",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bostonstar.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://cdn.bignewsnetwork.com/cus1641851954706.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . stocks end mixed after volatile day trading",
+        "url": "https://www.bostonstar.com/news/272144451/us-stocks-end-mixed-after-volatile-day-trading",
+        "url_mobile": ""
+      },
+      {
+        "domain": "oilprice.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-01-10_6fyz2novgb.jpg",
+        "sourcecountry": "United States",
+        "title": "Oil Prices Sink Again On Demand Fears",
+        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Sink-Again-On-Demand-Fears.html",
+        "url_mobile": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Sink-Again-On-Demand-Fears.amp.html"
+      },
+      {
+        "domain": "bondbuyer.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://source-media-brightspot.s3.amazonaws.com/29/b3/b0648cda471f9b792e442760cd0b/bb-011122-ratios.jpeg",
+        "sourcecountry": "United States",
+        "title": "Munis off to rocky start to week , with returns in the red",
+        "url": "https://www.bondbuyer.com/news/munis-off-to-rocky-start-to-week-with-returns-in-the-red",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finanznachrichten.de",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://www.finanznachrichten.de/chart-xvivo-perfusion-ab-aktie-intraklein-frankfurt.png",
+        "sourcecountry": "Germany",
+        "title": "XVIVO Perfusion AB : XVIVO Innovative Preservation Technology Used in the World First Ever Successful Heart Xenotransplantation ( Pig to Human ) ",
+        "url": "https://www.finanznachrichten.de/nachrichten-2022-01/54937068-xvivo-perfusion-ab-xvivo-s-innovative-preservation-technology-used-in-the-world-s-first-ever-successful-heart-xenotransplantation-pig-to-human-200.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pharostribune.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/pharostribune.com/content/tncms/custom/image/076602aa-038b-11e7-96ae-e76614aa8c68.jpg?crop=800%2C800%2C361%2C0",
+        "sourcecountry": "United States",
+        "title": "Police blotter : Jan . 11 , 2022",
+        "url": "https://www.pharostribune.com/news/article_59d71d76-7253-11ec-9368-0b4c8353bf86.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Civista Bancshares , Inc . To Acquire Comunibanc Corp . ",
+        "url": "https://www.prnewswire.com:443/news-releases/civista-bancshares-inc-to-acquire-comunibanc-corp-301457458.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wvgazettemail.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/3/69/36962220-6333-56e6-8d59-5c35e1572837/5f15e48a40049.image.jpg?crop=1233%2C647%2C0%2C515",
+        "sourcecountry": "United States",
+        "title": "Tom Crouser : Capitol breach will live in infamy ( Opinion ) ",
+        "url": "https://www.wvgazettemail.com/opinion/columnists/tom-crouser-capitol-breach-will-live-in-infamy-opinion/article_b1c8c4bb-f85a-519a-b9ea-017ec0e7e88e.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cnsnews.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://cnsnews.com/s3/files/styles/pull_image/s3/2022-01/Joe%20Biden%202_MANDEL%20NGAN-AFP%20via%20Getty%20Images.jpg?itok=WfV-pNw-",
+        "sourcecountry": "United States",
+        "title": "Dont Let Biden Off the Hook for the Disaster He Left in Afghanistan",
+        "url": "https://cnsnews.com/commentary/arielle-del-turco/dont-let-biden-hook-disaster-he-left-afghanistan",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://menafn.com/updates/pr/",
+        "sourcecountry": "Qatar",
+        "title": "Osisko Delivers Updated Windfall Mineral Resource Estimate",
+        "url": "https://menafn.com/1103516839/Osisko-Delivers-Updated-Windfall-Mineral-Resource-Estimate",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/10/22/52770885-0-image-a-31_1641852013983.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Chicago firebrand union leader calls city mayor  relentlessly stupid  ",
+        "url": "https://www.dailymail.co.uk/news/article-10388135/Chicagos-firebrand-union-leader-calls-citys-mayor-relentlessly-stupid.html",
+        "url_mobile": "https://www.dailymail.co.uk/news/article-10388135/amp/Chicagos-firebrand-union-leader-calls-citys-mayor-relentlessly-stupid.html"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220110T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Healthpeak Properties to Report Fourth Quarter and Year - End 2021 Financial Results and Host Conference Call / Webcast",
+        "url": "https://www.prnewswire.com:443/news-releases/healthpeak-properties-to-report-fourth-quarter-and-year-end-2021-financial-results-and-host-conference-callwebcast-301457659.html",
+        "url_mobile": ""
+      }
+    ]
+  }
+}

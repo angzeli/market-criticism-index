@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-17",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "thehill.com",
+        "language": "English",
+        "seendate": "20220118T000000Z",
+        "socialimage": "https://thehill.com/sites/default/files/bidenjoe_011322gn8_lead.jpg",
+        "sourcecountry": "United States",
+        "title": "Overnight Health Care Biden faces pressure from Democrats on COVID - 19",
+        "url": "https://thehill.com/policy/healthcare/590094-health-care",
+        "url_mobile": "https://thehill.com/policy/healthcare/590094-health-care?amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220118T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "On the Money Yellen highlights wealth gap in MLK speech",
+        "url": "https://www.msn.com/en-us/news/politics/on-the-money-yellen-highlights-wealth-gap-in-mlk-speech/ar-AASSy4f",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220118T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Energy & Environment Nature loss may cost cities nearly half of GDP",
+        "url": "https://www.msn.com/en-us/news/politics/energy-environment-nature-loss-may-cost-cities-nearly-half-of-gdp/ar-AASSy4g",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kotaku.com.au",
+        "language": "English",
+        "seendate": "20220118T000000Z",
+        "socialimage": "https://imgix.kotaku.com.au/content/uploads/sites/3/2022/01/18/a29fea692731abde75003661a2ebdb49.jpg?ar=16%3A9&auto=format&fit=crop&q=65",
+        "sourcecountry": "Australia",
+        "title": "Report : Bobby Kotick Is Still Trying To Hide The Scale Of Activision Problems",
+        "url": "https://www.kotaku.com.au/2022/01/report-bobby-kotick-is-still-trying-to-hide-the-scale-of-activisions-problems/",
+        "url_mobile": "https://www.kotaku.com.au/2022/01/report-bobby-kotick-is-still-trying-to-hide-the-scale-of-activisions-problems/amp/"
+      },
+      {
+        "domain": "algemeiner.com",
+        "language": "English",
+        "seendate": "20220118T000000Z",
+        "socialimage": "https://www.algemeiner.com/wp-content/uploads/2019/07/Young-Israel-of-Greater-Miami-e1564380102377-1024x640-1.jpg",
+        "sourcecountry": "Israel",
+        "title": "Jewish Culture Peak Has Passed in Miami , New York , the New York Times Suggests | Jewish & Israel News Algemeiner . com",
+        "url": "https://www.algemeiner.com/2022/01/17/jewish-cultures-peak-has-passed-in-miami-new-york-the-new-york-times-suggests/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fredericknewspost.com",
+        "language": "English",
+        "seendate": "20220118T000000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/fredericknewspost.com/content/tncms/assets/v3/editorial/b/91/b915f788-d6ad-5fa8-9863-555107a86775/61e5be1ab9449.image.jpg?crop=288%2C288%2C112%2C0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.fredericknewspost.com/public/ap/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_30dedc38-5c6d-51aa-aed9-3a77e15f4ce0.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tonyskansascity.com",
+        "language": "English",
+        "seendate": "20220118T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Kansas City Monday News Link Pool : For The Culture !!! ",
+        "url": "https://www.tonyskansascity.com/2022/01/kansas-city-monday-news-link-pool-for.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wjcl.com",
+        "language": "English",
+        "seendate": "20220118T000000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wjcl.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.wjcl.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "https://media.nbclosangeles.com/2022/01/107000180-16420067572022-01-12t165702z_1008931881_rc2qxr91plx5_rtrmadp_0_usa-stocks.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "U . S . Stock Futures Are Little Changed Ahead of More Earnings Reports",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/u-s-stock-futures-are-little-changed-ahead-of-more-earnings-reports/2798965/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/u-s-stock-futures-are-little-changed-ahead-of-more-earnings-reports/2798965/?amp"
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "https://chorus.stimg.co/23175349/AP661625722088.jpg?&fit=crop&bg=999&crop=faces",
+        "sourcecountry": "United States",
+        "title": "Monday brings three more interviews as Viking GM search continues",
+        "url": "https://www.startribune.com/vikings-complete-interview-with-bucs-john-spytek-will-talk-with-two-more-gm-candidates-monday/600136775/",
+        "url_mobile": "https://m.startribune.com/vikings-complete-interview-with-bucs-john-spytek-will-talk-with-two-more-gm-candidates-monday/600136775/"
+      },
+      {
+        "domain": "themountaineer.com",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/themountaineer.com/content/tncms/assets/v3/editorial/c/63/c6358532-600e-560d-9805-eb88897b548a/61e57a124ca2c.image.jpg?crop=1216%2C638%2C0%2C532",
+        "sourcecountry": "United States",
+        "title": "CARsgen Appoints Richard John Daly as the President of CARsgen Therapeutics Corporation",
+        "url": "https://www.themountaineer.com/news/state/carsgen-appoints-richard-john-daly-as-the-president-of-carsgen-therapeutics-corporation/article_23493f5c-7ff9-52e0-ac19-712417587db8.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "foxnews.com",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/ROCHELLE-WALENSKY-CDC-1.jpg",
+        "sourcecountry": "United States",
+        "title": "CDC Rochelle Walensky admits poor messaging on COVID guidance , vows to improve",
+        "url": "https://www.foxnews.com/media/cdc-rochelle-walensky-wall-street-journal-interview",
+        "url_mobile": "https://www.foxnews.com/media/cdc-rochelle-walensky-wall-street-journal-interview.amp"
+      },
+      {
+        "domain": "dailymail.co.uk",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "https://i.dailymail.co.uk/1s/2022/01/17/23/53043775-0-image-a-5_1642460611376.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Kirk Dougla iconic Beverly Hills home is bought by orthopedic surgeon for $9 . 015 million",
+        "url": "https://www.dailymail.co.uk/tvshowbiz/article-10412231/Kirk-Douglas-iconic-Beverly-Hills-home-bought-orthopedic-surgeon-9-015-million.html",
+        "url_mobile": "https://www.dailymail.co.uk/tvshowbiz/article-10412231/amp/Kirk-Douglas-iconic-Beverly-Hills-home-bought-orthopedic-surgeon-9-015-million.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "New trucking vaccine mandate is likely to make fruit and vegetables more expensive",
+        "url": "https://www.msn.com/en-us/money/other/new-trucking-vaccine-mandate-is-likely-to-make-fruit-and-vegetables-more-expensive/ar-AASSpcp",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , SKILLED INVESTOR COUNSEL , Encourages Organogenesis Holdings Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-skilled-investor-counsel-encourages-organogenesis-holdings-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action--orgo-301461648.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "france24.com",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "https://s.france24.com/media/display/7e90a032-4752-11ec-ab6b-005056a90284/w:1280/p:16x9/Part-GTY-1154931423-1-1-0.jpg",
+        "sourcecountry": "France",
+        "title": "Activision says it fired dozens over harassment allegations",
+        "url": "https://www.france24.com/en/live-news/20220117-activision-says-it-fired-dozens-over-harassment-allegations",
+        "url_mobile": "https://amp.france24.com/en/live-news/20220117-activision-says-it-fired-dozens-over-harassment-allegations"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hillicon Valley Airlines issue warning about 5G service",
+        "url": "https://www.msn.com/en-us/news/politics/hillicon-valley-%e2%80%94-airlines-issue-warning-about-5g-service/ar-AASSoTc",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jdsupra.com",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15392_0504.jpg",
+        "sourcecountry": "United States",
+        "title": "Navient to Forgive $1 . 7B in Loans Under Settlement Over Predatory Lending | Robins Kaplan LLP",
+        "url": "https://www.jdsupra.com/legalnews/navient-to-forgive-1-7b-in-loans-under-6481884/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "invezz.com",
+        "language": "English",
+        "seendate": "20220117T234500Z",
+        "socialimage": "https://invezz.com/wp-content/uploads/2021/06/peloton-digital.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "This is how Peloton is responding to inflation and supply constraints",
+        "url": "https://invezz.com/news/2022/01/17/this-is-how-peloton-is-responding-to-inflation-and-supply-constraints/",
+        "url_mobile": "https://invezz.com/news/2022/01/17/this-is-how-peloton-is-responding-to-inflation-and-supply-constraints/?amp"
+      },
+      {
+        "domain": "gamepur.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "https://assets.gamepur.com/wp-content/uploads/2021/11/16144604/bobby-kotick-1.jpg",
+        "sourcecountry": "United States",
+        "title": "Activision Blizzard fires almost 40 employees over misconduct allegations",
+        "url": "https://www.gamepur.com/news/activision-blizzard-fires-almost-40-employees-over-misconduct-allegations",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newsbusters.org",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "https://cdn.newsbusters.org/styles/mobile_thumb_700x400_/s3/2022-01/Screenshot%202022-01-17%20101043.png?itok=HbOgbAGH",
+        "sourcecountry": "United States",
+        "title": "U . S . A . Among Nations Warning Athletes Of Chinese Cyber Mischief",
+        "url": "https://www.newsbusters.org/blogs/culture/jay-maxson/2022/01/17/usa-among-nations-warning-athletes-chinese-cyber-mischief",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/TdzQqj8yyjZeNYiHyRhJFg--~B/aD01NTE7dz05ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_hill_articles_341/bc5772d7afd967f319668cc6eed2c0b5",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability Wintry weather pounds South , heads North",
+        "url": "https://news.yahoo.com/equilibrium-sustainability-wintry-weather-pounds-221032600.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/equilibrium-sustainability-wintry-weather-pounds-221032600.html"
+      },
+      {
+        "domain": "jordantimes.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "http://www.jordantimes.com/sites/default/files/European-stocks.jpg",
+        "sourcecountry": "Jordan",
+        "title": "European stocks rise tracking big corporate news , China growth",
+        "url": "http://www.jordantimes.com/news/business/european-stocks-rise-tracking-big-corporate-news-china-growth",
+        "url_mobile": ""
+      },
+      {
+        "domain": "illinoistimes.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "https://media1.fdncms.com/illinoistimes/imager/u/slideshow/14592546/reeder.jpg",
+        "sourcecountry": "United States",
+        "title": "Multilevel mistakes",
+        "url": "https://www.illinoistimes.com/springfield/multilevel-mistakes/Content?oid=14592547",
+        "url_mobile": "https://www.illinoistimes.com/springfield/multilevel-mistakes/Content?oid=14592547 =AMP+HTML"
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/x3.gPXY_akyv6MmN9p4UXw--~B/aD0zMzA7dz00ODA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/business-wire.com/d66735eb6496c2143e1b6afc8a8661bf",
+        "sourcecountry": "United States",
+        "title": "COVID - 19 Crisis Supercharges Australia Digital Push as Enterprises Seek Competitive Advantage",
+        "url": "https://finance.yahoo.com/news/covid-19-crisis-supercharges-australia-230000730.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/covid-19-crisis-supercharges-australia-230000730.html"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1708898!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/bc-stocks-set-for-cautious-start-yen-dips-before-boj-markets-wrap.png",
+        "sourcecountry": "Canada",
+        "title": "Stocks Set for Cautious Start ; Yen Dips Before BOJ : Markets Wrap",
+        "url": "https://www.bnnbloomberg.ca/stocks-set-for-cautious-start-yen-dips-before-boj-markets-wrap-1.1708897",
+        "url_mobile": "https://www.bnnbloomberg.ca/stocks-set-for-cautious-start-yen-dips-before-boj-markets-wrap-1.1708897.amp.html"
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : COVID - 19 continues to take political , economic toll on U . S .- Xinhua",
+        "url": "http://www.xinhuanet.com/english/northamerica/20220118/a6b8b2a151124970a08bc0951f0745f9/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "towleroad.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "https://www.towleroad.com/wp-content/uploads/2022/01/474963-origin_1.jpg",
+        "sourcecountry": "United States",
+        "title": "World 10 Richest Men Doubled Wealth During Covid ; * Editor Note : System Doesnt Work",
+        "url": "https://www.towleroad.com/2022/01/worlds-10-richest-men-doubled-wealth-during-covid-editors-note-system-doesnt-work/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2017/10/18/GettyImages-802675168-1200x794.jpg",
+        "sourcecountry": "United States",
+        "title": "US Should Provide Philippines With Ballistic Missiles to Defend Against China",
+        "url": "https://www.theepochtimes.com/us-should-provide-philippines-with-ballistic-missiles-to-defend-against-china_4216884.html",
+        "url_mobile": "https://www.theepochtimes.com/us-should-provide-philippines-with-ballistic-missiles-to-defend-against-china_4216884.html/amp"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/1644a38b-bed9-4a76-96fa-d57dd028e650?size=1",
+        "sourcecountry": "United States",
+        "title": "Medicenna Announces Management Change and Appoints",
+        "url": "https://www.globenewswire.com/news-release/2022/01/17/2368013/0/en/Medicenna-Announces-Management-Change-and-Appoints-Experienced-Development-Advisory-Committee.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/fOOeSvDG3TwNULCdcefSZA--~B/aD00MDA7dz03Mjg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/moneywise_327/dc730c4a554c208706818b9ad55e98aa",
+        "sourcecountry": "United States",
+        "title": "Be a landlord for Amazon and FedEx with these REITs that yield up to 4 . 1 % ",
+        "url": "https://news.yahoo.com/landlord-amazon-fedex-reits-yield-225000606.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/landlord-amazon-fedex-reits-yield-225000606.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hillicon Valley Airlines issue warning about 5G service",
+        "url": "http://www.msn.com/en-us/news/politics/hillicon-valley-airlines-issue-warning-about-5g-service/ar-AASSoTc",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220117T233000Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Medicenna Announces Management Change and Appoints Experienced Development Advisory Committee",
+        "url": "https://apnews.com/press-release/globe-newswire/business-health-clinical-trials-9f181da66a2df43af98052a75f5db772",
+        "url_mobile": ""
+      },
+      {
+        "domain": "phillytrib.com",
+        "language": "English",
+        "seendate": "20220117T231500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/phillytrib.com/content/tncms/assets/v3/editorial/d/e6/de677ab8-a191-552c-a09d-f193dcae2291/61e5d6039861f.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.phillytrib.com/news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_6121bd9f-8511-5169-bfb7-4ca7f424de69.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cbc.ca",
+        "language": "English",
+        "seendate": "20220117T231500Z",
+        "socialimage": "https://i.cbc.ca/1.6317970.1642446675!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/usa-mlk.JPG",
+        "sourcecountry": "Canada",
+        "title": "Martin Luther King family urges U . S . Senate to pass voting rights legislation",
+        "url": "https://www.cbc.ca/news/world/martin-luther-king-day-2022-1.6317916",
+        "url_mobile": "https://www.cbc.ca/amp/1.6317916"
+      },
+      {
+        "domain": "parkrecord.com",
+        "language": "English",
+        "seendate": "20220117T231500Z",
+        "socialimage": "https://imengine.public.prod.sci.navigacloud.com/?uuid=7c0a4323-2c23-5507-9054-670dbc474cc7&type=preview&function=cover&q=80",
+        "sourcecountry": "United States",
+        "title": "As Vail Resorts petition hits 40 , 000 signatures , author asks Epic Pass holders to cancel  auto - renew  ",
+        "url": "https://www.parkrecord.com/news/as-vail-resorts-petition-hits-40000-signatures-author-asks-epic-pass-holders-to-cancel-auto-renew/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "texasmonthly.com",
+        "language": "English",
+        "seendate": "20220117T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "7th Heaven \u2013 Texas Monthly",
+        "url": "https://www.texasmonthly.com/news-politics/7th-heaven/",
+        "url_mobile": "https://www.texasmonthly.com/news-politics/7th-heaven/amp/"
+      },
+      {
+        "domain": "news.antiwar.com",
+        "language": "English",
+        "seendate": "20220117T231500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Report : Iran Wants Legal Pledge US Wont Leave Nuclear Deal Again",
+        "url": "https://news.antiwar.com/2022/01/17/report-iran-wants-legal-pledge-us-wont-leave-nuclear-deal-again/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bloombergquint.com",
+        "language": "English",
+        "seendate": "20220117T231500Z",
+        "socialimage": "",
+        "sourcecountry": "India",
+        "title": "What Strategists Are Eyeing in Markets as Treasury Yields Spike",
+        "url": "https://www.bloombergquint.com/markets/what-strategists-are-eyeing-in-markets-as-treasury-yields-spike",
+        "url_mobile": "/amp/markets/what-strategists-are-eyeing-in-markets-as-treasury-yields-spike"
+      },
+      {
+        "domain": "sharechat.co.nz",
+        "language": "English",
+        "seendate": "20220117T231500Z",
+        "socialimage": "",
+        "sourcecountry": "New Zealand",
+        "title": "18th January 2022 Morning Report - sharechat . co . nz",
+        "url": "http://www.sharechat.co.nz/article/0cb54649/18th-january-2022-morning-report.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wyff4.com",
+        "language": "English",
+        "seendate": "20220117T231500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wyff4.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.wyff4.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220117T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Beijing eyes international mail in probe of first omicron case",
+        "url": "http://www.msn.com/en-us/news/politics/beijing-eyes-international-mail-in-probe-of-first-omicron-case/ar-AASSxsY",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nytimes.com",
+        "language": "English",
+        "seendate": "20220117T230000Z",
+        "socialimage": "https://static01.nyt.com/images/2022/01/18/nyregion/18subwayreturn-promo/18subwayreturn-promo-facebookJumbo.jpg",
+        "sourcecountry": "United States",
+        "title": "What Does Riding N . Y . C . Subway Look Like In a Pandemic ? ",
+        "url": "https://www.nytimes.com/2022/01/17/nyregion/nyc-subway-ridership.html",
+        "url_mobile": "https://www.nytimes.com/2022/01/17/nyregion/nyc-subway-ridership.amp.html"
+      },
+      {
+        "domain": "koco.com",
+        "language": "English",
+        "seendate": "20220117T230000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.koco.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.koco.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "thehill.com",
+        "language": "English",
+        "seendate": "20220117T230000Z",
+        "socialimage": "https://thehill.com/sites/default/files/ca_beijing_cdc_040413gettyimages.jpg",
+        "sourcecountry": "United States",
+        "title": "Beijing eyes international mail in probe of first omicron case",
+        "url": "https://thehill.com/policy/international/china/590083-beijing-eyes-international-mail-in-probe-of-first-omicron-case",
+        "url_mobile": "https://thehill.com/policy/international/china/590083-beijing-eyes-international-mail-in-probe-of-first-omicron-case?amp"
+      },
+      {
+        "domain": "wisn.com",
+        "language": "English",
+        "seendate": "20220117T230000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wisn.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.wisn.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "morgancountycitizen.com",
+        "language": "English",
+        "seendate": "20220117T230000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/morgancountycitizen.com/content/tncms/assets/v3/editorial/3/d5/3d52a5bc-57b4-11ec-99ac-ab837fa2edaa/61afec7601fa3.image.jpg?crop=1175%2C617%2C0%2C572",
+        "sourcecountry": "United States",
+        "title": "Legislative update : Georgia is winning",
+        "url": "https://www.morgancountycitizen.com/opinion/legislative-update-georgia-is-winning/article_efbf71c6-77bc-11ec-9db1-6fc33ef6601d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wiredprnews.com",
+        "language": "English",
+        "seendate": "20220117T230000Z",
+        "socialimage": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg",
+        "sourcecountry": "United States",
+        "title": "The United States says Reuters reserves the right to respond after the deadly attack on Abu Dhabi Houthis",
+        "url": "https://www.wiredprnews.com/the-united-states-says-reuters-reserves-the-right-to-respond-after-the-deadly-attack-on-abu-dhabi-houthis/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cointelegraph.com",
+        "language": "English",
+        "seendate": "20220117T224500Z",
+        "socialimage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDEvNzVjODk1MGUtNzdmNS00YmM5LTg2ZjgtMmE4ZGRkNWYzNmUwLmpwZw==.jpg",
+        "sourcecountry": "China",
+        "title": "Law Decoded : First - mover advantage in a CBDC conversation , Jan . 10 \u2013 17",
+        "url": "https://cointelegraph.com/news/law-decoded-first-mover-advantage-in-a-cbdc-conversation-jan-10-17",
+        "url_mobile": "https://cointelegraph.com/news/law-decoded-first-mover-advantage-in-a-cbdc-conversation-jan-10-17/amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220117T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Equilibrium / Sustainability Wintry weather pounds South , heads North",
+        "url": "http://www.msn.com/en-us/news/politics/equilibrium-sustainability-wintry-weather-pounds-south-heads-north/ar-AASSxnq",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T224500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/AFP_21761image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Activision fired dozens over harassment allegations : WSJ",
+        "url": "https://menafn.com/1103551900/Activision-fired-dozens-over-harassment-allegations-WSJ&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T224500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/B_61aedimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "This Dividend Stock Just Made a Very Bullish Crossover",
+        "url": "https://menafn.com/1103551225/This-Dividend-Stock-Just-Made-a-Very-Bullish-Crossover&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220117T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A GLOBALLY RECOGNIZED FIRM , Encourages Exicure , Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-a-globally-recognized-firm-encourages-exicure-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action--xcur-301461495.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businesswire.com",
+        "language": "English",
+        "seendate": "20220117T224500Z",
+        "socialimage": "https://mms.businesswire.com/media/20220117005054/en/1329112/23/DocGo_Primary_PMS7547%26PMS311_%281%29.jpg",
+        "sourcecountry": "United States",
+        "title": "DocGo Expands Mobile Health Services to Aetna Customers in New York and New Jersey",
+        "url": "https://www.businesswire.com/news/home/20220117005054/en/DocGo-Expands-Mobile-Health-Services-to-Aetna-Customers-in-New-York-and-New-Jersey",
+        "url_mobile": ""
+      },
+      {
+        "domain": "allgov.com",
+        "language": "English",
+        "seendate": "20220117T224500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "AllGov - Officials",
+        "url": "http://www.allgov.com/officials/shannon-thomas?officialid=29170",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kcra.com",
+        "language": "English",
+        "seendate": "20220117T224500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.kcra.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.kcra.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "timesnews.net",
+        "language": "English",
+        "seendate": "20220117T224500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/d/ad/dad2b619-3c27-5c9d-94c8-def8ab4523a0/61e5b6839131a.image.jpg?crop=1920%2C1008%2C0%2C35",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.timesnews.net/news/nation-world/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_6c28f5fe-01ff-5419-b4c0-09cbf34cc684.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220117T224500Z",
+        "socialimage": "https://media.breitbart.com/media/2018/04/nurses-newborn-babies-china-getty-photo.jpg",
+        "sourcecountry": "United States",
+        "title": "China Records Lowest Birth Rate in Modern History in 2021",
+        "url": "https://www.breitbart.com/national-security/2022/01/17/china-records-lowest-birth-rate-in-modern-history-in-2021/",
+        "url_mobile": "https://www.breitbart.com/national-security/2022/01/17/china-records-lowest-birth-rate-in-modern-history-in-2021/amp/"
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2022/01/12/GettyImages-1364098753-1200x800.jpg",
+        "sourcecountry": "United States",
+        "title": "Inflation , Supply Crunch , and Omicron Push US Growth Forecasts Down",
+        "url": "https://www.theepochtimes.com/inflation-supply-crunch-omicron-push-us-growth-forecasts-down_4217902.html",
+        "url_mobile": "https://www.theepochtimes.com/inflation-supply-crunch-omicron-push-us-growth-forecasts-down_4217902.html/amp"
+      },
+      {
+        "domain": "newswiretoday.com",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Newswire & Press Release / Nexstar Media Group Recognized as A  Leadership Partner  by Feeding America\u00ae - Broadcast / TV / Radio - Media General , Inc . ",
+        "url": "https://www.newswiretoday.com/news/176914/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "carscoops.com",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "https://www.carscoops.com/wp-content/uploads/2020/11/elon-musk-tests-negative-and-positive-covid-2.jpg",
+        "sourcecountry": "United States",
+        "title": "Tesla Asked Law Firm To Sack Attorney Who Worked In SEC Elon Musk Probe , Report Claims",
+        "url": "https://www.carscoops.com/2022/01/elon-musk-asked-law-firm-to-sack-attorney-who-used-to-work-for-the-sec/",
+        "url_mobile": "https://www.carscoops.com/2022/01/elon-musk-asked-law-firm-to-sack-attorney-who-used-to-work-for-the-sec/amp/"
+      },
+      {
+        "domain": "dailyvoice.com",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "https://daily-voice-res.cloudinary.com/image/upload/c_limit,e_sharpen,f_auto,q_auto:eco,w_640/Screen_Shot_2022-01-15_at_11.56.46_AM_oz8zmt.jpg",
+        "sourcecountry": "United States",
+        "title": "Charli DAmelio , Age 17 , Of Fairfield County Is Outearning Top CEOs By Millions",
+        "url": "https://dailyvoice.com/connecticut/trumbull/business/charli-damelio-age-17-of-fairfield-county-is-outearning-top-ceos-by-millions/824023/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "crikey.com.au",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "https://www.crikey.com.au/wp-content/uploads/2022/01/Untitled-design-13.png",
+        "sourcecountry": "Australia",
+        "title": "Crikey Worm : Full impact of Tonga eruption still unknown",
+        "url": "https://www.crikey.com.au/2022/01/18/impact-tonga-eruption-unknown/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newsinfo.inquirer.net",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "https://newsinfo.inquirer.net/files/2022/01/235587-620x431.jpeg",
+        "sourcecountry": "Philippines",
+        "title": "World top billionaires got richer during pandemic",
+        "url": "https://newsinfo.inquirer.net/1541648/worlds-top-billionaires-got-richer-during-pandemic",
+        "url_mobile": "https://newsinfo.inquirer.net/1541648/worlds-top-billionaires-got-richer-during-pandemic/amp"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , NATIONLLY REGARDED INVESTOR COUNSEL , Encourages Baidu Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-nationlly-regarded-investor-counsel-encourages-baidu-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action--bidu-301461647.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : COVID - 19 continues to take political , economic toll on U . S .- Xinhua",
+        "url": "http://xinhuanet.com/english/20220118/649392c778944fc4a0e0bdd26f681a87/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "xinhuanet.com",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : COVID - 19 continues to take political , economic toll on U . S .- Xinhua",
+        "url": "http://www.xinhuanet.com/english/20220118/649392c778944fc4a0e0bdd26f681a87/c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wlwt.com",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wlwt.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.wlwt.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "oleantimesherald.com",
+        "language": "English",
+        "seendate": "20220117T223000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/c/8f/c8fe8a61-8b0d-5924-a586-5853a8ecdb04/61e5c6c66f0b3.image.jpg?crop=1200%2C630%2C0%2C85",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.oleantimesherald.com/news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_c28ef29d-a873-5614-be4a-dae02389f931.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "SHAREHOLDER ALERT : Levi & Korsinsky , LLP Notifies Investors of eHealth , Inc . of a Pending Lawsuit and Sets a Lead Plaintiff Deadline of March 18 , 2022",
+        "url": "https://www.prnewswire.com/news-releases/shareholder-alert-levi--korsinsky-llp-notifies-investors-of-ehealth-inc-of-a-pending-lawsuit-and-sets-a-lead-plaintiff-deadline-of-march-18-2022-301462180.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.com.au",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "https://content.api.news/v3/images/bin/0db5723673cfc694170344fa68777af6",
+        "sourcecountry": "Australia",
+        "title": "Country Garden : Sign Evergrande  contagion  is here as crisis reaches China biggest builder | news . com . au Australia leading news site",
+        "url": "https://www.news.com.au/finance/business/other-industries/sign-evergrande-contagion-has-arrived-after-crisis-reaches-chinas-biggest-property-developer/news-story/39f4e1363ab91c131030358aa2b72c38",
+        "url_mobile": "https://www.news.com.au/finance/business/other-industries/sign-evergrande-contagion-has-arrived-after-crisis-reaches-chinas-biggest-property-developer/news-story/39f4e1363ab91c131030358aa2b72c38?amp"
+      },
+      {
+        "domain": "leadertelegram.com",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/leadertelegram.com/content/tncms/assets/v3/editorial/5/6b/56b594fe-5096-5b93-9d99-28d9aef4664d/61e5b31e140fb.image.jpg?crop=1920%2C1008%2C0%2C35",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.leadertelegram.com/news/nation-world/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_23fb18d0-878b-523e-9667-b44399994e85.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "americanfreepress.net",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Last Night Debate : Trump Goes Where No Other Opponent Dares \u2013 American Free Press",
+        "url": "https://americanfreepress.net/last-nights-debate-trump-goes-where-no-other-opponent-dares/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wdsm710.com",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/17/2022-01-17T194422Z_1_LYNXMPEI0G0PB_RTROPTP_3_ACTIVISION-BLIZZARD-RESULTS.JPG",
+        "sourcecountry": "United States",
+        "title": "Activision Blizzard fires more people in sexual harassment , probe , report says",
+        "url": "https://wdsm710.com/2022/01/17/activision-blizzard-fires-more-people-in-sexual-harassment-probe-report-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "observer.ug",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "https://www.observer.ug/images2/people/Business/Elon-Musk.png",
+        "sourcecountry": "Uganda",
+        "title": "Economic violence : \u00a0World 10 richest men doubled wealth during COVID pandemic",
+        "url": "https://www.observer.ug/news/headlines/72479-economic-violence-world-s-10-richest-men-doubled-wealth-during-covid-pandemic",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEI0G0QN_M.jpg",
+        "sourcecountry": "United States",
+        "title": "Lawsuit against Amazon filed in tornado swarm that left 6 dead in Illinois warehouse By Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/lawsuit-against-amazon-filed-in-tornado-swarm-that-left-6-dead-in-illinois-warehouse-2740662",
+        "url_mobile": "https://m.investing.com/news/stock-market-news/lawsuit-against-amazon-filed-in-tornado-swarm-that-left-6-dead-in-illinois-warehouse-2740662?ampMode=1"
+      },
+      {
+        "domain": "bigcountry995.com",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "https://cdn.field59.com/KOTV/8a3b81d440bf6291d03a048618b8d3794d1ff5b4_fl9-360p_50.jpg",
+        "sourcecountry": "United States",
+        "title": "Tulsa NAACP Shares How To Honor The Legacy Of Dr . Martin Luther King Jr . ",
+        "url": "http://www.bigcountry995.com/story/61e5c81880b3436fac9d8192/tulsa-naacp-shares-how-to-honor-the-legacy-of-dr-martin-luther-king-jr",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stuff.co.nz",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "https://resources.stuff.co.nz/content/dam/images/4/y/n/o/t/8/image.related.StuffLandscapeSixteenByNine.1420x800.23xawy.png/1642455422772.jpg",
+        "sourcecountry": "New Zealand",
+        "title": "A familiar tune : The NZ economy is in great shape , but how long will it last ? ",
+        "url": "https://www.stuff.co.nz/business/opinion-analysis/127524994/a-familiar-tune-the-nz-economy-is-in-great-shape-but-how-long-will-it-last",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fxstreet.com",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "https://editorial.fxstreet.com/images/Markets/Commodities/Metals/Gold/gold-on-weight-scale-gm165418687-21879510_Large.jpg",
+        "sourcecountry": "China",
+        "title": "Gold Price Forecast : XAU / USD in limbo , starved of drivers , left to technical flows",
+        "url": "https://www.fxstreet.com/news/gold-price-forecast-xau-usd-in-limbo-starved-of-drivers-left-to-technical-flows-202201171928",
+        "url_mobile": "https://www.fxstreet.com/amp/news/gold-price-forecast-xau-usd-in-limbo-starved-of-drivers-left-to-technical-flows-202201171928"
+      },
+      {
+        "domain": "fool.ca",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "https://www.fool.ca/wp-content/uploads/2019/06/CanadianDollars.jpg",
+        "sourcecountry": "Canada",
+        "title": "Passive - Income Investing : 3 Top Dividend Stocks Yielding up to 8 . 3 % ",
+        "url": "https://www.fool.ca/2022/01/17/passive-income-investing-3-top-dividend-stocks-yielding-up-to-8-3/",
+        "url_mobile": "https://www.fool.ca/2022/01/17/passive-income-investing-3-top-dividend-stocks-yielding-up-to-8-3/amp/"
+      },
+      {
+        "domain": "ktvz.com",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "https://ktvz.b-cdn.net/2022/01/hypatia-h_94ceddeb40a492d98f6d1986c1c53ab2-h_e8fe02934b78d06cf12f0124c951bea3-300-860x573.jpg",
+        "sourcecountry": "United States",
+        "title": "Here what could rattle the stock market this year",
+        "url": "https://ktvz.com/money/cnn-business-consumer/2022/01/17/heres-what-could-rattle-the-stock-market-this-year/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.ca",
+        "language": "English",
+        "seendate": "20220117T221500Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "Why Nuvei ( TSX : NVEI ) Stock Climbed 5 . 8 % Last Week | The Motley Fool Canada",
+        "url": "https://www.fool.ca/2022/01/17/why-nuvei-tsxnvei-stock-climbed-5-8-last-week/",
+        "url_mobile": "https://www.fool.ca/2022/01/17/why-nuvei-tsxnvei-stock-climbed-5-8-last-week/amp/"
+      },
+      {
+        "domain": "techxplore.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "https://scx2.b-cdn.net/gfx/news/2022/bobby-kotick-chief-exe.jpg",
+        "sourcecountry": "United States",
+        "title": "Activision fired dozens over harassment allegations : WSJ",
+        "url": "https://techxplore.com/news/2022-01-activision-dozens-allegations-wsj.html",
+        "url_mobile": "https://techxplore.com/news/2022-01-activision-dozens-allegations-wsj.amp"
+      },
+      {
+        "domain": "wlrn.org",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "http://npr-brightspot.s3.amazonaws.com/6e/7a/4c4b80864a93a6e624bc50e573fd/mlk-jr. .jpeg",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wlrn.org/news/2022-01-17/on-mlk-day-biden-says-americans-must-commit-to-kings-work",
+        "url_mobile": "https://www.wlrn.org/news/2022-01-17/on-mlk-day-biden-says-americans-must-commit-to-kings-work?_amp=true"
+      },
+      {
+        "domain": "kmbc.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.kmbc.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.kmbc.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "1490wosh.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.1490wosh.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "siliconangle.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/09/cube_final-610x343.jpg",
+        "sourcecountry": "United States",
+        "title": "Dave Vellante Breaking Analysis : The complete collection",
+        "url": "https://siliconangle.com/2022/01/16/dave-vellantes-breaking-analysis-complete-collection/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1696232!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/national-bank-of-canada-signage-is-displayed-outside-a-building-in-vancouver-british-columbia-canada-on-saturday-june-1-2019-canada-is-scheduled-to-release-gross-domestic-product-gdp-figures-on-june-28-photographer-seongjoon-cho-bloomberg.jpg",
+        "sourcecountry": "Canada",
+        "title": "Canadian foreign investment spree hits record amid  capital bleed  ",
+        "url": "https://www.bnnbloomberg.ca/canadian-foreign-investment-spree-hits-record-amid-capital-bleed-1.1708882",
+        "url_mobile": "https://www.bnnbloomberg.ca/canadian-foreign-investment-spree-hits-record-amid-capital-bleed-1.1708882.amp.html"
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "SHAREHOLDER ALERT : Levi & Korsinsky , LLP Notifies Investors of eHealth , Inc . of a Pending Lawsuit and Sets a Lead Plaintiff Deadline of March 18 , 2022",
+        "url": "https://www.prnewswire.com:443/news-releases/shareholder-alert-levi--korsinsky-llp-notifies-investors-of-ehealth-inc-of-a-pending-lawsuit-and-sets-a-lead-plaintiff-deadline-of-march-18-2022-301462180.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/B_bd415image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Is Netflix a Buy After Announcing Price Increases for Its St ... ",
+        "url": "https://menafn.com/1103551221/Is-Netflix-a-Buy-After-Announcing-Price-Increases-for-Its-Streaming-Plans&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pauldavisoncrime.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Paul Davis On Crime : The Wall Street Journal",
+        "url": "http://www.pauldavisoncrime.com/search/label/The%20Wall%20Street%20Journal",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mining.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "Press Release - MINING . COM",
+        "url": "https://www.mining.com/press-release/?id=61e5caf2ca94773e37293d16",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pauldavisoncrime.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Paul Davis On Crime : FBI Director Christopher Wray On The Cops Who Didnt Come Home",
+        "url": "http://www.pauldavisoncrime.com/2022/01/fbi-director-christopher-wray-on-cops.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "980waav.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.980waav.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "whyy.org",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "https://whyy.org/wp-content/uploads/2022/01/AP22017013648489.jpg",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://whyy.org/articles/on-mlk-day-biden-says-americans-must-commit-to-kings-work/",
+        "url_mobile": "https://whyy.org/articles/on-mlk-day-biden-says-americans-must-commit-to-kings-work/amp/"
+      },
+      {
+        "domain": "arkansasonline.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/01/17/King_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.arkansasonline.com/news/2022/jan/17/on-mlk-day-biden-says-americans-must-commit-to-kin/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "beloitdailynews.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/beloitdailynews.com/content/tncms/assets/v3/editorial/8/25/825e7b2f-f894-5890-a4c5-9d496cd0a066/61e581df7330e.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.beloitdailynews.com/news/national-news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_f0b91fb0-717e-58b9-a9f1-28236c7310c5.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "997wtn.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.997wtn.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wfuv.org",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://wfuv.org/content/mlk-day-biden-says-americans-must-commit-kings-work",
+        "url_mobile": ""
+      },
+      {
+        "domain": "oann.com",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "https://dzm0ugdauank9.cloudfront.net/wp-content/uploads/2022/01/2022-01-17T195843Z_2_LYNXMPEI0G0PB_RTROPTP_0_ACTIVISION-BLIZZARD-RESULTS_1.jpg",
+        "sourcecountry": "United States",
+        "title": "Activision Blizzard fires more people in sexual harassment , probe , report says",
+        "url": "https://www.oann.com/activision-blizzard-fires-more-people-in-sexual-harassment-probe-report-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wlrn.org",
+        "language": "English",
+        "seendate": "20220117T220000Z",
+        "socialimage": "http://npr-brightspot.s3.amazonaws.com/40/d1/259e63584a67815c3c8cc541dc5b/reef-technology-tgif-01172022.jpeg",
+        "sourcecountry": "United States",
+        "title": "From parking lots to ghost kitchens \u2013 how Reef Technology is changing the restaurant business and regulations",
+        "url": "https://www.wlrn.org/2022-01-17/from-parking-lots-to-ghost-kitchens-how-reef-technology-is-changing-the-restaurant-business-and-regulations",
+        "url_mobile": "https://www.wlrn.org/2022-01-17/from-parking-lots-to-ghost-kitchens-how-reef-technology-is-changing-the-restaurant-business-and-regulations?_amp=true"
+      },
+      {
+        "domain": "wamc.org",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Governor Hochul unveils her budget",
+        "url": "https://www.wamc.org/commentary-opinion/2022-01-17/governor-hochul-unveils-her-budget",
+        "url_mobile": "https://www.wamc.org/commentary-opinion/2022-01-17/governor-hochul-unveils-her-budget?_amp=true"
+      },
+      {
+        "domain": "telegraphherald.com",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/c/16/c16b8d5a-bcc5-5b96-b490-22f61ecaae47/61e57ffec1c8c.image.jpg?crop=341%2C341%2C85%2C0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.telegraphherald.com/ap/state/article_96bd75e9-fb8c-52ce-acb2-20c61ac910b4.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newhavenindependent.org",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "https://ojp-content.s3.us-east-2.amazonaws.com/NHI/Old/BaseImages/2021/11/Tom/yalecity13.jpg",
+        "sourcecountry": "United States",
+        "title": "City - Yale Deal Ready For Review",
+        "url": "https://www.newhavenindependent.org/article/yale_city_agreement",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wbap.com",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.wbap.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "joplinglobe.com",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/e/ee/eeefc235-4a45-5f37-a8c7-f2892f401f30/61e57eb30ed76.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.joplinglobe.com/region/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_07afe209-1e7b-5918-b4f7-88aa13f66489.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "techstory.in",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "https://techstory.in/wp-content/uploads/2022/01/na-different-types-of-stocks-invest0-884x584-1.jpeg",
+        "sourcecountry": "India",
+        "title": "How to Make Stock Investments",
+        "url": "https://techstory.in/how-to-make-stock-investments/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/661340/best-lithium-stocks-chinese-lithium-stocks-alb-stock-lac-stock-lithium-americas-stock-livent-stock-best-lithium-stocks-2022-largest-lithium-producer-miner.jpg",
+        "sourcecountry": "United States",
+        "title": "Top 10 Lithium Stocks in LIT , the World First Lithium ETF",
+        "url": "https://www.fool.com/investing/2022/01/17/invest-in-lithium-stocks-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wjr.com",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.wjr.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "itnewsonline.com",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "World Renowned Economist , Stephan Moore to head PraSaga Economic Policy",
+        "url": "http://www.itnewsonline.com/GlobeNewswire/World-Renowned-Economist-Stephan-Moore-to-head-PraSagas-Economic-Policy/34403",
+        "url_mobile": ""
+      },
+      {
+        "domain": "observer.ug",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "https://observer.ug/images2/people/Business/Elon-Musk.png",
+        "sourcecountry": "Uganda",
+        "title": "Economic violence : \u00a0World 10 richest men doubled wealth during COVID pandemic",
+        "url": "https://observer.ug/news/headlines/72479-economic-violence-world-s-10-richest-men-doubled-wealth-during-covid-pandemic",
+        "url_mobile": ""
+      },
+      {
+        "domain": "apnews.com",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "https://apnews.com/images/PaidContent3.png",
+        "sourcecountry": "United States",
+        "title": "Methanex Corporation to Speak at the 25th Annual Virtual CIBC Western Institutional Investor Conference",
+        "url": "https://apnews.com/press-release/globe-newswire/canada-vancouver-british-columbia-methanex-corp-5b09fffa8fda2304adb5936e13defd5a",
+        "url_mobile": ""
+      },
+      {
+        "domain": "katcountry989.com",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/17/2022-01-17T194422Z_1_LYNXMPEI0G0PB_RTROPTP_3_ACTIVISION-BLIZZARD-RESULTS.JPG",
+        "sourcecountry": "United States",
+        "title": "Activision Blizzard fires more people in sexual harassment , probe , report says",
+        "url": "https://katcountry989.com/2022/01/17/activision-blizzard-fires-more-people-in-sexual-harassment-probe-report-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cryptopotato.com",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "https://cryptopotato.com/wp-content/uploads/2022/01/Binance_Thailand.jpg",
+        "sourcecountry": "",
+        "title": "Binance to Establish a Crypto Exchange in Thailand ( Report ) ",
+        "url": "https://cryptopotato.com/binance-to-establish-a-crypto-exchange-in-thailand-report/",
+        "url_mobile": "https://cryptopotato.com/binance-to-establish-a-crypto-exchange-in-thailand-report/?amp"
+      },
+      {
+        "domain": "amren.com",
+        "language": "English",
+        "seendate": "20220117T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Trump Claims White People Are Discriminated Against for COVID - 19 Treatment",
+        "url": "https://www.amren.com/news/2022/01/trump-claims-white-people-are-discriminated-against-for-covid-19-treatment/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wonkette.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Trump Celebrates MLK Day By Declaring Race War",
+        "url": "https://www.wonkette.com/trump-celebrates-mlk-day-by-declaring-race-war",
+        "url_mobile": "https://www.wonkette.com/amp/trump-celebrates-mlk-day-by-declaring-race-war-2656419912"
+      },
+      {
+        "domain": "nbcdfw.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "https://media.nbcdfw.com/2022/01/GettyImages-1237786666.jpg?quality=85&strip=all&fit=1200%2C674",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , National Leaders Acknowledge Unmet Needs for Racial Equality",
+        "url": "https://www.nbcdfw.com/news/national-international/on-mlk-day-national-leaders-acknowledge-unmet-needs-for-racial-equality/2860533/",
+        "url_mobile": "https://www.nbcdfw.com/news/national-international/on-mlk-day-national-leaders-acknowledge-unmet-needs-for-racial-equality/2860533/?amp"
+      },
+      {
+        "domain": "tweaktown.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Activision shareholders threaten to divest if demands arent met",
+        "url": "https://www.tweaktown.com/news/84059/activision-shareholders-threaten-to-divest-if-demands-arent-met/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "starherald.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/starherald.com/content/tncms/assets/v3/editorial/3/b3/3b3a8345-1693-5f14-9b63-638cb13673ec/61e5a6432a23d.image.jpg?crop=1762%2C928%2C0%2C176",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://starherald.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_4307a55b-cd7e-50f6-bcc3-79ac796e885c.html",
+        "url_mobile": "https://starherald.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_4307a55b-cd7e-50f6-bcc3-79ac796e885c.amp.html"
+      },
+      {
+        "domain": "telegraph.co.uk",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Glaxo courts Qatar and Singapore to head off \u00a350bn Unilever swoop",
+        "url": "https://www.telegraph.co.uk/business/2022/01/17/glaxo-courts-qatar-singapore-head-50bn-unilever-swoop/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "standardmedia.co.ke",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "https://cdn.standardmedia.co.ke/images/monday/global_stocks_mixed_61e5954b1ee58.jpg",
+        "sourcecountry": "Kenya",
+        "title": "Global stocks mixed as Beijing adds stimulus , Brent tops 2021 high",
+        "url": "https://www.standardmedia.co.ke/business/financial-standard/article/2001434696/global-stocks-mixed-as-beijing-adds-stimulus-brent-tops-2021-high",
+        "url_mobile": "https://www.standardmedia.co.ke/business/amp/financial-standard/article/2001434696/global-stocks-mixed-as-beijing-adds-stimulus-brent-tops-2021-high"
+      },
+      {
+        "domain": "uniindia.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "",
+        "sourcecountry": "India",
+        "title": "Winter storm hits US East Coast",
+        "url": "http://www.uniindia.com/~/winter-storm-hits-us-east-coast/World/news/2624348.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "aei.org",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "https://www.aei.org/wp-content/uploads/2019/01/MLKa.jpg",
+        "sourcecountry": "United States",
+        "title": "For Martin Luther King Day : Thomas Sowell and Robert Woodson reflect on the legacy of Rev . King and his famous speech | American Enterprise Institute",
+        "url": "https://www.aei.org/carpe-diem/for-martin-luther-king-day-thomas-sowell-and-robert-woodson-reflect-on-the-legacy-of-rev-king-and-his-famous-speech/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "drive.com.au",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "https://res.cloudinary.com/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/yerlkp4ykdyvyix2qmet?_a=AAAH2GX",
+        "sourcecountry": "Australia",
+        "title": "Rivian radical plan to install electric - car chargers in US national parks",
+        "url": "https://www.drive.com.au/news/electric-car-chargers-built-in-the-bush-for-off-roading/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wgowam.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.wgowam.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "beijingbulletin.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "COVID - 19 continues to take political , economic toll on U . S . ",
+        "url": "https://www.beijingbulletin.com/news/272192360/covid-19-continues-to-take-political-economic-toll-on-us",
+        "url_mobile": ""
+      },
+      {
+        "domain": "autoevolution.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "https://s1.cdn.autoevolution.com/images/news/lucid-chairman-confirms-saudi-arabian-factory-discussions-179339_1.jpg",
+        "sourcecountry": "United States",
+        "title": "Lucid Chairman Confirms Saudi Arabian Factory Discussions",
+        "url": "https://www.autoevolution.com/news/lucid-chairman-confirms-saudi-arabian-factory-discussions-179339.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "beijingbulletin.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : COVID - 19 continues to take political , economic toll on U . S . ",
+        "url": "https://www.beijingbulletin.com/news/272192338/roundup-covid-19-continues-to-take-political-economic-toll-on-us",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kelo.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/17/2022-01-17T194422Z_1_LYNXMPEI0G0PB_RTROPTP_3_ACTIVISION-BLIZZARD-RESULTS.JPG",
+        "sourcecountry": "United States",
+        "title": "Activision Blizzard fires more people in sexual harassment , probe , report says",
+        "url": "https://kelo.com/2022/01/17/activision-blizzard-fires-more-people-in-sexual-harassment-probe-report-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "790business.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Here what could rattle the stock market this year",
+        "url": "https://www.790business.com/news/heres-what-could-rattle-the-stock-market-this-year/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wfnc640am.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Here what could rattle the stock market this year",
+        "url": "https://www.wfnc640am.com/news/heres-what-could-rattle-the-stock-market-this-year/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thebulltulsa.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "https://cdn.field59.com/KOTV/8a3b81d440bf6291d03a048618b8d3794d1ff5b4_fl9-360p_50.jpg",
+        "sourcecountry": "",
+        "title": "Tulsa NAACP Shares How To Honor The Legacy Of Dr . Martin Luther King Jr . ",
+        "url": "http://www.thebulltulsa.com/story/61e5c81880b3436fac9d8192/tulsa-naacp-shares-how-to-honor-the-legacy-of-dr-martin-luther-king-jr",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stripes.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "https://www.stripes.com/incoming/en2zdc-1-17-22-mlk-ap.jpg/alternates/LANDSCAPE_480/1-17-22%20mlk%20ap.jpg",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.stripes.com/theaters/us/2022-01-17/martin-luther-king-jr-day-biden-americans-commit-4322989.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220117T213000Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/Rprxt.zkugyExmOE6URa0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/aP3QFiXooarz7bICt8_S9w--~B/aD0xNjAwO3c9MjQwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the-gainesville-sun/4546fd24a2b3da2dd6b825a9d82be67b",
+        "sourcecountry": "United States",
+        "title": "Jim McElwain , Florida Gators cleared of all fishy business",
+        "url": "https://news.yahoo.com/jim-mcelwain-florida-gators-cleared-203609284.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/jim-mcelwain-florida-gators-cleared-203609284.html"
+      },
+      {
+        "domain": "wvlkam.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.wvlkam.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fbherald.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/custom/image/5e06dd4e-3beb-11ec-89e8-ebe74271bae8.jpg?crop=539%2C539%2C450%2C0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.fbherald.com/news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_612d8159-3905-534a-b76a-1ed9591d36ef.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thehill.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://thehill.com/sites/default/files/walenskyrochelle_11042021_jn04.jpg",
+        "sourcecountry": "United States",
+        "title": "Walensky says she will improve CDC messaging amid criticism",
+        "url": "https://thehill.com/policy/healthcare/590059-walensky-says-she-will-improve-cdc-policy-messaging",
+        "url_mobile": "https://thehill.com/policy/healthcare/590059-walensky-says-she-will-improve-cdc-policy-messaging?amp"
+      },
+      {
+        "domain": "newsbusters.org",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://cdn.newsbusters.org/styles/mobile_thumb_700x400_/s3/2022-01/Screenshot%202022-01-17%20101043.png?itok=HbOgbAGH",
+        "sourcecountry": "United States",
+        "title": "U . S . A . Among Nations Warning Athletes Of Chinese Cyber Mischief",
+        "url": "https://newsbusters.org/blogs/culture/jay-maxson/2022/01/17/usa-among-nations-warning-athletes-chinese-cyber-mischief",
+        "url_mobile": ""
+      },
+      {
+        "domain": "therealdeal.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://therealdeal.com/wp-content/uploads/2022/01/NY-Hakimian-changes-hotel-plans-to-residential-FEATUREIMG.jpg",
+        "sourcecountry": "United States",
+        "title": "Hakimian Switches Midtown Project from Hotel to Housing",
+        "url": "https://therealdeal.com/2022/01/17/hakimian-changes-midtown-hotel-plans-to-residential/",
+        "url_mobile": "https://therealdeal.com/2022/01/17/hakimian-changes-midtown-hotel-plans-to-residential/amp/"
+      },
+      {
+        "domain": "necn.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://media.necn.com/2022/01/GettyImages-1237786666.jpg?quality=85&strip=all&fit=1200%2C674",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , National Leaders Acknowledge Unmet Needs for Racial Equality",
+        "url": "https://www.necn.com/news/national-international/on-mlk-day-national-leaders-acknowledge-unmet-needs-for-racial-equality/2653709/",
+        "url_mobile": "https://www.necn.com/news/national-international/on-mlk-day-national-leaders-acknowledge-unmet-needs-for-racial-equality/2653709/?amp"
+      },
+      {
+        "domain": "ketv.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.ketv.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.ketv.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "nwitimes.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/c5/1c5ca4b5-cb6d-52cf-ab8c-185e24a4e907/61e5a6424b34a.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.nwitimes.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_d4cce392-a0d1-5e65-9100-cb6b16e6354d.html",
+        "url_mobile": "https://www.nwitimes.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_d4cce392-a0d1-5e65-9100-cb6b16e6354d.amp.html"
+      },
+      {
+        "domain": "wesh.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wesh.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.wesh.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "modernghana.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://cdn.modernghana.com/images/content/117202243608-k5grj7u3h1-2017-04-25t085750z_308728163_rc12fdb86880_rtrmadp_3_lvmh-dior_0.jpg",
+        "sourcecountry": "Ghana",
+        "title": "Oxfam says world ten richest men doubled fortunes during Covid crisis",
+        "url": "https://www.modernghana.com/news/1132399/oxfam-says-worlds-ten-richest-men-doubled-fortune.html",
+        "url_mobile": "https://www.modernghana.com/amp/news/1132399/oxfam-says-worlds-ten-richest-men-doubled-fortune.html"
+      },
+      {
+        "domain": "wvtm13.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wvtm13.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.wvtm13.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e5c62fe2f6aa7975b2f083%2F0x0.jpg%3FcropX1%3D237%26cropX2%3D1210%26cropY1%3D257%26cropY2%3D1030",
+        "sourcecountry": "United States",
+        "title": "Taylor , Bowie & Beyond : How Peloton Will Continue Taking Stock Of Its Music Empire",
+        "url": "https://www.forbes.com/sites/cathyolson/2022/01/17/taylor-bowie--beyond-how-peloton-will-continue-taking-stock-of-its-music-empire/",
+        "url_mobile": "https://www.forbes.com/sites/cathyolson/2022/01/17/taylor-bowie--beyond-how-peloton-will-continue-taking-stock-of-its-music-empire/amp/"
+      },
+      {
+        "domain": "tulsaworld.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/d/9c/d9cc7245-7b77-5b9e-8702-d0d438789b9b/61e5a6445aa0d.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://tulsaworld.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_17c71b19-7350-50da-b47d-8582d7b2905e.html",
+        "url_mobile": "https://tulsaworld.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_17c71b19-7350-50da-b47d-8582d7b2905e.amp.html"
+      },
+      {
+        "domain": "nbcsandiego.com",
+        "language": "English",
+        "seendate": "20220117T211500Z",
+        "socialimage": "https://media.nbcsandiego.com/2022/01/GettyImages-1237786666.jpg?quality=85&strip=all&fit=1200%2C674",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , National Leaders Acknowledge Unmet Needs for Racial Equality",
+        "url": "https://www.nbcsandiego.com/news/national-international/on-mlk-day-national-leaders-acknowledge-unmet-needs-for-racial-equality/2840570/",
+        "url_mobile": "https://www.nbcsandiego.com/news/national-international/on-mlk-day-national-leaders-acknowledge-unmet-needs-for-racial-equality/2840570/?amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Full impact of Tonga eruption still unknown",
+        "url": "https://www.msn.com/en-au/news/australia/full-impact-of-tonga-eruption-still-unknown/ar-AASSnqS",
+        "url_mobile": ""
+      },
+      {
+        "domain": "klif.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.klif.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "https://menafn.com/updates/pr/",
+        "sourcecountry": "Qatar",
+        "title": "Pramod Master Coach Publishes a New Book on Public Speaking ... ",
+        "url": "https://menafn.com/1103551990/Pramod-Master-Coach-Publishes-a-New-Book-on-Public-Speaking-and-Mentoring-People",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theislandnow.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "https://theislandnow.com/wp-content/uploads/2021/11/PhilipRaicesRealEstate-4.jpg",
+        "sourcecountry": "United States",
+        "title": "All Things Real Estate : Two out of three Americans own homes - Business",
+        "url": "https://theislandnow.com/business-106/all-things-real-estate-two-out-of-three-americans-own-homes/",
+        "url_mobile": "https://theislandnow.com/business-106/all-things-real-estate-two-out-of-three-americans-own-homes/amp/"
+      },
+      {
+        "domain": "houstonchronicle.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/51/00/21925893/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.houstonchronicle.com/news/article/Atlanta-church-service-will-celebrate-Martin-16781937.php",
+        "url_mobile": "https://www.houstonchronicle.com/news/amp/Atlanta-church-service-will-celebrate-Martin-16781937.php"
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Here what could rattle the stock market this year",
+        "url": "https://www.kmjnow.com/news/heres-what-could-rattle-the-stock-market-this-year/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "chinanationalnews.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : COVID - 19 continues to take political , economic toll on U . S . ",
+        "url": "https://www.chinanationalnews.com/news/272192338/roundup-covid-19-continues-to-take-political-economic-toll-on-us",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmaj1440.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.kmaj1440.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sharonherald.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/sharonherald.com/content/tncms/assets/v3/editorial/4/c5/4c59e59c-77c7-11ec-8669-eba7ad895484/61e5bc10779f9.image.jpg?crop=1920%2C1008%2C0%2C35",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.sharonherald.com/news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_b7b48c44-77c6-11ec-90e6-9bc878cd2a7b.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.kmjnow.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dallassun.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "COVID - 19 continues to take political , economic toll on U . S . ",
+        "url": "https://www.dallassun.com/news/272192360/covid-19-continues-to-take-political-economic-toll-on-us",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washtimesherald.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/washtimesherald.com/content/tncms/custom/image/4fb9806c-b897-11e5-9b50-9feaa48f4dad.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.washtimesherald.com/news/national_news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_4c961bb6-4f6d-51e3-b44f-ae9e98728d79.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "valdostadailytimes.com",
+        "language": "English",
+        "seendate": "20220117T210000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/f/69/f6959235-0548-517d-a21d-e91fb95d56a7/61e51ef7d900b.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.valdostadailytimes.com/news/state_news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_4402a354-5d88-52e0-aaf7-5cad0ddfbeff.html",
+        "url_mobile": "https://www.valdostadailytimes.com/news/state_news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_4402a354-5d88-52e0-aaf7-5cad0ddfbeff.amp.html"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/V_3064aimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Apex Group Private Equity 2022 Outlook",
+        "url": "https://menafn.com/1103551748/Apex-Groups-Private-Equity-2022-Outlook&source=25",
+        "url_mobile": ""
+      },
+      {
+        "domain": "irishmirror.ie",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://i2-prod.mirror.co.uk/incoming/article25972289.ece/ALTERNATES/s1200/0_M.jpg",
+        "sourcecountry": "Ireland",
+        "title": "Bella Hadid says she suffered  excruciating  pain during  depressive episodes  ",
+        "url": "https://www.irishmirror.ie/showbiz/celebrity-news/bella-hadid-says-suffered-excruciating-25972637",
+        "url_mobile": "https://www.irishmirror.ie/showbiz/celebrity-news/bella-hadid-says-suffered-excruciating-25972637.amp"
+      },
+      {
+        "domain": "dailyherald.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://www.dailyherald.com/storyimage/DA/20220117/NEWS/220119409/AR/0/AR-220119409.jpg&updated=202201171358",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.dailyherald.com/news/20220117/on-mlk-day-biden-says-americans-must-commit-to-kings-work",
+        "url_mobile": "https://www.dailyherald.com/amp-article/20220117/news/220119409/"
+      },
+      {
+        "domain": "foxnews.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/David-McCormick.jpg",
+        "sourcecountry": "United States",
+        "title": "Dr . Oz and McCormick trade shots over China as Pennsylvania GOP Senate battle fires up",
+        "url": "https://www.foxnews.com/politics/mccormick-and-oz-trade-shots-over-china-as-pennsylvania-gop-senate-battle-fires-up",
+        "url_mobile": "https://www.foxnews.com/politics/mccormick-and-oz-trade-shots-over-china-as-pennsylvania-gop-senate-battle-fires-up.amp"
+      },
+      {
+        "domain": "thesouthern.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/thesouthern.com/content/tncms/assets/v3/editorial/b/af/bafab800-4b8c-5f5f-b616-d828997dbb87/61e5a019cef29.preview.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Minor arrested after two Carbondale shootings ; no injuries reported",
+        "url": "https://thesouthern.com/news/local/court-reports/minor-arrested-after-two-carbondale-shootings-no-injuries-reported/article_bafab800-4b8c-5f5f-b616-d828997dbb87.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wdsu.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wdsu.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.wdsu.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/V_43964image_story.png",
+        "sourcecountry": "Qatar",
+        "title": "Oil Smashing Stocks",
+        "url": "https://menafn.com/1103551747/Oil-Smashing-Stocks&source=24",
+        "url_mobile": ""
+      },
+      {
+        "domain": "meridianstar.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/meridianstar.com/content/tncms/assets/v3/editorial/a/3a/a3a4dc78-fc4a-525e-8459-66712199a57a/61e51ecb9f236.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.meridianstar.com/news/nation_and_world/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_879960c4-7b01-54ec-8edf-172692871c9b.html",
+        "url_mobile": "https://www.meridianstar.com/news/nation_and_world/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_879960c4-7b01-54ec-8edf-172692871c9b.amp.html"
+      },
+      {
+        "domain": "expressnews.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/47/42/21919910/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Brooks : America is falling apart at the seams",
+        "url": "https://www.expressnews.com/opinion/commentary/article/Brooks-Commentary-America-democracy-16776976.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/AFP_21761image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Activision fired dozens over harassment allegations : WSJ",
+        "url": "https://menafn.com/1103551900/Activision-fired-dozens-over-harassment-allegations-WSJ&source=140",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/V_e9e42image_story.png",
+        "sourcecountry": "Qatar",
+        "title": "Truce Between Amazon And Visa Will Stem Lost Business But Co ... ",
+        "url": "https://menafn.com/1103551750/Truce-Between-Amazon-And-Visa-Will-Stem-Lost-Business-But-Confusion-Still-Reigns-For-Consumers&source=22",
+        "url_mobile": ""
+      },
+      {
+        "domain": "postregister.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/c/99/c99c4b6f-6fcc-57e7-8bd5-7685bf3820ee/61e51ee4d177a.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.postregister.com/news/national/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_98855c5e-b731-5fc0-9598-378bd385b5bf.html",
+        "url_mobile": "https://www.postregister.com/news/national/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_98855c5e-b731-5fc0-9598-378bd385b5bf.amp.html"
+      },
+      {
+        "domain": "kvor.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "NY Legislature to Likely Take Control of Redistricting , Impact Midterm Elections",
+        "url": "https://www.kvor.com/news/ny-legislature-to-likely-take-control-of-redistricting-impact-midterm-elections/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A TOP RANKED FIRM , Encourages Playtika Holding Corp . Investors to Secure Counsel Before Important January 24 Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-a-top-ranked-firm-encourages-playtika-holding-corp-investors-to-secure-counsel-before-important-january-24-deadline-in-securities-class-action--pltk-301461646.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bozemandailychronicle.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/bozemandailychronicle.com/content/tncms/assets/v3/editorial/8/37/83751e7f-37a1-500b-8429-50c21ceeeac0/61e51f0d8210a.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.bozemandailychronicle.com/ap_news/us/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_5d35d30d-6df8-5cb7-9bcc-2ea4d540a1a8.html",
+        "url_mobile": "https://www.bozemandailychronicle.com/ap_news/us/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_5d35d30d-6df8-5cb7-9bcc-2ea4d540a1a8.amp.html"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/V_43964image_story.png",
+        "sourcecountry": "Qatar",
+        "title": "Oil Smashing Stocks",
+        "url": "https://menafn.com/1103551747/Oil-Smashing-Stocks&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "buffalonews.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/b2/fb20da68-c3be-55b7-a6a6-996bdfdd7423/61e5a6406b160.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://buffalonews.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_eefbb085-ec3a-52fa-a999-fd464d933bb6.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/V_43964image_story.png",
+        "sourcecountry": "Qatar",
+        "title": "Oil Smashing Stocks",
+        "url": "https://menafn.com/1103551747/Oil-Smashing-Stocks&source=26",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wsau.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/17/2022-01-17T194422Z_1_LYNXMPEI0G0PB_RTROPTP_3_ACTIVISION-BLIZZARD-RESULTS.JPG",
+        "sourcecountry": "United States",
+        "title": "Activision Blizzard fires more people in sexual harassment , probe , report says",
+        "url": "https://wsau.com/2022/01/17/activision-blizzard-fires-more-people-in-sexual-harassment-probe-report-says/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/AFP_21761image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Activision fired dozens over harassment allegations : WSJ",
+        "url": "https://menafn.com/1103551900/Activision-fired-dozens-over-harassment-allegations-WSJ&source=22",
+        "url_mobile": ""
+      },
+      {
+        "domain": "goskagit.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/f/e9/fe987b9e-9c14-5662-b03f-3eee0b63ed6c/61e51eca67706.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.goskagit.com/news/nation/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_8714d800-6ed2-5658-b3a3-2d70a6baec34.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/AFP_21761image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Activision fired dozens over harassment allegations : WSJ",
+        "url": "https://menafn.com/1103551900/Activision-fired-dozens-over-harassment-allegations-WSJ&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "expressnews.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://s.hdnux.com/photos/01/23/51/00/21925893/3/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.expressnews.com/news/article/Atlanta-church-service-will-celebrate-Martin-16781937.php",
+        "url_mobile": "https://www.expressnews.com/news/amp/Atlanta-church-service-will-celebrate-Martin-16781937.php"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/V_3064aimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Apex Group Private Equity 2022 Outlook",
+        "url": "https://menafn.com/1103551748/Apex-Groups-Private-Equity-2022-Outlook&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wgal.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wgal.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.wgal.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "wfmz.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/04/0041f61a-5e9d-5313-bc98-4d312c4659be/61e51f3e9b793.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wfmz.com/news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_71d137d4-1297-5639-bb7b-bdb9edcc7731.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/V_3064aimage_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "Apex Group Private Equity 2022 Outlook",
+        "url": "https://menafn.com/1103551748/Apex-Groups-Private-Equity-2022-Outlook&source=22",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/17/V_e9e42image_story.png",
+        "sourcecountry": "Qatar",
+        "title": "Truce Between Amazon And Visa Will Stem Lost Business But Co ... ",
+        "url": "https://menafn.com/1103551750/Truce-Between-Amazon-And-Visa-Will-Stem-Lost-Business-But-Confusion-Still-Reigns-For-Consumers&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "pressofatlanticcity.com",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/2/d4/2d412704-9348-5016-9e1d-13cefccef220/61e5a6428b051.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://pressofatlanticcity.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_350e58c7-cd6f-581e-ba7b-3932a926cabb.html",
+        "url_mobile": "https://pressofatlanticcity.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_350e58c7-cd6f-581e-ba7b-3932a926cabb.amp.html"
+      },
+      {
+        "domain": "china.org.cn",
+        "language": "English",
+        "seendate": "20220117T204500Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Winter storm hits U . S . East Coast - China . org . cn",
+        "url": "http://www.china.org.cn/world/Off_the_Wire/2022-01/18/content_77995569.htm",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finance.townhall.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://media.townhall.com/_townhall/resources/images/thog.png",
+        "sourcecountry": "United States",
+        "title": "Chip Sector Takes Tech Selloff in Stride",
+        "url": "https://finance.townhall.com/columnists/bryanperry/2022/01/17/chip-sector-takes-tech-selloff-in-stride-n2601967",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wnyt.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://wnyt.com/apimages/apccbd84b8c74c4526a78057858f064d6f.jpg",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://wnyt.com/news/atlanta-church-service-will-celebrate-martin-luther-king-jr/6361166/?cat=661",
+        "url_mobile": "https://amp.wnyt.com/articles/atlanta-church-service-will-celebrate-martin-luther-king-jr-6361166.html"
+      },
+      {
+        "domain": "bc.ctvnews.ca",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/1/17/pink-salmon-and-chum-salmon-1-5743293-1642446530413.jpg",
+        "sourcecountry": "Canada",
+        "title": "Fishing in B . C .: Treaty failing to protect salmon , report says",
+        "url": "https://bc.ctvnews.ca/treaty-failing-to-protect-north-coast-b-c-salmon-from-alaskan-commercial-fisheries-report-1.5743279",
+        "url_mobile": "https://beta.ctvnews.ca/local/british-columbia/2022/1/17/1_5743279.amp.html"
+      },
+      {
+        "domain": "canadafreepress.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://canadafreepress.com/images/uploads/cover011722.jpg",
+        "sourcecountry": "United States",
+        "title": "Sorry , FBI : The Texas Synagogue Hostage Standoff Was No Surprise",
+        "url": "https://canadafreepress.com/article/sorry-fbi-the-texas-synagogue-hostage-standoff-was-no-surprise",
+        "url_mobile": ""
+      },
+      {
+        "domain": "journalnow.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/c/d9/cd98a7f0-8115-59b0-b58d-2faf3c21948b/61e5a6422a75f.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://journalnow.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_3319dbe0-aae9-5608-9b50-2b084ccbbe3b.html",
+        "url_mobile": "https://journalnow.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_3319dbe0-aae9-5608-9b50-2b084ccbbe3b.amp.html"
+      },
+      {
+        "domain": "texasguardian.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "COVID - 19 continues to take political , economic toll on U . S . ",
+        "url": "https://www.texasguardian.com/news/272192360/covid-19-continues-to-take-political-economic-toll-on-us",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tribdem.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/tribdem.com/content/tncms/assets/v3/editorial/8/f6/8f64d548-6d8b-50ee-a798-164aaa1e4133/61e5bb9fb276d.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.tribdem.com/news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_1fa690b9-2e29-51d6-8741-69a08edc4de6.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "en.globes.co.il",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/Globes_Archive_800x392.2018729T150619.jpg",
+        "sourcecountry": "Israel",
+        "title": "Mon : Banks fall on flat TASE",
+        "url": "https://en.globes.co.il/en/article-mon-banks-fall-on-flat-tase-1001398896",
+        "url_mobile": ""
+      },
+      {
+        "domain": "latimes.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://california-times-brightspot.s3.amazonaws.com/e4/9f/5ef57def6db864816ceb0482477c/651aa12e64494974a9a36d3b3cb6a9fc",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.latimes.com/world-nation/story/2022-01-17/on-mlk-day-biden-says-americans-must-commit-to-kings-work",
+        "url_mobile": "https://www.latimes.com/world-nation/story/2022-01-17/on-mlk-day-biden-says-americans-must-commit-to-kings-work?_amp=true"
+      },
+      {
+        "domain": "shanghaisun.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "Roundup : COVID - 19 continues to take political , economic toll on U . S . ",
+        "url": "https://www.shanghaisun.com/news/272192338/roundup-covid-19-continues-to-take-political-economic-toll-on-us",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Glaxo courts Qatar and Singapore to head off \u00a350bn Unilever swoop",
+        "url": "https://www.msn.com/en-gb/money/other/glaxo-courts-qatar-and-singapore-to-head-off-%c2%a350bn-unilever-swoop/ar-AASSdPN",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sott.net",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://www.sott.net/image/s31/634175/full/AASLI4E.jpg",
+        "sourcecountry": "United States",
+        "title": "China trade surplus hit a record in 2021 as exports rose -- Society Child -- Sott . net",
+        "url": "https://www.sott.net/article/463290-Chinas-trade-surplus-hit-a-record-in-2021-as-exports-rose",
+        "url_mobile": ""
+      },
+      {
+        "domain": "statesville.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/statesville.com/content/tncms/assets/v3/editorial/8/6d/86d900d9-2da8-5d30-af95-9d176a66b8b5/61e5a643ac2a7.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://statesville.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_e050082f-dbc6-5451-ac5b-87ec0564b7b9.html",
+        "url_mobile": "https://statesville.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_e050082f-dbc6-5451-ac5b-87ec0564b7b9.amp.html"
+      },
+      {
+        "domain": "wnyt.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://wnyt.com/apimages/apccbd84b8c74c4526a78057858f064d6f.jpg",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://wnyt.com/news/atlanta-church-service-will-celebrate-martin-luther-king-jr/6361166/?cat=10114",
+        "url_mobile": "https://amp.wnyt.com/articles/atlanta-church-service-will-celebrate-martin-luther-king-jr-6361166.html"
+      },
+      {
+        "domain": "borneobulletin.com.bn",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://borneobulletin.com.bn/wp-content/uploads/2022/01/P12-B_18012022.jpg",
+        "sourcecountry": "Brunei",
+        "title": "World 10 richest men doubled wealth during COVID | Borneo Bulletin Online",
+        "url": "https://borneobulletin.com.bn/worlds-10-richest-men-doubled-wealth-during-covid/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2020/05/long-term-stocks.jpg",
+        "sourcecountry": "United States",
+        "title": "Long - Term Stocks to Buy and Hold Until 2030",
+        "url": "https://investorplace.com/2022/01/7-long-term-stocks-to-buy-and-hold-until-2030/",
+        "url_mobile": "https://investorplace.com/2022/01/7-long-term-stocks-to-buy-and-hold-until-2030/amp/"
+      },
+      {
+        "domain": "shanghaisun.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "",
+        "sourcecountry": "China",
+        "title": "COVID - 19 continues to take political , economic toll on U . S . ",
+        "url": "https://www.shanghaisun.com/news/272192360/covid-19-continues-to-take-political-economic-toll-on-us",
+        "url_mobile": ""
+      },
+      {
+        "domain": "canadafreepress.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "John Connolly , journalist who investigated Jeffrey Epstein , dead at 78",
+        "url": "https://canadafreepress.com/article/john-connolly-journalist-who-investigated-jeffrey-epstein-dead-at-78",
+        "url_mobile": ""
+      },
+      {
+        "domain": "markets.businessinsider.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TRUSTED NATIONAL TRIAL COUNSEL , Encourages Revance Therapeutics , Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action - RVNC",
+        "url": "http://markets.businessinsider.com/news/stocks/rosen-trusted-national-trial-counsel-encourages-revance-therapeutics-inc-investors-with-losses-to-secure-counsel-before-important-deadline-in-securities-class-action-rvnc-1031106930",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2019/07/ROKU1600_2.jpg",
+        "sourcecountry": "United States",
+        "title": "Roku Stock Remains a Buy on Weakness Despite the Skeptics",
+        "url": "https://investorplace.com/2022/01/roku-stock-remains-a-buy-on-weakness-despite-the-skeptics/",
+        "url_mobile": "https://investorplace.com/2022/01/roku-stock-remains-a-buy-on-weakness-despite-the-skeptics/amp/"
+      },
+      {
+        "domain": "washingtonpost.com",
+        "language": "English",
+        "seendate": "20220117T203000Z",
+        "socialimage": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QGZVFADXXII6ZHOOOMJVPHPEGQ.jpg",
+        "sourcecountry": "United States",
+        "title": "Cyberattacks on\u00a0Ukraine Could Spread Globally - The Washington Post",
+        "url": "https://www.washingtonpost.com/business/cyberattacks-onukraine-could-spread-globally/2022/01/17/8234d2ba-77ba-11ec-9dce-7313579de434_story.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kstp.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://kstp.com/kstpImages/repository/2022-01/1280MLKMemorialWashingtonJan16-AP.jpg",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://kstp.com/politics/on-mlk-day-biden-says-americans-must-commit-to-kings-work/6361512/?cat=12678",
+        "url_mobile": "https://amp.kstp.com/articles/on-mlk-day-biden-says-americans-must-commit-to-kings-work-6361512.html"
+      },
+      {
+        "domain": "newspressnow.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/newspressnow.com/content/tncms/assets/v3/editorial/d/98/d98dda49-63d1-5bb6-8736-cd308f048a84/61e51ecb07660.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.newspressnow.com/news/national_news/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_11193e66-3a88-54d4-a8f9-b4fe00cd5ea4.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Activision Blizzard fires more people in sexual harassment , probe , report says",
+        "url": "https://www.msn.com/en-us/money/companies/activision-blizzard-fires-more-people-in-sexual-harassment-probe-report-says/ar-AASS4Hn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wmtw.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wmtw.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.wmtw.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "thecentersquare.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/b/fc/bfc122fe-7315-11ec-ab67-53e98ecb4683/61dddc71bc268.image.jpg?crop=1970%2C1034%2C0%2C8",
+        "sourcecountry": "",
+        "title": "Quick hits : Illinois news in brief for Monday , Jan . 17 , 2022",
+        "url": "https://www.thecentersquare.com/illinois/quick-hits-illinois-news-in-brief-for-monday-jan-17-2022/article_83448a14-77a7-11ec-a3c9-a3ba94178c64.html",
+        "url_mobile": "https://www.thecentersquare.com/illinois/quick-hits-illinois-news-in-brief-for-monday-jan-17-2022/article_83448a14-77a7-11ec-a3c9-a3ba94178c64.amp.html"
+      },
+      {
+        "domain": "mynbc5.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.mynbc5.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.mynbc5.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/calendar%20jan%2016%20teaser.jpg?itok=H8QmHJyb",
+        "sourcecountry": "United States",
+        "title": "Key Events This Holiday - Shortened Week : Earnings Galore , Central Banks And united kingdom Inflation",
+        "url": "https://www.zerohedge.com/markets/key-events-holiday-shortened-week-earnings-galore-central-banks-and-uk-inflation",
+        "url_mobile": ""
+      },
+      {
+        "domain": "digitalspy.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mary-j-blige-monet-daniel-sunjata-mecca-power-ghost-1639578700.jpg?crop=0.871xw:0.656xh;0.0164xw,0.0295xh",
+        "sourcecountry": "United Kingdom",
+        "title": "Power Book II Ghost season 3 confirms returning Power character",
+        "url": "https://www.digitalspy.com/tv/ustv/a38794657/power-book-ghost-monique-curnen-returning/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mirror.co.uk",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://i2-prod.mirror.co.uk/incoming/article25972289.ece/ALTERNATES/s1200/0_M.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Bella Hadid says she suffered  excruciating  pain during  depressive episodes  ",
+        "url": "https://www.mirror.co.uk/3am/celebrity-news/bella-hadid-says-suffered-excruciating-25971769",
+        "url_mobile": "https://www.mirror.co.uk/3am/celebrity-news/bella-hadid-says-suffered-excruciating-25971769.amp"
+      },
+      {
+        "domain": "berkshireeagle.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/a/99/a9937792-ebd2-5945-8832-5da7fa74f138/61e581609654d.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.berkshireeagle.com/ap/national/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_aaa05964-9ec2-5c4b-808f-0416303069b1.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "mises.org",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://cdn.mises.org/covid2_6.jpg",
+        "sourcecountry": "United States",
+        "title": "The Expert  Zero Covid  Plan Was a Total Failure",
+        "url": "https://mises.org/wire/experts-zero-covid-plan-was-total-failure",
+        "url_mobile": ""
+      },
+      {
+        "domain": "titusvilleherald.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/titusvilleherald.com/content/tncms/custom/image/ae57dbb0-8544-11e8-91c6-97689030322a.jpg",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.titusvilleherald.com/news/state_news/article_61baf56c-b073-50c6-b094-4ded80ae512f.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businessinsider.com.au",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://i.insider.com/61e564ac04ce6e0018d776da?format=jpeg",
+        "sourcecountry": "Australia",
+        "title": "Julia Fox says she undergone a  transformation  with Kanye West after boxing up her  old clothe and  old life  ",
+        "url": "https://www.businessinsider.com.au/julia-fox-got-rid-of-old-clothes-since-kanye-west-2022-1",
+        "url_mobile": "https://www.businessinsider.com.au/julia-fox-got-rid-of-old-clothes-since-kanye-west-2022-1/amp"
+      },
+      {
+        "domain": "psychologytoday.com",
+        "language": "English",
+        "seendate": "20220117T201500Z",
+        "socialimage": "https://cdn2.psychologytoday.com/assets/styles/min_1200px_wide/public/judy-wurtman.jpg?itok=DPAQ0TM2",
+        "sourcecountry": "United States",
+        "title": "Does Intuitive Eating Work When Your Appetite Is Controlled ? ",
+        "url": "https://www.psychologytoday.com/intl/blog/the-antidepressant-diet/202201/does-intuitive-eating-work-when-your-appetite-is-controlled",
+        "url_mobile": "https://www.psychologytoday.com/intl/blog/the-antidepressant-diet/202201/does-intuitive-eating-work-when-your-appetite-is-controlled?amp"
+      },
+      {
+        "domain": "mykxlg.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.mykxlg.com/news/national/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_7f45ce9b-c1db-575e-8b0f-8ceb9786284d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kpvi.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/1/e1/1e19cb1b-f45f-58e0-84c4-eeca817717ac/61044feb8c26b.image.jpg?crop=1669%2C876%2C348%2C0",
+        "sourcecountry": "United States",
+        "title": "ROSEN , TRUSTED NATIONAL TRIAL COUNSEL , Encourages Revance Therapeutics , Inc . Investors with Losses to Secure Counsel Before Important Deadline in Securities Class Action - RVNC",
+        "url": "https://www.kpvi.com/news/national_news/rosen-trusted-national-trial-counsel-encourages-revance-therapeutics-inc-investors-with-losses-to-secure-counsel/article_6a72f088-b242-5e67-8cec-f491abcb8b7d.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "markets.businessinsider.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Covid Disruptions Chop Into GreenTree Profit , As It Tries To Focus On Future",
+        "url": "https://markets.businessinsider.com/news/stocks/covid-disruptions-chop-into-greentree-profit-as-it-tries-to-focus-on-future-1031106931",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fox4news.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/01/1280/720/GettyImages-517357504.jpg?ve=1&tl=1",
+        "sourcecountry": "United States",
+        "title": "MLK Day 2022 : What open and closed on Monday",
+        "url": "https://www.fox4news.com/news/mlk-day-2022-whats-open-and-closed",
+        "url_mobile": "https://www.fox4news.com/news/mlk-day-2022-whats-open-and-closed.amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Glaxo courts Qatar and Singapore to head off \u00a350bn Unilever swoop",
+        "url": "https://www.msn.com/en-gb/money/other/glaxo-courts-qatar-and-singapore-to-head-off-50bn-unilever-swoop/ar-AASSdPN",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcchicago.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "https://media.nbcchicago.com/2022/01/GettyImages-1237786666.jpg?quality=85&strip=all&fit=1200%2C674",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , National Leaders Acknowledge Unmet Needs for Racial Equality",
+        "url": "https://www.nbcchicago.com/news/national-international/on-mlk-day-national-leaders-acknowledge-unmet-needs-for-racial-equality/2730060/",
+        "url_mobile": "https://www.nbcchicago.com/news/national-international/on-mlk-day-national-leaders-acknowledge-unmet-needs-for-racial-equality/2730060/?amp"
+      },
+      {
+        "domain": "sandiegosun.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "COVID - 19 continues to take political , economic toll on U . S . ",
+        "url": "https://www.sandiegosun.com/news/272192360/covid-19-continues-to-take-political-economic-toll-on-us",
+        "url_mobile": ""
+      },
+      {
+        "domain": "farmlandgrab.org",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "https://farmlandgrab.org/uploads/images/photos/15757/large_corporations-consolidating-water-land-rights-january-2022-1410x0-c-default.jpeg",
+        "sourcecountry": "China",
+        "title": "farmlandgrab . org | US : Corporations are consolidating water and land rights in the West",
+        "url": "https://www.farmlandgrab.org/post/view/30726-us-corporations-are-consolidating-water-and-land-rights-in-the-west",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyvoice.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "https://daily-voice-res.cloudinary.com/image/upload/c_limit,e_sharpen,f_auto,q_auto:eco,w_640/messages_0_21_ohxtya.jpg",
+        "sourcecountry": "United States",
+        "title": "  Special K , Ecstasy Seized In Separate Lyndhurst Stops",
+        "url": "https://dailyvoice.com/new-jersey/lyndhurst/news/special-k-ecstasy-seized-in-separate-lyndhurst-stops/824058/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gamesindustry.biz",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "https://images.gnwcdn.com/2022/articles/2022-01-17-17-25/activision_blizzard_00.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Activision Blizzard confirms 37 people  fired or pushed out  in wake of lawsuit",
+        "url": "https://www.gamesindustry.biz/articles/2022-01-17-confirms-37-people-fired-or-pushed-out-in-wake-of-lawsuit",
+        "url_mobile": "/amp/2022-01-17-confirms-37-people-fired-or-pushed-out-in-wake-of-lawsuit"
+      },
+      {
+        "domain": "farmlandgrab.org",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "https://farmlandgrab.org/uploads/images/photos/15757/large_corporations-consolidating-water-land-rights-january-2022-1410x0-c-default.jpeg",
+        "sourcecountry": "China",
+        "title": "farmlandgrab . org | US : Corporations are consolidating water and land rights in the West",
+        "url": "https://www.farmlandgrab.org/30726",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wtae.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/martin-luther-king-jr-day-2022-1642445480.jpg?crop=1.00xw:0.713xh;0,0",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://www.wtae.com/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364",
+        "url_mobile": "https://www.wtae.com/amp/article/on-mlk-day-biden-says-americans-must-commit-to-king-s-work/38793364"
+      },
+      {
+        "domain": "cnn.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "https://cdn.cnn.com/cnnnext/dam/assets/220117103252-nyse-0110-super-tease.jpg",
+        "sourcecountry": "United States",
+        "title": "Here what could rattle the stock market this year",
+        "url": "https://www.cnn.com/2022/01/17/investing/stock-market-resilience/",
+        "url_mobile": "https://amp.cnn.com/cnn/2022/01/17/investing/stock-market-resilience/index.html"
+      },
+      {
+        "domain": "cryptohayes.medium.com",
+        "language": "English",
+        "seendate": "20220117T200000Z",
+        "socialimage": "https://miro.medium.com/max/400/0*nbbPYRSys_g7ZT_0",
+        "sourcecountry": "United States",
+        "title": "Maelstrom . ( Any views expressed in the below are \u2026 | by Arthur Hayes | Jan , 2022",
+        "url": "https://cryptohayes.medium.com/maelstrom-ee6021e9d0c2?source=home---------3---------------------066396ed_40e6_4572_b9ac_1e2d170a476c-------7---",
+        "url_mobile": ""
+      },
+      {
+        "domain": "qctimes.com",
+        "language": "English",
+        "seendate": "20220117T194500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/e/a3/ea36ff47-e10e-54c3-96e8-05d8fed0d04c/61e5a642b0d0c.image.jpg?crop=1762%2C928%2C0%2C176",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , Biden says Americans must commit to King work",
+        "url": "https://qctimes.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_8b66d45a-c839-5bdf-9ee7-1bc13b34985f.html",
+        "url_mobile": "https://qctimes.com/news/national/obituaries/on-mlk-day-biden-says-americans-must-commit-to-kings-work/article_8b66d45a-c839-5bdf-9ee7-1bc13b34985f.amp.html"
+      },
+      {
+        "domain": "mexicostar.com",
+        "language": "English",
+        "seendate": "20220117T194500Z",
+        "socialimage": "",
+        "sourcecountry": "Mexico",
+        "title": "COVID - 19 continues to take political , economic toll on U . S . ",
+        "url": "https://www.mexicostar.com/news/272192360/covid-19-continues-to-take-political-economic-toll-on-us",
+        "url_mobile": ""
+      },
+      {
+        "domain": "prnewswire.com",
+        "language": "English",
+        "seendate": "20220117T194500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A LEADING LAW FIRM , Encourages Alfi , Inc . Investors to Secure Counsel Before Important January 31 Deadline in Securities Class Action",
+        "url": "https://www.prnewswire.com:443/news-releases/rosen-a-leading-law-firm-encourages-alfi-inc-investors-to-secure-counsel-before-important-january-31-deadline-in-securities-class-action--alf-301461604.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220117T194500Z",
+        "socialimage": "https://media.nbclosangeles.com/2022/01/GettyImages-1237786666.jpg?quality=85&strip=all&fit=1200%2C674",
+        "sourcecountry": "United States",
+        "title": "On MLK Day , National Leaders Acknowledge Unmet Needs for Racial Equality",
+        "url": "https://www.nbclosangeles.com/news/national-international/on-mlk-day-national-leaders-acknowledge-unmet-needs-for-racial-equality/2798838/",
+        "url_mobile": "https://www.nbclosangeles.com/news/national-international/on-mlk-day-national-leaders-acknowledge-unmet-needs-for-racial-equality/2798838/?amp"
+      },
+      {
+        "domain": "manufacturing.net",
+        "language": "English",
+        "seendate": "20220117T194500Z",
+        "socialimage": "https://img.manufacturing.net/files/base/indm/multi/image/2022/01/16x9/iStock_926016510.61e58b7672bd9.png?auto=format%2Ccompress&fit=max&q=70",
+        "sourcecountry": "United States",
+        "title": "Prosecutors Recommend Dropping Charges Against MIT Professor",
+        "url": "https://www.manufacturing.net:443/home/news/22005413/prosecutors-recommend-dropping-charges-against-mit-professor",
+        "url_mobile": ""
+      },
+      {
+        "domain": "financial-planning.com",
+        "language": "English",
+        "seendate": "20220117T194500Z",
+        "socialimage": "https://source-media-brightspot.s3.amazonaws.com/94/55/5d9becf84dc480614449e34fb6b2/382904252.jpg",
+        "sourcecountry": "United States",
+        "title": "Retiring early to lie flat ? Keep an eye on inflation",
+        "url": "https://www.financial-planning.com/articles/retiring-early-to-lie-flat-keep-an-eye-on-inflation",
+        "url_mobile": ""
+      },
+      {
+        "domain": "padovanews.it",
+        "language": "English",
+        "seendate": "20220117T194500Z",
+        "socialimage": "http://www.padovanews.it/wp-content/uploads/2022/01/72507aa8-4ead-4ed9-9ff7-bbf1cad72bbd.jpg",
+        "sourcecountry": "Italy",
+        "title": "New to The Street TV Announces Episodes Airing on the Fox Business Network , Tonight , Monday , January 17 , 2022 , at 10 : 30 PM PT and Tomorrow Night , Tuesday , January 18 , 2022 , at 10 : 30 PM PT",
+        "url": "http://www.padovanews.it/2022/01/17/new-to-the-street-tv-announces-episodes-airing-on-the-fox-business-network-tonight-monday-january-17-2022-at-1030-pm-pt-and-tomorrow-night-tuesday-january-18-2022-at-1030-pm-pt/",
+        "url_mobile": "http://www.padovanews.it/2022/01/17/new-to-the-street-tv-announces-episodes-airing-on-the-fox-business-network-tonight-monday-january-17-2022-at-1030-pm-pt-and-tomorrow-night-tuesday-january-18-2022-at-1030-pm-pt/amp/"
+      },
+      {
+        "domain": "gamesindustry.biz",
+        "language": "English",
+        "seendate": "20220117T194500Z",
+        "socialimage": "https://images.gnwcdn.com/2022/articles/2022-01-17-17-25/activision_blizzard_00.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "Activision Blizzard confirms 37 people  fired or pushed out  in wake of lawsuit",
+        "url": "https://www.gamesindustry.biz:443/articles/2022-01-17-confirms-37-people-fired-or-pushed-out-in-wake-of-lawsuit",
+        "url_mobile": "/amp/2022-01-17-confirms-37-people-fired-or-pushed-out-in-wake-of-lawsuit"
+      },
+      {
+        "domain": "freerepublic.com",
+        "language": "English",
+        "seendate": "20220117T194500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Watch Australia closely ( a highly vaccinated population with little preexisting natural immunity ) ",
+        "url": "https://freerepublic.com/focus/f-bloggers/4030330/posts",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220117T194500Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2021/12/09/Microsoft-1200x799.jpg",
+        "sourcecountry": "United States",
+        "title": "Is Microsoft Stock Overvalued or Undervalued ? ",
+        "url": "https://www.theepochtimes.com/is-microsofts-stock-overvalued-or-undervalued_4217928.html",
+        "url_mobile": "https://www.theepochtimes.com/is-microsofts-stock-overvalued-or-undervalued_4217928.html/amp"
+      }
+    ]
+  }
+}

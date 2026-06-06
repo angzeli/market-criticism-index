@@ -1,0 +1,2508 @@
+{
+  "date": "2022-01-02",
+  "query": "(\"US stock market\" OR \"Wall Street\" OR \"S&P 500\" OR Nasdaq OR \"US equities\" OR \"American stocks\") sourcelang:english",
+  "response": {
+    "articles": [
+      {
+        "domain": "nbcdfw.com",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "https://media.nbcdfw.com/2022/01/106986443-1638981160390-gettyimages-1357898808-dscf2612_20211208103502055.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Stock Futures Rise Ahead of First Trading Day of 2022",
+        "url": "https://www.nbcdfw.com/news/business/money-report/stock-futures-rise-ahead-of-first-trading-day-of-2022/2850254/",
+        "url_mobile": "https://www.nbcdfw.com/news/business/money-report/stock-futures-rise-ahead-of-first-trading-day-of-2022/2850254/?amp"
+      },
+      {
+        "domain": "dailyfx.com",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "https://a.c-dn.net/b/199kbq/headline_data5.JPG",
+        "sourcecountry": "China",
+        "title": "Q1 2022 Top Trade Opportunities",
+        "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/01/02/Q1-2022-Top-Trade-Opportunities.html",
+        "url_mobile": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/01/02/Q1-2022-Top-Trade-Opportunities.html/amp"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "",
+        "sourcecountry": "Canada",
+        "title": "Adams Urges Return to Class in NYC ; U . S . Surges : Virus Update",
+        "url": "https://www.bnnbloomberg.ca/adams-urges-return-to-class-in-nyc-u-s-surges-virus-update-1.1702370",
+        "url_mobile": "https://www.bnnbloomberg.ca/adams-urges-return-to-class-in-nyc-u-s-surges-virus-update-1.1702370.amp.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Adams Urges Return to Class in NYC ; U . S . Surges : Virus Update",
+        "url": "https://www.msn.com/en-us/news/world/adams-urges-return-to-class-in-nyc-u-s-surges-virus-update/ar-AASmGlO",
+        "url_mobile": ""
+      },
+      {
+        "domain": "newdelhitimes.com",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "https://i2.wp.com/www.newdelhitimes.com/wp-content/uploads/2022/01/1000-43.jpeg?fit=1000%2C667&ssl=1",
+        "sourcecountry": "United States",
+        "title": "Stocks end 2021 on a weak note , still notch big yearly gain - New Delhi Times - India Only International Newspaper",
+        "url": "https://www.newdelhitimes.com/stocks-end-2021-on-a-weak-note-still-notch-big-yearly-gain/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kob.com",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "https://www.kob.com/kob4-800x450.jpg",
+        "sourcecountry": "United States",
+        "title": "Tesla says it delivered record 936K vehicles in 2021 , up 87 % ",
+        "url": "https://www.kob.com/business-news/tesla-says-it-delivered-record-936k-vehicles-in-2021-up-87/6347541/",
+        "url_mobile": "https://amp.kob.com/articles/tesla-says-it-delivered-record-936k-vehicles-in-2021-up-87-6347541.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Some Companies Are Ready for Libor Demise , but Not All",
+        "url": "https://www.msn.com/en-xl/news/other/some-companies-are-ready-for-libor-s-demise-but-not-all/ar-AASmRk4",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theparisnews.com",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/theparisnews.com/content/tncms/custom/image/b57bde90-126d-11e8-bc9e-ff12f438597a.png?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "France",
+        "title": "Tesla says it delivered record 936K vehicles in 2021 , up 87 % ",
+        "url": "https://theparisnews.com/news/state/article_a1506a28-c422-5f44-93c0-2a98a91790ab.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/7k6VCoGyzLJR4iBn.LGdQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDE-/https://s.yimg.com/uu/api/res/1.2/Ge52p_3bkgUU3I1dUAEgkQ--~B/aD03MjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/autos.autoweek.com/354a23c0e84551fc3d333bad9da55ad7",
+        "sourcecountry": "United States",
+        "title": "All - Female Team Tackles the Dakar Rally Again",
+        "url": "https://finance.yahoo.com/news/female-team-tackles-dakar-rally-150800306.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/female-team-tackles-dakar-rally-150800306.html"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "https://images.mktw.net/im-455843/social",
+        "sourcecountry": "United States",
+        "title": "Dow futures gain more than 100 points ahead of first trading day of 2022",
+        "url": "https://www.marketwatch.com/story/dow-futures-gain-more-than-100-points-ahead-of-first-trading-day-of-2022-11641166555",
+        "url_mobile": "https://www.marketwatch.com/amp/story/dow-futures-gain-more-than-100-points-ahead-of-first-trading-day-of-2022-11641166555"
+      },
+      {
+        "domain": "ourmidland.com",
+        "language": "English",
+        "seendate": "20220103T000000Z",
+        "socialimage": "https://www.ourmidland.com/img/pages/article/opengraph_default.jpg",
+        "sourcecountry": "United States",
+        "title": "Tesla says it delivered record 936K vehicles in 2021 , up 87 % ",
+        "url": "https://www.ourmidland.com/business/article/Tesla-says-it-delivered-record-936K-vehicles-in-16743594.php",
+        "url_mobile": "https://www.ourmidland.com/business/amp/Tesla-says-it-delivered-record-936K-vehicles-in-16743594.php"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T234500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658349/plant-growing-from-coin-jar.jpg",
+        "sourcecountry": "United States",
+        "title": "The Smartest Stocks to Buy With $20 Right Now and Hold Forever",
+        "url": "https://www.fool.com/investing/2022/01/02/smartest-stocks-to-buy-with-20-right-now-and-hold/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "sfgate.com",
+        "language": "English",
+        "seendate": "20220102T234500Z",
+        "socialimage": "https://www.sfgate.com/img/pages/article/opengraph_default.png",
+        "sourcecountry": "United States",
+        "title": "Tesla says it delivered record 936K vehicles in 2021 , up 87 % ",
+        "url": "https://www.sfgate.com/business/article/Tesla-says-it-delivered-record-936K-vehicles-in-16743594.php",
+        "url_mobile": "https://www.sfgate.com/business/amp/Tesla-says-it-delivered-record-936K-vehicles-in-16743594.php"
+      },
+      {
+        "domain": "gulf-times.com",
+        "language": "English",
+        "seendate": "20220102T234500Z",
+        "socialimage": "https://img.gulf-times.com/Content/Upload/Slider/120222222818959866884.jpg",
+        "sourcecountry": "Qatar",
+        "title": "CMU - Q student wins Mena competition",
+        "url": "https://www.gulf-times.com/story/707313/CMU-Q-student-wins-Mena-competition",
+        "url_mobile": ""
+      },
+      {
+        "domain": "boxden.com",
+        "language": "English",
+        "seendate": "20220102T234500Z",
+        "socialimage": "https://stuff.boxden.com/s3_pics/spot1641163158.jpg",
+        "sourcecountry": "United States",
+        "title": "Elon Musk : Cryptocurrency fixes the  error in money  ",
+        "url": "https://boxden.com/showthread.php?t=3087645",
+        "url_mobile": ""
+      },
+      {
+        "domain": "parabolicarc.com",
+        "language": "English",
+        "seendate": "20220102T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Virgin Orbit Stock Sinks in NASDAQ Debut \u2013 Parabolic Arc",
+        "url": "http://www.parabolicarc.com/2022/01/02/virgin-orbit-stock-sinks-in-nasdaq-debut/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Adams Urges Return to Class in NYC ; U . S . Surges : Virus Update",
+        "url": "https://www.msn.com/en-us/money/markets/adams-urges-return-to-class-in-nyc-us-surges-virus-update/ar-AASmGlO",
+        "url_mobile": ""
+      },
+      {
+        "domain": "abcnews.go.com",
+        "language": "English",
+        "seendate": "20220102T234500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tesla says it delivered record 936K vehicles in 2021 , up 87 % ",
+        "url": "https://abcnews.go.com/Technology/wireStory/tesla-delivered-record-936k-vehicles-2021-87-82044733",
+        "url_mobile": "https://abcnews.go.com/amp/Technology/wireStory/tesla-delivered-record-936k-vehicles-2021-87-82044733"
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220102T230000Z",
+        "socialimage": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEI01064_M.jpg",
+        "sourcecountry": "United States",
+        "title": "AT & T , Verizon CEOs reject U . S . request for 5G deployment delay By Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/att-verizon-ceos-reject-us-request-for-5g-deployment-delay-2728529",
+        "url_mobile": "https://m.investing.com/news/stock-market-news/att-verizon-ceos-reject-us-request-for-5g-deployment-delay-2728529?ampMode=1"
+      },
+      {
+        "domain": "telegraph.co.uk",
+        "language": "English",
+        "seendate": "20220102T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "US investors swoop on British tech start - ups ahead of national security overhaul",
+        "url": "https://www.telegraph.co.uk/business/2022/01/02/us-investors-swoop-british-tech-start-ups-ahead-national-security/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220102T230000Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2019/07/electriccars1600a.jpg",
+        "sourcecountry": "United States",
+        "title": "Dont Just Sit Back While EV Stocks Break Out This Year",
+        "url": "https://investorplace.com/hypergrowthinvesting/2022/01/dont-just-sit-back-while-electric-vehicle-stocks-break-out-this-year/",
+        "url_mobile": "https://investorplace.com/hypergrowthinvesting/2022/01/dont-just-sit-back-while-electric-vehicle-stocks-break-out-this-year/amp/"
+      },
+      {
+        "domain": "komu.com",
+        "language": "English",
+        "seendate": "20220102T230000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/komu.com/content/tncms/assets/v3/editorial/7/66/766a5cc7-d75b-552a-813d-bac69bb4bfa4/61d1e4e6c0da0.preview.jpg?crop=1920%2C1008%2C0%2C35",
+        "sourcecountry": "United States",
+        "title": "Goldman Sachs tells employees to stay home due to Covid",
+        "url": "https://www.komu.com/news/covid19/goldman-sachs-tells-employees-to-stay-home-due-to-covid/article_766a5cc7-d75b-552a-813d-bac69bb4bfa4.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "asia.nikkei.com",
+        "language": "English",
+        "seendate": "20220102T230000Z",
+        "socialimage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F3%252F8%252F2%252F38172830-3-eng-GB%252FCropped-164114685020210102N%2520Tesla%2520Model%25203.JPG?&fit=cover&gravity=faces&source=nar-cms",
+        "sourcecountry": "Japan",
+        "title": "Tesla deliveries beat estimates in Q4 despite supply chain woes - Nikkei Asia",
+        "url": "https://asia.nikkei.com/Business/Automobiles/Tesla-deliveries-beat-estimates-in-Q4-despite-supply-chain-woes",
+        "url_mobile": ""
+      },
+      {
+        "domain": "independentsentinel.com",
+        "language": "English",
+        "seendate": "20220102T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Hillary Lied : Clinton Foundation Sold Big Donors Access to State Department",
+        "url": "https://www.independentsentinel.com/hillary-lied-clinton-foundation-sold-big-donors-access-to-state-department/",
+        "url_mobile": "https://www.independentsentinel.com/hillary-lied-clinton-foundation-sold-big-donors-access-to-state-department/?amp"
+      },
+      {
+        "domain": "telegraph.co.uk",
+        "language": "English",
+        "seendate": "20220102T230000Z",
+        "socialimage": "",
+        "sourcecountry": "United Kingdom",
+        "title": "Jeffrey Epstein scandal casts a shadow over glittering New York charity",
+        "url": "https://www.telegraph.co.uk/business/2022/01/02/jeffrey-epstein-scandal-casts-shadow-glittering-new-york-charity/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cnn.com",
+        "language": "English",
+        "seendate": "20220102T230000Z",
+        "socialimage": "https://cdn.cnn.com/cnnnext/dam/assets/220102124459-tesla-sales-restricted-super-tease.jpg",
+        "sourcecountry": "United States",
+        "title": "What chip shortage ? Tesla posts record fourth quarter and full year sales",
+        "url": "https://www.cnn.com/2022/01/02/business/tesla-record-sales/",
+        "url_mobile": "https://amp.cnn.com/cnn/2022/01/02/business/tesla-record-sales/index.html"
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220102T230000Z",
+        "socialimage": "https://ml-eu.globenewswire.com/Resource/Download/844ffb22-e5c6-4f83-81f2-406681bf25cd?size=1",
+        "sourcecountry": "United States",
+        "title": "Maha Energy AB ( publ ) ( Maha  or the  Company ) Announce",
+        "url": "https://www.globenewswire.com/news-release/2022/01/02/2359803/0/en/Maha-Energy-AB-publ-Maha-or-the-Company-Announce-Completion-and-Preliminary-Well-Test-Results-from-Tie-4.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "oilprice.com",
+        "language": "English",
+        "seendate": "20220102T223000Z",
+        "socialimage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2021-12-31_0gv2eqegxc.jpg",
+        "sourcecountry": "United States",
+        "title": "Fossil Fuel Financing Under Pressure As Wall Street Caves To ESG Demands",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Fossil-Fuel-Financing-Under-Pressure-As-Wall-Street-Caves-To-ESG-Demands.html",
+        "url_mobile": "https://oilprice.com/Energy/Crude-Oil/Fossil-Fuel-Financing-Under-Pressure-As-Wall-Street-Caves-To-ESG-Demands.amp.html"
+      },
+      {
+        "domain": "morningstar.com",
+        "language": "English",
+        "seendate": "20220102T223000Z",
+        "socialimage": "https://www.morningstar.com/assets/img/marketwatch.dad5abb.png",
+        "sourcecountry": "China",
+        "title": "Bitcoin computational power may double and make the market more secure in 2022",
+        "url": "https://www.morningstar.com/news/marketwatch/20220102162/bitcoins-computational-power-may-double-and-make-the-market-more-secure-in-2022",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tesla delivered 936 , 172 electric vehicles in 2021 , with the fourth - quarter setting a new record",
+        "url": "https://www.msn.com/en-US/news/companies/tesla-delivered-936-172-electric-vehicles-in-2021-with-the-fourth-quarter-setting-a-new-record/ar-AASmtUE",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T223000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "What chip shortage ? Tesla posts record fourth quarter and full year sales",
+        "url": "https://www.msn.com/en-us/money/news/what-chip-shortage-tesla-posts-record-fourth-quarter-and-full-year-sales/ar-AASmI57",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stack.com",
+        "language": "English",
+        "seendate": "20220102T223000Z",
+        "socialimage": "https://www.stack.com/wp-content/uploads/2021/12/teen-girls.jpg",
+        "sourcecountry": "United States",
+        "title": "Teen Girls and Instagram",
+        "url": "https://www.stack.com/a/teen-girls-and-instagram/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nytimes.com",
+        "language": "English",
+        "seendate": "20220102T221500Z",
+        "socialimage": "https://static01.nyt.com/images/2022/01/03/obituaries/03cayne-obit1/29cayne-1-facebookJumbo.jpg",
+        "sourcecountry": "United States",
+        "title": "James Cayne , Who Ran the Ill - Fated Bear Stearns , Dies at 87",
+        "url": "https://www.nytimes.com/2022/01/02/business/james-cayne-dead.html",
+        "url_mobile": "https://www.nytimes.com/2022/01/02/business/james-cayne-dead.amp.html"
+      },
+      {
+        "domain": "rockdalenewtoncitizen.com",
+        "language": "English",
+        "seendate": "20220102T221500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/rockdalenewtoncitizen.com/content/tncms/assets/v3/editorial/f/04/f045d009-879d-5131-9381-53ceaee925bb/61d1dc4cdd279.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.rockdalenewtoncitizen.com/news/business/can-the-stock-markets-momentum-continue-into-2022/article_e99e2338-699c-5149-ab91-f999b1779f81.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "business-standard.com",
+        "language": "English",
+        "seendate": "20220102T221500Z",
+        "socialimage": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/14/full/1621002460-1226.jpg",
+        "sourcecountry": "India",
+        "title": "Billionaires are embracing crypto in case money  goes to hell  ",
+        "url": "https://www.business-standard.com/article/international/billionaires-are-embracing-crypto-in-case-money-goes-to-hell-122010300065_1.html",
+        "url_mobile": "https://wap.business-standard.com/article-amp/international/billionaires-are-embracing-crypto-in-case-money-goes-to-hell-122010300065_1.html"
+      },
+      {
+        "domain": "erienewsnow.com",
+        "language": "English",
+        "seendate": "20220102T221500Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/21967140_G.jpg?lastEditedDate=1641140715000",
+        "sourcecountry": "United States",
+        "title": "Goldman Sachs tells employees to stay home due to Covid",
+        "url": "https://www.erienewsnow.com/story/45564669/goldman-sachs-tells-employees-to-stay-home-due-to-covid",
+        "url_mobile": ""
+      },
+      {
+        "domain": "erienewsnow.com",
+        "language": "English",
+        "seendate": "20220102T221500Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/21967152_G.jpg?lastEditedDate=1641141616000",
+        "sourcecountry": "United States",
+        "title": "What chip shortage ? Telsa posts record fourth quarter and full year sales",
+        "url": "https://www.erienewsnow.com/story/45564820/what-chip-shortage-telsa-posts-record-fourth-quarter-and-full-year-sales",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Your Money : You can invest in ADRs and GDRs , sitting in India",
+        "url": "https://www.msn.com/en-in/news/other/your-money-you-can-invest-in-adrs-and-gdrs-sitting-in-india/ar-AASmHDv",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T220000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Adams Urges Return to Class in NYC ; U . S . Surges : Virus Update",
+        "url": "https://www.msn.com/en-us/news/us/adams-urges-return-to-class-in-nyc-u-s-surges-virus-update/ar-AASlfUk",
+        "url_mobile": ""
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220102T220000Z",
+        "socialimage": "https://chorus.stimg.co/23128911/Ron_Konezny.jpeg?&fit=crop&bg=999&crop=faces",
+        "sourcecountry": "United States",
+        "title": "Digi International , slowly transforming business model , increased share value 25 % in 2021",
+        "url": "https://www.startribune.com/digi-international-slowly-transforming-business-model-increased-share-value-25-in-2021/600132058/",
+        "url_mobile": "https://m.startribune.com/digi-international-slowly-transforming-business-model-increased-share-value-25-in-2021/600132058/"
+      },
+      {
+        "domain": "pcmag.com",
+        "language": "English",
+        "seendate": "20220102T220000Z",
+        "socialimage": "https://i.pcmag.com/imagery/articles/01r8NUdhe2qR7n1wHG6rM8s-1.fit_lim.size_1200x630.v1641144820.jpg",
+        "sourcecountry": "United States",
+        "title": "FAA Asks Verizon and AT & T to Delay Mid - Band 5G Near  Priority  Airports",
+        "url": "https://www.pcmag.com/news/faa-asks-verizon-and-att-to-delay-mid-band-5g-near-priority-airports",
+        "url_mobile": "https://www.pcmag.com/news/faa-asks-verizon-and-att-to-delay-mid-band-5g-near-priority-airports?amp=true"
+      },
+      {
+        "domain": "gwinnettdailypost.com",
+        "language": "English",
+        "seendate": "20220102T220000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/a/c7/ac7e3f02-6bee-11ec-8b2b-ef86f8f79148/61d1dc2a3247d.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.gwinnettdailypost.com/news/business/can-the-stock-markets-momentum-continue-into-2022/article_4a97367f-8ddc-51e0-a3c1-e30819378b55.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220102T220000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/Casino.png?itok=kU5tv_Bf",
+        "sourcecountry": "United States",
+        "title": "Handicapping The 2022 Market Casino",
+        "url": "https://www.zerohedge.com/markets/handicapping-2022-market-casino",
+        "url_mobile": ""
+      },
+      {
+        "domain": "zerohedge.com",
+        "language": "English",
+        "seendate": "20220102T220000Z",
+        "socialimage": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2022-01/yogi%20berra.jpg?h=b66e0de5&itok=PG7QyUBH",
+        "sourcecountry": "United States",
+        "title": "How To Make Better Predictions",
+        "url": "https://www.zerohedge.com/markets/how-make-better-predictions",
+        "url_mobile": ""
+      },
+      {
+        "domain": "entrepreneur.com",
+        "language": "English",
+        "seendate": "20220102T220000Z",
+        "socialimage": "https://assets.entrepreneur.com/providers/investorplace/hero-image-investorplace-411079.jpeg",
+        "sourcecountry": "United States",
+        "title": "The Market Is Greatly Underestimating C3 . ai Stock",
+        "url": "https://www.entrepreneur.com/article/411079",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220102T214500Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2021/12/17/wall-street-1200x800-1200x800.jpg",
+        "sourcecountry": "United States",
+        "title": "Beijing Setting Up a Trap to Collect Money From Wall Street , Says China Experts",
+        "url": "https://www.theepochtimes.com/beijing-setting-up-a-trap-to-collect-money-from-wall-street-says-china-experts_4186771.html",
+        "url_mobile": "https://www.theepochtimes.com/beijing-setting-up-a-trap-to-collect-money-from-wall-street-says-china-experts_4186771.html/amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Covid live news : Israel to offer fourth jab to over 60s and medical staff ; France adds unvaccinated US travellers to  red list  ",
+        "url": "https://www.msn.com/en-gb/news/coronavirus/covid-live-news-israel-to-offer-fourth-jab-to-over-60s-and-medical-staff-france-adds-unvaccinated-us-travellers-to-e2-80-98red-list-e2-80-99/ar-AASlMYU",
+        "url_mobile": ""
+      },
+      {
+        "domain": "790business.com",
+        "language": "English",
+        "seendate": "20220102T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Goldman Sachs tells employees to stay home due to Covid",
+        "url": "https://www.790business.com/news/goldman-sachs-tells-employees-to-stay-home-due-to-covid/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "texasguardian.com",
+        "language": "English",
+        "seendate": "20220102T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tesler Investments System Reviews - Is It A Scam ? ",
+        "url": "https://www.texasguardian.com/news/272085206/tesler-investments-system-reviews---is-it-a-scam",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tucson.com",
+        "language": "English",
+        "seendate": "20220102T214500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/f/2e/f2eb4eca-6753-11ec-b4ee-ebde16307967/61ca22d4a7cd9.image.jpg?crop=1169%2C658%2C0%2C557",
+        "sourcecountry": "United States",
+        "title": "Southern Arizona books about travel , political intrigue ,  tight shackles  ",
+        "url": "https://tucson.com/entertainment/books/southern-arizona-books-about-travel-political-intrigue-tight-shackles/article_4c5412fe-6730-11ec-b430-bb8282899c7a.html",
+        "url_mobile": "https://tucson.com/entertainment/books/southern-arizona-books-about-travel-political-intrigue-tight-shackles/article_4c5412fe-6730-11ec-b430-bb8282899c7a.amp.html"
+      },
+      {
+        "domain": "techtimes.com",
+        "language": "English",
+        "seendate": "20220102T214500Z",
+        "socialimage": "https://1734811051.rsc.cdn77.org/data/images/full/398551/teslas-2021-deliveries-increased-by-87-compared-to-2020-what-to-expect-this-2022.jpg",
+        "sourcecountry": "United States",
+        "title": "Tesla 2021 Deliveries Increased by 87 % Compared to 2020 ! What to Expect This 2022",
+        "url": "https://www.techtimes.com/articles/269965/20220102/teslas-2021-deliveries-increased-87-compared-2020-what-expect-2022.htm",
+        "url_mobile": "https://www.techtimes.com/amp/articles/269965/20220102/teslas-2021-deliveries-increased-87-compared-2020-what-expect-2022.htm"
+      },
+      {
+        "domain": "wkar.org",
+        "language": "English",
+        "seendate": "20220102T214500Z",
+        "socialimage": "https://media.npr.org/assets/img/2022/01/01/gettyimages-1361602314_custom-b114e83b9f3c43d50f4be8aae42b2c38781e5120.jpg",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.wkar.org/wkar-news/2022-01-02/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins",
+        "url_mobile": "https://www.wkar.org/wkar-news/2022-01-02/u-s-covid-cases-continue-to-skyrocket-and-disruptions-abound-as-2022-begins?_amp=true"
+      },
+      {
+        "domain": "jacksonprogress-argus.com",
+        "language": "English",
+        "seendate": "20220102T214500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/jacksonprogress-argus.com/content/tncms/assets/v3/editorial/1/07/1074e427-4eb9-5759-a6ea-035657cd7a82/61d1dc4cd7ef7.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.jacksonprogress-argus.com/news/business/can-the-stock-markets-momentum-continue-into-2022/article_c8e0a4ae-958f-5df9-91f8-7e65a506e493.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "markets.financialcontent.com",
+        "language": "English",
+        "seendate": "20220102T214500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tesla Q4 Deliveries Beat Consensus By A Mile , Pushing Annual Sales To Nearly 1M",
+        "url": "https://markets.financialcontent.com/stocks/news/read/42084054/tesla_q4_deliveries_beat_consensus_by_a_mile",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bizjournals.com",
+        "language": "English",
+        "seendate": "20220102T213000Z",
+        "socialimage": "https://media.bizj.us/view/img/11563861/saratoga-eagle-expansion-12-2019-15*1200xx6928-3897-0-290.jpg",
+        "sourcecountry": "United States",
+        "title": "Albany companies and investors wage acquisition spree in late 2021 , bankers expect the trend will continue in 2022",
+        "url": "https://www.bizjournals.com/albany/news/2022/01/02/acquisition-spree-straddles-many-industries.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "koreaherald.com",
+        "language": "English",
+        "seendate": "20220102T213000Z",
+        "socialimage": "http://res.heraldm.com/content/image/2022/01/02/20220102000273_0.jpg",
+        "sourcecountry": "South Korea",
+        "title": " [ Robert Pearl ] Endemic COVID - 19 should be cause for celebration , not consternation",
+        "url": "http://www.koreaherald.com/view.php?ud=20220102000045",
+        "url_mobile": "http://m.koreaherald.com/amp/view.php?ud=20220102000045"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220102T213000Z",
+        "socialimage": "https://images.barrons.com/im-342648/social",
+        "sourcecountry": "United States",
+        "title": "As Schools Reopen , Officials Scramble for Covid Tests",
+        "url": "https://www.marketwatch.com/articles/as-schools-reopen-officials-scramble-for-covid-tests-51641156602",
+        "url_mobile": ""
+      },
+      {
+        "domain": "autospies.com",
+        "language": "English",
+        "seendate": "20220102T213000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "This WONT Be HAPPY NEW YEAR News To Tesla Competition . Elon Delivers RECORD Number Of Vehicles In Latest Numbers",
+        "url": "https://www.autospies.com/news/index.aspx?submissionid=108084",
+        "url_mobile": ""
+      },
+      {
+        "domain": "straitstimes.com",
+        "language": "English",
+        "seendate": "20220102T213000Z",
+        "socialimage": "",
+        "sourcecountry": "Singapore",
+        "title": "Expect smaller gains in 2022 , and keep an eye on inflation",
+        "url": "https://www.straitstimes.com/business/companies-markets/expect-smaller-gains-in-2022-and-keep-an-eye-on-inflation",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220102T213000Z",
+        "socialimage": "https://images.mktw.net/im-357656/social",
+        "sourcecountry": "United States",
+        "title": "AT & T and Verizon reject FAA request to delay launch of 5G services",
+        "url": "https://www.marketwatch.com/story/at-t-and-verizon-reject-faas-request-to-delay-launch-of-5g-services-11641157827",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cmcmarkets.com",
+        "language": "English",
+        "seendate": "20220102T213000Z",
+        "socialimage": "https://assets.cmcmarkets.com/images/pexels-anna-tarazevich-6027785_medium.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "How the markets ended 2021",
+        "url": "https://www.cmcmarkets.com/en-nz/news-and-analysis/how-the-markets-ended-2021",
+        "url_mobile": "https://www.cmcmarkets.com/en-nz/news-and-analysis/how-the-markets-ended-2021_amp"
+      },
+      {
+        "domain": "joplinglobe.com",
+        "language": "English",
+        "seendate": "20220102T211500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/82ebee74-4c80-11ec-942f-cf2743f1e0ea.jpg",
+        "sourcecountry": "United States",
+        "title": "ROSEN , SKILLED INVESTOR COUNSEL , Encourages DocuSign , Inc . Investors With Losses to Secure Counsel Before Important February 22 Deadline in Securities Class Action Commenced by the Firm \u2013 DOCU",
+        "url": "https://www.joplinglobe.com/region/national_business/rosen-skilled-investor-counsel-encourages-docusign-inc-investors-with-losses-to-secure-counsel-before-important/article_b5ae562e-9e50-56f8-a2d9-f4d7d6da45d3.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcnewyork.com",
+        "language": "English",
+        "seendate": "20220102T211500Z",
+        "socialimage": "https://media.nbcnewyork.com/2021/09/106882343-1620879064826-gettyimages-1232553434-CHINA_SHANGHAI_AUTO.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Delivered 936 , 172 Electric Vehicles in 2021 , With the Fourth - Quarter Setting a New Record",
+        "url": "https://www.nbcnewyork.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/3475616/",
+        "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/3475616/?amp"
+      },
+      {
+        "domain": "joplinglobe.com",
+        "language": "English",
+        "seendate": "20220102T211500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/82ebee74-4c80-11ec-942f-cf2743f1e0ea.jpg",
+        "sourcecountry": "United States",
+        "title": "ROSEN , RESPECTED INVESTOR COUNSEL , Encourages Reata Pharmaceuticals , Inc . Investors With Losses to Secure Counsel Before Important February 18 Deadline in Securities Class Action \u2013 RETA",
+        "url": "https://www.joplinglobe.com/region/national_business/rosen-respected-investor-counsel-encourages-reata-pharmaceuticals-inc-investors-with-losses-to-secure-counsel-before/article_634c5a11-cf0f-55c1-8241-8913683dca6c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "joplinglobe.com",
+        "language": "English",
+        "seendate": "20220102T211500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/82ebee74-4c80-11ec-942f-cf2743f1e0ea.jpg",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A TOP RANKED FIRM , Encourages Sleep Number Corporation Investors With Losses to Secure Counsel Before Important February 14 Deadline in Securities Class Action \u2013 SNBR",
+        "url": "https://www.joplinglobe.com/region/national_business/rosen-a-top-ranked-firm-encourages-sleep-number-corporation-investors-with-losses-to-secure-counsel/article_3dec2d8b-993a-5f6e-911a-3a000a0b12b2.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "joplinglobe.com",
+        "language": "English",
+        "seendate": "20220102T211500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/82ebee74-4c80-11ec-942f-cf2743f1e0ea.jpg",
+        "sourcecountry": "United States",
+        "title": "ROSEN , GLOBAL INVESTOR COUNSEL , Encourages Baidu Inc . Investors With Losses to Secure Counsel Before Important February 14 Deadline in Securities Class Action \u2013 BIDU",
+        "url": "https://www.joplinglobe.com/region/national_business/rosen-global-investor-counsel-encourages-baidu-inc-investors-with-losses-to-secure-counsel-before-important/article_4bf4a5d5-2e97-5b78-a3b9-c18345fa1394.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cadillacnews.com",
+        "language": "English",
+        "seendate": "20220102T211500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/cadillacnews.com/content/tncms/custom/image/2f32a658-47ab-11e7-abb1-ef25bc001cf2.png?crop=446%2C446%2C1122%2C0",
+        "sourcecountry": "United States",
+        "title": "ROSEN , SKILLED INVESTOR COUNSEL , Encourages DocuSign , Inc . Investors With Losses to Secure Counsel Before Important February 22 Deadline in Securities Class Action Commenced by the Firm \u2013 DOCU",
+        "url": "https://www.cadillacnews.com/ap/business/rosen-skilled-investor-counsel-encourages-docusign-inc-investors-with-losses-to-secure-counsel-before-important/article_279eb032-5bc3-5b77-804d-0df2b30391b5.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T211500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Adams Urges Return to Class in NYC ; U . S . Surges : Virus Update",
+        "url": "https://www.msn.com/en-us/news/world/adams-urges-return-to-class-in-nyc-u-s-surges-virus-update/ar-AASlfUk",
+        "url_mobile": ""
+      },
+      {
+        "domain": "crowdfundinsider.com",
+        "language": "English",
+        "seendate": "20220102T211500Z",
+        "socialimage": "https://www.crowdfundinsider.com/wp-content/uploads/2021/01/Double-Bitcoin.jpeg",
+        "sourcecountry": "United Kingdom",
+        "title": "Bitcoin ( BTC ) Ends 2021 at $47 . 4K Avg Price , Up 4 . 3x from 2020 Full - Year Avg : Report",
+        "url": "https://www.crowdfundinsider.com/2022/01/185005-bitcoin-btc-ends-2021-at-47-4k-avg-price-up-4-3x-from-2020s-full-year-avg-report/",
+        "url_mobile": "https://www.crowdfundinsider.com/2022/01/185005-bitcoin-btc-ends-2021-at-47-4k-avg-price-up-4-3x-from-2020s-full-year-avg-report/amp/"
+      },
+      {
+        "domain": "news-daily.com",
+        "language": "English",
+        "seendate": "20220102T210000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/news-daily.com/content/tncms/assets/v3/editorial/f/94/f9421176-f39f-5f88-8223-2c06a440ebf9/61d1dc4cdaa99.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.news-daily.com/news/business/can-the-stock-markets-momentum-continue-into-2022/article_0870c50c-98d1-5125-baff-ef21db1bcd48.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "magicvalley.com",
+        "language": "English",
+        "seendate": "20220102T210000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/magicvalley.com/content/tncms/custom/image/598cea12-c548-11ea-8c5d-3f5d3349e5f2.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "Salena Zito : America outdoor awakening , thanks to MeatEater approach to the movement",
+        "url": "https://magicvalley.com/news/opinion/columns/salena-zito-americas-outdoor-awakening-thanks-to-meateaters-approach-to-the-movement/article_5d884c5d-5dcc-51f5-8a40-8ab3c159bb83.html",
+        "url_mobile": "https://magicvalley.com/news/opinion/columns/salena-zito-americas-outdoor-awakening-thanks-to-meateaters-approach-to-the-movement/article_5d884c5d-5dcc-51f5-8a40-8ab3c159bb83.amp.html"
+      },
+      {
+        "domain": "gazette.com",
+        "language": "English",
+        "seendate": "20220102T210000Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/d/88/d88d5b02-33be-5a61-a7b9-8f8a979c4591/61d1da6d130e6.image.jpg?crop=800%2C420%2C0%2C56",
+        "sourcecountry": "United States",
+        "title": "Tesla surmounts supply chain woes with blockbuster Q4 deliveries",
+        "url": "https://gazette.com/news/us-world/tesla-surmounts-supply-chain-woes-with-blockbuster-q4-deliveries/article_14d3c2be-12c7-554a-af4e-b73ecdcea4fb.html",
+        "url_mobile": "https://gazette.com/news/us-world/tesla-surmounts-supply-chain-woes-with-blockbuster-q4-deliveries/article_14d3c2be-12c7-554a-af4e-b73ecdcea4fb.amp.html"
+      },
+      {
+        "domain": "startribune.com",
+        "language": "English",
+        "seendate": "20220102T210000Z",
+        "socialimage": "https://chorus.stimg.co/23131043/Clearfield_fiber_install.jpg?&fit=crop&bg=999&crop=faces",
+        "sourcecountry": "United States",
+        "title": "Broadband installer Clearfield a leader among Minnesota standout stocks in 2021",
+        "url": "https://www.startribune.com/broadband-installer-clearfield-a-leader-among-minnesotas-standout-stocks-in-2021/600132055/",
+        "url_mobile": "https://m.startribune.com/broadband-installer-clearfield-a-leader-among-minnesotas-standout-stocks-in-2021/600132055/"
+      },
+      {
+        "domain": "afr.com",
+        "language": "English",
+        "seendate": "20220102T204500Z",
+        "socialimage": "https://static.ffx.io/images/$zoom_0.3174%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/3738ff68a775e087bf41e4b9411e4fdf0902ebc3",
+        "sourcecountry": "Australia",
+        "title": "COVID - 19 , omicron updates live : Goldman backtracks on return to office",
+        "url": "https://www.afr.com/politics/federal/goldman-backtracks-on-return-to-office-20220103-p59lei",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220102T204500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/02/D_b8fceimage_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Q1 2022 Top Trade Opportunities",
+        "url": "https://menafn.com/1103476232/Q1-2022-Top-Trade-Opportunities&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "albanyherald.com",
+        "language": "English",
+        "seendate": "20220102T204500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/0/98/0987063a-0203-5e51-b2c5-9fa295d42c11/61d1dc4cdd922.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.albanyherald.com/news/business/can-the-stock-markets-momentum-continue-into-2022/article_06139384-7ef8-5752-99fd-0bc4c932b0ab.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cmcmarkets.com",
+        "language": "English",
+        "seendate": "20220102T204500Z",
+        "socialimage": "https://assets.cmcmarkets.com/images/pexels-anna-tarazevich-6027785_medium.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "How the markets ended 2021",
+        "url": "https://www.cmcmarkets.com/en-au/news-and-analysis/how-the-markets-ended-2021",
+        "url_mobile": "https://www.cmcmarkets.com/en-au/news-and-analysis/how-the-markets-ended-2021_amp"
+      },
+      {
+        "domain": "wfnc640am.com",
+        "language": "English",
+        "seendate": "20220102T204500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Goldman Sachs tells employees to stay home due to Covid",
+        "url": "https://www.wfnc640am.com/news/goldman-sachs-tells-employees-to-stay-home-due-to-covid/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketscreener.com",
+        "language": "English",
+        "seendate": "20220102T204500Z",
+        "socialimage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+        "sourcecountry": "",
+        "title": "Wall Street takes a breather on last trading day of 2021",
+        "url": "https://www.marketscreener.com/quote/stock/XERIS-BIOPHARMA-HOLDINGS-127926322/news/Wall-Street-takes-a-breather-on-last-trading-day-of-2021-37446640/",
+        "url_mobile": "https://www.marketscreener.com/amp/quote/stock/XERIS-BIOPHARMA-HOLDINGS-127926322/news/Wall-Street-takes-a-breather-on-last-trading-day-of-2021-37446640/"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220102T203000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/02/D_b8fceimage_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Q1 2022 Top Trade Opportunities",
+        "url": "https://menafn.com/1103476232/Q1-2022-Top-Trade-Opportunities&source=24",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220102T203000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/02/D_b8fceimage_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Q1 2022 Top Trade Opportunities",
+        "url": "https://menafn.com/1103476232/Q1-2022-Top-Trade-Opportunities&source=25",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220102T203000Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/02/D_b8fceimage_story.JPG",
+        "sourcecountry": "Qatar",
+        "title": "Q1 2022 Top Trade Opportunities",
+        "url": "https://menafn.com/1103476232/Q1-2022-Top-Trade-Opportunities&source=26",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220102T203000Z",
+        "socialimage": "https://images.barrons.com/im-458822/social",
+        "sourcecountry": "United States",
+        "title": "CDC May Add Covid Testing to New Advice , Fauci Says",
+        "url": "https://www.marketwatch.com/articles/cdc-covid-testing-new-advice-fauci-says-51641150747",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wiredprnews.com",
+        "language": "English",
+        "seendate": "20220102T203000Z",
+        "socialimage": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1535981327.jpg",
+        "sourcecountry": "United States",
+        "title": "The main lessons of Crypto 2021 by DailyCoin",
+        "url": "https://www.wiredprnews.com/the-main-lessons-of-crypto-2021-by-dailycoin/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cmcmarkets.com",
+        "language": "English",
+        "seendate": "20220102T203000Z",
+        "socialimage": "https://assets.cmcmarkets.com/images/pexels-anna-tarazevich-6027785_medium.jpg",
+        "sourcecountry": "United Kingdom",
+        "title": "How the markets ended 2021",
+        "url": "https://www.cmcmarkets.com/en-sg/news-and-analysis/how-the-markets-ended-2021",
+        "url_mobile": "https://www.cmcmarkets.com/en-sg/news-and-analysis/how-the-markets-ended-2021_amp"
+      },
+      {
+        "domain": "chinafile.com",
+        "language": "English",
+        "seendate": "20220102T203000Z",
+        "socialimage": "https://www.chinafile.com/sites/default/files/assets/images/article/featured/linkedin_sm.jpg",
+        "sourcecountry": "China",
+        "title": "China , LinkedIn Would Like to Add You to Its Network",
+        "url": "https://www.chinafile.com/reporting-opinion/media/china-linkedin-would-add-you-its-network",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220102T203000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Goldman Sachs tells employees to stay home due to Covid",
+        "url": "https://www.kmjnow.com/news/goldman-sachs-tells-employees-to-stay-home-due-to-covid/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nytimes.com",
+        "language": "English",
+        "seendate": "20220102T201500Z",
+        "socialimage": "https://static01.nyt.com/images/2022/01/02/world/02virus-briefing-england-france-masks1/02virus-briefing-england-france-masks1-facebookJumbo.jpg",
+        "sourcecountry": "United States",
+        "title": "Covid Live Updates : Maryland Hospitals Overflow as Staff Call Out Sick",
+        "url": "https://www.nytimes.com/live/2022/01/02/world/omicron-covid-vaccine-tests/france-and-england-impose-mask-guidance-for-children",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nytimes.com",
+        "language": "English",
+        "seendate": "20220102T201500Z",
+        "socialimage": "https://static01.nyt.com/images/2022/01/02/world/02virus-briefing-fauci1/02virus-briefing-fauci1-facebookJumbo-v2.jpg",
+        "sourcecountry": "United States",
+        "title": "Covid Live Updates : Maryland Hospitals Overflow as Staff Call Out Sick",
+        "url": "https://www.nytimes.com/live/2022/01/02/world/omicron-covid-vaccine-tests/hospitalization-rates-will-be-the-true-test-of-omicron-fauci-says",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220102T201500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/02/AT_4026dimage_story.png",
+        "sourcecountry": "Qatar",
+        "title": "Private contractors earned billions in Afghanistan war",
+        "url": "https://menafn.com/1103476121/Private-contractors-earned-billions-in-Afghanistan-war&source=19",
+        "url_mobile": ""
+      },
+      {
+        "domain": "christianpost.com",
+        "language": "English",
+        "seendate": "20220102T201500Z",
+        "socialimage": "https://cdn.christianpost.com/files/original/thumbnail/24/62/246267.jpg",
+        "sourcecountry": "United States",
+        "title": "India blocks donations to Mother Teresa charity",
+        "url": "https://www.christianpost.com:443/world/india-blocks-donations-to-mother-teresas-charity.html",
+        "url_mobile": "https://www.christianpost.com/amp/india-blocks-donations-to-mother-teresas-charity.html"
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220102T201500Z",
+        "socialimage": "https://menafn.com/updates/pr/2022-01/02/AT_4026dimage_story.png",
+        "sourcecountry": "Qatar",
+        "title": "Private contractors earned billions in Afghanistan war",
+        "url": "https://menafn.com/1103476121/Private-contractors-earned-billions-in-Afghanistan-war&source=28",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wmac-am.com",
+        "language": "English",
+        "seendate": "20220102T201500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Goldman Sachs tells employees to stay home due to Covid",
+        "url": "https://www.wmac-am.com/news/goldman-sachs-tells-employees-to-stay-home-due-to-covid/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "foxnews.com",
+        "language": "English",
+        "seendate": "20220102T200000Z",
+        "socialimage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/05/mask_mandate_istock.jpg",
+        "sourcecountry": "United States",
+        "title": "Cloth masks may not protect against omicron , report says",
+        "url": "https://www.foxnews.com/health/cloth-masks-may-not-protect-against-omicron-report",
+        "url_mobile": "https://www.foxnews.com/health/cloth-masks-may-not-protect-against-omicron-report.amp"
+      },
+      {
+        "domain": "forextv.com",
+        "language": "English",
+        "seendate": "20220102T200000Z",
+        "socialimage": "https://forextv.com/wp-content/uploads/The-Rosen-Law-Firm-PA-587.png",
+        "sourcecountry": "United States",
+        "title": "SBTX TUESDAY DEADLINE : ROSEN , RECOGNIZED INVESTOR COUNSEL , Encourages Silverback Therapeutics , Inc . Investors With Losses to Secure Counsel Before Important January 4 Deadline in Securities Class Action \u2013 SBTX",
+        "url": "https://forextv.com/top-news/sbtx-tuesday-deadline-rosen-recognized-investor-counsel-encourages-silverback-therapeutics-inc-investors-with-losses-to-secure-counsel-before-important-january-4-deadline-in-securities-class-acti/",
+        "url_mobile": "https://forextv.com/top-news/sbtx-tuesday-deadline-rosen-recognized-investor-counsel-encourages-silverback-therapeutics-inc-investors-with-losses-to-secure-counsel-before-important-january-4-deadline-in-securities-class-acti/amp/"
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220102T200000Z",
+        "socialimage": "https://images.mktw.net/im-422860/social",
+        "sourcecountry": "United States",
+        "title": "Tesla smashes quarterly delivery record , sees sales surge 87 % in 2021",
+        "url": "https://www.marketwatch.com/story/tesla-smashes-quarterly-delivery-record-sees-sales-surge-87-in-2021-11641150700",
+        "url_mobile": "https://www.marketwatch.com/amp/story/tesla-smashes-quarterly-delivery-record-sees-sales-surge-87-in-2021-11641150700"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T200000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659227/gettyimages-1325466022.jpg",
+        "sourcecountry": "United States",
+        "title": "Pinterest Is My Top Social Media Stock Right Now",
+        "url": "https://www.fool.com/investing/2022/01/02/pinterest-is-my-top-social-media-stock-rig/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "heritage.org",
+        "language": "English",
+        "seendate": "20220102T200000Z",
+        "socialimage": "https://www.heritage.org/themes/heritage/src/images/bell.png",
+        "sourcecountry": "United States",
+        "title": "A Guide to Antidumping Laws : America Unfair Trade Practice",
+        "url": "https://www.heritage.org/trade/report/guide-antidumping-laws-americas-unfair-trade-practice",
+        "url_mobile": ""
+      },
+      {
+        "domain": "austinglobe.com",
+        "language": "English",
+        "seendate": "20220102T200000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tesler Investments System Reviews - Is It A Scam ? ",
+        "url": "https://www.austinglobe.com/news/272085206/tesler-investments-system-reviews---is-it-a-scam",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T200000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/651905/peloton-bike-lifestyle-02.jpg",
+        "sourcecountry": "United States",
+        "title": "Why Peloton Stock Is a Great Buy Today",
+        "url": "https://www.fool.com/investing/2022/01/02/why-peloton-stock-is-a-great-buy-today/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T200000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659507/a-person-looking-at-a-visual-of-a-stock-chart.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Unstoppable Stocks I Cant Wait to Buy in 2022",
+        "url": "https://www.fool.com/investing/2022/01/02/3-unstoppable-stocks-i-cant-wait-to-buy-in-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "ktvz.com",
+        "language": "English",
+        "seendate": "20220102T200000Z",
+        "socialimage": "https://ktvz.b-cdn.net/2022/01/hypatia-h_15b6f479e2321d24209b6bba1b4c4792-h_934ba8b9bba6dc8b8ae8cd79fe79f348-300-860x573.jpg",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://ktvz.com/money/cnn-business-consumer/2022/01/02/can-the-stock-markets-momentum-continue-into-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T194500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Covid live news : Israel to offer fourth jab to over 60s and medical staff ; France adds unvaccinated US travellers to  red list  ",
+        "url": "https://www.msn.com/en-gb/news/coronavirus/covid-live-news-israel-to-offer-fourth-jab-to-over-60s-and-medical-staff-france-adds-unvaccinated-us-travellers-to-red-list/ar-AASlMYU",
+        "url_mobile": ""
+      },
+      {
+        "domain": "biztoc.com",
+        "language": "English",
+        "seendate": "20220102T194500Z",
+        "socialimage": "https://cdn.biztoc.com/og/hzftvyy2.jpg",
+        "sourcecountry": "",
+        "title": "Tesla Q4 deliveries beat estimates despite supply chain woes",
+        "url": "https://biztoc.com/p/hzftvyy2",
+        "url_mobile": ""
+      },
+      {
+        "domain": "washingtonexaminer.com",
+        "language": "English",
+        "seendate": "20220102T194500Z",
+        "socialimage": "http://mediadc-brightspot.s3.amazonaws.com/28/20/3957b63c4e2e99cbaa044d45f632/pelosi-hallway.jpg",
+        "sourcecountry": "United States",
+        "title": "Citing  free market , Pelosi is defending her own unethical behavior",
+        "url": "https://www.washingtonexaminer.com/opinion/citing-free-market-pelosi-is-defending-her-own-unethical-behavior",
+        "url_mobile": "https://www.washingtonexaminer.com/opinion/citing-free-market-pelosi-is-defending-her-own-unethical-behavior?_amp=true"
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220102T194500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tag : BlackBerry \u2013 NBC Connecticut",
+        "url": "https://www.nbcconnecticut.com/tag/blackberry/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220102T194500Z",
+        "socialimage": "https://media.nbcconnecticut.com/2021/09/106882343-1620879064826-gettyimages-1232553434-CHINA_SHANGHAI_AUTO.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Delivered 936 , 172 Electric Vehicles in 2021 , With the Fourth - Quarter Setting a New Record",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/2682783/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/2682783/?amp"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T193000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659507/a-person-looking-at-a-visual-of-a-stock-chart.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Unstoppable Stocks I Cant Wait to Buy in 2022",
+        "url": "https://www.fool.com/investing/2022/01/02/3-unstoppable-stocks-i-cant-wait-to-buy-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "joe.ie",
+        "language": "English",
+        "seendate": "20220102T193000Z",
+        "socialimage": "",
+        "sourcecountry": "Ireland",
+        "title": "One of DiCaprio finest films is among the movies on TV tonight | JOE is the voice of Irish people at home and abroad",
+        "url": "https://www.joe.ie/movies-tv/movies-on-tv-2-january-739290",
+        "url_mobile": "https://www.joe.ie/amp/movies-tv/movies-on-tv-2-january-739290"
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220102T193000Z",
+        "socialimage": "https://media.nbcmiami.com/2021/09/106882343-1620879064826-gettyimages-1232553434-CHINA_SHANGHAI_AUTO.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Delivered 936 , 172 Electric Vehicles in 2021 , With the Fourth - Quarter Setting a New Record",
+        "url": "https://www.nbcmiami.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/2652836/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/2652836/?amp"
+      },
+      {
+        "domain": "publicnow.com",
+        "language": "English",
+        "seendate": "20220102T193000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Orascom Construction Ltd . ( via Public ) / Orascom Construction Announces the Casting of the Foundation Stone for MY Heart Centre in Rwanda",
+        "url": "http://www.publicnow.com/view/4BFE5B03CC3E5038E80C222E76DC5DB2559C8046",
+        "url_mobile": ""
+      },
+      {
+        "domain": "un-women.medium.com",
+        "language": "English",
+        "seendate": "20220102T193000Z",
+        "socialimage": "https://miro.medium.com/max/1200/1*ixiZCM2NWOeg11ixBQK6Ig.png",
+        "sourcecountry": "United States",
+        "title": "Sixteen defining moments for gender equality in 2021",
+        "url": "https://un-women.medium.com/sixteen-defining-moments-for-gender-equality-in-2021-6de5ac6724ab",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcphiladelphia.com",
+        "language": "English",
+        "seendate": "20220102T193000Z",
+        "socialimage": "https://media.nbcphiladelphia.com/2021/09/106882343-1620879064826-gettyimages-1232553434-CHINA_SHANGHAI_AUTO.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Delivered 936 , 172 Electric Vehicles in 2021 , With the Fourth - Quarter Setting a New Record",
+        "url": "https://www.nbcphiladelphia.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/3094326/",
+        "url_mobile": "https://www.nbcphiladelphia.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/3094326/?amp"
+      },
+      {
+        "domain": "registercitizen.com",
+        "language": "English",
+        "seendate": "20220102T191500Z",
+        "socialimage": "https://s.hdnux.com/photos/01/21/45/40/21387326/9/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Greenwich says goodbye to two Bush siblings in  the end of an era , and to emergency management director in 2021",
+        "url": "https://www.registercitizen.com/news/article/Greenwich-says-goodbye-to-two-Bush-siblings-in-16739696.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcdfw.com",
+        "language": "English",
+        "seendate": "20220102T191500Z",
+        "socialimage": "https://media.nbcdfw.com/2021/09/106882343-1620879064826-gettyimages-1232553434-CHINA_SHANGHAI_AUTO.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Delivered 936 , 172 Electric Vehicles in 2021 , With the Fourth - Quarter Setting a New Record",
+        "url": "https://www.nbcdfw.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/2850128/",
+        "url_mobile": "https://www.nbcdfw.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/2850128/?amp"
+      },
+      {
+        "domain": "therealdeal.com",
+        "language": "English",
+        "seendate": "20220102T191500Z",
+        "socialimage": "https://therealdeal.com/wp-content/uploads/2021/12/ft-Dallas-hotel-REIT-to-buy-Ritz-Carlton-Reserve-in-Puerto-Rico-for-187M.jpg",
+        "sourcecountry": "United States",
+        "title": "Braemar Buying Ritz - Carlton Dorado Beach in Puerto Rico",
+        "url": "https://therealdeal.com/2022/01/02/dallas-hotel-reit-to-buy-ritz-carlton-reserve-in-puerto-rico-for-187m/",
+        "url_mobile": "https://therealdeal.com/2022/01/02/dallas-hotel-reit-to-buy-ritz-carlton-reserve-in-puerto-rico-for-187m/amp/"
+      },
+      {
+        "domain": "galvnews.com",
+        "language": "English",
+        "seendate": "20220102T191500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?crop=1080%2C1080%2C420%2C0",
+        "sourcecountry": "United States",
+        "title": "ROSEN , RESPECTED INVESTOR COUNSEL , Encourages Reata Pharmaceuticals , Inc . Investors With Losses to Secure Counsel Before Important February 18 Deadline in Securities Class Action \u2013 RETA",
+        "url": "https://www.galvnews.com/news_ap/business/article_9eeeed9b-d4f5-5ace-b469-766a2af7ab5c.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "finance.yahoo.com",
+        "language": "English",
+        "seendate": "20220102T191500Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/dElNGfBuNZ8NuJmIjX5njA--~B/aD0yMzc7dz05NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/tipranks_452/e3c582ef12e827605ad502e31098a329",
+        "sourcecountry": "United States",
+        "title": "TipRank 3 Stock Picks for 2022",
+        "url": "https://finance.yahoo.com/news/tipranks-3-stock-picks-2022-124900089.html",
+        "url_mobile": "https://finance.yahoo.com/amphtml/news/tipranks-3-stock-picks-2022-124900089.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T191500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Goldman Backtracks on Office Return ; U . S . Surges : Virus Update",
+        "url": "https://www.msn.com/en-us/news/us/goldman-backtracks-on-office-return-us-surges-virus-update/ar-AASlfUk",
+        "url_mobile": ""
+      },
+      {
+        "domain": "citizensjournal.us",
+        "language": "English",
+        "seendate": "20220102T191500Z",
+        "socialimage": "https://www.citizensjournal.us/wp-content/uploads/2014/11/cdc.jpg",
+        "sourcecountry": "United States",
+        "title": "Covid And Corrupt Federal Statistics",
+        "url": "https://www.citizensjournal.us/covid-and-corrupt-federal-statistics/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "elkodaily.com",
+        "language": "English",
+        "seendate": "20220102T191500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/elkodaily.com/content/tncms/assets/v3/editorial/8/ba/8bace0b5-1907-5aed-8d8f-49685f2539c8/61d1c62660962.image.jpg?crop=341%2C341%2C85%2C0",
+        "sourcecountry": "United States",
+        "title": "Investing : Young adults are co - buying property with friends",
+        "url": "https://elkodaily.com/news/state-and-regional/investing-young-adults-are-co-buying-property-with-friends/article_48ddf82e-f0a0-5994-913a-bd67ee706d68.html",
+        "url_mobile": "https://elkodaily.com/news/state-and-regional/investing-young-adults-are-co-buying-property-with-friends/article_48ddf82e-f0a0-5994-913a-bd67ee706d68.amp.html"
+      },
+      {
+        "domain": "industrialit.com.au",
+        "language": "English",
+        "seendate": "20220102T190000Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Salmon Products Market Size 2022 - 2028 Industry Share , Growth Analysis , Regional Demand & Key Players \u2013 Suempol , Nova Sea , Norway Royal Salmon ASA , Cermaq \u2013 Industrial IT",
+        "url": "https://industrialit.com.au/salmon-products-market-size-2022-2028-industry-share-growth-analysis-regional-demand-key-players-suempol-nova-sea-norway-royal-salmon-asa-cermaq/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "dailyfx.com",
+        "language": "English",
+        "seendate": "20220102T190000Z",
+        "socialimage": "https://a.c-dn.net/b/0Fb5Qw/headline_NYSE_17.JPG",
+        "sourcecountry": "China",
+        "title": "Long Airline Stocks ( UAL / LUV / AAL / BA ) : Top Trade Q1 2022",
+        "url": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/01/02/Long-Airline-Stocks-UAL-LUV-AAL-BA-Top-Trade-Q1-2022.html",
+        "url_mobile": "https://www.dailyfx.com/forex/fundamental/article/special_report/2022/01/02/Long-Airline-Stocks-UAL-LUV-AAL-BA-Top-Trade-Q1-2022.html/amp"
+      },
+      {
+        "domain": "naturalnews.com",
+        "language": "English",
+        "seendate": "20220102T190000Z",
+        "socialimage": "https://www.naturalnews.com/wp-content/uploads/sites/91/2022/01/Man-Rage-Confusion-Angry-Mental.jpg",
+        "sourcecountry": "United States",
+        "title": "TikTok caught tricking teens into  self - diagnosing  rare mental disorders",
+        "url": "https://www.naturalnews.com/2022-01-02-tiktok-tricking-teens-self-diagnosing-mental-disorders.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcwashington.com",
+        "language": "English",
+        "seendate": "20220102T190000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tag : BlackBerry \u2013 NBC4 Washington",
+        "url": "https://www.nbcwashington.com/tag/blackberry/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gazette.com",
+        "language": "English",
+        "seendate": "20220102T184500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/d/88/d88d5b02-33be-5a61-a7b9-8f8a979c4591/61d1da6d130e6.image.jpg?crop=800%2C420%2C0%2C56",
+        "sourcecountry": "United States",
+        "title": "Tesla Q4 deliveries beat estimates despite supply chain woes",
+        "url": "https://gazette.com/news/us-world/tesla-q4-deliveries-beat-estimates-despite-supply-chain-woes/article_14d3c2be-12c7-554a-af4e-b73ecdcea4fb.html",
+        "url_mobile": "https://gazette.com/news/us-world/tesla-q4-deliveries-beat-estimates-despite-supply-chain-woes/article_14d3c2be-12c7-554a-af4e-b73ecdcea4fb.amp.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T184500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tesla delivers a record 308 , 600 vehicles in fourth quarter",
+        "url": "http://www.msn.com/en-us/autos/news/tesla-delivers-a-record-308-600-vehicles-in-fourth-quarter/ar-AASmA5K",
+        "url_mobile": ""
+      },
+      {
+        "domain": "en.globes.co.il",
+        "language": "English",
+        "seendate": "20220102T184500Z",
+        "socialimage": "https://images.globes.co.il/images/NewGlobes/big_image_800/2018/Globes_Archive_800x392.2018729T150619.jpg",
+        "sourcecountry": "Israel",
+        "title": "Sun : TASE opens 2022 higher despite Teva slump",
+        "url": "https://en.globes.co.il/en/article-sun-tase-opens-2022-higher-despite-teva-slump-1001397094",
+        "url_mobile": ""
+      },
+      {
+        "domain": "menafn.com",
+        "language": "English",
+        "seendate": "20220102T184500Z",
+        "socialimage": "https://menafn.com/updates/pr/2021-12/31/KT_72e73image_story.jpg",
+        "sourcecountry": "Qatar",
+        "title": "UAE - 3iQ to release new products in Middle East",
+        "url": "https://menafn.com/1103471170/UAE-3iQ-to-release-new-products-in-Middle-East&source=138",
+        "url_mobile": ""
+      },
+      {
+        "domain": "cnn.com",
+        "language": "English",
+        "seendate": "20220102T184500Z",
+        "socialimage": "https://cdn.cnn.com/cnnnext/dam/assets/211006090234-goldman-sachs-ny-file-super-tease.jpg",
+        "sourcecountry": "United States",
+        "title": "Goldman Sachs tells employees to stay home due to Covid",
+        "url": "https://www.cnn.com/2022/01/02/business/goldman-sachs-stay-home-covid/",
+        "url_mobile": "https://amp.cnn.com/cnn/2022/01/02/business/goldman-sachs-stay-home-covid/index.html"
+      },
+      {
+        "domain": "forbes.com",
+        "language": "English",
+        "seendate": "20220102T184500Z",
+        "socialimage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdf5d462f859bc7b941f73%2F0x0.jpg",
+        "sourcecountry": "United States",
+        "title": "Predictions 2022 : The Economy , Politics , And Drug Pricing Reform",
+        "url": "https://www.forbes.com/sites/joshuacohen/2022/01/02/predictions-2022-the-economy-politics-and-drug-pricing-reform/",
+        "url_mobile": "https://www.forbes.com/sites/joshuacohen/2022/01/02/predictions-2022-the-economy-politics-and-drug-pricing-reform/amp/"
+      },
+      {
+        "domain": "nytimes.com",
+        "language": "English",
+        "seendate": "20220102T184500Z",
+        "socialimage": "https://static01.nyt.com/images/2022/01/02/world/02virus-briefing-fauci1/02virus-briefing-fauci1-facebookJumbo-v2.jpg",
+        "sourcecountry": "United States",
+        "title": "Covid - 19 Updates : Fauci Says Omicron Isnt Causing Sharp Jump in Hospitalizations",
+        "url": "https://www.nytimes.com/live/2022/01/02/world/omicron-covid-vaccine-tests",
+        "url_mobile": "https://www.nytimes.com/live/2022/01/02/world/omicron-covid-vaccine-tests.amp.html"
+      },
+      {
+        "domain": "hot969boston.com",
+        "language": "English",
+        "seendate": "20220102T183000Z",
+        "socialimage": "https://hot969boston.com/wp-content/uploads/sites/20/2021/12/Full-Metal-Jacket_The-Princess-Bride_RoboCop_Dirty-Dancing.png",
+        "sourcecountry": "United States",
+        "title": "38 Movies That Turn 35 in 2022",
+        "url": "https://hot969boston.com/listicle/movies-released-in-1987-movies-that-turn-35-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "medcitynews.com",
+        "language": "English",
+        "seendate": "20220102T183000Z",
+        "socialimage": "https://medcitynews.com/uploads/2019/09/GettyImages-1019177936.jpg",
+        "sourcecountry": "United States",
+        "title": "What will digital health M & A look like in 2022 ? ",
+        "url": "https://medcitynews.com/2022/01/what-will-digital-health-ma-look-like-in-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "thehindu.com",
+        "language": "English",
+        "seendate": "20220102T183000Z",
+        "socialimage": "https://www.thehindu.com/business/rbd6ro/article38089129.ece/ALTERNATES/LANDSCAPE_615/27thBUEQUITY-BENCHMARK",
+        "sourcecountry": "India",
+        "title": "Benchmark for life - The Hindu",
+        "url": "https://www.thehindu.com/business/Industry/benchmark-for-life/article38089130.ece",
+        "url_mobile": "https://www.thehindu.com/business/Industry/benchmark-for-life/article38089130.ece/amp/"
+      },
+      {
+        "domain": "valdostadailytimes.com",
+        "language": "English",
+        "seendate": "20220102T183000Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/2/88/288bbbad-9a40-53eb-a6ee-3c79636e49fa/60d14eb0ea489.image.jpg?crop=410%2C410%2C0%2C95",
+        "sourcecountry": "United States",
+        "title": "BUSH : Looking back at 2021 economics",
+        "url": "https://www.valdostadailytimes.com/news/local_news/bush-looking-back-at-2021-economics/article_4e78181a-4f3d-5c59-abb8-436fd2d3e413.html",
+        "url_mobile": "https://www.valdostadailytimes.com/news/local_news/bush-looking-back-at-2021-economics/article_4e78181a-4f3d-5c59-abb8-436fd2d3e413.amp.html"
+      },
+      {
+        "domain": "schema-root.org",
+        "language": "English",
+        "seendate": "20220102T181500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Argentina , Schema - Root news",
+        "url": "https://schema-root.org/region/americas/south_america/argentina/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "schema-root.org",
+        "language": "English",
+        "seendate": "20220102T181500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Commission of the EU , Schema - Root news",
+        "url": "https://schema-root.org/region/europe/european_union/european_commission/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "tolonews.com",
+        "language": "English",
+        "seendate": "20220102T181500Z",
+        "socialimage": "https://tolonews.com/sites/default/files/usforce.jpg",
+        "sourcecountry": "Afghanistan",
+        "title": "Report Shows Massive Gain of Contractors in Afghan War",
+        "url": "https://tolonews.com/afghanistan-176142",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wdsm710.com",
+        "language": "English",
+        "seendate": "20220102T181500Z",
+        "socialimage": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-01/02/2022-01-02T161248Z_1_LYNXMPEI01058_RTROPTP_3_TESLA-CRASH.JPG",
+        "sourcecountry": "United States",
+        "title": "Tesla delivers 308 , 600 vehicles in Q4 , beating estimates",
+        "url": "https://wdsm710.com/2022/01/02/tesla-delivers-308600-vehicles-in-q4-beating-estimates/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T181500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Goldman Backtracks on Office Return ; U . S . Surge : Virus Update",
+        "url": "https://www.msn.com/en-us/news/world/goldman-backtracks-on-office-return-u-s-surge-virus-update/ar-AASlfUk",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nytimes.com",
+        "language": "English",
+        "seendate": "20220102T181500Z",
+        "socialimage": "https://static01.nyt.com/images/2022/01/02/multimedia/02goldman-rto-1/02goldman-rto-1-facebookJumbo.jpg",
+        "sourcecountry": "United States",
+        "title": "Goldman Sachs Follows Wall Street Rivals in Asking Staff to Work From Home",
+        "url": "https://www.nytimes.com/2022/01/02/business/goldman-sachs-return-to-office.html",
+        "url_mobile": "https://www.nytimes.com/2022/01/02/business/goldman-sachs-return-to-office.amp.html"
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220102T181500Z",
+        "socialimage": "https://media.nbclosangeles.com/2021/11/106972887-16364810552021-11-09t173605z_1096561720_rc25rq9nxj42_rtrmadp_0_onestream-ipo.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "These Five Analysts Were the Best Performers of 2021",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/these-five-analysts-were-the-best-performers-of-2021/2789510/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/these-five-analysts-were-the-best-performers-of-2021/2789510/?amp"
+      },
+      {
+        "domain": "nbclosangeles.com",
+        "language": "English",
+        "seendate": "20220102T181500Z",
+        "socialimage": "https://media.nbclosangeles.com/2021/09/106882343-1620879064826-gettyimages-1232553434-CHINA_SHANGHAI_AUTO.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Delivered 936 , 172 Electric Vehicles in 2021 , With the Fourth - Quarter Setting a New Record",
+        "url": "https://www.nbclosangeles.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/2789524/",
+        "url_mobile": "https://www.nbclosangeles.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/2789524/?amp"
+      },
+      {
+        "domain": "henryherald.com",
+        "language": "English",
+        "seendate": "20220102T181500Z",
+        "socialimage": "https://bloximages.newyork1.vip.townnews.com/henryherald.com/content/tncms/assets/v3/editorial/8/88/8886299b-f05d-5d77-8742-86289b22a0e6/61d1dc4cdba8f.image.jpg?crop=1763%2C926%2C0%2C124",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.henryherald.com/news/business/can-the-stock-markets-momentum-continue-into-2022/article_b72a572d-c9ad-568e-ba0a-34479b134362.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investorplace.com",
+        "language": "English",
+        "seendate": "20220102T180000Z",
+        "socialimage": "https://investorplace.com/wp-content/uploads/2021/01/lucid-motors.jpg",
+        "sourcecountry": "United States",
+        "title": "2022 Could Be a Make - or - Break Year for LCID Stock",
+        "url": "https://investorplace.com/2021/12/2022-could-be-a-make-or-break-year-for-lcid-stock/",
+        "url_mobile": "https://investorplace.com/2021/12/2022-could-be-a-make-or-break-year-for-lcid-stock/amp/"
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220102T180000Z",
+        "socialimage": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEI01058_M.jpg",
+        "sourcecountry": "United States",
+        "title": "Tesla delivers record vehicles in Q4 , beating estimates By Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/tesla-delivers-308600-vehicles-in-q4-beating-estimates-2728512",
+        "url_mobile": "https://m.investing.com/news/stock-market-news/tesla-delivers-308600-vehicles-in-q4-beating-estimates-2728512?ampMode=1"
+      },
+      {
+        "domain": "cnn.com",
+        "language": "English",
+        "seendate": "20220102T180000Z",
+        "socialimage": "https://cdn.cnn.com/cnnnext/dam/assets/211231091842-new-york-stock-exchange-121321-file-restricted-super-tease.jpg",
+        "sourcecountry": "United States",
+        "title": "Stocks week ahead : Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.cnn.com/2022/01/02/investing/stocks-week-ahead/",
+        "url_mobile": "https://amp.cnn.com/cnn/2022/01/02/investing/stocks-week-ahead/index.html"
+      },
+      {
+        "domain": "markets.financialcontent.com",
+        "language": "English",
+        "seendate": "20220102T180000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Top Ancillary Cannabis Stocks For January 2022 | FinancialContent Business Page",
+        "url": "https://markets.financialcontent.com/stocks/news/read/42084012/top_ancillary_cannabis_stocks_for_january_2022",
+        "url_mobile": ""
+      },
+      {
+        "domain": "truthout.org",
+        "language": "English",
+        "seendate": "20220102T180000Z",
+        "socialimage": "https://truthout.org/wp-content/uploads/2022/01/GettyImages-1332158530-1200x675.jpg",
+        "sourcecountry": "United States",
+        "title": "Trump Appointee Resigns as FDIC Chair After Failing to Stymie Policy Review",
+        "url": "https://truthout.org/articles/trump-appointee-resigns-as-fdic-chair-after-failing-to-stymie-policy-review/",
+        "url_mobile": "https://truthout.org/articles/trump-appointee-resigns-as-fdic-chair-after-failing-to-stymie-policy-review/?amp"
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220102T180000Z",
+        "socialimage": "https://i-invdn-com.investing.com/news/indicatornews_3_800x533_L_1412601605.jpg",
+        "sourcecountry": "United States",
+        "title": "Top 5 Things to Watch in Markets in The Week Ahead : Jobs , PMIs , OPEC , Earnings By Investing . com",
+        "url": "https://www.investing.com/news/economy/top-5-things-to-watch-in-markets-in-the-week-ahead-jobs-pmis-opec-earnings-2728481",
+        "url_mobile": "https://m.investing.com/news/economy/top-5-things-to-watch-in-markets-in-the-week-ahead-jobs-pmis-opec-earnings-2728481?ampMode=1"
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220102T180000Z",
+        "socialimage": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEI01045_M.jpg",
+        "sourcecountry": "United States",
+        "title": "Omicron - related disruptions cause over 3 , 800 flight cancellations to kick off 2022 By Reuters",
+        "url": "https://www.investing.com/news/stock-market-news/airlines-grapple-with-omicronrelated-disruptions-to-start-off-2022-2728493",
+        "url_mobile": "https://m.investing.com/news/stock-market-news/airlines-grapple-with-omicronrelated-disruptions-to-start-off-2022-2728493?ampMode=1"
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220102T180000Z",
+        "socialimage": "https://s.yimg.com/ny/api/res/1.2/7k6VCoGyzLJR4iBn.LGdQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDE-/https://s.yimg.com/uu/api/res/1.2/Ge52p_3bkgUU3I1dUAEgkQ--~B/aD03MjE7dz0xNDQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/autos.autoweek.com/354a23c0e84551fc3d333bad9da55ad7",
+        "sourcecountry": "United States",
+        "title": "All - Female Team Tackles the Dakar Rally Again",
+        "url": "https://news.yahoo.com/female-team-tackles-dakar-rally-150800306.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/female-team-tackles-dakar-rally-150800306.html"
+      },
+      {
+        "domain": "investing.com",
+        "language": "English",
+        "seendate": "20220102T180000Z",
+        "socialimage": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+        "sourcecountry": "United States",
+        "title": "Week Ahead : Stocks Will Rise But Sector Leadership Remains Unclear ; Gold Higher",
+        "url": "https://www.investing.com/analysis/week-ahead-stocks-will-rise-but-sector-leadership-remains-unclear-gold-higher-200613344",
+        "url_mobile": "https://m.investing.com/analysis/week-ahead-stocks-will-rise-but-sector-leadership-remains-unclear-gold-higher-200613344?ampMode=1"
+      },
+      {
+        "domain": "oann.com",
+        "language": "English",
+        "seendate": "20220102T180000Z",
+        "socialimage": "https://dzm0ugdauank9.cloudfront.net/wp-content/uploads/2022/01/2022-01-02T165325Z_1_LYNXMPEI0105L_RTROPTP_0_MORGAN-STANLEY-SETTLEMENT_1.jpg",
+        "sourcecountry": "United States",
+        "title": "Morgan Stanley to pay $60 million to resolve data security lawsuit",
+        "url": "https://www.oann.com/morgan-stanley-to-pay-60-million-to-resolve-data-security-lawsuit/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2021/11/22/fauci-in-washington-1200x800-1200x800.jpg",
+        "sourcecountry": "United States",
+        "title": "Fauci : CDC May Amend COVID - 19 Isolation Guidance Amid Pushback",
+        "url": "https://www.theepochtimes.com/fauci-cdc-may-amend-covid-19-isolation-guidance-amid-pushback_4189177.html",
+        "url_mobile": "https://www.theepochtimes.com/fauci-cdc-may-amend-covid-19-isolation-guidance-amid-pushback_4189177.html/amp"
+      },
+      {
+        "domain": "columbian.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "https://pcdn.columbian.com/wp-content/uploads/2021/12/Harris_AFL-CIO_51578.jpg-9e312.jpg",
+        "sourcecountry": "United States",
+        "title": "Harris quietly taps Wall Street , tech CEOs for advice on policy",
+        "url": "https://www.columbian.com/news/2022/jan/02/harris-quietly-taps-wall-street-tech-ceos-for-advice-on-policy/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investmentwatchblog.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Is it fair to ask if Biden is on the payroll of Putin ? \u2013 Investment Watch",
+        "url": "https://www.investmentwatchblog.com/is-it-fair-to-ask-if-biden-is-on-the-payroll-of-putin/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "autoblog.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2021/11/12102857/Tesla-Model-Y1.jpg",
+        "sourcecountry": "United States",
+        "title": "Tesla delivers a record 308 , 600 vehicles in fourth quarter",
+        "url": "https://www.autoblog.com/2022/01/02/tesla-record-vehicles-fourth-quarter-2021/",
+        "url_mobile": "https://www.autoblog.com/amp/2022/01/02/tesla-record-vehicles-fourth-quarter-2021/"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1702346!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/security-guards-stand-outside-of-the-goldman-sachs-group-inc-headquarters-in-new-york-u-s-on-monday-june-14-2021-on-tuesday-governor-andrew-cuomo-lifted-new-york-state-s-pandemic-mandates-effective-immediately-saying-that-70-of-the-adult-population-has-now-been-given-at-least-one-dose-of-a-coronavirus-vaccine-photographer-nina-westervelt-bloomberg.jpg",
+        "sourcecountry": "Canada",
+        "title": "Goldman Backtracks on Return - to - Office Plan as Omicron Surges",
+        "url": "https://www.bnnbloomberg.ca/goldman-backtracks-on-return-to-office-plan-as-omicron-surges-1.1702345",
+        "url_mobile": "https://www.bnnbloomberg.ca/goldman-backtracks-on-return-to-office-plan-as-omicron-surges-1.1702345.amp.html"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659486/best-3d-printing-stocks-2021-2022-ddd-stock-ssys-stock-dm-stock-nndm-stock-is-ddd-a-buy-is-ssys-a-buy.jpg",
+        "sourcecountry": "United States",
+        "title": "The Best and Worst 3D Printing Stocks of 2021",
+        "url": "https://www.fool.com/investing/2022/01/02/the-best-3d-printing-stocks-of-2021/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcsandiego.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "https://media.nbcsandiego.com/2021/09/106882343-1620879064826-gettyimages-1232553434-CHINA_SHANGHAI_AUTO.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "Tesla Delivered 936 , 172 Electric Vehicles in 2021 , With the Fourth - Quarter Setting a New Record",
+        "url": "https://www.nbcsandiego.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/2829285/",
+        "url_mobile": "https://www.nbcsandiego.com/news/business/money-report/tesla-delivered-over-308000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/2829285/?amp"
+      },
+      {
+        "domain": "bnnbloomberg.ca",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1702356!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/american-flags-outside-the-new-york-stock-exchange-nyse-in-new-york-u-s-on-friday-dec-31-2021-u-s-stocks-swung-between-gains-and-losses-with-moves-exacerbated-by-thin-trading-on-the-last-session-of-the-year-photographer-michael-nagle-bloomberg.jpg",
+        "sourcecountry": "Canada",
+        "title": "Robert Birnbaum , Who Led New York Two Exchanges , Dies at 94",
+        "url": "https://www.bnnbloomberg.ca/robert-birnbaum-who-led-new-york-s-two-exchanges-dies-at-94-1.1702355",
+        "url_mobile": "https://www.bnnbloomberg.ca/robert-birnbaum-who-led-new-york-s-two-exchanges-dies-at-94-1.1702355.amp.html"
+      },
+      {
+        "domain": "columbian.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "https://pcdn.columbian.com/wp-content/uploads/2021/12/YE_Deaths_60986.jpg-e59ba.jpg",
+        "sourcecountry": "United States",
+        "title": "R . I . P .: Recalling influential people who died in 2021",
+        "url": "https://www.columbian.com/news/2022/jan/02/r-i-p-recalling-influential-people-who-died-in-2021/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "watchingamerica.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Shame Awaits the US : It Will Have To Ask Russia for Forgiveness \u2013 Watching America",
+        "url": "https://watchingamerica.com/WA/2022/01/02/shame-awaits-the-us-it-will-have-to-ask-russia-for-forgiveness/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "biztoc.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "https://cdn.biztoc.com/og/y6kkrpjn.jpg",
+        "sourcecountry": "",
+        "title": "Cheaper Stocks Boost S & P 500 Prospects in New Year",
+        "url": "https://biztoc.com/p/y6kkrpjn",
+        "url_mobile": ""
+      },
+      {
+        "domain": "columbian.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "https://pcdn.columbian.com/wp-content/uploads/2021/12/0102_met_US-NEWS-CALIF-GENDER-DIVERSITY-LAW-GET.jpg",
+        "sourcecountry": "United States",
+        "title": "California disputed gender diversity law catapults a record number of women into corporate board seats",
+        "url": "https://www.columbian.com/news/2022/jan/02/californias-disputed-gender-diversity-law-catapults-a-record-number-of-women-into-corporate-board-seats/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "investors.com",
+        "language": "English",
+        "seendate": "20220102T174500Z",
+        "socialimage": "https://www.investors.com/wp-content/uploads/2020/06/Stock-tesladelivery-01-shutt.jpg",
+        "sourcecountry": "United States",
+        "title": "Dow Jones Futures : Tesla Deliveries Crush Views , Xpeng , Nio Sales Strong ; Bring On The 2022 Market Rally",
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-deliveries-crush-views-xpeng-nio-sales-strong-2022-market-rally/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "",
+        "sourcecountry": "Taiwan",
+        "title": "Big tech adds US$2 . 5tn in value last year",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2022/01/03/2003770612",
+        "url_mobile": ""
+      },
+      {
+        "domain": "news.yahoo.com",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "https://s.yimg.com/uu/api/res/1.2/Ecn0TYQoeKtsVqxNvHAG6w--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/aec439a9493827581c3fb92e28328ccc",
+        "sourcecountry": "United States",
+        "title": "Tesla delivers record vehicles in Q4 , beating estimates",
+        "url": "https://news.yahoo.com/tesla-delivers-308-600-vehicles-161248258.html",
+        "url_mobile": "https://news.yahoo.com/amphtml/tesla-delivers-308-600-vehicles-161248258.html"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Goldman Backtracks on Office Return ; U . S . Surge : Virus Update",
+        "url": "https://www.msn.com/en-us/news/other/goldman-backtracks-on-office-return-us-surge-virus-update/ar-AASlfUk",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bluenc.com",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "http://www.bluenc.com/sites/default/files/uprising.jpg",
+        "sourcecountry": "United States",
+        "title": "Sunday News : From the Editorial pages",
+        "url": "http://bluenc.com/content/sunday-news-editorial-pages-245",
+        "url_mobile": ""
+      },
+      {
+        "domain": "gpb.org",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "https://www.gpb.org/sites/default/files/styles/three_two_702x468/public/npr_story_images/2022/01/01/gettyimages-1361602314-cc1a1bf0803cbc276d38a6d5f05e640bc8e880ae.jpg?c7c9&itok=29OrGT4q",
+        "sourcecountry": "United States",
+        "title": "U . S . COVID cases continue to skyrocket and disruptions abound as 2022 begins",
+        "url": "https://www.gpb.org/news/coronavirus-live-updates/2022/01/01/us-covid-cases-continue-skyrocket-and-disruptions-abound",
+        "url_mobile": ""
+      },
+      {
+        "domain": "haaretz.com",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "https://www.haaretz.com/polopoly_fs/1.10508702.1641131490!/image/2606389211.jpg_gen/derivatives/headline_1200x630/2606389211.jpg",
+        "sourcecountry": "Israel",
+        "title": "The veteran diplomat helping guide Biden policy on the Holocaust - U . S . News",
+        "url": "https://www.haaretz.com/us-news/.premium-the-veteran-diplomat-guiding-biden-s-policy-on-the-holocaust-1.10508705",
+        "url_mobile": "https://www.haaretz.com/amp/us-news/.premium-the-veteran-diplomat-guiding-biden-s-policy-on-the-holocaust-1.10508705"
+      },
+      {
+        "domain": "bluenc.com",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "http://www.bluenc.com/sites/default/files/uprising.jpg",
+        "sourcecountry": "United States",
+        "title": "Sunday News : From the Editorial pages",
+        "url": "http://bluenc.com/comment/153649",
+        "url_mobile": ""
+      },
+      {
+        "domain": "i24news.tv",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "https://cdn.i24news.tv/uploads/a4/ce/da/52/77/88/56/ef/ef/b9/5d/c1/a2/7e/ec/93/a4ceda52778856efefb95dc1a27eec93.jpg",
+        "sourcecountry": "Israel",
+        "title": "Military : Rare Defection From South Korea Into North Korea",
+        "url": "https://www.i24news.tv/en/news/international/asia-pacific/1641133328-military-rare-defection-from-south-korea-into-north-korea",
+        "url_mobile": ""
+      },
+      {
+        "domain": "deccanherald.com",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/01/02/2020-01-09t000202z102905348rc20ce9ypcw5rtrmadp3tesla-crash-1jpg-1067312-1641143278.jpg",
+        "sourcecountry": "India",
+        "title": "Tesla delivers record 308 , 600 vehicles in Q4 , beating estimates",
+        "url": "https://www.deccanherald.com/business/business-news/tesla-delivers-record-308600-vehicles-in-q4-beating-estimates-1067312.html",
+        "url_mobile": "https://www.deccanherald.com/amp/business/business-news/tesla-delivers-record-308600-vehicles-in-q4-beating-estimates-1067312.html"
+      },
+      {
+        "domain": "businesstoday.in",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202201/teslacar1200-sixteen_nine.jpg",
+        "sourcecountry": "India",
+        "title": "Tesla delivers record 3 , 08 , 600 cars in Q4 , beats estimates",
+        "url": "https://www.businesstoday.in/auto/story/tesla-delivers-record-308600-cars-in-q4-beats-estimates-317632-2022-01-02",
+        "url_mobile": "https://www.businesstoday.in/amp/auto/story/tesla-delivers-record-308600-cars-in-q4-beats-estimates-317632-2022-01-02"
+      },
+      {
+        "domain": "oann.com",
+        "language": "English",
+        "seendate": "20220102T173000Z",
+        "socialimage": "https://dzm0ugdauank9.cloudfront.net/wp-content/uploads/2021/02/oan-1.jpg",
+        "sourcecountry": "United States",
+        "title": "Tesla delivers 308 , 600 vehicles in Q4 , beating estimates",
+        "url": "https://www.oann.com/tesla-delivers-308600-vehicles-in-q4-beating-estimates/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T171500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tesla Rival Nio December Deliveries Slip 3 . 6 % From November , But More Than Double From Previous Year",
+        "url": "https://www.msn.com/en-us/money/news/tesla-rival-nios-december-deliveries-slip-36-from-november-but-more-than-double-from-previous-year/ar-AASmnRF",
+        "url_mobile": ""
+      },
+      {
+        "domain": "790business.com",
+        "language": "English",
+        "seendate": "20220102T171500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.790business.com/news/can-the-stock-markets-momentum-continue-into-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T171500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Goldman Backtracks on Office Return ; U . S . Surge : Virus Update",
+        "url": "https://www.msn.com/en-us/news/world/goldman-backtracks-on-office-return-us-surge-virus-update/ar-AASlfUk",
+        "url_mobile": ""
+      },
+      {
+        "domain": "globenewswire.com",
+        "language": "English",
+        "seendate": "20220102T171500Z",
+        "socialimage": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092?size=1",
+        "sourcecountry": "United States",
+        "title": "SBTX TUESDAY DEADLINE : ROSEN , RECOGNIZED INVESTOR COUNSEL , ",
+        "url": "https://www.globenewswire.com/news-release/2022/01/02/2359798/0/en/SBTX-TUESDAY-DEADLINE-ROSEN-RECOGNIZED-INVESTOR-COUNSEL-Encourages-Silverback-Therapeutics-Inc-Investors-With-Losses-to-Secure-Counsel-Before-Important-January-4-Deadline-in-Securi.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "updatesnews.com",
+        "language": "English",
+        "seendate": "20220102T170000Z",
+        "socialimage": "https://updatesnews.com/wp-content/uploads/2022/01/1543759.jpg",
+        "sourcecountry": "United States",
+        "title": "Brexit triumph as City tips FTSE 100 to smash record high in 2022 | City & Business",
+        "url": "https://updatesnews.com/brexit-triumph-as-city-tips-ftse-100-to-smash-record-high-in-2022-city-business-finance/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T170000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tesla delivered 936 , 172 electric vehicles in 2021 , with the fourth - quarter setting a new record",
+        "url": "https://www.msn.com/en-us/money/companies/tesla-delivered-over-308-000-electric-vehicles-in-the-fourth-quarter-beating-its-previous-single-quarter-record/ar-AASmtUE",
+        "url_mobile": ""
+      },
+      {
+        "domain": "marketwatch.com",
+        "language": "English",
+        "seendate": "20220102T170000Z",
+        "socialimage": "https://images.barrons.com/im-451516/social",
+        "sourcecountry": "United States",
+        "title": "Tesla Deliveries Crushed Expectations . The Stock Should Move Higher . ",
+        "url": "https://www.marketwatch.com/articles/tesla-q4-deliveries-crushed-expectations-51641141456",
+        "url_mobile": ""
+      },
+      {
+        "domain": "foxbusiness.com",
+        "language": "English",
+        "seendate": "20220102T170000Z",
+        "socialimage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/AP20310530738706.jpg?ve=1&tl=1",
+        "sourcecountry": "United States",
+        "title": "Jobs report , FOMC minutes , Walgreens earnings top week ahead",
+        "url": "https://www.foxbusiness.com/markets/week-ahead",
+        "url_mobile": "https://www.foxbusiness.com/markets/week-ahead.amp"
+      },
+      {
+        "domain": "philstar.com",
+        "language": "English",
+        "seendate": "20220102T164500Z",
+        "socialimage": "",
+        "sourcecountry": "Philippines",
+        "title": "2021 Scorecard",
+        "url": "https://www.philstar.com/business/2022/01/03/2151422/2021-scorecard",
+        "url_mobile": "https://www.philstar.com/business/2022/01/03/2151422/2021-scorecard/amp/"
+      },
+      {
+        "domain": "theaustralian.com.au",
+        "language": "English",
+        "seendate": "20220102T164500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Latest World News | The Australian",
+        "url": "https://www.theaustralian.com.au/World?nk=ba8052d2aac4573aceb2b2844d36afeb-1641141087",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theepochtimes.com",
+        "language": "English",
+        "seendate": "20220102T164500Z",
+        "socialimage": "https://img.theepochtimes.com/assets/uploads/2013/07/85807868-1200x801.jpg",
+        "sourcecountry": "United States",
+        "title": "Sovereign Wealth Funds Create New Trillion - Dollar Record From Robust Returns",
+        "url": "https://www.theepochtimes.com/sovereign-wealth-funds-create-new-trillion-dollar-record-from-robust-returns_4189083.html",
+        "url_mobile": "https://www.theepochtimes.com/sovereign-wealth-funds-create-new-trillion-dollar-record-from-robust-returns_4189083.html/amp"
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T164500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Tesla delivered 936 , 172 electric vehicles in 2021 , with the fourth - quarter setting a new record",
+        "url": "https://www.msn.com/en-us/money/companies/tesla-delivered-936172-electric-vehicles-in-2021-with-the-fourth-quarter-setting-a-new-record/ar-AASmtUE",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kvia.com",
+        "language": "English",
+        "seendate": "20220102T164500Z",
+        "socialimage": "https://kvia.b-cdn.net/2022/01/hypatia-h_15b6f479e2321d24209b6bba1b4c4792-h_934ba8b9bba6dc8b8ae8cd79fe79f348-300-860x573.jpg",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://kvia.com/news/2022/01/02/can-the-stock-markets-momentum-continue-into-2022-2/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "stamfordadvocate.com",
+        "language": "English",
+        "seendate": "20220102T164500Z",
+        "socialimage": "https://s.hdnux.com/photos/01/21/45/40/21387326/9/rawImage.jpg",
+        "sourcecountry": "United States",
+        "title": "Greenwich says goodbye to two Bush siblings in  the end of an era , and to emergency management director in 2021",
+        "url": "https://www.stamfordadvocate.com/news/article/Greenwich-says-goodbye-to-two-Bush-siblings-in-16739696.php?t=d5e994add1",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcnewyork.com",
+        "language": "English",
+        "seendate": "20220102T163000Z",
+        "socialimage": "https://media.nbcnewyork.com/2021/11/106972887-16364810552021-11-09t173605z_1096561720_rc25rq9nxj42_rtrmadp_0_onestream-ipo.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "These Five Analysts Were the Best Performers of 2021",
+        "url": "https://www.nbcnewyork.com/news/business/money-report/these-five-analysts-were-the-best-performers-of-2021/3475533/",
+        "url_mobile": "https://www.nbcnewyork.com/news/business/money-report/these-five-analysts-were-the-best-performers-of-2021/3475533/?amp"
+      },
+      {
+        "domain": "azcentral.com",
+        "language": "English",
+        "seendate": "20220102T163000Z",
+        "socialimage": "https://www.gannett-cdn.com/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2021/12/30/USATODAY/usatsports/MotleyFool-TMOT-d637c99f-ce5324b0.jpg?auto=webp&format=pjpg",
+        "sourcecountry": "United States",
+        "title": "Retirement planning : 3 reasons to invest in stocks that pay dividends",
+        "url": "https://www.azcentral.com/story/money/personalfinance/retirement/2022/01/01/retirement-planning-3-reasons-to-invest-in-stocks-that-pay-dividends/49588621/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "taipeitimes.com",
+        "language": "English",
+        "seendate": "20220102T163000Z",
+        "socialimage": "https://www.taipeitimes.com/images/2022/01/03/p12-220103-gas111.jpg",
+        "sourcecountry": "Taiwan",
+        "title": "CPC , Formosa to raise fuel prices by NT$0 . 9 per liter",
+        "url": "https://www.taipeitimes.com/News/biz/archives/2022/01/03/2003770606",
+        "url_mobile": ""
+      },
+      {
+        "domain": "philstar.com",
+        "language": "English",
+        "seendate": "20220102T163000Z",
+        "socialimage": "",
+        "sourcecountry": "Philippines",
+        "title": "Goodbye 2021 , hello 2022",
+        "url": "https://www.philstar.com/opinion/2022/01/03/2151474/goodbye-2021-hello-2022",
+        "url_mobile": "https://www.philstar.com/opinion/2022/01/03/2151474/goodbye-2021-hello-2022/amp/"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T163000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659486/best-3d-printing-stocks-2021-2022-ddd-stock-ssys-stock-dm-stock-nndm-stock-is-ddd-a-buy-is-ssys-a-buy.jpg",
+        "sourcecountry": "United States",
+        "title": "The Best and Worst 3D Printing Stocks of 2021",
+        "url": "https://www.fool.com/investing/2022/01/02/the-best-3d-printing-stocks-of-2021/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etftrends.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "https://www.etftrends.com/wp-content/uploads/2021/12/Add-the-Amazon-of-South-Korea-to-Your-Watchlist.jpg",
+        "sourcecountry": "China",
+        "title": "Add the Amazon of South Korea to Your Watchlist",
+        "url": "https://www.etftrends.com/add-the-amazon-of-south-korea-to-your-watchlist/",
+        "url_mobile": "https://www.etftrends.com/add-the-amazon-of-south-korea-to-your-watchlist/amp/"
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Deseret Mutual Benefit Administrators Lowers Stock Holdings in LKQ Co . ( NASDAQ : LKQ ) ",
+        "url": "https://etfdailynews.com/news/deseret-mutual-benefit-administrators-lowers-stock-holdings-in-lkq-co-nasdaqlkq/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Xponance Inc . Sells 173 Shares of Pool Co . ( NASDAQ : POOL ) ",
+        "url": "https://etfdailynews.com/news/xponance-inc-sells-173-shares-of-pool-co-nasdaqpool/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Conning Inc . Has $408 , 000 Stake in Paychex , Inc . ( NASDAQ : PAYX ) ",
+        "url": "https://etfdailynews.com/news/conning-inc-has-408000-stake-in-paychex-inc-nasdaqpayx/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "SBA Communications Co . ( NASDAQ : SBAC ) Stock Position Decreased by Pendal Group Ltd",
+        "url": "https://etfdailynews.com/news/sba-communications-co-nasdaqsbac-stock-position-decreased-by-pendal-group-ltd/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Vanguard Russell 1000 Growth Index Fund ETF Shares ( NASDAQ : VONG ) Shares Bought by PNC Financial Services Group Inc . ",
+        "url": "https://etfdailynews.com/news/vanguard-russell-1000-growth-index-fund-etf-shares-nasdaqvong-shares-bought-by-pnc-financial-services-group-inc/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "industrialit.com.au",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Pre - Impregnated Composite Fiber Market Research Report \u2013 Growth Share , Trends , Opportunities , Outlook & Forecast 2028 \u2013 Hexcel Corporation ( US ), Koninklijke Ten Cate nv ( Netherlands ), SGL Group \u2013 The Carbon Company ( Germany ), Toray Industr...",
+        "url": "https://industrialit.com.au/pre-impregnated-composite-fiber-market-research-report-growth-share-trends-opportunities-outlook-forecast-2028-hexcel-corporation-us-koninklijke-ten-cate-nv-netherlands-sgl-group/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "autoweek.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/team-lerner-dakar-004-1641133967.jpg?crop=1.00xw:0.752xh;0,0.248xh",
+        "sourcecountry": "United States",
+        "title": "All - Female Team Tackles the Dakar Rally Again",
+        "url": "https://www.autoweek.com/racing/more-racing/a38651013/all-female-porsche-team-2022-dakar-rally/",
+        "url_mobile": "https://www.autoweek.com/racing/more-racing/amp38651013/all-female-porsche-team-2022-dakar-rally/"
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "PNC Financial Services Group Inc . Increases Stake in Vanguard Russell 1000 Value Index Fund ETF Shares ( NASDAQ : VONV ) ",
+        "url": "https://etfdailynews.com/news/pnc-financial-services-group-inc-increases-stake-in-vanguard-russell-1000-value-index-fund-etf-shares-nasdaqvonv/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theweek.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "https://mediacloud.theweek.com/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641137942/GettyImages-1237499655.jpg",
+        "sourcecountry": "United States",
+        "title": "At least 7 injured and 3 feared dead after Colorado fire destroys almost 1 , 000 homes",
+        "url": "https://theweek.com/fires/1008514/at-least-7-injured-and-3-feared-dead-after-colorado-fire-destroys-almost-1000-homes",
+        "url_mobile": "https://theweek.com/fires/1008514/at-least-7-injured-and-3-feared-dead-after-colorado-fire-destroys-almost-1000-homes?amp"
+      },
+      {
+        "domain": "joplinglobe.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/82ebee74-4c80-11ec-942f-cf2743f1e0ea.jpg",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A LEADING LAW FIRM , Encourages Marathon Digital Holdings , Inc . f / k / a Marathon Patent Group , Inc . Investors With Losses to Secure Counsel Before Important February 15 Deadline in Securities Class Action \u2013 MARA",
+        "url": "https://www.joplinglobe.com/region/national_business/rosen-a-leading-law-firm-encourages-marathon-digital-holdings-inc-f-k-a-marathon-patent/article_61e80f0a-ed8e-53e9-ab10-43d8d5971b5a.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "jpost.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JD_ArticleMainImageFaceDetect/491027",
+        "sourcecountry": "Israel",
+        "title": "Defensive stocks may be ripe for reversal after stellar December",
+        "url": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-690379",
+        "url_mobile": "https://m.jpost.com/business-and-innovation/banking-and-finance/article-690379"
+      },
+      {
+        "domain": "etfdailynews.com",
+        "language": "English",
+        "seendate": "20220102T161500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Ulta Beauty , Inc . ( NASDAQ : ULTA ) Shares Sold by Bbva united states ",
+        "url": "https://etfdailynews.com/news/ulta-beauty-inc-nasdaqulta-shares-sold-by-bbva-usa/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "theaustralian.com.au",
+        "language": "English",
+        "seendate": "20220102T160000Z",
+        "socialimage": "",
+        "sourcecountry": "Australia",
+        "title": "Latest World News | The Australian",
+        "url": "https://www.theaustralian.com.au/World?nk=8341a50e55132ff8c240402ef6c28c6e-1641138385",
+        "url_mobile": ""
+      },
+      {
+        "domain": "kmjnow.com",
+        "language": "English",
+        "seendate": "20220102T160000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.kmjnow.com/news/can-the-stock-markets-momentum-continue-into-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wegotthiscovered.com",
+        "language": "English",
+        "seendate": "20220102T160000Z",
+        "socialimage": "https://wegotthiscovered.com/wp-content/uploads/2022/01/dont-look-up.jpg",
+        "sourcecountry": "United States",
+        "title": "  Dont Look Up  Is Leonardo DiCaprio Worst - Reviewed Movie in a Decade",
+        "url": "https://wegotthiscovered.com/movies/dont-look-up-is-leonardo-dicaprios-worst-reviewed-movie-in-a-decade/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wicz.com",
+        "language": "English",
+        "seendate": "20220102T160000Z",
+        "socialimage": "https://CNNWIRE.images.worldnow.com/images/21966834_G.jpg?lastEditedDate=1641118210000",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.wicz.com/story/45564520/can-the-stock-markets-momentum-continue-into-2022",
+        "url_mobile": ""
+      },
+      {
+        "domain": "lexch.com",
+        "language": "English",
+        "seendate": "20220102T154500Z",
+        "socialimage": "https://bloximages.chicago2.vip.townnews.com/lexch.com/content/tncms/custom/image/0d0d4cf0-868f-11e6-a60b-17b75495a91d.jpg?crop=630%2C630%2C285%2C0",
+        "sourcecountry": "United States",
+        "title": "The Market Mechanics of Short Interest",
+        "url": "https://lexch.com/business/investment/personal-finance/the-market-mechanics-of-short-interest/article_59827427-c549-5705-92c4-2eb303e9c903.html",
+        "url_mobile": ""
+      },
+      {
+        "domain": "wfnc640am.com",
+        "language": "English",
+        "seendate": "20220102T154500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.wfnc640am.com/news/can-the-stock-markets-momentum-continue-into-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "univision.com",
+        "language": "English",
+        "seendate": "20220102T153000Z",
+        "socialimage": "https://st1.uvnimg.com/7d/f5/307f992642ee8735ae9c447ee549/gettyimages-1356845300.jpg",
+        "sourcecountry": "United States",
+        "title": "Latinos and the democratization of Wall St | Univision News Money",
+        "url": "https://www.univision.com/univision-news/money/latinos-and-democratization-of-wall-st",
+        "url_mobile": "https://www.univision.com/amp/univision-news/money/latinos-and-democratization-of-wall-st"
+      },
+      {
+        "domain": "entrepreneur.com",
+        "language": "English",
+        "seendate": "20220102T153000Z",
+        "socialimage": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-411088.jpeg",
+        "sourcecountry": "United States",
+        "title": "Bet on These 5 ETF Areas for 2022",
+        "url": "https://www.entrepreneur.com/article/411088",
+        "url_mobile": ""
+      },
+      {
+        "domain": "breitbart.com",
+        "language": "English",
+        "seendate": "20220102T153000Z",
+        "socialimage": "https://media.breitbart.com/media/2020/01/GettyImages-1194052436-john-roberts-640x335.jpg",
+        "sourcecountry": "United States",
+        "title": "Chief Justice John Roberts Blasts  Inappropriate Political Influence  in Year - end Report",
+        "url": "https://www.breitbart.com/politics/2022/01/02/chief-justice-john-roberts-blasts-inappropriate-political-influence-in-year-end-report/",
+        "url_mobile": "https://www.breitbart.com/politics/2022/01/02/chief-justice-john-roberts-blasts-inappropriate-political-influence-in-year-end-report/amp/"
+      },
+      {
+        "domain": "wiredprnews.com",
+        "language": "English",
+        "seendate": "20220102T153000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "ROSEN , A LEADING LAW FIRM , Encourages Marathon Digital Holdings , Inc . f / k / a Marathon Patent Group , Inc . Investors With Losses to Secure Counsel Before Important February 15 Deadline in Securities Class Action \u2013 MARA - Press Release",
+        "url": "https://www.wiredprnews.com/rosen-a-leading-law-firm-encourages-marathon-digital-holdings-inc-f-k-a-marathon-patent-group-inc-investors-with-losses-to-secure-counsel-before-important-february-15-deadline-in-securities-clas/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businessinsider.in",
+        "language": "English",
+        "seendate": "20220102T153000Z",
+        "socialimage": "https://www.businessinsider.in/photo/88648962/Meet-the-typical-baby-boomer-Worth-206000-theyve-been-blamed-for-ruining-the-economy-for-millennials-and-are-in-the-midst-of-the-gray-tsunami.jpg",
+        "sourcecountry": "India",
+        "title": "Meet the typical baby boomer : Worth $206 , 000 , theyve been blamed for ruining the economy for millennials and are in the midst of the  gray tsunami  ",
+        "url": "https://www.businessinsider.in/policy/economy/news/meet-the-typical-baby-boomer-worth-206000-theyaposve-been-blamed-for-ruining-the-economy-for-millennials-and-are-in-the-midst-of-the-aposgray-tsunamiapos/slidelist/88648962.cms",
+        "url_mobile": "https://www.businessinsider.in/policy/economy/news/meet-the-typical-baby-boomer-worth-206000-theyaposve-been-blamed-for-ruining-the-economy-for-millennials-and-are-in-the-midst-of-the-aposgray-tsunamiapos/amp_slidelist/88648962.cms"
+      },
+      {
+        "domain": "powerlineblog.com",
+        "language": "English",
+        "seendate": "20220102T151500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Newton first law , etc . | Power Line",
+        "url": "https://www.powerlineblog.com/archives/2022/01/newtons-first-law-etc.php",
+        "url_mobile": ""
+      },
+      {
+        "domain": "msn.com",
+        "language": "English",
+        "seendate": "20220102T151500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Stocks week ahead : Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.msn.com/en-us/money/markets/stocks-week-ahead-can-the-stock-market-s-momentum-continue-into-2022/ar-AASm5zY",
+        "url_mobile": ""
+      },
+      {
+        "domain": "localnews8.com",
+        "language": "English",
+        "seendate": "20220102T151500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://localnews8.com/news/2022/01/02/can-the-stock-markets-momentum-continue-into-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "bloombergquint.com",
+        "language": "English",
+        "seendate": "20220102T151500Z",
+        "socialimage": "https://gumlet.assettype.com/bloombergquint%2F2022-01%2F99056ea6-5e6b-4736-8573-e1fbb34a8444%2F382270127.jpg?rect=0%2C306%2C3998%2C2099&auto=format%2Ccompress&ogImage=true",
+        "sourcecountry": "India",
+        "title": "Billionaires Are Embracing\u00a0Crypto in Case Money  Goes to Hell  ",
+        "url": "https://www.bloombergquint.com/wealth/billionaires-dalio-peterffy-embrace-bitcoin-ethereum-as-inflation-hedge",
+        "url_mobile": "/amp/wealth/billionaires-dalio-peterffy-embrace-bitcoin-ethereum-as-inflation-hedge"
+      },
+      {
+        "domain": "wmac-am.com",
+        "language": "English",
+        "seendate": "20220102T151500Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "Can the stock market momentum continue into 2022 ? ",
+        "url": "https://www.wmac-am.com/news/can-the-stock-markets-momentum-continue-into-2022/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T151500Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658411/gettyimages-872670728.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Cathie Wood Loser Stocks That Could Be 2022 Winners",
+        "url": "https://www.fool.com/investing/2022/01/02/3-cathie-wood-loser-stocks-that-could-be-2022-winn/",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcconnecticut.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://media.nbcconnecticut.com/2021/11/106972887-16364810552021-11-09t173605z_1096561720_rc25rq9nxj42_rtrmadp_0_onestream-ipo.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "These Five Analysts Were the Best Performers of 2021",
+        "url": "https://www.nbcconnecticut.com/news/business/money-report/these-five-analysts-were-the-best-performers-of-2021/2682755/",
+        "url_mobile": "https://www.nbcconnecticut.com/news/business/money-report/these-five-analysts-were-the-best-performers-of-2021/2682755/?amp"
+      },
+      {
+        "domain": "businessinsider.com.au",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://i.insider.com/61c32def17dae400125ace29?format=jpeg",
+        "sourcecountry": "Australia",
+        "title": "Meet the typical baby boomer : Worth $206 , 000 , theyve been blamed for ruining the economy for millennials and are in the midst of the  gray tsunami  ",
+        "url": "https://www.businessinsider.com.au/typical-baby-boomer-net-worth-debt-real-estate-retirement-2021-12",
+        "url_mobile": "https://www.businessinsider.com.au/typical-baby-boomer-net-worth-debt-real-estate-retirement-2021-12/amp"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659272/a-dollar-sign-launching-like-a-rocket_zaEYn0O.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Explosive Stocks to Buy in 2022 | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/02/3-explosive-stocks-to-buy-in-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659233/meteor-breaking-up-and-approaching-earth.jpg",
+        "sourcecountry": "United States",
+        "title": "Is Space X Really Heading for a Crash ? ",
+        "url": "https://www.fool.com/investing/2022/01/02/is-space-x-really-heading-for-a-crash/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659121/person-feeling-worried-looking-at-a-laptop.jpg",
+        "sourcecountry": "United States",
+        "title": "Is It Safer to Pull Your Money Out of the Stock Market Now ? ",
+        "url": "https://www.fool.com/investing/2022/01/02/is-it-safer-pull-money-out-of-stock-market-now/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659492/money-cash-register-shopping-getty.jpeg",
+        "sourcecountry": "United States",
+        "title": "If Youd Invested $1 , 000 in Shopify in 2015 , This Is How Much You Would Have Today",
+        "url": "https://www.fool.com/investing/2022/01/02/if-you-invested-1000-in-shopify-in-2015-this-is-ho/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658794/2022-coins-and-piggy-bank.jpg",
+        "sourcecountry": "United States",
+        "title": "22 Top Dividend Stocks to Buy and Hold in 2022",
+        "url": "https://www.fool.com/investing/2022/01/02/22-top-dividend-stocks-to-buy-and-hold-in-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658349/plant-growing-from-coin-jar.jpg",
+        "sourcecountry": "United States",
+        "title": "The Smartest Stocks to Buy With $20 Right Now and Hold Forever",
+        "url": "https://www.fool.com/investing/2022/01/02/smartest-stocks-to-buy-with-20-right-now-and-hold/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658795/warren-buffett-tmf-photo.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Best Warren Buffett Stocks to Buy for 2022",
+        "url": "https://www.fool.com/investing/2022/01/02/3-best-warren-buffett-stocks-to-buy-for-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658945/gettyimages-1291478674.jpg",
+        "sourcecountry": "United States",
+        "title": "Here My Favorite SaaS Stock to Buy Right Now for 2022",
+        "url": "https://www.fool.com/investing/2022/01/02/heres-my-favorite-saas-stock-to-buy-for-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658841/smiling-lady-using-online-payment-service.jpg",
+        "sourcecountry": "United States",
+        "title": "Here My Top Growth Stock to Buy in 2022",
+        "url": "https://www.fool.com/investing/2022/01/02/heres-my-top-growth-stock-to-buy-in-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659287/us_ic-160919_05_1-4edit.jpg",
+        "sourcecountry": "United States",
+        "title": "Want to Build Life - Changing Wealth ? 2 Unstoppable Stocks to Buy Now and Hold",
+        "url": "https://www.fool.com/investing/2022/01/02/want-to-build-wealth-2-unstoppable-stocks-to-buy/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659143/gettyimages-1272821057.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Reopening Stocks to Counter Inflation",
+        "url": "https://www.fool.com/investing/2022/01/02/3-reopening-stocks-to-counter-inflation/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "businessinsider.com.au",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://i.insider.com/61cdf3583c6984001990c960?format=jpeg",
+        "sourcecountry": "Australia",
+        "title": "The top 5 crypto predictions for 2022",
+        "url": "https://www.businessinsider.com.au/top-crypto-predictions-2022-bitcoin-ether-meme-coins-arcane-research-2022-1",
+        "url_mobile": "https://www.businessinsider.com.au/top-crypto-predictions-2022-bitcoin-ether-meme-coins-arcane-research-2022-1/amp"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659436/marijuana-cannabis-pot-weed-trimmed-buds-atop-cash-bills-money-getty.jpg",
+        "sourcecountry": "United States",
+        "title": "The 5 Best Marijuana Stocks to Buy in 2022",
+        "url": "https://www.fool.com/investing/2022/01/02/the-5-best-marijuana-stocks-to-buy-in-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "nbcmiami.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://media.nbcmiami.com/2021/11/106972887-16364810552021-11-09t173605z_1096561720_rc25rq9nxj42_rtrmadp_0_onestream-ipo.jpeg?quality=85&strip=all",
+        "sourcecountry": "United States",
+        "title": "These Five Analysts Were the Best Performers of 2021",
+        "url": "https://www.nbcmiami.com/news/business/money-report/these-five-analysts-were-the-best-performers-of-2021/2652790/",
+        "url_mobile": "https://www.nbcmiami.com/news/business/money-report/these-five-analysts-were-the-best-performers-of-2021/2652790/?amp"
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659432/short-interest.jpg",
+        "sourcecountry": "United States",
+        "title": "The Market Mechanics of Short Interest",
+        "url": "https://www.fool.com/investing/2022/01/02/the-market-mechanics-of-short-interest/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659438/man-woman-computer-screen.jpg",
+        "sourcecountry": "United States",
+        "title": "1 Green Flag for Micron Technology in 2022 , and 1 Red Flag",
+        "url": "https://www.fool.com/investing/2022/01/02/1-green-flag-for-micron-technology-2022-and-1-red-/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "",
+        "sourcecountry": "United States",
+        "title": "3 Best Stocks We Bought for 2022 | The Motley Fool",
+        "url": "https://www.fool.com/investing/2022/01/02/3-best-stocks-we-bought-for-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659292/people-discussing-a-sales-report.jpg",
+        "sourcecountry": "United States",
+        "title": "2 Cheap Growth Stocks to Buy for 2022",
+        "url": "https://www.fool.com/investing/2022/01/01/2-cheap-growth-stocks-to-buy-for-2022/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/659178/a-person-presents-for-an-appointment-with-their-doctor.jpg",
+        "sourcecountry": "United States",
+        "title": "Could This FDA Approval Create a Blockbuster Drug for AbbVie ? ",
+        "url": "https://www.fool.com/investing/2022/01/02/could-this-fda-approval-create-a-blockbuster-drug/?source=iedfolrf0000001",
+        "url_mobile": ""
+      },
+      {
+        "domain": "fool.com",
+        "language": "English",
+        "seendate": "20220102T150000Z",
+        "socialimage": "https://g.foolcdn.com/editorial/images/658411/gettyimages-872670728.jpg",
+        "sourcecountry": "United States",
+        "title": "3 Cathie Wood Loser Stocks That Could Be 2022 Winners",
+        "url": "https://www.fool.com/investing/2022/01/02/3-cathie-wood-loser-stocks-that-could-be-2022-winn/?source=iedfolrf0000001",
+        "url_mobile": ""
+      }
+    ]
+  }
+}
